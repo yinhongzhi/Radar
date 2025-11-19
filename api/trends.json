@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-19T19:18:15.874562+08:00",
-  "total_titles_processed": 1543,
+  "generated_at": "2025-11-19T20:41:29.150731+08:00",
+  "total_titles_processed": 1647,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 77,
       "titles": [
         {
           "title": "特朗普：台湾生产了几乎100%的芯片",
@@ -42,8 +42,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时12分 ~ 19时18分]"
+          "appearance_count": 13,
+          "time_info": "[11时12分 ~ 20时41分]"
         },
         {
           "title": "马斯克出席特朗普与沙特王储晚宴",
@@ -62,6 +62,19 @@
           "time_info": "[12时24分 ~ 19时18分]"
         },
         {
+          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
+          "url": "https://www.cls.cn/detail/2204709",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时26分 ~ 20时41分]"
+        },
+        {
           "title": "沙特开发商希望向美国散户投资者出售特朗普酒店代币",
           "url": "https://wallstreetcn.com/livenews/3006688",
           "source": "华尔街见闻-快讯",
@@ -75,17 +88,15 @@
           "time_info": "[02时30分 ~ 04时24分]"
         },
         {
-          "title": "“特马”又同框！马斯克现身白宫 出席特朗普与沙特王储晚宴",
-          "url": "https://www.cls.cn/detail/2204709",
-          "source": "财联社热门",
+          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
+          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            10,
-            11
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[16时26分 ~ 19时18分]"
+          "time_info": "[17时22分 ~ 20时41分]"
         },
         {
           "title": "特朗普与沙特王储握手露出尴尬表情",
@@ -114,6 +125,17 @@
           "time_info": "07时18分"
         },
         {
+          "title": "特朗普怒怼提问记者",
+          "url": "https://www.douyin.com/hot/2310914",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "特朗普：已确定下一任美联储主席人选",
           "url": "https://www.cls.cn/detail/2204373",
           "source": "财联社热门",
@@ -126,17 +148,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时18分 ~ 13时20分]"
-        },
-        {
-          "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
-          "url": "https://news.ifeng.com/c/8oPR2bxaXLd",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 19时18分]"
         },
         {
           "title": "美国总统特朗普威胁要吊销ABC的新闻许可，此前特朗普被该公司记者问及爱泼斯坦问题。",
@@ -225,6 +236,17 @@
           "time_info": "[02时30分 ~ 03时17分]"
         },
         {
+          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
+          "url": "https://wallstreetcn.com/articles/3759658",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时17分 ~ 20时41分]"
+        },
+        {
           "title": "特朗普怼记者：沙特王储对卡舒吉案“一无所知”，别让他难堪",
           "url": "https://news.ifeng.com/c/8oPCfhjamik",
           "source": "凤凰网",
@@ -271,17 +293,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时30分 ~ 03时17分]"
-        },
-        {
-          "title": "沙特王储七年来首次访美给特朗普派“大礼”，确认对美国投资增至1万亿",
-          "url": "https://wallstreetcn.com/articles/3759658",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时17分 ~ 19时18分]"
         },
         {
           "title": "美国总统特朗普：我和爱泼斯坦毫无关系。",
@@ -421,6 +432,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时22分"
+        },
+        {
+          "title": "特朗普怒怼ABC女记者",
+          "url": "https://www.toutiao.com/trending/7574268540435136563/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "特朗普：沙特将获得F-35战机，已就此达成协议",
@@ -663,6 +685,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时25分"
+        },
+        {
+          "title": "美媒：特朗普批准中情局在委内瑞拉实施秘密行动",
+          "url": "https://wallstreetcn.com/livenews/3007210",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         },
         {
           "title": "英伟达(NVDA.O)首席执行官黄仁勋现身特朗普与沙特王储的晚宴。",
@@ -917,28 +950,29 @@
           "time_info": "[06时19分 ~ 14时29分]"
         },
         {
-          "title": "劳氏第三季度调整后每股收益3.06美元，预估3.00美元。 第三季度同店销售增长0.4％，预估增长1.02％。 劳氏预计全年调整后每股收益大约12.25美元，市场预估12.40美元。 劳氏预计全年资本支出不超过25亿美元，此前预计大约25亿美元。 劳氏预计全年调整后运营利润率12.1％。 劳氏美股盘前涨3.5%。",
-          "url": "https://wallstreetcn.com/livenews/3007175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
           "title": "美股AI牛市年末何去何从？黄仁勋和鲍威尔成“关键先生”……",
           "url": "https://www.cls.cn/detail/2204885",
           "source": "财联社热门",
           "ranks": [
             11,
             9,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时22分 ~ 19时18分]"
+          "appearance_count": 6,
+          "time_info": "[17时22分 ~ 20时41分]"
+        },
+        {
+          "title": "劳氏第三季度调整后每股收益3.06美元，预估3.00美元。 第三季度同店销售增长0.4％，预估增长1.02％。 劳氏预计全年调整后每股收益大约12.25美元，市场预估12.40美元。 劳氏预计全年资本支出不超过25亿美元，此前预计大约25亿美元。 劳氏预计全年调整后运营利润率12.1％。 劳氏美股盘前涨3.5%。",
+          "url": "https://wallstreetcn.com/livenews/3007175",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "花旗集团欧洲、中东和非洲股票交易主管David Haldane：（美股）市场已经反弹并创下新高。 我们正处于散户、对冲基金和资产管理公司都活跃的交汇点上。（彭博）",
@@ -1125,8 +1159,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时25分 ~ 19时18分]"
+          "appearance_count": 14,
+          "time_info": "[09时25分 ~ 20时41分]"
         },
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -1139,8 +1173,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时12分 ~ 19时18分]"
+          "appearance_count": 13,
+          "time_info": "[11时12分 ~ 20时41分]"
         },
         {
           "title": "谷歌正式发布Gemini3",
@@ -1177,6 +1211,22 @@
           "time_info": "[11时12分 ~ 19时18分]"
         },
         {
+          "title": "王自如深度体验谷歌AI",
+          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8,
+            9,
+            18,
+            21,
+            23,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[14时29分 ~ 20时41分]"
+        },
+        {
           "title": "AI大模型“新王”加冕 奥尔特曼发来贺电 谷歌做对了什么？",
           "url": "https://www.cls.cn/detail/2204501",
           "source": "财联社热门",
@@ -1203,21 +1253,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 07时18分]"
-        },
-        {
-          "title": "王自如深度体验谷歌AI",
-          "url": "https://search.bilibili.com/all?keyword=%E7%8E%8B%E8%87%AA%E5%A6%82%E6%B7%B1%E5%BA%A6%E4%BD%93%E9%AA%8C%E8%B0%B7%E6%AD%8CAI",
-          "source": "bilibili 热搜",
-          "ranks": [
-            8,
-            9,
-            18,
-            21,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时29分 ~ 19时18分]"
         },
         {
           "title": "谷歌宣布推出大模型Gemini 3：图像生成、编程与AI搜索全面增强",
@@ -1316,7 +1351,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "E3草案显示，美国的决议称，国际原子能机构理事会“呼吁伊朗严格依照”国际原子能机构附加议定书行事，“并立即全面执行这一措施”。",
@@ -1352,6 +1387,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "国际原子能机构总干事：国际原子能机构核查人员已重返伊朗",
+          "url": "https://wallstreetcn.com/livenews/3007207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "哥伦比亚船舶管理公司表示，伊朗已释放成品油轮塔拉拉号，21名船员全部安全。",
           "url": "https://flash.jin10.com/detail/20251119165452836800",
           "source": "金十数据",
@@ -1383,6 +1429,69 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
+          "url": "https://wallstreetcn.com/articles/3759654",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 13,
+          "time_info": "[09时25分 ~ 20时41分]"
+        },
+        {
+          "title": "OpenAI：拉里·萨默斯已决定辞去OpenAI董事会职务。",
+          "url": "https://wallstreetcn.com/livenews/3007227",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "OpenAI：拉里·萨默斯已决定辞去OpenAI董事会职务。",
+          "url": "https://flash.jin10.com/detail/20251119203737714800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "OpenAI与Target公司宣布合作伙伴关系。",
+          "url": "https://wallstreetcn.com/livenews/3007199",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "在爱泼斯坦丑闻曝光后，拉里·萨默斯辞去了OpenAI董事会职务。",
+          "url": "https://flash.jin10.com/detail/20251119200941299800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
         }
       ]
     },
@@ -1475,25 +1584,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "“AI闭环”扩大：英伟达、微软联手150亿美元投资Anthropic，“OpenAI对手”的估值已达3500亿美元",
-          "url": "https://wallstreetcn.com/articles/3759654",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            10,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时25分 ~ 19时18分]"
         }
       ]
     },
