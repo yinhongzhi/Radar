@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-20T19:18:17.121103+08:00",
-  "total_titles_processed": 1653,
+  "generated_at": "2025-11-20T20:40:04.544681+08:00",
+  "total_titles_processed": 1780,
   "failed_sources": [],
   "trends": [
     {
@@ -29,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时22分 ~ 19时18分]"
+          "appearance_count": 12,
+          "time_info": "[12时22分 ~ 20时40分]"
         },
         {
           "title": "被特朗普指鼻骂“猪”的女记者是谁？(图)",
@@ -527,7 +527,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -678,7 +678,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -739,8 +739,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时27分 ~ 19时18分]"
+          "appearance_count": 25,
+          "time_info": "[00时27分 ~ 20时40分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -793,6 +793,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时22分 ~ 14时29分]"
+        },
+        {
+          "title": "Gemini3有哪些新鲜玩法",
+          "url": "https://search.bilibili.com/all?keyword=Gemini3%E6%9C%89%E5%93%AA%E4%BA%9B%E6%96%B0%E9%B2%9C%E7%8E%A9%E6%B3%95",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时39分 ~ 20时40分]"
         },
         {
           "title": "王自如深度体验谷歌AI",
@@ -921,8 +932,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[07时18分 ~ 19时18分]"
+          "appearance_count": 16,
+          "time_info": "[07时18分 ~ 20时40分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -1219,8 +1230,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时21分 ~ 19时18分]"
+          "appearance_count": 6,
+          "time_info": "[18时21分 ~ 20时40分]"
         },
         {
           "title": "伦敦金属交易所：2026年中起将停止管理LBMA铂金和钯金价格",
@@ -1417,7 +1428,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -1428,7 +1439,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         }
