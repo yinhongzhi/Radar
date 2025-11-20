@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-20T11:10:09.507960+08:00",
-  "total_titles_processed": 966,
+  "generated_at": "2025-11-20T12:22:56.688178+08:00",
+  "total_titles_processed": 1051,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普称“已经知道我的美联储主席人选”，贝森特：可能在圣诞节前宣布",
@@ -83,6 +83,17 @@
           "time_info": "01时20分"
         },
         {
+          "title": "共和党议员对特朗普“关税红利”计划持保留态度",
+          "url": "https://flash.jin10.com/detail/20251120120628966800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
+        },
+        {
           "title": "据NBC新闻：本周早些时候，美国总统特朗普已悄然批准了一项俄罗斯与乌克兰之间的和平计划。",
           "url": "https://flash.jin10.com/detail/20251120091031141800",
           "source": "金十数据",
@@ -130,6 +141,18 @@
           "time_info": "[01时20分 ~ 02时30分]"
         },
         {
+          "title": "特朗普：应起诉鲍威尔",
+          "url": "https://news.ifeng.com/c/8oQBc00t0BE",
+          "source": "凤凰网",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时24分 ~ 12时22分]"
+        },
+        {
           "title": "美国总统特朗普：（美国与沙特之间）数十家公司今天签署2700亿美元协议和销售（合同）。",
           "url": "https://wallstreetcn.com/livenews/3007345",
           "source": "华尔街见闻-快讯",
@@ -140,18 +163,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 02时30分]"
-        },
-        {
-          "title": "特朗普：应起诉鲍威尔",
-          "url": "https://news.ifeng.com/c/8oQBc00t0BE",
-          "source": "凤凰网",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时24分 ~ 11时10分]"
         },
         {
           "title": "美国总统特朗普：美国与沙特在LNG基础设施领域合作。",
@@ -167,6 +178,17 @@
           "time_info": "[02时30分 ~ 04时20分]"
         },
         {
+          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
+          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时09分 ~ 12时22分]"
+        },
+        {
           "title": "据官员们透露，美国总统特朗普的半导体关税计划可能会被推迟。（路透）",
           "url": "https://wallstreetcn.com/livenews/3007379",
           "source": "华尔街见闻-快讯",
@@ -178,6 +200,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时16分 ~ 05时15分]"
+        },
+        {
+          "title": "特朗普批准公布爱泼斯坦案档案",
+          "url": "https://www.toutiao.com/trending/7574614385700851210/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时09分 ~ 12时22分]"
         },
         {
           "title": "特朗普政府宣布拆解教育部计划",
@@ -203,17 +237,6 @@
           "time_info": "[00时27分 ~ 01时20分]"
         },
         {
-          "title": "特朗普签署法案，批准公布爱泼斯坦案档案",
-          "url": "https://news.ifeng.com/c/8oQjsLX6MqD",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时09分 ~ 11时10分]"
-        },
-        {
           "title": "美国总统特朗普：马斯克，我支持你。",
           "url": "https://wallstreetcn.com/livenews/3007365",
           "source": "华尔街见闻-快讯",
@@ -236,17 +259,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时30分 ~ 03时16分]"
-        },
-        {
-          "title": "特朗普批准公布爱泼斯坦案档案",
-          "url": "https://www.toutiao.com/trending/7574614385700851210/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时09分 ~ 11时10分]"
         },
         {
           "title": "美国总统特朗普：对于美国而言，沙特是北约之外一个非常强大的盟友。",
@@ -280,6 +292,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时20分"
+        },
+        {
+          "title": "特朗普再炮轰鲍威尔：很想炒掉他，玩笑称贝森特“唯一搞砸的是美联储问题”",
+          "url": "https://wallstreetcn.com/articles/3759743",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "乌克兰总统泽连斯基：只有美国和美国总统特朗普有足够的实力结束冲突，实现和平的关键在于与我们的伙伴合作，并确保美国的领导力依然有效且强大。",
@@ -577,6 +600,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时16分"
+        },
+        {
+          "title": "C罗随特朗普参观白宫开怀大笑",
+          "url": "https://www.toutiao.com/trending/7573905925644340755/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         }
       ]
     },
@@ -607,8 +641,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时18分 ~ 11时10分]"
+          "appearance_count": 5,
+          "time_info": "[07时18分 ~ 12时22分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 英伟达财报再超预期",
@@ -617,11 +651,12 @@
           "ranks": [
             9,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时19分 ~ 11时10分]"
+          "appearance_count": 6,
+          "time_info": "[06时19分 ~ 12时22分]"
         },
         {
           "title": "美股三大指数再次转涨，道琼斯指数涨0.03%，标普500指数涨0.35%，纳斯达克综合指数涨0.47%。",
@@ -770,7 +805,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "Gemini 3的意义：AI已超越“幻觉阶段”，逼近人类，“人机协作”将从“人对AI纠错”走向“人指导AI工作”",
@@ -805,11 +840,12 @@
             5,
             6,
             9,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 11时10分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 12时22分]"
         },
         {
           "title": "Gemini3有哪些新功能",
@@ -822,8 +858,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时27分 ~ 11时10分]"
+          "appearance_count": 14,
+          "time_info": "[00时27分 ~ 12时22分]"
         },
         {
           "title": "段永平Q3持仓：大幅增持伯克希尔，英伟达持仓砍掉38%，减持苹果、拼多多、谷歌，建仓阿斯麦",
@@ -836,8 +872,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时29分 ~ 11时10分]"
+          "appearance_count": 12,
+          "time_info": "[02时29分 ~ 12时22分]"
         },
         {
           "title": "王自如深度体验谷歌AI",
@@ -869,7 +905,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         },
@@ -891,9 +927,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
+        },
+        {
+          "title": "如何评价谷歌新发布的软件开发平台 Antigravity?",
+          "url": "https://www.zhihu.com/question/1974483598263476355",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时22分"
         },
         {
           "title": "谷歌Gemini 3获好评如潮 股价创两个月最大涨幅",
