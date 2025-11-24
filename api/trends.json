@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-24T19:18:05.821459+08:00",
-  "total_titles_processed": 1504,
+  "generated_at": "2025-11-24T20:41:17.740792+08:00",
+  "total_titles_processed": 1599,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普猛烈抨击：基辅方面“毫无感激之情”",
@@ -30,8 +30,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时40分 ~ 19时18分]"
+          "appearance_count": 13,
+          "time_info": "[09时40分 ~ 20时41分]"
         },
         {
           "title": "释疑｜“泽连斯基不喜欢也得喜欢”，特朗普的28点计划究竟说了什么？",
@@ -46,6 +46,19 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时22分 ~ 07时18分]"
+        },
+        {
+          "title": "曝特朗普最后一刻才知28点计划内容",
+          "url": "https://www.toutiao.com/trending/7575287851869323300/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            2,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时24分 ~ 20时41分]"
         },
         {
           "title": "特朗普28条能让俄乌停战吗",
@@ -100,18 +113,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时40分 ~ 13时21分]"
-        },
-        {
-          "title": "曝特朗普最后一刻才知28点计划内容",
-          "url": "https://www.toutiao.com/trending/7575287851869323300/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 19时18分]"
         },
         {
           "title": "美国总统特朗普：乌克兰“领导层”对我们所做的一切毫无感激之情，而欧洲仍在继续从俄罗斯购买石油。",
@@ -249,6 +250,30 @@
           "time_info": "[05时17分 ~ 06时18分]"
         },
         {
+          "title": "特朗普：关税的全部收益还没算出来。",
+          "url": "https://wallstreetcn.com/livenews/3009563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时41分]"
+        },
+        {
+          "title": "特朗普暗示乌克兰谈判可能在取得进展",
+          "url": "https://wallstreetcn.com/livenews/3009561",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时41分]"
+        },
+        {
           "title": "乌克兰总统泽连斯基办公室副主任Brusylo：谈判将在未来几天继续进行。 谈判将在工作组层面继续进行。 乌克兰加入北约的可能性并未完全排除。 泽连斯基和特朗普将最终敲定领土问题的想法。",
           "url": "https://wallstreetcn.com/livenews/3009492",
           "source": "华尔街见闻-快讯",
@@ -279,29 +304,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "特朗普：关税的全部收益还没算出来。",
-          "url": "https://wallstreetcn.com/livenews/3009563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
-        },
-        {
-          "title": "特朗普暗示乌克兰谈判可能在取得进展",
-          "url": "https://wallstreetcn.com/livenews/3009561",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -383,13 +386,24 @@
           "time_info": "09时40分"
         },
         {
+          "title": "泽连斯基直面“28点”：历史性艰难抉择在即，还要对特朗普说谢谢",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32029092",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "特朗普：关税带来的全部好处尚未计算",
           "url": "https://flash.jin10.com/detail/20251124183937041800",
           "source": "金十数据",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -422,7 +436,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -436,6 +450,92 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
+          "url": "https://wallstreetcn.com/articles/3759968",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[14时31分 ~ 20时41分]"
+        },
+        {
+          "title": "本周重要事件与数据预告：美国数据密集补发、美股假期休市及阿里财报",
+          "url": "https://flash.jin10.com/detail/20251124071540282800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "美股期货亚市盘初走高，标普500指数期货涨0.6%，纳斯达克100指数期货涨0.7%，道指期货涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3009206",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "美股股指期货周一高开，纳指期货涨近1%。",
+          "url": "https://flash.jin10.com/detail/20251124070025048800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        },
+        {
+          "title": "美股盘前：中概股、科技股普涨",
+          "url": "https://wallstreetcn.com/livenews/3009505",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时24分 ~ 18时23分]"
+        },
+        {
+          "title": "诺和诺德美股盘前跌超11%，其Ozempic片剂未能缓解阿尔茨海默病",
+          "url": "https://wallstreetcn.com/livenews/3009588",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
+          "title": "美股期货涨幅扩大，纳斯达克100指数期货涨1%，标普500指数期货涨0.7%，道指期货涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3009473",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         }
       ]
     },
@@ -519,81 +619,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "“币圈-AI-美股”铁索连江，“免费钱”时代终结，所有人都盯着“币圈何时企稳”",
-          "url": "https://wallstreetcn.com/articles/3759968",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时31分 ~ 19时18分]"
-        },
-        {
-          "title": "本周重要事件与数据预告：美国数据密集补发、美股假期休市及阿里财报",
-          "url": "https://flash.jin10.com/detail/20251124071540282800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "美股期货亚市盘初走高，标普500指数期货涨0.6%，纳斯达克100指数期货涨0.7%，道指期货涨0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3009206",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "美股股指期货周一高开，纳指期货涨近1%。",
-          "url": "https://flash.jin10.com/detail/20251124070025048800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
-        },
-        {
-          "title": "美股盘前：中概股、科技股普涨",
-          "url": "https://wallstreetcn.com/livenews/3009505",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时24分 ~ 18时23分]"
-        },
-        {
-          "title": "美股期货涨幅扩大，纳斯达克100指数期货涨1%，标普500指数期货涨0.7%，道指期货涨0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3009473",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时24分"
         }
       ]
     },
@@ -694,8 +719,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时24分 ~ 19时18分]"
+          "appearance_count": 5,
+          "time_info": "[17时24分 ~ 20时41分]"
         }
       ]
     }
