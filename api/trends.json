@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-11-26T18:23:13.381694+08:00",
-  "total_titles_processed": 1589,
+  "generated_at": "2025-11-26T19:18:21.585987+08:00",
+  "total_titles_processed": 1679,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
         {
           "title": "日媒：特朗普要求与高市早苗通话",
@@ -20,6 +20,21 @@
           "time_info": "[00时27分 ~ 07时18分]"
         },
         {
+          "title": "快评｜特朗普与中方通话后致电高市早苗，专家：“背后信号不言自明”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32040611",
+          "source": "澎湃新闻",
+          "ranks": [
+            5,
+            4,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 17,
+          "time_info": "[06时19分 ~ 19时18分]"
+        },
+        {
           "title": "特朗普电话后，日本沮丧了三次",
           "url": "https://news.ifeng.com/c/8oaWYOeMQ8b",
           "source": "凤凰网",
@@ -29,22 +44,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时26分 ~ 18时23分]"
-        },
-        {
-          "title": "快评｜特朗普与中方通话后致电高市早苗，专家：“背后信号不言自明”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32040611",
-          "source": "澎湃新闻",
-          "ranks": [
-            5,
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时19分 ~ 18时23分]"
+          "appearance_count": 14,
+          "time_info": "[09时26分 ~ 19时18分]"
         },
         {
           "title": "特朗普与中方通话后致电高市早苗，专家：信号明确",
@@ -100,6 +101,18 @@
           "time_info": "[11时15分 ~ 17时23分]"
         },
         {
+          "title": "中方是否请特朗普向高市传口信？外交部回应",
+          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 19时18分]"
+        },
+        {
           "title": "胡锡进：台海与中日危机，特朗普的沉默震耳欲聋",
           "url": "https://news.ifeng.com/c/8oZtlTWZHWZ",
           "source": "凤凰网",
@@ -109,18 +122,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 07时18分]"
-        },
-        {
-          "title": "中方是否请特朗普向高市传口信？外交部回应",
-          "url": "https://news.ifeng.com/c/8ob5EHhrFDx",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 18时23分]"
         },
         {
           "title": "特朗普与高市早苗通话",
@@ -140,11 +141,12 @@
           "source": "百度热搜",
           "ranks": [
             4,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 18时23分]"
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 19时18分]"
         },
         {
           "title": "特朗普：俄乌和平协议已“非常接近达成”",
@@ -241,6 +243,18 @@
           "time_info": "[11时15分 ~ 15时19分]"
         },
         {
+          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
+          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 19时18分]"
+        },
+        {
           "title": "美印关系紧张下，特朗普将芬太尼指控引向至印度",
           "url": "https://flash.jin10.com/detail/20251126092036686800",
           "source": "金十数据",
@@ -272,17 +286,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
-        },
-        {
-          "title": "特朗普称将派特使赴俄见普京，俄外长：我们不着急",
-          "url": "https://news.ifeng.com/c/8ob5wP7MZv7",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 18时23分]"
         },
         {
           "title": "特朗普感恩节特赦火鸡",
@@ -609,6 +612,17 @@
           "time_info": "04时22分"
         },
         {
+          "title": "特朗普亲信哈塞特或将执掌美联储？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20251126184003836800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "刚见面不久特朗普为何急着和中方通话",
           "url": "https://www.toutiao.com/trending/7575911692447055908/",
           "source": "今日头条",
@@ -673,6 +687,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时15分"
+        },
+        {
+          "title": "特朗普宣布“特赦”，火鸡突然大叫",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32045220",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "中方是否请特朗普向高市传口信？外交部：没有更多信息提供",
@@ -788,7 +813,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -799,8 +824,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时26分 ~ 18时23分]"
+          "appearance_count": 14,
+          "time_info": "[09时26分 ~ 19时18分]"
         },
         {
           "title": "AI芯片开启第二战场：谷歌TPU引爆博通股价 硅谷巨头集体“造铲”",
@@ -861,8 +886,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时26分 ~ 18时23分]"
+          "appearance_count": 14,
+          "time_info": "[09时26分 ~ 19时18分]"
         },
         {
           "title": "趁Gemini 3“东风”，“谷歌链”挑战“英伟达链”，颠覆AI交易格局",
@@ -904,17 +929,6 @@
           "time_info": "[00时27分 ~ 06时20分]"
         },
         {
-          "title": "性能硬刚Blackwell、能效吊打GPU，一文深度拆解谷歌TPU“真实战力”",
-          "url": "https://wallstreetcn.com/articles/3760076",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时15分 ~ 15时19分]"
-        },
-        {
           "title": "AI争霸格局突变？五大“东风”将谷歌送上王座！",
           "url": "https://www.cls.cn/detail/2211188",
           "source": "财联社热门",
@@ -925,8 +939,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[14时31分 ~ 18时23分]"
+          "appearance_count": 8,
+          "time_info": "[14时31分 ~ 19时18分]"
         },
         {
           "title": "Gemini+TPU双线破局！顶级科技投资人“火上浇油”：七巨头中Alphabet最值得持有",
@@ -936,11 +950,23 @@
             13,
             11,
             12,
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时19分 ~ 19时18分]"
+        },
+        {
+          "title": "性能硬刚Blackwell、能效吊打GPU，一文深度拆解谷歌TPU“真实战力”",
+          "url": "https://wallstreetcn.com/articles/3760076",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[13时19分 ~ 18时23分]"
+          "time_info": "[11时15分 ~ 15时19分]"
         },
         {
           "title": "英伟达：我们的GPU比谷歌的AI芯片领先一代",
@@ -980,6 +1006,17 @@
           "time_info": "[03时18分 ~ 04时22分]"
         },
         {
+          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
+          "url": "https://wallstreetcn.com/articles/3760114",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时23分 ~ 19时18分]"
+        },
+        {
           "title": "英伟达“市值神话”为何被谷歌击穿",
           "url": "https://www.toutiao.com/trending/7576840187636878902/",
           "source": "今日头条",
@@ -990,17 +1027,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时26分 ~ 13时20分]"
-        },
-        {
-          "title": "一则消息引爆市场，AI竞争格局生变！英伟达盘中重挫7%，谷歌再创新高",
-          "url": "https://wallstreetcn.com/articles/3760114",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时23分 ~ 18时23分]"
         },
         {
           "title": "谷歌股价飙升，两位创始人分别成为世界第二、第三富豪",
@@ -1062,6 +1088,17 @@
           "time_info": "[18时22分 ~ 18时23分]"
         },
         {
+          "title": "金十整理：谷歌11月狂炸英伟达，巴菲特谢幕押注精准，软银躺枪",
+          "url": "https://flash.jin10.com/detail/20251126182610952800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "谷歌状态页面显示亚洲地区谷歌会议（Google Meet）服务出现问题。",
           "url": "https://flash.jin10.com/detail/20251126154853273800",
           "source": "金十数据",
@@ -1071,6 +1108,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
+        },
+        {
+          "title": "阿里千问霸榜空间智能榜单前二，性能超越Gemini3、GPT5.1",
+          "url": "https://wallstreetcn.com/livenews/3010815",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
         },
         {
           "title": "如何评价谷歌 TPU 业务？",
@@ -1087,7 +1135,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美国9月PPI同比增长2.7% 美股期指涨跌不一 | 今夜看点",
@@ -1255,6 +1303,17 @@
           "time_info": "05时18分"
         },
         {
+          "title": "理想汽车美股盘前跌幅收窄至不足1%，此前一度跌超4%。",
+          "url": "https://wallstreetcn.com/livenews/3010820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时18分"
+        },
+        {
           "title": "行业ETF美股盘初多数走高，银行业ETF涨1.54%，区域银行ETF涨1.51%，网络股指数ETF涨0.34%，科技行业ETF跌0.91%，全球科技股指数ETF跌1.26%，半导体ETF跌1.52%。",
           "url": "https://wallstreetcn.com/livenews/3010287",
           "source": "华尔街见闻-快讯",
@@ -1272,6 +1331,18 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
+          "url": "https://www.cls.cn/detail/2211503",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时22分 ~ 19时18分]"
+        },
+        {
           "title": "OpenAI：法院已经对诉讼有全面的掌握，这很重要。 回应包括Adam精神健康方面的事实。",
           "url": "https://wallstreetcn.com/livenews/3010381",
           "source": "华尔街见闻-快讯",
@@ -1283,17 +1354,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时22分 ~ 06时20分]"
-        },
-        {
-          "title": "“AI投资潮”应刹车？OpenAI联合创始人：规模化到头了，应回归研究！",
-          "url": "https://www.cls.cn/detail/2211503",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时22分 ~ 18时23分]"
         },
         {
           "title": "据The Information：截至7月，约有3500万人支付了ChatGPT Plus或Pro订阅费用，通常每月花费20美元和200美元。",
@@ -1525,7 +1585,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时23分"
         }
