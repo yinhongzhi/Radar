@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-27T19:18:18.017182+08:00",
-  "total_titles_processed": 1699,
+  "generated_at": "2025-11-27T20:41:31.737826+08:00",
+  "total_titles_processed": 1791,
   "failed_sources": [],
   "trends": [
     {
@@ -58,8 +58,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时25分 ~ 19时18分]"
+          "appearance_count": 11,
+          "time_info": "[09时25分 ~ 20时41分]"
         },
         {
           "title": "特朗普施压高市别在台湾问题上挑衅",
@@ -72,11 +72,12 @@
             15,
             13,
             14,
-            21
+            21,
+            18
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时11分 ~ 19时18分]"
+          "appearance_count": 11,
+          "time_info": "[11时11分 ~ 20时41分]"
         },
         {
           "title": "特朗普力推,尖峰时刻4要来了?",
@@ -92,8 +93,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时25分 ~ 19时18分]"
+          "appearance_count": 24,
+          "time_info": "[00时25分 ~ 20时41分]"
         },
         {
           "title": "观察｜俄乌和谈中的特朗普之道：让亲信而非外交官“撮合交易”",
@@ -105,11 +106,12 @@
             16,
             15,
             14,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时11分 ~ 19时18分]"
+          "appearance_count": 12,
+          "time_info": "[11时11分 ~ 20时41分]"
         },
         {
           "title": "特朗普称俄乌和平协议「非常接近达成」，已派特使赴莫斯科，协议内容由 28 点改为 19 点，哪些信息值得关注？",
@@ -399,6 +401,18 @@
           "time_info": "[05时18分 ~ 06时19分]"
         },
         {
+          "title": "特朗普所有刑事指控已终结",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E6%9C%89%E5%88%91%E4%BA%8B%E6%8C%87%E6%8E%A7%E5%B7%B2%E7%BB%88%E7%BB%93",
+          "source": "百度热搜",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时18分 ~ 20时41分]"
+        },
+        {
           "title": "特朗普施压高市别在台湾问题上挑衅",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%96%BD%E5%8E%8B%E9%AB%98%E5%B8%82%E5%88%AB%E5%9C%A8%E5%8F%B0%E6%B9%BE%E9%97%AE%E9%A2%98%E4%B8%8A%E6%8C%91%E8%A1%85%23&t=31&band_rank=13&Refer=top",
           "source": "微博",
@@ -428,7 +442,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时18分"
         },
@@ -442,17 +456,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
-        },
-        {
-          "title": "特朗普所有刑事指控已终结",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%80%E6%9C%89%E5%88%91%E4%BA%8B%E6%8C%87%E6%8E%A7%E5%B7%B2%E7%BB%88%E7%BB%93",
-          "source": "百度热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时18分"
         },
         {
           "title": "美国总统特朗普：南非将不会收到2026年二十国集团的邀请。",
@@ -723,7 +726,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
@@ -733,8 +736,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时25分 ~ 19时18分]"
+          "appearance_count": 13,
+          "time_info": "[09时25分 ~ 20时41分]"
         },
         {
           "title": "宽松预期与俄乌协议利好，道指8月来最大单日涨幅，“谷歌涨、英伟达跌”分化AI交易，10年期美债跌破4%",
@@ -771,8 +774,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时32分 ~ 19时18分]"
+          "appearance_count": 9,
+          "time_info": "[14时32分 ~ 20时41分]"
         },
         {
           "title": "周末私函“逐条”反驳“大空头”，周二发帖“自证”领先谷歌，英伟达有点慌了？",
@@ -839,6 +842,17 @@
           "time_info": "[06时19分 ~ 11时11分]"
         },
         {
+          "title": "一图看懂 | 谷歌TPU搅动AI“江湖”，它与英伟达GPU有何区别？",
+          "url": "https://www.cls.cn/detail/2213001",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时41分"
+        },
+        {
           "title": "纳斯达克100指数涨幅扩大至1%，成分股Applovin涨5.6%，迈威尔科技涨5.4%，阿斯麦ADR涨4.8%，AMD涨3.6%，英特尔涨3.4%，谷歌A则跌1.2%。 标普500指数涨超0.8%，道指涨352点涨幅0.7%，纳指涨超0.9%。半导体指数涨2.8%。",
           "url": "https://wallstreetcn.com/livenews/3010979",
           "source": "华尔街见闻-快讯",
@@ -896,11 +910,12 @@
           "url": "https://wallstreetcn.com/articles/3760202",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时21分 ~ 19时18分]"
+          "appearance_count": 6,
+          "time_info": "[13时21分 ~ 20时41分]"
         },
         {
           "title": "OpenAI：已将Mixpanel从生产环境中移除",
