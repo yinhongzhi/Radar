@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-28T19:18:02.678055+08:00",
-  "total_titles_processed": 1621,
+  "generated_at": "2025-11-28T20:40:09.014997+08:00",
+  "total_titles_processed": 1713,
   "failed_sources": [],
   "trends": [
     {
@@ -19,8 +19,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[14时31分 ~ 19时18分]"
+          "appearance_count": 11,
+          "time_info": "[14时31分 ~ 20时40分]"
         },
         {
           "title": "特朗普施压高市别在台湾问题上挑衅",
@@ -59,8 +59,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时24分 ~ 19时18分]"
+          "appearance_count": 16,
+          "time_info": "[09时24分 ~ 20时40分]"
         },
         {
           "title": "特朗普致电高市：别在台湾问题上挑衅",
@@ -385,7 +385,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "感恩节将至，标普连涨四日，英伟达小涨、谷歌微跌，人民币创逾一年新高，比特币重回9万美元",
@@ -480,6 +480,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "印度阿达尼集团首席财务官：阿达尼集团将投资50亿美元于谷歌数据中心。",
+          "url": "https://flash.jin10.com/detail/20251128200630059800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时40分"
         }
       ]
     },
@@ -492,11 +503,12 @@
           "url": "https://www.zhihu.com/question/1977462001522450495",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时18分 ~ 19时18分]"
+          "appearance_count": 18,
+          "time_info": "[07时18分 ~ 20时40分]"
         },
         {
           "title": "DeepSeek推出DeepSeekMath‑V2 模型，主攻自验证数学推理能力",
@@ -505,11 +517,12 @@
           "ranks": [
             9,
             5,
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时18分 ~ 19时18分]"
+          "appearance_count": 18,
+          "time_info": "[07时18分 ~ 20时40分]"
         },
         {
           "title": "DeepSeek开源新模型",
@@ -551,8 +564,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时20分 ~ 19时18分]"
+          "appearance_count": 9,
+          "time_info": "[15时20分 ~ 20时40分]"
         },
         {
           "title": "DeepSeek新模型深度解读",
@@ -680,8 +693,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时24分 ~ 19时18分]"
+          "appearance_count": 17,
+          "time_info": "[09时24分 ~ 20时40分]"
         },
         {
           "title": "分析：美股股指势将结束连胜势头，罕见在11月收跌",
