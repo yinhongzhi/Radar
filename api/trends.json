@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T12:34:24.685922+08:00",
-  "total_titles_processed": 689,
+  "generated_at": "2025-11-30T13:19:52.164525+08:00",
+  "total_titles_processed": 739,
   "failed_sources": [],
   "trends": [
     {
@@ -28,8 +28,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 12时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 13时19分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -161,11 +161,12 @@
           "url": "https://www.toutiao.com/trending/7578337181966552617/",
           "source": "今日头条",
           "ranks": [
-            18
+            18,
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时34分 ~ 13时19分]"
         }
       ]
     },
@@ -208,8 +209,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 12时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 13时19分]"
         }
       ]
     },
@@ -226,11 +227,12 @@
             3,
             2,
             8,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 12时34分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 13时19分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
