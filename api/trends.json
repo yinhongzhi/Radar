@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T16:23:55.111267+08:00",
-  "total_titles_processed": 906,
+  "generated_at": "2025-11-30T17:19:08.660970+08:00",
+  "total_titles_processed": 937,
   "failed_sources": [],
   "trends": [
     {
@@ -33,6 +33,18 @@
           "is_new": false,
           "appearance_count": 14,
           "time_info": "[00时23分 ~ 16时23分]"
+        },
+        {
+          "title": "“特朗普交易”遭重创",
+          "url": "https://wallstreetcn.com/articles/3760394",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时29分 ~ 17时19分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -160,18 +172,6 @@
           "time_info": "[00时23分 ~ 07时18分]"
         },
         {
-          "title": "“特朗普交易”遭重创",
-          "url": "https://wallstreetcn.com/articles/3760394",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时29分 ~ 16时23分]"
-        },
-        {
           "title": "特朗普感恩节威胁对乌无用",
           "url": "https://www.toutiao.com/trending/7578337181966552617/",
           "source": "今日头条",
@@ -249,8 +249,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时23分 ~ 16时23分]"
+          "appearance_count": 18,
+          "time_info": "[00时23分 ~ 17时19分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -293,8 +293,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时29分 ~ 16时23分]"
+          "appearance_count": 6,
+          "time_info": "[14时29分 ~ 17时19分]"
         }
       ]
     },
@@ -307,11 +307,12 @@
           "url": "https://wallstreetcn.com/articles/3760398",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时23分 ~ 17时19分]"
         }
       ]
     },
