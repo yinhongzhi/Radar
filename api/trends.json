@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-30T09:44:38.321306+08:00",
-  "total_titles_processed": 526,
+  "generated_at": "2025-11-30T11:27:19.557467+08:00",
+  "total_titles_processed": 624,
   "failed_sources": [],
   "trends": [
     {
@@ -24,11 +24,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             7,
-            18
+            18,
+            22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 09时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 11时27分]"
         },
         {
           "title": "特朗普长子成2028美国总统大选共和党热门候选人之一(图)",
@@ -162,6 +163,19 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
+          "url": "https://wallstreetcn.com/articles/3760377",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 11时27分]"
+        },
+        {
           "title": "但斌发声：国内能对标谷歌的公司，我觉得可能只有两家",
           "url": "https://wallstreetcn.com/articles/3760370",
           "source": "华尔街见闻",
@@ -174,27 +188,16 @@
           "time_info": "[00时23分 ~ 09时44分]"
         },
         {
-          "title": "SemiAnalysis深度解读TPU--谷歌冲击“英伟达帝国”",
-          "url": "https://wallstreetcn.com/articles/3760377",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 09时44分]"
-        },
-        {
           "title": "TPU直通决赛圈！十年磨一芯 谷歌做对了什么？",
           "url": "https://www.cls.cn/detail/2214531",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 09时44分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 11时27分]"
         }
       ]
     },
@@ -209,11 +212,12 @@
           "ranks": [
             5,
             3,
-            2
+            2,
+            8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时23分 ~ 09时44分]"
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 11时27分]"
         },
         {
           "title": "大摩中国CIO调查：B端对千问和阿里云兴趣显著增加，预计三年内千问超越DeepSeek",
@@ -257,11 +261,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 09时44分]"
+          "appearance_count": 9,
+          "time_info": "[00时23分 ~ 11时27分]"
         }
       ]
     }
