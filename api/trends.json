@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T21:37:18.038978+08:00",
-  "total_titles_processed": 1779,
+  "generated_at": "2025-12-02T22:22:07.177938+08:00",
+  "total_titles_processed": 1863,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 46,
       "titles": [
         {
           "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
@@ -64,6 +64,28 @@
           "time_info": "[09时27分 ~ 16时29分]"
         },
         {
+          "title": "白宫：特朗普已终止“无休止”援乌",
+          "url": "https://news.ifeng.com/c/8okzUol0Uy6",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时22分]"
+        },
+        {
+          "title": "美国清空G20官网南非创建内容，将首页换上特朗普海报(图)",
+          "url": "https://news.ifeng.com/c/8oksAa0SOcr",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 22时22分]"
+        },
+        {
           "title": "法巴银行：若最高法院推翻特朗普关税 美元或应声下跌",
           "url": "https://flash.jin10.com/detail/20251202201321333800",
           "source": "金十数据",
@@ -73,17 +95,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时42分"
-        },
-        {
-          "title": "与特朗普家族有关联的比特币矿商American Bitcoin盘前大跌22%",
-          "url": "https://wallstreetcn.com/livenews/3013757",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
         },
         {
           "title": "特朗普明日凌晨3点将发表重大声明",
@@ -156,6 +167,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时33分 ~ 03时21分]"
+        },
+        {
+          "title": "与特朗普家族有关联的比特币矿商American Bitcoin盘前大跌22%",
+          "url": "https://wallstreetcn.com/livenews/3013757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 22时22分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普将于周二主持内阁会议。",
@@ -232,6 +255,18 @@
           "time_info": "[03时21分 ~ 04时21分]"
         },
         {
+          "title": "特朗普敦促共和党州长采用纸质选票。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3013749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 22时22分]"
+        },
+        {
           "title": "法国总统马克龙与美国总统特朗普就实现乌克兰持久和平的条件，以及美国所开展的斡旋工作的下一步举措交换了意见。",
           "url": "https://flash.jin10.com/detail/20251202024618091800",
           "source": "金十数据",
@@ -278,6 +313,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时21分 ~ 04时21分]"
+        },
+        {
+          "title": "戴尔夫妇捐赠62.5亿美元为针对儿童的“特朗普账户”提供资金。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3013734",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 22时22分]"
         },
         {
           "title": "美国白宫：周四，美国总统特朗普将接待卢旺达和刚果总统，签署协议。",
@@ -383,24 +430,13 @@
           "time_info": "05时17分"
         },
         {
-          "title": "特朗普敦促共和党州长采用纸质选票。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3013749",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
-        },
-        {
           "title": "美国总统特朗普敦促共和党州长采用纸质选票。",
           "url": "https://flash.jin10.com/detail/20251202205510063800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -427,26 +463,26 @@
           "time_info": "20时42分"
         },
         {
-          "title": "戴尔夫妇捐赠62.5亿美元为针对儿童的“特朗普账户”提供资金。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3013734",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
-        },
-        {
           "title": "市场消息：戴尔夫妇捐赠62.5亿美元为针对儿童的\"特朗普账户\"提供资金。",
           "url": "https://flash.jin10.com/detail/20251202204735212800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
+        },
+        {
+          "title": "美国总统特朗普：（戴尔夫妇）是两位伟大的人，我爱戴尔！",
+          "url": "https://flash.jin10.com/detail/20251202215751015800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-02）",
@@ -458,6 +494,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时20分"
+        },
+        {
+          "title": "据CNN：美国总统特朗普正式赦免前洪都拉斯总统埃尔南德斯。",
+          "url": "https://flash.jin10.com/detail/20251202215603609800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "美国同意对原产于英国的药品等豁免232条款关税，并在特朗普总统任期内不启动“301调查”",
@@ -507,7 +554,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -553,7 +600,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -664,6 +711,39 @@
           "time_info": "17时26分"
         },
         {
+          "title": "戴尔科技美股盘前涨近2%，特朗普称，我爱戴尔。",
+          "url": "https://wallstreetcn.com/livenews/3013776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3013774",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
+          "title": "波音美股盘前拉升，公司预计美国司法部的处罚程序将推迟至2026年",
+          "url": "https://wallstreetcn.com/livenews/3013762",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
+        },
+        {
           "title": "周一（12月1日）纽约尾盘，CME比特币期货BTC主力合约较上周五纽约尾盘跌4.78%，报86595美元，日内大部分时间交投于57000美元下方。 CME以太币期货DCR主力合约跌8.35%，报2794美元， 美股加密货币与加密货币关联指数跌3.96%，报68.48点。 最近24小时，MarketVector数字资产100小盘指数跌6.00%，暂报17764.31点。",
           "url": "https://wallstreetcn.com/livenews/3013229",
           "source": "华尔街见闻-快讯",
@@ -673,6 +753,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "在美国总统特朗普发表评论后，戴尔(DELL.N)美股盘前上涨1.9%。",
+          "url": "https://flash.jin10.com/detail/20251202215812802800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         },
         {
           "title": "（美股）费城金银指数大致收平，报324.58点。 纽约证交所ARCA金矿开采商指数收涨0.26%，报2323.69点；北京时间22:30之前维持微幅上涨状态——持稳于2320点附近，（开盘时）达到2350.23点，随后快速转而跌至2308.78点刷新日低。",
@@ -736,15 +827,26 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
+        },
+        {
+          "title": "金十数据整理：每日美股市场要闻速递（2025-12-02）",
+          "url": "https://flash.jin10.com/detail/20251202213626054800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时22分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "开源最强！“拳打GPT 5”，“脚踢Gemini-3.0”，DeepSeek V3.2为何提升这么多？",
@@ -788,11 +890,12 @@
             12,
             5,
             7,
-            8
+            8,
+            6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时27分 ~ 21时37分]"
+          "appearance_count": 15,
+          "time_info": "[09时27分 ~ 22时22分]"
         },
         {
           "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
@@ -813,11 +916,12 @@
             6,
             9,
             8,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时27分 ~ 21时37分]"
+          "appearance_count": 15,
+          "time_info": "[09时27分 ~ 22时22分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
@@ -847,6 +951,18 @@
           "time_info": "[00时28分 ~ 07时19分]"
         },
         {
+          "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
+          "url": "https://wallstreetcn.com/articles/3760505",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时42分 ~ 22时22分]"
+        },
+        {
           "title": "2025 年 12 月 1 日，DeepSeek 正式发布 V3.2 和 V3.2-Speciale，如何评价该模型？",
           "url": "https://www.zhihu.com/question/1978907565543945170",
           "source": "知乎",
@@ -859,15 +975,15 @@
           "time_info": "[15时22分 ~ 16时29分]"
         },
         {
-          "title": "V3.2逼近Gemini 3，DeepSeek硬气喊话：接下来我要堆算力了",
-          "url": "https://wallstreetcn.com/articles/3760505",
-          "source": "华尔街见闻",
+          "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
+          "url": "https://www.cls.cn/detail/2217435",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[20时42分 ~ 21时37分]"
+          "time_info": "[22时21分 ~ 22时22分]"
         }
       ]
     },
@@ -900,11 +1016,12 @@
             14,
             12,
             11,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时20分 ~ 21时37分]"
+          "appearance_count": 12,
+          "time_info": "[13时20分 ~ 22时22分]"
         },
         {
           "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
@@ -1023,7 +1140,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -1034,7 +1151,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时37分"
         },
@@ -1062,11 +1179,12 @@
           "ranks": [
             9,
             8,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时18分 ~ 21时37分]"
+          "appearance_count": 14,
+          "time_info": "[11时18分 ~ 22时22分]"
         },
         {
           "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
@@ -1115,11 +1233,12 @@
           "url": "https://wallstreetcn.com/livenews/3013760",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时37分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时37分 ~ 22时22分]"
         },
         {
           "title": "中长期美债收益率涨约8个基点",
