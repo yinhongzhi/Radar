@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-02T22:22:07.177938+08:00",
-  "total_titles_processed": 1863,
+  "generated_at": "2025-12-02T23:22:50.970577+08:00",
+  "total_titles_processed": 1951,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普称“已决定新美联储主席人选”，哈塞特“市场对新主席消息的反应非常非常积极”",
@@ -53,17 +53,6 @@
           "time_info": "[00时28分 ~ 07时19分]"
         },
         {
-          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
-          "url": "https://news.ifeng.com/c/8okTPLnScLu",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时27分 ~ 16时29分]"
-        },
-        {
           "title": "白宫：特朗普已终止“无休止”援乌",
           "url": "https://news.ifeng.com/c/8okzUol0Uy6",
           "source": "凤凰网",
@@ -71,8 +60,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
+          "appearance_count": 3,
+          "time_info": "[22时21分 ~ 23时22分]"
         },
         {
           "title": "美国清空G20官网南非创建内容，将首页换上特朗普海报(图)",
@@ -82,8 +71,19 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
+          "appearance_count": 3,
+          "time_info": "[22时21分 ~ 23时22分]"
+        },
+        {
+          "title": "“即将宣布”，特朗普称已选定下任美联储主席",
+          "url": "https://news.ifeng.com/c/8okTPLnScLu",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时27分 ~ 16时29分]"
         },
         {
           "title": "法巴银行：若最高法院推翻特朗普关税 美元或应声下跌",
@@ -441,6 +441,17 @@
           "time_info": "21时37分"
         },
         {
+          "title": "俄罗斯总统普京：欧洲人正阻挠美国政府和美国总统特朗普通过谈判实现和平。欧洲人没有和平议程，他们站在战争一边。",
+          "url": "https://flash.jin10.com/detail/20251202230616766800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "乌克兰总统泽连斯基：希望美国中东问题特使威特科夫访问俄罗斯后能与美国总统特朗普举行会谈。",
           "url": "https://flash.jin10.com/detail/20251201235332079800",
           "source": "金十数据",
@@ -480,7 +491,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -502,7 +513,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -516,6 +527,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时29分"
+        },
+        {
+          "title": "与特朗普家族有关联的比特币矿商American Bitcoin开盘下跌30%。",
+          "url": "https://wallstreetcn.com/livenews/3013793",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "特朗普第一年政绩如何",
@@ -554,7 +576,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "美股三大期指集体下跌 比特币一度跌超7% | 今夜看点",
@@ -700,6 +722,18 @@
           "time_info": "[06时18分 ~ 07时19分]"
         },
         {
+          "title": "戴尔科技美股盘前涨近2%，特朗普称，我爱戴尔。",
+          "url": "https://wallstreetcn.com/livenews/3013776",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 23时22分]"
+        },
+        {
           "title": "小鹏汽车(XPEV.N)美股盘前跌4%，阿里巴巴(BABA.N)跌1.4%，哔哩哔哩(BILI.O)跌1.3%。",
           "url": "https://flash.jin10.com/detail/20251202170323090800",
           "source": "金十数据",
@@ -711,26 +745,26 @@
           "time_info": "17时26分"
         },
         {
-          "title": "戴尔科技美股盘前涨近2%，特朗普称，我爱戴尔。",
-          "url": "https://wallstreetcn.com/livenews/3013776",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
           "title": "周二美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3013774",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
+        },
+        {
+          "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
+          "url": "https://wallstreetcn.com/articles/3760523",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "波音美股盘前拉升，公司预计美国司法部的处罚程序将推迟至2026年",
@@ -739,7 +773,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -761,7 +795,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -797,6 +831,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "半导体ETF涨超1%，在美股盘初领跑一众行业ETF，科技行业ETF涨超0.9%，全球科技股指数ETF涨超0.6%，网络股指数ETF涨约0.5%，能源业ETF跌超0.5%。",
+          "url": "https://wallstreetcn.com/livenews/3013791",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "美股三大股指收盘普跌",
@@ -838,9 +883,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
+        },
+        {
+          "title": "美股三大指数小幅高开 英伟达涨超1%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E5%B0%8F%E5%B9%85%E9%AB%98%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E6%B6%A8%E8%B6%851%25",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         }
       ]
     },
@@ -891,11 +947,12 @@
             5,
             7,
             8,
-            6
+            6,
+            10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时27分 ~ 22时22分]"
+          "appearance_count": 16,
+          "time_info": "[09时27分 ~ 23时22分]"
         },
         {
           "title": "【早报】热门中概股逆势飘红，银价续创历史新高；DeepSeek发布两款新模型",
@@ -920,8 +977,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时27分 ~ 22时22分]"
+          "appearance_count": 16,
+          "time_info": "[09时27分 ~ 23时22分]"
         },
         {
           "title": "DeepSeek 更新两个 v3.2 新模型，这次有哪些亮点？",
@@ -959,8 +1016,20 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时42分 ~ 22时22分]"
+          "appearance_count": 5,
+          "time_info": "[20时42分 ~ 23时22分]"
+        },
+        {
+          "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
+          "url": "https://www.cls.cn/detail/2217435",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时21分 ~ 23时22分]"
         },
         {
           "title": "2025 年 12 月 1 日，DeepSeek 正式发布 V3.2 和 V3.2-Speciale，如何评价该模型？",
@@ -973,17 +1042,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时22分 ~ 16时29分]"
-        },
-        {
-          "title": "从DeepSeek“上新”看AI演进 大模型将成“全能管家”？",
-          "url": "https://www.cls.cn/detail/2217435",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时21分 ~ 22时22分]"
         }
       ]
     },
@@ -1020,8 +1078,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[13时20分 ~ 22时22分]"
+          "appearance_count": 13,
+          "time_info": "[13时20分 ~ 23时22分]"
         },
         {
           "title": "剑指AI芯片市场！大摩上调谷歌TPU产量预期：2027年或达500万块",
@@ -1108,6 +1166,106 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
+          "url": "https://wallstreetcn.com/articles/3760479",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[11时18分 ~ 23时22分]"
+        },
+        {
+          "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
+          "url": "https://flash.jin10.com/detail/20251202121909836800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时20分"
+        },
+        {
+          "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
+          "url": "https://wallstreetcn.com/livenews/3013184",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            12,
+            18,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时21分 ~ 06时18分]"
+        },
+        {
+          "title": "OpenAI正开发大语言模型“Garlic”。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3013807",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "英伟达：还没有与OpenAI达成关于AI芯片的最终协议",
+          "url": "https://wallstreetcn.com/livenews/3013805",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "英伟达(NVDA.O)CFO：截至2026年，英伟达在Blackwell和Rubin AI芯片上的订单总额达5000亿美元，但这“并不包括我们目前与OpenAI协议下的下一阶段正在进行的任何工作”。",
+          "url": "https://flash.jin10.com/detail/20251202225631707800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "英伟达(NVDA.O)CFO：目前仍未与OpenAI达成最终协议。",
+          "url": "https://flash.jin10.com/detail/20251202225350484800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "OpenAI持股Thrive Holdings，后者是由Thrive Capital在2025年稍早成立的投资工具。",
+          "url": "https://wallstreetcn.com/livenews/3013130",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 5,
       "titles": [
@@ -1169,58 +1327,42 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "keyword_group": "美元",
+      "match_count": 3,
       "titles": [
         {
-          "title": "英伟达砸20亿入股EDA巨头新思科技，黄仁勋盛赞“巨大扩展机遇”、否认类似OpenAI交易闭环",
-          "url": "https://wallstreetcn.com/articles/3760479",
-          "source": "华尔街见闻",
+          "title": "周一（12月1日）纽约尾盘，ICE美元指数跌0.05%，报99.402点，日内交投区间为99.009-99.513点，北京时间14:00以来呈现出V形走势，21:05刷新日低。 彭博美元指数大致持平，报1217.91点，日内交投区间为1213.89-1218.72点。",
+          "url": "https://wallstreetcn.com/livenews/3013204",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9,
-            8,
             6,
-            5
+            16
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时18分 ~ 22时22分]"
+          "appearance_count": 2,
+          "time_info": "[05时17分 ~ 06时18分]"
         },
         {
-          "title": "据The Information：OpenAI创始人奥尔特曼表示，OpenAI计划推迟其他举措，比如广告业务。",
-          "url": "https://flash.jin10.com/detail/20251202121909836800",
+          "title": "恒天然：12月2日全球乳品贸易（GDT）拍卖价格指数下降4.3%，奶粉各合同期FAS拍卖均价3,507美元/吨。 批发奶粉价格指数下跌2.4%，报3,364美元/吨。",
+          "url": "https://wallstreetcn.com/livenews/3013801",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
+          "title": "美元指数1日下跌",
+          "url": "https://flash.jin10.com/detail/20251202051345483800",
           "source": "金十数据",
           "ranks": [
-            5
+            20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时20分"
-        },
-        {
-          "title": "用户报告称，OpenAI出现诸多故障。（DownDetector）",
-          "url": "https://wallstreetcn.com/livenews/3013184",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            12,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时21分 ~ 06时18分]"
-        },
-        {
-          "title": "OpenAI持股Thrive Holdings，后者是由Thrive Capital在2025年稍早成立的投资工具。",
-          "url": "https://wallstreetcn.com/livenews/3013130",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
+          "time_info": "06时18分"
         }
       ]
     },
@@ -1251,35 +1393,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时17分 ~ 06时18分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "周一（12月1日）纽约尾盘，ICE美元指数跌0.05%，报99.402点，日内交投区间为99.009-99.513点，北京时间14:00以来呈现出V形走势，21:05刷新日低。 彭博美元指数大致持平，报1217.91点，日内交投区间为1213.89-1218.72点。",
-          "url": "https://wallstreetcn.com/livenews/3013204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时17分 ~ 06时18分]"
-        },
-        {
-          "title": "美元指数1日下跌",
-          "url": "https://flash.jin10.com/detail/20251202051345483800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
         }
       ]
     }
