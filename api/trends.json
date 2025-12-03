@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T06:21:00.280632+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2025-12-04T07:17:55.575370+08:00",
+  "total_titles_processed": 631,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 43,
+      "match_count": 47,
       "titles": [
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -15,19 +15,32 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 07时17分]"
         },
         {
           "title": "圆桌｜美俄5个小时没谈成，特朗普力推的“和平计划”关键分歧点在哪里？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32092056",
           "source": "澎湃新闻",
           "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 07时17分]"
+        },
+        {
+          "title": "中方回应特朗普签署涉台法案",
+          "url": "https://www.douyin.com/hot/2325113",
+          "source": "抖音",
+          "ranks": [
+            15,
             16
           ],
           "is_new": false,
           "appearance_count": 8,
-          "time_info": "[00时29分 ~ 06时21分]"
+          "time_info": "[01时23分 ~ 07时17分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -40,18 +53,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 04时24分]"
-        },
-        {
-          "title": "中方回应特朗普签署涉台法案",
-          "url": "https://www.douyin.com/hot/2325113",
-          "source": "抖音",
-          "ranks": [
-            15,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时23分 ~ 06时21分]"
         },
         {
           "title": "债券投资者们针对哈塞特出任美联储主席的可能性警告美国财政部。 他们担心，哈塞特将为了取悦美国总统特朗普而降息。 11月份，财长贝森特掌管的财政部曾集中征求意见。（英国金融时报）",
@@ -96,28 +97,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
-        },
-        {
-          "title": "特朗普：美特使与普京的会面相当不错",
-          "url": "https://flash.jin10.com/detail/20251204053618515800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "美国总统特朗普的智囊团将在周四会见到访的乌克兰首席代表。（美联社）",
-          "url": "https://wallstreetcn.com/livenews/3014646",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
         },
         {
           "title": "美国总统特朗普：美国很快将控制芯片市场的大部分份额。",
@@ -181,6 +160,30 @@
           "time_info": "[05时19分 ~ 06时21分]"
         },
         {
+          "title": "特朗普：美特使与普京的会面相当不错",
+          "url": "https://flash.jin10.com/detail/20251204053618515800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时17分]"
+        },
+        {
+          "title": "美国总统特朗普的智囊团将在周四会见到访的乌克兰首席代表。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3014646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时17分]"
+        },
+        {
           "title": "美国总统特朗普建议对乘用车下调燃油效率标准。",
           "url": "https://wallstreetcn.com/livenews/3014620",
           "source": "华尔街见闻-快讯",
@@ -242,6 +245,30 @@
           "time_info": "[05时19分 ~ 06时21分]"
         },
         {
+          "title": "美国总统特朗普结束在白宫的讲话。",
+          "url": "https://flash.jin10.com/detail/20251204052715528800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时17分]"
+        },
+        {
+          "title": "美国总统特朗普：或许会与墨西哥和加拿大达成另外一份协议。",
+          "url": "https://wallstreetcn.com/livenews/3014640",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时17分]"
+        },
+        {
           "title": "英伟达CEO黄仁勋：特朗普总统的促增长能源政策“拯救了人工智能产业”。",
           "url": "https://flash.jin10.com/detail/20251204032609838800",
           "source": "金十数据",
@@ -252,6 +279,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时19分]"
+        },
+        {
+          "title": "美国总统特朗普：我们要么让美墨加协定到期失效，要么与墨西哥和加拿大另行达成协议。",
+          "url": "https://flash.jin10.com/detail/20251204052449950800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时17分]"
         },
         {
           "title": "福特汽车CEO Farley：今天将会见美国总统特朗普和交通部长Duffy。",
@@ -302,37 +341,75 @@
           "time_info": "[04时24分 ~ 05时19分]"
         },
         {
-          "title": "美国总统特朗普结束在白宫的讲话。",
-          "url": "https://flash.jin10.com/detail/20251204052715528800",
+          "title": "美国总统特朗普重申将很快对毒品恐怖分子发动陆地打击。",
+          "url": "https://flash.jin10.com/detail/20251204052252756800",
           "source": "金十数据",
+          "ranks": [
+            11,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时17分]"
+        },
+        {
+          "title": "美国总统特朗普：加沙停火协议的第二阶段正在推进，很快就会实现。",
+          "url": "https://flash.jin10.com/detail/20251204052139386800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时17分]"
+        },
+        {
+          "title": "美国总统特朗普支持击沉运毒船只的决定。",
+          "url": "https://flash.jin10.com/detail/20251204051916571800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时17分]"
+        },
+        {
+          "title": "美国总统特朗普：与英伟达CEO黄仁勋进行了对话。",
+          "url": "https://flash.jin10.com/detail/20251204051858619800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时17分]"
+        },
+        {
+          "title": "美国总统特朗普：将公布所有可获得的“船袭”事件相关视频。",
+          "url": "https://flash.jin10.com/detail/20251204051559558800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时17分]"
+        },
+        {
+          "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
+          "url": "https://www.cls.cn/detail/2218990",
+          "source": "财联社热门",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "美国总统特朗普：或许会与墨西哥和加拿大达成另外一份协议。",
-          "url": "https://wallstreetcn.com/livenews/3014640",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "美国总统特朗普：我们要么让美墨加协定到期失效，要么与墨西哥和加拿大另行达成协议。",
-          "url": "https://flash.jin10.com/detail/20251204052449950800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时17分"
         },
         {
           "title": "戴尔夫妇豪捐62.5亿美元，为2500万儿童开设特朗普账户，特朗普：慷慨！",
@@ -346,48 +423,26 @@
           "time_info": "05时19分"
         },
         {
-          "title": "美国总统特朗普重申将很快对毒品恐怖分子发动陆地打击。",
-          "url": "https://flash.jin10.com/detail/20251204052252756800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "美国总统特朗普：加沙停火协议的第二阶段正在推进，很快就会实现。",
-          "url": "https://flash.jin10.com/detail/20251204052139386800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "美国总统特朗普支持击沉运毒船只的决定。",
-          "url": "https://flash.jin10.com/detail/20251204051916571800",
+          "title": "美墨加协定将到期 特朗普：要么失效 要么达成新协议",
+          "url": "https://flash.jin10.com/detail/20251204055451717800",
           "source": "金十数据",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时17分"
         },
         {
-          "title": "美国总统特朗普：与英伟达CEO黄仁勋进行了对话。",
-          "url": "https://flash.jin10.com/detail/20251204051858619800",
+          "title": "据美联社：特朗普助手将于周四在迈阿密与乌克兰高级谈判代表会面，就俄乌和平谈判展开进一步磋商。",
+          "url": "https://flash.jin10.com/detail/20251204055124710800",
           "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时17分"
         },
         {
           "title": "周三（12月3日），彭博电动汽车价格回报指数跌0.47%，报3387.48点。 北京时间10:00前后显著下挫，全天绝大部分时间低位震荡，美国总统特朗普宣布汽车燃油效率“新政”之际并无显著波动。",
@@ -396,20 +451,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
         {
-          "title": "美国总统特朗普：将公布所有可获得的“船袭”事件相关视频。",
-          "url": "https://flash.jin10.com/detail/20251204051559558800",
-          "source": "金十数据",
+          "title": "报道：特朗普亲信探讨哈塞特接掌美联储后的人事安排，贝森特或兼任NEC主任",
+          "url": "https://wallstreetcn.com/livenews/3014655",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时17分"
         },
         {
           "title": "美国总统特朗普：俄罗斯总统普京想要结束战争。",
@@ -418,7 +473,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -429,7 +484,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -462,7 +517,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -484,7 +539,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -495,7 +550,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         }
@@ -503,7 +558,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "美股涨，数字货币大体收复周一暴跌失地，离岸人民币迈向14个月高位，白银V形反转",
@@ -548,22 +603,24 @@
           "url": "https://wallstreetcn.com/livenews/3014648",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时17分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.35%，报318.01点。 纽约证交所ARCA金矿开采商指数收跌0.47%，报2278.38点，美股开盘之前微幅上涨，随后快速走高至2321.09点——短时呈现出M形走势。",
           "url": "https://wallstreetcn.com/livenews/3014645",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时17分]"
         },
         {
           "title": "美股机器人概念股走强",
@@ -604,6 +661,18 @@
           "time_info": "[02时31分 ~ 03时18分]"
         },
         {
+          "title": "区域银行ETF收涨约2.1%，领跑美股行业ETF",
+          "url": "https://wallstreetcn.com/livenews/3014639",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时17分]"
+        },
+        {
           "title": "金十图示：2025年12月03日（周三）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20251204013118092800",
           "source": "金十数据",
@@ -616,46 +685,48 @@
           "time_info": "[02时31分 ~ 03时18分]"
         },
         {
-          "title": "美股七巨头收盘播报｜周三（12月3日），美国科技股七巨头（Magnificent 7）指数跌0.55%，报207.57点，全天绝大部分时间处于下跌状态，整体呈现出n形走势。 “超大”市值科技股指数涨0.09%，报402.08点。",
-          "url": "https://wallstreetcn.com/livenews/3014642",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
-          "title": "区域银行ETF收涨约2.1%，领跑美股行业ETF",
-          "url": "https://wallstreetcn.com/livenews/3014639",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
           "title": "周三（12月3日），人工智能（AI）赢家指数涨0.61%，报283.91点，美股盘初下跌，随后持续反弹。 AI软件先驱指数涨1.53%，微幅跳空低开之后，全天持续震荡上扬。 AI风险指数涨0.59%，AI工业指数涨0.29%，AI机器人指数涨2.98%——微幅高开之后持续上涨。",
           "url": "https://wallstreetcn.com/livenews/3014638",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时17分]"
         },
         {
           "title": "周三（12月3日），降息赢家指数涨1.00%，报100.28点，美股盘初显著走高，后续持续高位震荡。 “特朗普关税输家”指数涨1.78%，报109.06点，走势与降息赢家指数类似。 散户抱团概念股指数/迷因股（meme stock）指数涨1.48%。",
           "url": "https://wallstreetcn.com/livenews/3014637",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            11
+            11,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时17分]"
+        },
+        {
+          "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
+          "url": "https://www.cls.cn/detail/2218975",
+          "source": "财联社热门",
+          "ranks": [
+            7
           ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜周三（12月3日），美国科技股七巨头（Magnificent 7）指数跌0.55%，报207.57点，全天绝大部分时间处于下跌状态，整体呈现出n形走势。 “超大”市值科技股指数涨0.09%，报402.08点。",
+          "url": "https://wallstreetcn.com/livenews/3014642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -666,7 +737,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -677,7 +748,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -688,9 +759,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "美股七巨头收盘播报｜微软收跌2.5%，英伟达跌超1%，特斯拉涨约4.1%",
+          "url": "https://wallstreetcn.com/livenews/3014642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时17分"
         },
         {
           "title": "美股收盘：三大股指收涨 金龙指数跌超1%",
@@ -699,7 +781,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -786,17 +868,6 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "美元指数3日下跌",
-          "url": "https://flash.jin10.com/detail/20251204054201862800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
-        },
-        {
           "title": "美元指数跌0.5%，失守50日均线",
           "url": "https://wallstreetcn.com/livenews/3014616",
           "source": "华尔街见闻-快讯",
@@ -808,6 +879,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时24分 ~ 06时21分]"
+        },
+        {
+          "title": "美元指数3日下跌",
+          "url": "https://flash.jin10.com/detail/20251204054201862800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时17分]"
         }
       ]
     },
@@ -825,8 +908,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时29分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[00时29分 ~ 07时17分]"
         }
       ]
     },
@@ -857,11 +940,12 @@
           "url": "https://wallstreetcn.com/livenews/3014649",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时17分]"
         }
       ]
     }
