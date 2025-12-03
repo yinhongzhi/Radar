@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-03T14:32:06.132431+08:00",
-  "total_titles_processed": 1226,
+  "generated_at": "2025-12-03T15:22:03.467364+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 78,
+      "match_count": 79,
       "titles": [
         {
           "title": "白宫：特朗普已终止“无休止”援乌",
@@ -41,8 +41,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时27分 ~ 14时32分]"
+          "appearance_count": 10,
+          "time_info": "[09时27分 ~ 15时22分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -52,8 +52,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时17分 ~ 14时32分]"
+          "appearance_count": 8,
+          "time_info": "[11时17分 ~ 15时22分]"
         },
         {
           "title": "特朗普“点名”日本",
@@ -65,8 +65,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时17分 ~ 14时32分]"
+          "appearance_count": 8,
+          "time_info": "[11时17分 ~ 15时22分]"
         },
         {
           "title": "特朗普定档！计划明年初再揭晓美联储新主席人选",
@@ -592,6 +592,17 @@
           "time_info": "[02时32分 ~ 03时19分]"
         },
         {
+          "title": "特朗普在内阁会议上睡眼惺忪",
+          "url": "https://www.toutiao.com/trending/7579102119777828918/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时21分 ~ 15时22分]"
+        },
+        {
           "title": "特朗普政府预计将把旅行禁令扩大到约30个国家",
           "url": "https://flash.jin10.com/detail/20251203015450977800",
           "source": "金十数据",
@@ -936,8 +947,21 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时27分 ~ 14时32分]"
+          "appearance_count": 10,
+          "time_info": "[09时27分 ~ 15时22分]"
+        },
+        {
+          "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
+          "url": "https://www.cls.cn/detail/2217711",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[07时18分 ~ 15时22分]"
         },
         {
           "title": "美日政策预期分化，美股指集体高开，金银油回落，加密货币止跌反弹，拍卖需求强劲推高日债",
@@ -950,19 +974,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时39分 ~ 06时19分]"
-        },
-        {
-          "title": "美股收盘：三大指数震荡收高 光通信牛股再创新高",
-          "url": "https://www.cls.cn/detail/2217711",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时18分 ~ 14时32分]"
         },
         {
           "title": "美股三大期指集体走高 波音盘前涨超3% | 今夜看点",
@@ -1138,8 +1149,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时27分 ~ 14时32分]"
+          "appearance_count": 10,
+          "time_info": "[09时27分 ~ 15时22分]"
         },
         {
           "title": "谷歌揭秘了AI竞赛的底牌",
@@ -1157,6 +1168,19 @@
           "time_info": "[00时39分 ~ 07时18分]"
         },
         {
+          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
+          "url": "https://www.cls.cn/detail/2218001",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时29分 ~ 15时22分]"
+        },
+        {
           "title": "市场消息：亚马逊紧急推出最新人工智能芯片，迎战英伟达和谷歌。",
           "url": "https://flash.jin10.com/detail/20251203000100879800",
           "source": "金十数据",
@@ -1166,18 +1190,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时39分"
-        },
-        {
-          "title": "谷歌 VS OpenAI：短短三年 “红色警报”发布方悄然互换！",
-          "url": "https://www.cls.cn/detail/2218001",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[12时29分 ~ 14时32分]"
         },
         {
           "title": "OpenAI拉响最高警报：谷歌模型威胁巨大 全力改进ChatGPT",
@@ -1438,8 +1450,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时29分"
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 15时22分]"
         },
         {
           "title": "金十图示：2025年12月03日（周三）上海金早盘价为955.55元/克，较国际金价(959.05元/克)，低3.5元/克",
@@ -1480,6 +1492,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美债收益率小幅走低 市场聚焦ADP就业和ISM服务业数据",
+          "url": "https://flash.jin10.com/detail/20251203144426116800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时22分"
         }
       ]
     }
