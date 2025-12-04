@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-04T11:19:45.287433+08:00",
-  "total_titles_processed": 905,
+  "generated_at": "2025-12-04T12:31:30.587723+08:00",
+  "total_titles_processed": 1043,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普签署法律以加深美台联系，外交部回应",
@@ -26,11 +26,12 @@
             16,
             15,
             12,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 11时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时29分 ~ 12时31分]"
         },
         {
           "title": "中方回应特朗普签署涉台法案",
@@ -41,8 +42,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时23分 ~ 11时19分]"
+          "appearance_count": 11,
+          "time_info": "[01时23分 ~ 12时31分]"
         },
         {
           "title": "特朗普称明年初将宣布美联储主席人选，强烈暗示哈塞特",
@@ -55,6 +56,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时29分 ~ 04时24分]"
+        },
+        {
+          "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
+          "url": "https://www.cls.cn/detail/2218990",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时17分 ~ 12时31分]"
         },
         {
           "title": "债券投资者们针对哈塞特出任美联储主席的可能性警告美国财政部。 他们担心，哈塞特将为了取悦美国总统特朗普而降息。 11月份，财长贝森特掌管的财政部曾集中征求意见。（英国金融时报）",
@@ -77,18 +90,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时19分"
-        },
-        {
-          "title": "【早报】特朗普签署涉台法案，外交部发声；摩尔线程周五上市",
-          "url": "https://www.cls.cn/detail/2218990",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时17分 ~ 11时19分]"
         },
         {
           "title": "美国总统特朗普：我相信我们的汽车工业规模将会比以前更大。",
@@ -233,6 +234,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时29分 ~ 02时31分]"
+        },
+        {
+          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
+          "url": "https://www.cls.cn/detail/2219030",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时31分]"
         },
         {
           "title": "特朗普提议大幅削减燃油经济性要求",
@@ -415,15 +428,15 @@
           "time_info": "[06时21分 ~ 07时17分]"
         },
         {
-          "title": "特朗普就美俄会谈表态：“相当不错”，普京想结束战争！",
-          "url": "https://www.cls.cn/detail/2219030",
-          "source": "财联社热门",
+          "title": "哈塞特若出任美联储主席，贝森特或“一统”特朗普政府经济政策",
+          "url": "https://wallstreetcn.com/articles/3760676",
+          "source": "华尔街见闻",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时19分"
+          "time_info": "12时31分"
         },
         {
           "title": "戴尔夫妇豪捐62.5亿美元，为2500万儿童开设特朗普账户，特朗普：慷慨！",
@@ -443,7 +456,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -514,13 +527,24 @@
           "time_info": "06时21分"
         },
         {
+          "title": "观察｜特朗普的俄乌“和平计划”背后：生意，生意，还是生意",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32096930",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时31分"
+        },
+        {
           "title": "美国“小非农”爆冷，白银创新高后快速回落！贝森特或将兼任国家经济委员会主任一职，特朗普政府考虑明年加速机器人行业发展......美油卖出信号强烈，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
           "url": "https://flash.jin10.com/detail/20251204103112695800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -608,7 +632,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         }
@@ -661,11 +685,12 @@
           "url": "https://www.cls.cn/detail/2218940",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时28分 ~ 11时19分]"
+          "appearance_count": 3,
+          "time_info": "[09时28分 ~ 12时31分]"
         },
         {
           "title": "美股收盘：三大指数艰难冲刺新高 有色、机器人板块走强",
@@ -674,11 +699,12 @@
           "ranks": [
             7,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时17分 ~ 11时19分]"
+          "appearance_count": 4,
+          "time_info": "[07时17分 ~ 12时31分]"
         },
         {
           "title": "周三（12月3日）纽约尾盘，CME比特币期货BTC主力合约较周二纽约尾盘涨2.58%，报93815美元。 CME以太币期货DCR主力合约涨5.72%，报3162.50美元。 美股加密货币与加密货币关联指数涨5.12%，报70.05点。 最近24小时，MarketVector数字资产100指数涨2.67%，报19415.07点；小盘指数涨1.75%，暂报4382.83点。",
@@ -979,11 +1005,12 @@
           "url": "https://www.cls.cn/detail/2219026",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 12时31分]"
         }
       ]
     },
@@ -1027,7 +1054,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
