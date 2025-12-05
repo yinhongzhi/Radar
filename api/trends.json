@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T12:30:34.111352+08:00",
-  "total_titles_processed": 888,
+  "generated_at": "2025-12-05T13:20:29.943470+08:00",
+  "total_titles_processed": 982,
   "failed_sources": [],
   "trends": [
     {
@@ -261,7 +261,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时30分"
         },
@@ -307,8 +307,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时20分 ~ 12时30分]"
+          "appearance_count": 5,
+          "time_info": "[07时20分 ~ 13时20分]"
         },
         {
           "title": "金十图示：2025年12月04日（周四）美股热门股票行情一览（美股收盘）",
@@ -486,8 +486,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 12时30分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 13时20分]"
         },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -497,8 +497,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时19分 ~ 12时30分]"
+          "appearance_count": 4,
+          "time_info": "[11时19分 ~ 13时20分]"
         },
         {
           "title": "美股徘徊历史高点边缘，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -590,11 +590,12 @@
             4,
             5,
             9,
-            12
+            12,
+            16
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时30分 ~ 12时30分]"
+          "appearance_count": 16,
+          "time_info": "[00时30分 ~ 13时20分]"
         },
         {
           "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
@@ -720,8 +721,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时29分 ~ 12时30分]"
+          "appearance_count": 3,
+          "time_info": "[12时29分 ~ 13时20分]"
         }
       ]
     }
