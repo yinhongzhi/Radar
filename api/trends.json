@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-05T14:34:28.174803+08:00",
-  "total_titles_processed": 1079,
+  "generated_at": "2025-12-05T15:21:25.991613+08:00",
+  "total_titles_processed": 1170,
   "failed_sources": [],
   "trends": [
     {
@@ -283,7 +283,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时34分"
         }
@@ -498,8 +498,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时30分 ~ 14时34分]"
+          "appearance_count": 18,
+          "time_info": "[00时30分 ~ 15时21分]"
         },
         {
           "title": "美股涨势消减，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -509,8 +509,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时19分 ~ 14时34分]"
+          "appearance_count": 6,
+          "time_info": "[11时19分 ~ 15时21分]"
         },
         {
           "title": "美股徘徊历史高点边缘，小盘股指逼近历史高点，美债比特币下挫，铜价回落",
@@ -546,6 +546,45 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时23分 ~ 02时33分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "金十图示：2025年12月05日（周五）上海金午盘价为955.9元/克，较国际金价(960.01元/克)，低4.11元/克",
+          "url": "https://flash.jin10.com/detail/20251205150237767800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时21分"
+        },
+        {
+          "title": "金十图示：2025年12月05日（周五）上海金早盘价为951.91元/克，较国际金价(954.56元/克)，低2.65元/克",
+          "url": "https://flash.jin10.com/detail/20251205101748828800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "南非15年来首座新地下金矿投产 金价飙升催生行业新机",
+          "url": "https://flash.jin10.com/detail/20251204234446522800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时30分"
         }
       ]
     },
@@ -624,9 +663,9 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时34分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时34分 ~ 15时21分]"
         }
       ]
     },
@@ -644,11 +683,12 @@
             9,
             12,
             16,
-            20
+            20,
+            18
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时30分 ~ 14时34分]"
+          "appearance_count": 18,
+          "time_info": "[00时30分 ~ 15时21分]"
         },
         {
           "title": "摩根大通：DeepSeek V3.2为中国AI市场带来第二波冲击 利好多数相关方",
@@ -719,34 +759,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "金十图示：2025年12月05日（周五）上海金早盘价为951.91元/克，较国际金价(954.56元/克)，低2.65元/克",
-          "url": "https://flash.jin10.com/detail/20251205101748828800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时19分"
-        },
-        {
-          "title": "南非15年来首座新地下金矿投产 金价飙升催生行业新机",
-          "url": "https://flash.jin10.com/detail/20251204234446522800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时30分"
         }
       ]
     }
