@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-06T15:18:31.258422+08:00",
-  "total_titles_processed": 1049,
+  "generated_at": "2025-12-06T16:25:02.489760+08:00",
+  "total_titles_processed": 1116,
   "failed_sources": [],
   "trends": [
     {
@@ -15,11 +15,12 @@
             4,
             5,
             22,
-            15
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时24分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[09时24分 ~ 16时25分]"
         },
         {
           "title": "印媒发莫迪普京动画片 还恶搞特朗普",
@@ -103,15 +104,18 @@
           "time_info": "[11时10分 ~ 15时18分]"
         },
         {
-          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
-          "url": "https://www.zhihu.com/question/1979570545172423754",
-          "source": "知乎",
+          "title": "特朗普获国际足联和平奖，给自己戴上奖牌",
+          "url": "https://flash.jin10.com/detail/20251206125008162800",
+          "source": "金十数据",
           "ranks": [
-            5
+            1,
+            6,
+            16,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时19分 ~ 16时25分]"
         },
         {
           "title": "美国最高法院同意审理关于美国总统特朗普是否有权终止出生公民权的案件。",
@@ -124,6 +128,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[04时23分 ~ 09时24分]"
+        },
+        {
+          "title": "戴尔创始人捐 62.5 亿美元，为全美 2500 万儿童开启「特朗普账户」储蓄计划，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/1979570545172423754",
+          "source": "知乎",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时18分 ~ 16时25分]"
         },
         {
           "title": "特朗普在世界杯抽签仪式上称赞与墨西哥和加拿大的合作",
@@ -162,19 +178,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时27分 ~ 05时19分]"
-        },
-        {
-          "title": "特朗普获国际足联和平奖，给自己戴上奖牌",
-          "url": "https://flash.jin10.com/detail/20251206125008162800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时19分 ~ 15时18分]"
         },
         {
           "title": "特朗普签署法律，撤销阿拉斯加国家石油储备区钻探限制",
@@ -501,8 +504,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时24分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[09时24分 ~ 16时25分]"
         },
         {
           "title": "大空头Burry警告美股将重演“2000年”熊市：资本开支逼近顶峰，两年足够AI泡沫破灭！",
@@ -514,8 +517,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时24分 ~ 15时18分]"
+          "appearance_count": 9,
+          "time_info": "[09时24分 ~ 16时25分]"
         },
         {
           "title": "美股收盘：标普四连涨距新高咫尺之遥 中概明星股普涨",
@@ -529,8 +532,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时18分 ~ 15时18分]"
+          "appearance_count": 11,
+          "time_info": "[07时18分 ~ 16时25分]"
         },
         {
           "title": "（美股）费城金银指数收跌0.26%，报318.46点，本周累计下跌1.89%。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.02%，报2284.96点，美股开盘之前持续微幅上涨，随后出现尖锐的冲高回落行情——北京时间23:00披露美国PCE通胀数据之后刷新日高，本周累计下跌1.41%。",
@@ -670,6 +673,20 @@
           "time_info": "[04时23分 ~ 09时24分]"
         },
         {
+          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
+          "url": "https://www.zhihu.com/question/1979223676378447995",
+          "source": "知乎",
+          "ranks": [
+            13,
+            6,
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 16时25分]"
+        },
+        {
           "title": "美国国土安全委员会：正在调查谷歌可能托管的部分应用程序，这些程序可让用户匿名举报并追踪联邦执法部门的动向。担忧部分由谷歌托管的应用程序危及国土安全部人员的安全。",
           "url": "https://flash.jin10.com/detail/20251206034235677800",
           "source": "金十数据",
@@ -704,20 +721,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时19分 ~ 09时24分]"
-        },
-        {
-          "title": "OpenAI 暂停广告业务，全力「死磕」谷歌 Gemini，这一战略调整将如何影响 AI 行业格局？",
-          "url": "https://www.zhihu.com/question/1979223676378447995",
-          "source": "知乎",
-          "ranks": [
-            13,
-            6,
-            9,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 15时18分]"
         },
         {
           "title": "谷歌母公司Alphabet旗下无人驾驶汽车部门Waymo自愿向美国国家公路交通安全管理局（NHTSA）申请软件召回。",
@@ -811,8 +814,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时22分 ~ 15时18分]"
+          "appearance_count": 6,
+          "time_info": "[12时22分 ~ 16时25分]"
         },
         {
           "title": "ChatGPT产品负责人回应广告传闻",
