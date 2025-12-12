@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-12T20:42:42.188783+08:00",
-  "total_titles_processed": 1925,
+  "generated_at": "2025-12-12T21:34:58.398665+08:00",
+  "total_titles_processed": 2015,
   "failed_sources": [],
   "trends": [
     {
@@ -34,8 +34,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[13时21分 ~ 20时42分]"
+          "appearance_count": 11,
+          "time_info": "[13时21分 ~ 21时34分]"
         },
         {
           "title": "高市早苗在日本众院预算委员会会议上示意，希望尽早与特朗普会面，此举释放了什么信号？",
@@ -74,8 +74,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时29分 ~ 20时42分]"
+          "appearance_count": 8,
+          "time_info": "[16时29分 ~ 21时34分]"
         },
         {
           "title": "胡锡进：即使特朗普正式提出C5，中国会否加入也是值得怀疑的",
@@ -86,8 +86,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[16时29分 ~ 20时42分]"
+          "appearance_count": 8,
+          "time_info": "[16时29分 ~ 21时34分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -668,8 +668,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时33分 ~ 20时42分]"
+          "appearance_count": 12,
+          "time_info": "[12时33分 ~ 21时34分]"
         },
         {
           "title": "博通：公司并不预计OpenAI会在2026年带来太多的营收。",
@@ -1149,8 +1149,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[11时23分 ~ 20时42分]"
+          "appearance_count": 13,
+          "time_info": "[11时23分 ~ 21时34分]"
         },
         {
           "title": "TD Cowen：将谷歌母公司Alphabet目标股价从335美元上调至350美元。",
@@ -1208,8 +1208,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时20分 ~ 20时42分]"
+          "appearance_count": 3,
+          "time_info": "[19时20分 ~ 21时34分]"
         },
         {
           "title": "谷歌母公司Alphabet跌幅扩大至3.5%。 微软涨1.2%，刷新日高。",
@@ -1471,8 +1471,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "金价延续涨势 德商银行：预计美联储降息幅度将超过市场预期",
+          "url": "https://flash.jin10.com/detail/20251212212056056800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时34分"
+        },
         {
           "title": "金十图示：2025年12月12日（周五）上海金早盘价为963.64元/克，较国际金价(969.37元/克)，低5.73元/克",
           "url": "https://flash.jin10.com/detail/20251212102205776800",
