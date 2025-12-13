@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-13T17:19:52.663442+08:00",
-  "total_titles_processed": 1179,
+  "generated_at": "2025-12-13T18:20:01.456673+08:00",
+  "total_titles_processed": 1254,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
         {
           "title": "特朗普称泰柬已同意停火，泰方否认",
@@ -42,6 +42,20 @@
           "time_info": "[00时25分 ~ 09时26分]"
         },
         {
+          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
+          "url": "https://www.cls.cn/detail/2228592",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时16分 ~ 18时20分]"
+        },
+        {
           "title": "特朗普拉小群,想拿C5替代G7",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28347914&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8B%89%E5%B0%8F%E7%BE%A4%2C%E6%83%B3%E6%8B%BFC5%E6%9B%BF%E4%BB%A3G7",
           "source": "贴吧",
@@ -50,11 +64,12 @@
             14,
             17,
             19,
-            20
+            20,
+            21
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时25分 ~ 17时19分]"
+          "appearance_count": 25,
+          "time_info": "[00时25分 ~ 18时20分]"
         },
         {
           "title": "特朗普称泰柬同意全面停火",
@@ -67,20 +82,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时19分 ~ 09时26分]"
-        },
-        {
-          "title": "“鲍威尔继任者”逐渐明朗？特朗普：目前最青睐沃什，利率决议应与我商议！",
-          "url": "https://www.cls.cn/detail/2228592",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时16分 ~ 17时19分]"
         },
         {
           "title": "白宫：特朗普对俄乌都很失望",
@@ -146,22 +147,45 @@
             2,
             5,
             12,
-            17
+            17,
+            29
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时30分 ~ 17时19分]"
+          "appearance_count": 5,
+          "time_info": "[14时30分 ~ 18时20分]"
         },
         {
-          "title": "外媒：欧洲视特朗普乌克兰计划为俄罗斯的“特洛伊木马”",
-          "url": "https://flash.jin10.com/detail/20251213164027529800",
+          "title": "特朗普提议中美俄印日联盟",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%8F%90%E8%AE%AE%E4%B8%AD%E7%BE%8E%E4%BF%84%E5%8D%B0%E6%97%A5%E8%81%94%E7%9B%9F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
+        },
+        {
+          "title": "土耳其总统埃尔多安：希望在与俄罗斯总统普京会晤后，与美国总统特朗普讨论乌克兰—俄罗斯和平方案。",
+          "url": "https://flash.jin10.com/detail/20251213180106229800",
           "source": "金十数据",
           "ranks": [
-            2
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时19分"
+          "time_info": "18时20分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-13）",
+          "url": "https://flash.jin10.com/detail/20251213180026791800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         },
         {
           "title": "特朗普称泰柬已同意停火 泰方否认",
@@ -308,6 +332,18 @@
           "time_info": "[01时20分 ~ 03时18分]"
         },
         {
+          "title": "外媒：欧洲视特朗普乌克兰计划为俄罗斯的“特洛伊木马”",
+          "url": "https://flash.jin10.com/detail/20251213164027529800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时19分 ~ 18时20分]"
+        },
+        {
           "title": "市场消息：美国一些州将就10万美元H-1B签证申请费起诉特朗普。",
           "url": "https://flash.jin10.com/detail/20251213021141343800",
           "source": "金十数据",
@@ -371,6 +407,19 @@
           "time_info": "[02时32分 ~ 05时18分]"
         },
         {
+          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 18时20分]"
+        },
+        {
           "title": "爱泼斯坦案新影像曝光，有特朗普照片",
           "url": "https://news.ifeng.com/c/8p315VNzI20",
           "source": "凤凰网",
@@ -380,6 +429,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[13时20分 ~ 14时30分]"
+        },
+        {
+          "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32162318",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时19分 ~ 18时20分]"
         },
         {
           "title": "美国总统特朗普谈论所谓的“顿巴斯自由经济区”构想，称：现在还不想要这个。 这不会起作用。",
@@ -406,18 +467,6 @@
           "time_info": "[09时26分 ~ 11时16分]"
         },
         {
-          "title": "一图看懂｜泰国拒绝特朗普停火要求，泰柬军力对比如何？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32170002",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时19分]"
-        },
-        {
           "title": "特朗普称泰柬双方同意停火",
           "url": "https://www.toutiao.com/trending/7582909402869452342/",
           "source": "今日头条",
@@ -427,6 +476,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时25分 ~ 09时26分]"
+        },
+        {
+          "title": "特朗普称泰柬已同意停火，泰方否认：答案是不",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32169891",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 18时20分]"
         },
         {
           "title": "消息人士：特朗普政府今年不太可能敲定2026年的生物燃料配额",
@@ -494,17 +554,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时32分"
-        },
-        {
-          "title": "观察｜特朗普磨刀霍霍，马杜罗歌舞“公关”：别担心，要快乐",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32162318",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
         },
         {
           "title": "Tilray Brands Inc.涨40%，AdvisorShares Cannabis ETF涨35%，创2022年以来最大盘中涨幅。 媒体报道称，美国总统特朗普料将放宽针对大麻的限制。",
@@ -599,8 +648,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时20分 ~ 17时19分]"
+          "appearance_count": 15,
+          "time_info": "[06时20分 ~ 18时20分]"
         },
         {
           "title": "美股盘中跌幅扩大，纳指跌超1.5%，博通跌超10%，铜银续创新高，现货黄金重新站上4300美元",
@@ -726,8 +775,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[07时19分 ~ 17时19分]"
+          "appearance_count": 14,
+          "time_info": "[07时19分 ~ 18时20分]"
         },
         {
           "title": "ChatGPT5.2有哪些新升级",
@@ -837,7 +886,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "据伊朗国家媒体报道，伊朗在阿曼湾查获一艘载有600万升走私柴油的外国油轮。",
@@ -852,17 +901,6 @@
           "time_info": "[04时23分 ~ 09时26分]"
         },
         {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗与巴基斯坦表态致力于深化双边关系，加速推进各项合作协议。",
-          "url": "https://flash.jin10.com/detail/20251213165710609800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时19分"
-        },
-        {
           "title": "美军被曝突袭从中国驶往伊朗货轮",
           "url": "https://news.ifeng.com/c/8p3AEA1kMQ6",
           "source": "凤凰网",
@@ -870,8 +908,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时25分 ~ 18时20分]"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗与巴基斯坦表态致力于深化双边关系，加速推进各项合作协议。",
+          "url": "https://flash.jin10.com/detail/20251213165710609800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            13
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时19分]"
+          "time_info": "[17时19分 ~ 18时20分]"
         },
         {
           "title": "伊朗媒体称，在阿曼湾被扣押的外国油轮的18名船员因涉嫌运输“走私燃料”而被拘留。",
@@ -879,11 +929,23 @@
           "source": "金十数据",
           "ranks": [
             7,
-            12
+            12,
+            24
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时25分 ~ 17时19分]"
+          "appearance_count": 3,
+          "time_info": "[16时25分 ~ 18时20分]"
+        },
+        {
+          "title": "伊朗在阿曼湾扣押涉嫌走私油轮，地区水域紧张局势持续",
+          "url": "https://flash.jin10.com/detail/20251213173551399800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时20分"
         }
       ]
     },
