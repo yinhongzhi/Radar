@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-17T18:25:07.913355+08:00",
-  "total_titles_processed": 1660,
+  "generated_at": "2025-12-17T19:20:46.677417+08:00",
+  "total_titles_processed": 1755,
   "failed_sources": [],
   "trends": [
     {
@@ -103,6 +103,18 @@
           "time_info": "[00时29分 ~ 12时33分]"
         },
         {
+          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
+          "url": "https://wallstreetcn.com/articles/3761525",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时22分 ~ 19时20分]"
+        },
+        {
           "title": "释新闻｜泰国否认对柬埔寨停火，为什么特朗普的电话不管用？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32180845",
           "source": "澎湃新闻",
@@ -114,18 +126,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时29分 ~ 07时19分]"
-        },
-        {
-          "title": "特朗普有“酒鬼性格”，万斯“阴谋论者”，马斯克“嗑药的怪人”...“白宫大管家”的炸裂采访爆了",
-          "url": "https://wallstreetcn.com/articles/3761525",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[13时22分 ~ 18时25分]"
         },
         {
           "title": "特朗普将发表全国讲话：应对民调下滑 或预告新年政策",
@@ -156,7 +156,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时25分"
         },
