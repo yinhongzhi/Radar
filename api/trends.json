@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T16:30:20.929280+08:00",
-  "total_titles_processed": 1559,
+  "generated_at": "2025-12-19T17:24:47.255487+08:00",
+  "total_titles_processed": 1667,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 74,
+      "match_count": 75,
       "titles": [
         {
           "title": "特朗普签署行政命令，重申2028年登月目标",
@@ -17,8 +17,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时39分 ~ 16时30分]"
+          "appearance_count": 11,
+          "time_info": "[09时39分 ~ 17时24分]"
         },
         {
           "title": "特朗普签署行政令：2028年登月、推进“太空核能计划”、商业化吸金！",
@@ -57,6 +57,17 @@
           "time_info": "[00时30分 ~ 07时20分]"
         },
         {
+          "title": "特朗普，敢不敢动武？",
+          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时23分 ~ 17时24分]"
+        },
+        {
           "title": "特朗普再次向乌克兰施压",
           "url": "https://news.ifeng.com/c/8pCpqaXsvao",
           "source": "凤凰网",
@@ -78,8 +89,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时39分 ~ 16时30分]"
+          "appearance_count": 11,
+          "time_info": "[09时39分 ~ 17时24分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -92,22 +103,12 @@
             13,
             14,
             12,
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[01时23分 ~ 16时30分]"
-        },
-        {
-          "title": "特朗普，敢不敢动武？",
-          "url": "https://news.ifeng.com/c/8pCr08QqAFx",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时23分 ~ 16时30分]"
+          "appearance_count": 20,
+          "time_info": "[01时23分 ~ 17时24分]"
         },
         {
           "title": "特朗普家族入局！核聚变能源是什么，谁在积极布局？一文读懂",
@@ -117,22 +118,24 @@
             10,
             6,
             5,
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时21分 ~ 16时30分]"
+          "appearance_count": 7,
+          "time_info": "[13时21分 ~ 17时24分]"
         },
         {
           "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
           "url": "https://news.ifeng.com/c/8pD5jDyUhqx",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时22分 ~ 16时30分]"
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 17时24分]"
         },
         {
           "title": "巴西总统卢拉：我100%地信任巴西央行行长Galipolo。 我（才不会像美国总统特朗普对付美联储主席鲍威尔那样）向Galipolo施加压力，他才是做决定的那个人。",
@@ -168,15 +171,18 @@
           "time_info": "03时18分"
         },
         {
-          "title": "卢拉打算给特朗普打电话 为美国和委内瑞拉说和",
-          "url": "https://wallstreetcn.com/livenews/3023763",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
+          "url": "https://www.cls.cn/detail/2234355",
+          "source": "财联社热门",
           "ranks": [
-            3
+            13,
+            11,
+            9,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时30分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时32分 ~ 17时24分]"
         },
         {
           "title": "尽管特朗普政府施压，供应萎缩仍推高牛肉价格创下纪录",
@@ -216,6 +222,18 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
+          "title": "卢拉打算给特朗普打电话 为美国和委内瑞拉说和",
+          "url": "https://wallstreetcn.com/livenews/3023763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时30分 ~ 17时24分]"
+        },
+        {
           "title": "加拿大总理卡尼：加拿大将继续支持乳业供应管理。 美国墨西哥加拿大贸易协议（USMCA）首脑们为评估USMCA提出了广泛的尺度。 （美墨加三方）不可能达成行业协议，磋商将深入USMCA。 我们准备（与美国）达成一份关于森林产品的协议。 只要加拿大方面还存在顾虑，（与美国总统特朗普的）钢铁协议仍然在谈判桌上。",
           "url": "https://wallstreetcn.com/livenews/3023254",
           "source": "华尔街见闻-快讯",
@@ -226,19 +244,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时31分 ~ 01时23分]"
-        },
-        {
-          "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
-          "url": "https://www.cls.cn/detail/2234355",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时32分 ~ 16时30分]"
         },
         {
           "title": "美国白宫新闻秘书Leavitt：肯尼迪中心将被重新命名为“特朗普-肯尼迪中心”。",
@@ -695,6 +700,17 @@
           "time_info": "04时21分"
         },
         {
+          "title": "据日本产经新闻：日本政府正计划在新年或三月安排日本首相高市早苗访美并与美国总统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20251219164128031800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "巴西总统卢拉：已告诉美国总统特朗普，南美洲是和平的地区。",
           "url": "https://flash.jin10.com/detail/20251218234017856800",
           "source": "金十数据",
@@ -863,7 +879,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -890,6 +906,19 @@
           "time_info": "[07时20分 ~ 13时22分]"
         },
         {
+          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
+          "url": "https://wallstreetcn.com/articles/3761680",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时23分 ~ 17时24分]"
+        },
+        {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
           "url": "https://wallstreetcn.com/articles/3761635",
           "source": "华尔街见闻",
@@ -901,19 +930,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时31分 ~ 06时20分]"
-        },
-        {
-          "title": "就在今天！史上最大规模期权到期，美股将迎来“疯狂一日”？",
-          "url": "https://wallstreetcn.com/articles/3761680",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时23分 ~ 16时30分]"
         },
         {
           "title": "甲骨文美股盘后涨3.59%。",
@@ -1032,6 +1048,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
+          "title": "甲骨文(ORCL.N)美股盘前上涨5.6%。",
+          "url": "https://flash.jin10.com/detail/20251219170527123800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
+          "title": "美股盘前，科技股多数走高，甲骨文涨近6%，美光科技涨2%，英伟达、AMD均涨超1%；阿里巴巴涨超1%。耐克大跌逾10%，此前公司表示第二季度毛利下滑。",
+          "url": "https://wallstreetcn.com/livenews/3023800",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
         },
         {
           "title": "周四（12月18日，美国CPI通胀数据发布日），降息赢家指数涨0.31%，报99.84点，跳空高开之后，美股盘初刷新日高至101.57点，之后逐步回吐涨幅。 “特朗普关税输家”指数涨0.87%，散户抱团概念股指数/迷因股（meme stock）指数涨2.0%。",
@@ -1281,7 +1319,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
@@ -1364,6 +1402,17 @@
           "time_info": "06时20分"
         },
         {
+          "title": "中国为何持续减持美债",
+          "url": "https://www.toutiao.com/trending/7585460719735279167/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
+        {
           "title": "日本增持美债至2022年7月以来新高，加拿大锐减约570亿美元",
           "url": "https://wallstreetcn.com/livenews/3023349",
           "source": "华尔街见闻-快讯",
@@ -1410,11 +1459,12 @@
           "source": "财联社热门",
           "ranks": [
             12,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时22分 ~ 16时30分]"
+          "appearance_count": 4,
+          "time_info": "[15时22分 ~ 17时24分]"
         },
         {
           "title": "美股七巨头收盘播报｜特斯拉收涨超3.4%，亚马逊涨约2.5%，谷歌和英伟达涨约1.9%",
@@ -1618,8 +1668,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "以色列指控一名俄罗斯公民为伊朗从事间谍活动",
+          "url": "https://flash.jin10.com/detail/20251219170952082800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时24分"
+        },
         {
           "title": "美国签发与伊朗相关的通用许可证。",
           "url": "https://wallstreetcn.com/livenews/3023236",
