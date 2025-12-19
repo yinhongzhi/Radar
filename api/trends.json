@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-19T22:21:47.678365+08:00",
-  "total_titles_processed": 2188,
+  "generated_at": "2025-12-19T23:22:38.560793+08:00",
+  "total_titles_processed": 2298,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 92,
+      "match_count": 94,
       "titles": [
         {
           "title": "美国肯尼迪中心更名为“特朗普-肯尼迪中心”",
@@ -122,8 +122,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[09时39分 ~ 22时21分]"
+          "appearance_count": 19,
+          "time_info": "[09时39分 ~ 23时22分]"
         },
         {
           "title": "特朗普发表18分钟全国电视讲话：给自己点赞并7次点名拜登",
@@ -145,6 +145,21 @@
           "time_info": "[01时23分 ~ 19时19分]"
         },
         {
+          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
+          "url": "https://www.zhihu.com/question/1985224796552844512",
+          "source": "知乎",
+          "ranks": [
+            16,
+            15,
+            13,
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[18时22分 ~ 23时22分]"
+        },
+        {
           "title": "特朗普又签行政令 美国要在月球“大兴土木” 可回收火箭或成关键",
           "url": "https://www.cls.cn/detail/2234355",
           "source": "财联社热门",
@@ -157,20 +172,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[14时32分 ~ 18时23分]"
-        },
-        {
-          "title": "特朗普要求美国人到 2028 年重返月球，在月球和轨道上部署核反应堆，为何要部署核反应堆？能实现吗？",
-          "url": "https://www.zhihu.com/question/1985224796552844512",
-          "source": "知乎",
-          "ranks": [
-            16,
-            15,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时22分 ~ 22时21分]"
         },
         {
           "title": "巴西总统卢拉：我100%地信任巴西央行行长Galipolo。 我（才不会像美国总统特朗普对付美联储主席鲍威尔那样）向Galipolo施加压力，他才是做决定的那个人。",
@@ -193,6 +194,21 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时41分"
+        },
+        {
+          "title": "特朗普：不排除与委内瑞拉开战",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
+          "source": "百度热搜",
+          "ranks": [
+            10,
+            23,
+            20,
+            25,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时18分 ~ 23时22分]"
         },
         {
           "title": "美国商务部长卢特尼克：特朗普有很多优秀的美联储主席候选人。",
@@ -226,20 +242,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时19分"
-        },
-        {
-          "title": "特朗普：不排除与委内瑞拉开战",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%8D%E6%8E%92%E9%99%A4%E4%B8%8E%E5%A7%94%E5%86%85%E7%91%9E%E6%8B%89%E5%BC%80%E6%88%98",
-          "source": "百度热搜",
-          "ranks": [
-            10,
-            23,
-            20,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[19时18分 ~ 22时21分]"
         },
         {
           "title": "尽管特朗普政府施压，供应萎缩仍推高牛肉价格创下纪录",
@@ -303,6 +305,19 @@
           "time_info": "[00时31分 ~ 01时23分]"
         },
         {
+          "title": "特朗普签署行政命令，重申2028年登月目标",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时41分 ~ 23时22分]"
+        },
+        {
           "title": "美国白宫新闻秘书Leavitt：肯尼迪中心将被重新命名为“特朗普-肯尼迪中心”。",
           "url": "https://wallstreetcn.com/livenews/3023295",
           "source": "华尔街见闻-快讯",
@@ -328,16 +343,15 @@
           "time_info": "[11时23分 ~ 12时34分]"
         },
         {
-          "title": "特朗普签署行政命令，重申2028年登月目标",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32208986",
-          "source": "澎湃新闻",
+          "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
+          "url": "https://news.ifeng.com/c/8pDUNvScYT5",
+          "source": "凤凰网",
           "ranks": [
-            19,
-            17
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时41分 ~ 22时21分]"
+          "appearance_count": 2,
+          "time_info": "[22时21分 ~ 23时22分]"
         },
         {
           "title": "美国商务部长卢特尼克：总统特朗普对美联储主席候选人有不错的人选。",
@@ -516,17 +530,6 @@
           "time_info": "20时41分"
         },
         {
-          "title": "特朗普政府为何罕见提前宣布军购内容？台学者分析",
-          "url": "https://news.ifeng.com/c/8pDUNvScYT5",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时21分"
-        },
-        {
           "title": "特朗普下令要求美国人2028年登月",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8B%E4%BB%A4%E8%A6%81%E6%B1%82%E7%BE%8E%E5%9B%BD%E4%BA%BA2028%E5%B9%B4%E7%99%BB%E6%9C%88%23&t=31&band_rank=7&Refer=top",
           "source": "微博",
@@ -610,7 +613,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -868,6 +871,17 @@
           "time_info": "17时24分"
         },
         {
+          "title": "特朗普：“奥巴马医改”太贵，会自动消亡",
+          "url": "https://flash.jin10.com/detail/20251219225548281800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "巴西总统卢拉：已告诉美国总统特朗普，南美洲是和平的地区。",
           "url": "https://flash.jin10.com/detail/20251218234017856800",
           "source": "金十数据",
@@ -1006,7 +1020,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -1028,9 +1042,20 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
+        },
+        {
+          "title": "特朗普年终演讲为何不提中国",
+          "url": "https://www.toutiao.com/trending/7585539719539199497/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "美国白宫：美国总统特朗普签署了关于联邦薪资标准的行政命令。",
@@ -1080,7 +1105,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "甲骨文重燃AI担忧压垮美股，纳指跌近2%，地缘风险下原油反弹，期银盘中涨超6%创新高",
@@ -1116,8 +1141,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[11时23分 ~ 22时21分]"
+          "appearance_count": 18,
+          "time_info": "[11时23分 ~ 23时22分]"
         },
         {
           "title": "CPI意外放缓，美股反弹，纳指一度涨超2%，加密货币重演冲高回落",
@@ -1131,6 +1156,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[02时31分 ~ 06时20分]"
+        },
+        {
+          "title": "美股温和上扬，“三重巫术日”将有创纪录的7.1万亿美元期权到期",
+          "url": "https://wallstreetcn.com/livenews/3024062",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "甲骨文美股盘后涨3.59%。",
@@ -1279,7 +1315,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
@@ -1359,6 +1395,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时33分"
+        },
+        {
+          "title": "美股延续涨势，纳指上涨1%。",
+          "url": "https://flash.jin10.com/detail/20251219224535097800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         }
       ]
     },
@@ -1553,7 +1600,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国市场“流动性紧张”谜底揭晓？摩根大通从美联储账户提取近3500亿美元，投向美债",
@@ -1614,6 +1661,17 @@
           "time_info": "14时32分"
         },
         {
+          "title": "10月日本、英国增持美债超百亿美元，中国持仓下降，加拿大大降",
+          "url": "https://wallstreetcn.com/articles/3761670",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
+        },
+        {
           "title": "10年期美债收益率跌约4个基点，在美国CPI通胀数据出炉时刷新日低，逼近4.1%",
           "url": "https://wallstreetcn.com/livenews/3023329",
           "source": "华尔街见闻-快讯",
@@ -1661,7 +1719,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "墨西哥反垄断委员会：谷歌将根据裁决取消其对移动设备制造商施加的某些合同限制。",
@@ -1735,6 +1793,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 03时18分]"
+        },
+        {
+          "title": "派拓网络（Palo Alto Networks）宣布，与谷歌云达成（至少）数十亿美元规模的协议。",
+          "url": "https://wallstreetcn.com/livenews/3024048",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时22分"
         },
         {
           "title": "网络安全公司Mandiant的创始人Kevin Mandia（该公司谷歌以54 亿美元收购）成立了一家名为Armadin的新公司，旨在应对人工智能黑客攻击带来的迫在眉睫的威胁。Armadin正寻求在A轮融资中筹集1亿美元或更多，融资轮估值可能高达6亿美元或更高。",
@@ -1911,7 +1980,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时21分"
         },
