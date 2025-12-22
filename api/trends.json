@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-22T07:19:01.937968+08:00",
-  "total_titles_processed": 463,
+  "generated_at": "2025-12-22T09:44:37.557701+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "爱泼斯坦案16份文档上线不到一天离奇消失，含特朗普照片",
@@ -23,11 +23,12 @@
           "url": "https://wallstreetcn.com/articles/3761784",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时44分]"
         },
         {
           "title": "美国全面加速太空军备：特朗普定调“太空优势”，35亿美元卫星订单紧随其后",
@@ -36,11 +37,12 @@
           "ranks": [
             9,
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时44分]"
         },
         {
           "title": "美媒：以色列准备向特朗普汇报再次打击伊朗的方案",
@@ -48,11 +50,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            18,
+            17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[02时27分 ~ 07时19分]"
+          "appearance_count": 10,
+          "time_info": "[02时27分 ~ 09时44分]"
         },
         {
           "title": "美国白宫国家经济委员会主任哈塞特：目前核心通胀率的三个月平均值为1.6%；特朗普在美联储主席候选人中寻求数据依赖型人选。",
@@ -117,11 +120,12 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[03时15分 ~ 07时19分]"
+          "appearance_count": 8,
+          "time_info": "[03时15分 ~ 09时44分]"
         },
         {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-21）",
@@ -160,12 +164,23 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时18分 ~ 07时19分]"
+        },
+        {
+          "title": "特朗普与爱泼斯坦合影被美司法部秒删",
+          "url": "https://www.toutiao.com/trending/7586462838906949147/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美媒爆以色列准备再次打击伊朗",
@@ -228,9 +243,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "一位美国消息人士表示，美国情报部门目前没有迹象表明伊朗即将（对以色列）发动袭击。",
+          "url": "https://flash.jin10.com/detail/20251222092458266800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         }
       ]
     },
@@ -248,8 +274,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时19分]"
+          "appearance_count": 12,
+          "time_info": "[00时23分 ~ 09时44分]"
         },
         {
           "title": "报道：OpenAI业务利润率至10月已提升至70%",
@@ -264,6 +290,35 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时28分 ~ 07时19分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价又涨了",
+          "url": "https://www.douyin.com/hot/2342947",
+          "source": "抖音",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时23分 ~ 07时19分]"
+        },
+        {
+          "title": "银铂钯依然跟随金价走势，但表现更为强势",
+          "url": "https://flash.jin10.com/detail/20251222091949654800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时44分"
         }
       ]
     },
@@ -291,7 +346,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         }
@@ -322,24 +377,6 @@
           "title": "a16z年度重磅报告：OpenAI艰难守擂，谷歌火力全开，用户只选一个",
           "url": "https://wallstreetcn.com/articles/3761798",
           "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时23分 ~ 07时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价又涨了",
-          "url": "https://www.douyin.com/hot/2342947",
-          "source": "抖音",
           "ranks": [
             10,
             9
