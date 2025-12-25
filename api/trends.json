@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-25T17:23:33.589550+08:00",
-  "total_titles_processed": 1428,
+  "generated_at": "2025-12-25T18:22:09.811417+08:00",
+  "total_titles_processed": 1511,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普发小作文称《怦然心动》导演“精神错乱”招批评",
@@ -59,11 +59,35 @@
           "url": "https://news.ifeng.com/c/8pNHf17pGd9",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 18时22分]"
+        },
+        {
+          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
+          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时23分 ~ 18时22分]"
+        },
+        {
+          "title": "特朗普这一年如何搅乱全球",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%99%E4%B8%80%E5%B9%B4%E5%A6%82%E4%BD%95%E6%90%85%E4%B9%B1%E5%85%A8%E7%90%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时21分 ~ 18时22分]"
         },
         {
           "title": "高市早苗为何要赶在特朗普访华前访美",
@@ -77,15 +101,15 @@
           "time_info": "16时28分"
         },
         {
-          "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
-          "url": "https://v.ifeng.com/c/8pNDMX3vTpu",
-          "source": "凤凰网",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2025-12-25）",
+          "url": "https://flash.jin10.com/detail/20251225173408748800",
+          "source": "金十数据",
           "ranks": [
-            4
+            5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时23分"
+          "time_info": "18时22分"
         },
         {
           "title": "特朗普回应克林顿大尺度照被公布",
@@ -226,8 +250,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时40分 ~ 17时23分]"
+          "appearance_count": 13,
+          "time_info": "[09时40分 ~ 18时22分]"
         },
         {
           "title": "美股收盘：三大指数连涨五日 道指、标普双双收新高",
@@ -249,11 +273,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时26分 ~ 17时23分]"
+          "appearance_count": 8,
+          "time_info": "[11时26分 ~ 18时22分]"
         },
         {
           "title": "美股行业ETF普遍收涨",
