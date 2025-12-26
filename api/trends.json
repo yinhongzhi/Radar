@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T13:22:26.827886+08:00",
-  "total_titles_processed": 953,
+  "generated_at": "2025-12-26T14:32:34.408015+08:00",
+  "total_titles_processed": 1047,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时40分 ~ 13时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时40分 ~ 14时32分]"
         },
         {
           "title": "特朗普政府的移民局：要求阿富汗移民在圣诞节及元旦报到",
@@ -62,6 +62,17 @@
           "time_info": "[03时16分 ~ 07时20分]"
         },
         {
+          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
+          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时24分 ~ 14时32分]"
+        },
+        {
           "title": "美国总统特朗普：战争部执行了无数次完美打击。",
           "url": "https://flash.jin10.com/detail/20251226070310001800",
           "source": "金十数据",
@@ -82,17 +93,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
-        },
-        {
-          "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
-          "url": "https://news.ifeng.com/c/8pOSTawSWI3",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时24分 ~ 13时22分]"
         },
         {
           "title": "乌克兰总统泽连斯基：与美国特使威特科夫和特朗普高级顾问库什纳通话约一小时。",
@@ -146,6 +146,17 @@
           "time_info": "11时25分"
         },
         {
+          "title": "欧盟竞争事务专员Teresa Ribera表示，欧洲必须更加有力地捍卫其监管体系，才能保持全球竞争力。她呼吁抵制美国总统特朗普以及那些在欧盟内进行游说要求改革的人所施加的压力。",
+          "url": "https://flash.jin10.com/detail/20251226130524809800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
+        },
+        {
           "title": "专家：特朗普或在2026“压榨”美联储",
           "url": "https://www.toutiao.com/trending/7587727738132270635/",
           "source": "今日头条",
@@ -171,7 +182,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -199,8 +210,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时40分 ~ 13时22分]"
+          "appearance_count": 7,
+          "time_info": "[09时40分 ~ 14时32分]"
         },
         {
           "title": "加拿大皇家银行BlueBay资管公司首席投资官马克·道丁：新任美联储主席不会简单迎合特朗普，金价或难重现2025年强劲涨幅。（每经网）",
@@ -240,6 +251,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时35分 ~ 13时22分]"
+        },
+        {
+          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
+          "url": "https://www.cls.cn/detail/2240558",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时32分"
         },
         {
           "title": "中信证券：流动性宽松预期下金价有望延续涨势，2026年或冲击5000美元",
@@ -358,8 +380,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时26分 ~ 13时22分]"
+          "appearance_count": 17,
+          "time_info": "[00时26分 ~ 14时32分]"
         }
       ]
     },
