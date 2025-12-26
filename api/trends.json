@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-26T16:28:30.933567+08:00",
-  "total_titles_processed": 1224,
+  "generated_at": "2025-12-26T17:22:56.890840+08:00",
+  "total_titles_processed": 1320,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "肯尼迪中心冠特朗普名后，年度音乐会取消",
@@ -29,8 +29,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时40分 ~ 16时28分]"
+          "appearance_count": 10,
+          "time_info": "[09时40分 ~ 17时22分]"
         },
         {
           "title": "特朗普官宣“黄金舰队”计划：真不是冲着中国，两国关系可好了",
@@ -124,6 +124,28 @@
           "time_info": "[01时19分 ~ 04时23分]"
         },
         {
+          "title": "特朗普人事强震引爆新争议",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%BA%E4%BA%8B%E5%BC%BA%E9%9C%87%E5%BC%95%E7%88%86%E6%96%B0%E4%BA%89%E8%AE%AE",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时28分 ~ 17时22分]"
+        },
+        {
+          "title": "美媒自问自答：特朗普“黄金舰队”能匹敌中国吗？难",
+          "url": "https://news.ifeng.com/c/8pOsqY3DwLX",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时22分"
+        },
+        {
           "title": "美媒：为试图减少对中国供应链依赖，特朗普政府推动补贴电池产业",
           "url": "https://flash.jin10.com/detail/20251226065412046800",
           "source": "金十数据",
@@ -207,7 +229,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -221,17 +243,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时40分"
-        },
-        {
-          "title": "特朗普人事强震引爆新争议",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%BA%BA%E4%BA%8B%E5%BC%BA%E9%9C%87%E5%BC%95%E7%88%86%E6%96%B0%E4%BA%89%E8%AE%AE",
-          "source": "百度热搜",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时28分"
         }
       ]
     },
@@ -250,8 +261,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时40分 ~ 16时28分]"
+          "appearance_count": 10,
+          "time_info": "[09时40分 ~ 17时22分]"
         },
         {
           "title": "金价、银价、铜价，均创历史新高，发生了什么？后市怎么走？",
@@ -296,6 +307,19 @@
           "time_info": "[00时26分 ~ 04时23分]"
         },
         {
+          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
+          "url": "https://www.cls.cn/detail/2240558",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时32分 ~ 17时22分]"
+        },
+        {
           "title": "铂金价格飙升至每盎司2390美元以上，创历史新高。",
           "url": "https://wallstreetcn.com/livenews/3026999",
           "source": "华尔街见闻-快讯",
@@ -307,19 +331,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时25分 ~ 13时22分]"
-        },
-        {
-          "title": "金价疯涨一年突破4500美元，银行理财相关产品却在大幅收缩，头部公司二元看涨策略全面退场",
-          "url": "https://www.cls.cn/detail/2240558",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时32分 ~ 16时28分]"
         },
         {
           "title": "铂金价格创纪录新高，因欧盟拟撤销燃油车禁售令",
@@ -400,7 +411,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -411,7 +422,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时28分"
         },
@@ -472,8 +483,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时26分 ~ 16时28分]"
+          "appearance_count": 20,
+          "time_info": "[00时26分 ~ 17时22分]"
         }
       ]
     },
