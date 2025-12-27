@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-27T09:29:18.911325+08:00",
-  "total_titles_processed": 661,
+  "generated_at": "2025-12-27T11:23:23.545591+08:00",
+  "total_titles_processed": 771,
   "failed_sources": [],
   "trends": [
     {
@@ -27,11 +27,12 @@
           "ranks": [
             11,
             10,
-            9
+            9,
+            12
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时24分 ~ 09时29分]"
+          "appearance_count": 13,
+          "time_info": "[00时24分 ~ 11时23分]"
         },
         {
           "title": "节后首日美股走低，贵金属“疯狂”，白银暴涨10%，和平曙光重挫油价，比特币遭冷落",
@@ -52,9 +53,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 11时23分]"
         },
         {
           "title": "美股七巨头收盘播报｜，特斯拉收跌2.1%，英伟达涨1%",
@@ -82,6 +83,18 @@
           "time_info": "[07时20分 ~ 09时29分]"
         },
         {
+          "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
+          "url": "https://www.zhihu.com/question/1988017332140864055",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 11时23分]"
+        },
+        {
           "title": "（美股）费城金银指数收涨1.45%，报363.21点，时隔一个交易日再创收盘历史新高，本周累计上涨4.43%。 （全球时段）纽约证交所ARCA金矿开采商指数收涨1.04%，报2572.35点，也时隔一天再创收盘历史新高，本周累涨4.53%，周一美股开盘时“跳空”走高，后续持续高位震荡。",
           "url": "https://wallstreetcn.com/livenews/3027473",
           "source": "华尔街见闻-快讯",
@@ -104,6 +117,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时20分 ~ 07时20分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
+          "url": "https://www.cls.cn/detail/2241688",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 11时23分]"
         },
         {
           "title": "标普500续创新高 “圣诞老人行情”预期支撑美股",
@@ -130,35 +154,13 @@
           "time_info": "[00时24分 ~ 01时18分]"
         },
         {
-          "title": "霸王茶姬美股跌超 14%，创上市以来新低，其咖啡因争议影响有多大？现在做什么才能挽回声誉？",
-          "url": "https://www.zhihu.com/question/1988017332140864055",
-          "source": "知乎",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
-          "title": "美股收盘：三大指数集体微跌 金银铜铝板块涨幅居前",
-          "url": "https://www.cls.cn/detail/2241688",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时29分"
-        },
-        {
           "title": "黄金ETF收涨将近1.2%，领跑美股大类资产类ETF，今年已涨超72%",
           "url": "https://wallstreetcn.com/livenews/3027493",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
@@ -247,9 +249,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时29分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时29分 ~ 11时23分]"
         },
         {
           "title": "特朗普：“未经我批准，泽连斯基一无所有”",
@@ -258,7 +260,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时29分"
         },
