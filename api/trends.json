@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T06:19:50.939238+08:00",
-  "total_titles_processed": 575,
+  "generated_at": "2025-12-31T07:19:37.805757+08:00",
+  "total_titles_processed": 619,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
@@ -26,8 +26,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "得知普京官邸遭袭，特朗普：我很生气！",
@@ -38,8 +38,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "特朗普称不担心解放军绕台军演",
@@ -50,8 +50,19 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时19分]"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：希望与沙特及其他国家扩大亚伯拉罕协议。 伊朗正在新地点重建导弹能力。 如果哈马斯被解除武装，加沙可能出现新政府。 特朗普和我想要在西岸建设基础设施。 我认为伊朗需要特朗普的警告。",
+          "url": "https://wallstreetcn.com/livenews/3028961",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "特朗普：正考虑以“严重失职”为由起诉鲍威尔，1月或公布下任美联储主席人选",
@@ -70,11 +81,12 @@
           "url": "https://flash.jin10.com/detail/20251231054352146800",
           "source": "金十数据",
           "ranks": [
-            4
+            4,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时19分]"
         },
         {
           "title": "法官裁定：特朗普政府必须从美联储为CFPB申请资金",
@@ -95,11 +107,12 @@
           "ranks": [
             23,
             30,
-            29
+            29,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时23分 ~ 06时19分]"
+          "appearance_count": 4,
+          "time_info": "[04时23分 ~ 07时19分]"
         },
         {
           "title": "乌克兰总统泽连斯基：如果美国总统特朗普访问乌克兰，这将“很有用”。",
@@ -143,7 +156,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -184,7 +197,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -196,8 +209,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时27分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "静待美联储会议纪要，美股指集体低开，现货黄金反弹至4400美元，白银涨逾5%，在岸人民币破7",
@@ -217,9 +230,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
+        },
+        {
+          "title": "交投情绪清淡，美股指三连跌，黄金反弹后劲不足，白银涨逾5%，伦铜八连涨",
+          "url": "https://wallstreetcn.com/articles/3762305",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         },
         {
           "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览（美股收盘）",
@@ -227,11 +251,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            19
+            19,
+            28
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时19分]"
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 07时19分]"
         },
         {
           "title": "金十图示：2025年12月30日（周二）热门中概股行情一览（美股收盘）",
@@ -239,11 +264,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            20
+            20,
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时19分]"
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 07时19分]"
         },
         {
           "title": "美股收盘：三大股指小幅收跌 百度涨超4%",
@@ -251,33 +277,48 @@
           "source": "金十数据",
           "ranks": [
             4,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时19分]"
+          "appearance_count": 3,
+          "time_info": "[05时20分 ~ 07时19分]"
         },
         {
           "title": "白银价格大幅反弹 美股三大期指微跌 | 今夜看点",
           "url": "https://www.cls.cn/detail/2244587",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时27分 ~ 02时31分]"
+          "appearance_count": 4,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "（美股）费城金银指数收涨0.79%，报347.01点。 （全球时段）纽约证交所ARCA金矿开采商指数收涨0.79%，报2469.28点，北京时间22:30美股开盘之前维持微幅下跌状态、之后“跳空”至2498.05点刷新日高又在极大程度上快速回吐这一波涨幅。 原材料指数跌0.17%，报228.42点。 金属与矿业指数跌0.29%，报217.41点。",
           "url": "https://wallstreetcn.com/livenews/3028934",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时19分]"
+        },
+        {
+          "title": "美股七巨头收盘播报｜特斯拉收跌超1.1%，Meta涨1.1%",
+          "url": "https://wallstreetcn.com/livenews/3028929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时19分]"
         },
         {
           "title": "金十图示：2025年12月30日（周二）美股热门股票行情一览（美股盘中）",
@@ -302,24 +343,13 @@
           "time_info": "02时31分"
         },
         {
-          "title": "美股七巨头收盘播报｜特斯拉收跌超1.1%，Meta涨1.1%",
-          "url": "https://wallstreetcn.com/livenews/3028929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
-        },
-        {
           "title": "生物科技ETF收跌将近1.1%，领跌美股行业ETF，能源ETF涨约0.8%",
           "url": "https://wallstreetcn.com/livenews/3028922",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时19分"
         },
@@ -344,6 +374,59 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "周二（12月30日）纽约尾盘，ICE美元指数涨0.21%，报98.241点，日内交投区间为97.939-98.269点。 彭博美元指数涨0.13%，报1202.97点，日内交投区间为1200.04-1203.23点。",
+          "url": "https://wallstreetcn.com/livenews/3028908",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时23分 ~ 05时20分]"
+        },
+        {
+          "title": "美联储会议纪要公布后，现货金银短线波动不大，美元指数DXY小幅走高。",
+          "url": "https://flash.jin10.com/detail/20251231030228136800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时17分 ~ 04时23分]"
+        },
+        {
+          "title": "美元指数30日上涨",
+          "url": "https://flash.jin10.com/detail/20251231041346663800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时19分]"
+        },
+        {
+          "title": "巴西圣保罗证交所指数收涨0.71%，报16.2万点，2025年累计上涨大约35%。 12月30日，巴西雷亚尔兑美元涨1.74%，报5.4753雷亚尔，2025年以来累计上涨11.31%。 巴西股市将于12月31日休市。",
+          "url": "https://wallstreetcn.com/livenews/3028943",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     },
@@ -413,19 +496,20 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时27分 ~ 06时19分]"
+          "appearance_count": 7,
+          "time_info": "[00时27分 ~ 07时19分]"
         },
         {
           "title": "金价周二略微反弹",
           "url": "https://wallstreetcn.com/livenews/3028932",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            27
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 07时19分]"
         },
         {
           "title": "金价波动",
@@ -477,48 +561,6 @@
           "ranks": [
             10,
             29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时20分 ~ 06时19分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "周二（12月30日）纽约尾盘，ICE美元指数涨0.21%，报98.241点，日内交投区间为97.939-98.269点。 彭博美元指数涨0.13%，报1202.97点，日内交投区间为1200.04-1203.23点。",
-          "url": "https://wallstreetcn.com/livenews/3028908",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 05时20分]"
-        },
-        {
-          "title": "美联储会议纪要公布后，现货金银短线波动不大，美元指数DXY小幅走高。",
-          "url": "https://flash.jin10.com/detail/20251231030228136800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时17分 ~ 04时23分]"
-        },
-        {
-          "title": "美元指数30日上涨",
-          "url": "https://flash.jin10.com/detail/20251231041346663800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            24
           ],
           "is_new": false,
           "appearance_count": 2,
