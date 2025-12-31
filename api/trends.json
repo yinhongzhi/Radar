@@ -1,11 +1,11 @@
 {
-  "generated_at": "2025-12-31T15:24:04.349821+08:00",
-  "total_titles_processed": 1242,
+  "generated_at": "2025-12-31T16:30:32.182417+08:00",
+  "total_titles_processed": 1331,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "外交部回应特朗普涉中国军演言论",
@@ -31,6 +31,21 @@
           "time_info": "[00时27分 ~ 09时42分]"
         },
         {
+          "title": "中方回应特朗普涉东部战区军演言论",
+          "url": "https://www.toutiao.com/trending/7589836293949902363/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12,
+            5,
+            7,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[11时27分 ~ 16时30分]"
+        },
+        {
           "title": "普京通知特朗普自己官邸遇袭，泽连斯基：完全的捏造",
           "url": "https://news.ifeng.com/c/8pVTIAwBtvp",
           "source": "凤凰网",
@@ -40,20 +55,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时27分 ~ 07时19分]"
-        },
-        {
-          "title": "中方回应特朗普涉东部战区军演言论",
-          "url": "https://www.toutiao.com/trending/7589836293949902363/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时27分 ~ 15时24分]"
         },
         {
           "title": "特朗普称不担心解放军绕台军演",
@@ -100,6 +101,19 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时27分"
+        },
+        {
+          "title": "国台办回应特朗普称不担心台海局势",
+          "url": "https://www.toutiao.com/trending/7589884892247543346/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[14时33分 ~ 16时30分]"
         },
         {
           "title": "报道：特朗普移动推迟原定今年底交付智能手机的计划",
@@ -164,18 +178,6 @@
           "time_info": "[04时23分 ~ 07时19分]"
         },
         {
-          "title": "国台办回应特朗普称不担心台海局势",
-          "url": "https://www.toutiao.com/trending/7589884892247543346/",
-          "source": "今日头条",
-          "ranks": [
-            12,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时33分 ~ 15时24分]"
-        },
-        {
           "title": "乌克兰总统泽连斯基：如果美国总统特朗普访问乌克兰，这将“很有用”。",
           "url": "https://flash.jin10.com/detail/20251230235722002800",
           "source": "金十数据",
@@ -198,6 +200,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时21分 ~ 02时31分]"
+        },
+        {
+          "title": "特朗普关于伊朗的强硬表态释放何信号",
+          "url": "https://www.toutiao.com/trending/7589843589102833215/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时29分 ~ 16时30分]"
         },
         {
           "title": "美军首次袭击委内瑞拉陆地目标？特朗普称美军摧毁一“大型设施”",
@@ -291,8 +304,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[07时19分 ~ 15时24分]"
+          "appearance_count": 12,
+          "time_info": "[07时19分 ~ 16时30分]"
         },
         {
           "title": "美股回调，金属全线回落，现货白银重挫8%，沪金跌破千元关口，原油反弹",
@@ -738,8 +751,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时41分 ~ 14时33分]"
+          "appearance_count": 8,
+          "time_info": "[09时41分 ~ 16时30分]"
         }
       ]
     }
