@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-06T22:22:44.283711+08:00",
-  "total_titles_processed": 2012,
+  "generated_at": "2026-01-06T23:23:24.838051+08:00",
+  "total_titles_processed": 2108,
   "failed_sources": [],
   "trends": [
     {
@@ -80,8 +80,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[13时25分 ~ 22时22分]"
+          "appearance_count": 14,
+          "time_info": "[13时25分 ~ 23时23分]"
         },
         {
           "title": "国际刑事法院原首席检察官：特朗普犯了“侵略罪”",
@@ -106,8 +106,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时34分 ~ 22时22分]"
+          "appearance_count": 11,
+          "time_info": "[14时34分 ~ 23时23分]"
         },
         {
           "title": "中方回应特朗普谈格陵兰岛涉华言论",
@@ -141,8 +141,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时27分 ~ 22时22分]"
+          "appearance_count": 30,
+          "time_info": "[00时27分 ~ 23时23分]"
         },
         {
           "title": "中方回应特朗普威胁古巴等国",
@@ -223,17 +223,6 @@
           "time_info": "[12时40分 ~ 17时26分]"
         },
         {
-          "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
-          "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时29分 ~ 15时26分]"
-        },
-        {
           "title": "特朗普不到1年对7国动武",
           "url": "https://www.toutiao.com/trending/7591141159599276095/",
           "source": "今日头条",
@@ -244,8 +233,19 @@
             19
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时23分 ~ 23时23分]"
+        },
+        {
+          "title": "特朗普绑架马杜罗后，台湾岛内有人开始害怕了",
+          "url": "https://news.ifeng.com/c/8pgiEdwqhPP",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[18时23分 ~ 22时22分]"
+          "time_info": "[11时29分 ~ 15时26分]"
         },
         {
           "title": "特朗普“跨国绑架”，露出了帝国獠牙",
@@ -432,6 +432,20 @@
           "time_info": "[21时37分 ~ 22时22分]"
         },
         {
+          "title": "曝特朗普对委动手前曾暗示油企高管",
+          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
+          "source": "百度热搜",
+          "ranks": [
+            6,
+            23,
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时43分 ~ 23时23分]"
+        },
+        {
           "title": "特朗普放话“我们绝对需要格陵兰岛”，丹麦强硬回击",
           "url": "https://news.ifeng.com/c/8pgZkuVTOGk",
           "source": "凤凰网",
@@ -464,19 +478,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 02时32分]"
-        },
-        {
-          "title": "曝特朗普对委动手前曾暗示油企高管",
-          "url": "https://www.baidu.com/s?wd=%E6%9B%9D%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E5%A7%94%E5%8A%A8%E6%89%8B%E5%89%8D%E6%9B%BE%E6%9A%97%E7%A4%BA%E6%B2%B9%E4%BC%81%E9%AB%98%E7%AE%A1",
-          "source": "百度热搜",
-          "ranks": [
-            6,
-            23,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时43分 ~ 22时22分]"
         },
         {
           "title": "格陵兰岛总理强硬表态：特朗普必须放弃“吞并幻想”",
@@ -669,7 +670,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -713,7 +714,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -867,7 +868,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -900,7 +901,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -930,7 +931,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "地缘紧张但未失控，美股债同涨，道指新高，疲软美元撑商品走强，原油转涨，白银暴涨",
@@ -941,8 +942,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[07时20分 ~ 22时22分]"
+          "appearance_count": 19,
+          "time_info": "[07时20分 ~ 23时23分]"
         },
         {
           "title": "美股指集体高开，台积电涨超3%再创新高，伦铜触及1.3万美元创新高，现货白银涨6%，现货黄金突破4450美元，原油转涨",
@@ -983,17 +984,6 @@
           "time_info": "[00时27分 ~ 13时25分]"
         },
         {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3031726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260106050521518800",
           "source": "金十数据",
@@ -1030,6 +1020,18 @@
           "time_info": "[05时21分 ~ 06时21分]"
         },
         {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3031726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 23时23分]"
+        },
+        {
           "title": "美股收盘：道指创新高 雪佛龙涨5%",
           "url": "https://flash.jin10.com/detail/20260106050116385800",
           "source": "金十数据",
@@ -1042,6 +1044,17 @@
           "time_info": "[05时21分 ~ 06时21分]"
         },
         {
+          "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2249754",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 23时23分]"
+        },
+        {
           "title": "（美股）费城金银指数收涨3.29%，报353.86点，美股盘初持续、平滑地上涨，后续逐步回吐涨幅。 （全球时段）纽约证交所ARCA金矿开采商指数收涨2.71%，报2505.23点。 （美股）原材料指数涨1.75%，报234.90点。 （美股）金属与矿业指数涨2.08%，报228.54点。",
           "url": "https://wallstreetcn.com/livenews/3031115",
           "source": "华尔街见闻-快讯",
@@ -1051,6 +1064,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "美股指期货小幅走低，全球股指触及历史高位，现货白银日内涨超3%，伦铜再创新高，油价震荡",
+          "url": "https://wallstreetcn.com/articles/3762631",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         },
         {
           "title": "微芯科技(MCHP.O)美股盘后上涨2.5%，此前公司更新三季度业绩指引。",
@@ -1075,17 +1099,6 @@
           "time_info": "00时27分"
         },
         {
-          "title": "美股三大期指涨跌不一 存储概念股持续走强 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2249754",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
           "title": "金十图示：2026年01月05日（周一）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260106013941390800",
           "source": "金十数据",
@@ -1108,6 +1121,17 @@
           "time_info": "02时32分"
         },
         {
+          "title": "半导体ETF涨1.57%，在盘初领跑美股行业ETF，科技行业ETF、全球科技股指数ETF至多涨0.46%，银行业ETF跌0.19%，可选消费ETF跌0.59%。",
+          "url": "https://wallstreetcn.com/livenews/3031741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
+        },
+        {
           "title": "伯恩斯坦：将波音(BA.N)列为美股国防板块首选股。",
           "url": "https://flash.jin10.com/detail/20260106193052150800",
           "source": "金十数据",
@@ -1117,6 +1141,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "20时43分"
+        },
+        {
+          "title": "金十图示：2026年01月06日（周二）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260106223855995800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         }
       ]
     },
@@ -1136,11 +1171,12 @@
             10,
             11,
             12,
-            13
+            13,
+            14
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[14时34分 ~ 22时22分]"
+          "appearance_count": 13,
+          "time_info": "[14时34分 ~ 23时23分]"
         },
         {
           "title": "据美联社：伊朗警方在德黑兰大巴扎集市与抗议者发生冲突。",
@@ -1251,7 +1287,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时22分"
         },
@@ -1320,6 +1356,17 @@
           "time_info": "15时26分"
         },
         {
+          "title": "金价大涨 黄金珠宝行业面临分化",
+          "url": "https://www.toutiao.com/trending/7592189155237789750/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 23时23分]"
+        },
+        {
           "title": "瑞银上调金价目标至5000美元",
           "url": "https://www.toutiao.com/trending/7592024699937230379/",
           "source": "今日头条",
@@ -1362,17 +1409,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
-        },
-        {
-          "title": "金价大涨 黄金珠宝行业面临分化",
-          "url": "https://www.toutiao.com/trending/7592189155237789750/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
         },
         {
           "title": "阿塞拜疆总统坚信金价上涨，国家基金大赚超100亿美元",
@@ -1490,8 +1526,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[09时42分 ~ 22时22分]"
+          "appearance_count": 18,
+          "time_info": "[09时42分 ~ 23时23分]"
         },
         {
           "title": "OpenAI家务机器人售价2万美元",
@@ -1594,7 +1630,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "三星今年将为8亿设备配备谷歌AI",
@@ -1617,6 +1653,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
+        },
+        {
+          "title": "Snowflake在Snowflake Cortex AI中提供谷歌公司Gemini 3。",
+          "url": "https://wallstreetcn.com/livenews/3031737",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时23分"
         }
       ]
     },
