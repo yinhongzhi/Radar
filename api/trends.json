@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-01-10T22:19:57.124578+08:00",
-  "total_titles_processed": 1626,
+  "generated_at": "2026-01-10T23:19:58.571864+08:00",
+  "total_titles_processed": 1668,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 137,
+      "match_count": 140,
       "titles": [
+        {
+          "title": "特朗普放话：我可不要中俄当邻居",
+          "url": "https://news.ifeng.com/c/8pnjeKLWxbZ",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[16时27分 ~ 23时19分]"
+        },
         {
           "title": "特朗普极力拉投资声称“委美加起来有全球55%石油”",
           "url": "https://news.ifeng.com/c/8pnVKuGn9sJ",
@@ -44,21 +57,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[07时19分 ~ 22时19分]"
-        },
-        {
-          "title": "特朗普放话：我可不要中俄当邻居",
-          "url": "https://news.ifeng.com/c/8pnjeKLWxbZ",
-          "source": "凤凰网",
-          "ranks": [
-            2,
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时27分 ~ 22时19分]"
+          "appearance_count": 17,
+          "time_info": "[07时19分 ~ 23时19分]"
         },
         {
           "title": "外交部回应特朗普涉台言论",
@@ -73,6 +73,19 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时28分 ~ 13时21分]"
+        },
+        {
+          "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
+          "url": "https://wallstreetcn.com/articles/3762989",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时19分 ~ 23时19分]"
         },
         {
           "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
@@ -99,11 +112,12 @@
             6,
             7,
             8,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时40分 ~ 22时19分]"
+          "appearance_count": 15,
+          "time_info": "[09时40分 ~ 23时19分]"
         },
         {
           "title": "特朗普：美国将立即开始提炼和销售多达5000万桶委内瑞拉石油，所有国家都可购买",
@@ -116,8 +130,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[12时34分 ~ 22时19分]"
+          "appearance_count": 13,
+          "time_info": "[12时34分 ~ 23时19分]"
         },
         {
           "title": "关税裁决交易指南：如果最高法院说“不”，特朗普还有什么牌？",
@@ -152,19 +166,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时24分 ~ 15时19分]"
-        },
-        {
-          "title": "特朗普“泄密”！提前12小时发帖曝光美非农就业数据",
-          "url": "https://wallstreetcn.com/articles/3762989",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时19分 ~ 22时19分]"
         },
         {
           "title": "特朗普妄称中国若在其任内改变台湾现状，他将非常不悦，中方回应",
@@ -345,6 +346,21 @@
           "time_info": "[01时23分 ~ 05时21分]"
         },
         {
+          "title": "特朗普：很快打击墨境内",
+          "url": "https://wallstreetcn.com/livenews/3034537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            12,
+            15,
+            22,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时17分 ~ 23时19分]"
+        },
+        {
           "title": "特朗普重申要得到格陵兰岛",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%87%8D%E7%94%B3%E8%A6%81%E5%BE%97%E5%88%B0%E6%A0%BC%E9%99%B5%E5%85%B0%E5%B2%9B",
           "source": "bilibili 热搜",
@@ -389,6 +405,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "特朗普暗示：突袭式军事行动，或成美未来海外用兵主要模式",
+          "url": "https://wallstreetcn.com/livenews/3034570",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "知名对冲基金经理比尔·阿克曼：美国总统特朗普呼吁将信用卡利率上限设定为10%“是一个错误”。",
           "url": "https://flash.jin10.com/detail/20260110102018762800",
           "source": "金十数据",
@@ -424,6 +451,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "意大利总理说很多问题上不同意特朗普做法",
+          "url": "https://wallstreetcn.com/livenews/3034549",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            6,
+            13,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 23时19分]"
         },
         {
           "title": "美国消费者银行家协会：美国银行业回应信用卡利率设限提案，表示认同美国总统特朗普帮助美国人获得更实惠信贷的目标。",
@@ -493,20 +534,6 @@
           "time_info": "[16时27分 ~ 19时17分]"
         },
         {
-          "title": "特朗普：很快打击墨境内",
-          "url": "https://wallstreetcn.com/livenews/3034537",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2,
-            12,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时17分 ~ 22时19分]"
-        },
-        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-10）",
           "url": "https://flash.jin10.com/detail/20260110184939351800",
           "source": "金十数据",
@@ -560,19 +587,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[16时27分 ~ 19时17分]"
-        },
-        {
-          "title": "意大利总理说很多问题上不同意特朗普做法",
-          "url": "https://wallstreetcn.com/livenews/3034549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            6,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时19分]"
         },
         {
           "title": "美国总统特朗普：进行了一场非常不错的会议。",
@@ -661,6 +675,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 07时20分]"
+        },
+        {
+          "title": "信号比规模重要--高盛解读“特朗普版QE”",
+          "url": "https://wallstreetcn.com/articles/3763012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 23时19分]"
         },
         {
           "title": "美国总统特朗普：我喜欢丹麦，但他们并不拥有格陵兰。 不管他们（丹麦）喜欢与否，我都要对格陵兰做点什么。 要么和平解决，要么（我）硬来（the easy or hard way）。",
@@ -776,6 +803,19 @@
           "time_info": "[05时21分 ~ 07时20分]"
         },
         {
+          "title": "G7峰会据悉系为特朗普而改期",
+          "url": "https://flash.jin10.com/detail/20260110203044449800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 23时19分]"
+        },
+        {
           "title": "印度否认莫迪未致电特朗普让印美贸易谈判停滞",
           "url": "https://flash.jin10.com/detail/20260110135717759800",
           "source": "金十数据",
@@ -787,18 +827,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时31分 ~ 16时27分]"
-        },
-        {
-          "title": "信号比规模重要--高盛解读“特朗普版QE”",
-          "url": "https://wallstreetcn.com/articles/3763012",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时19分]"
         },
         {
           "title": "特朗普宣称“不需要国际法” 联合国秘书长重申立场",
@@ -906,18 +934,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时21分 ~ 07时20分]"
-        },
-        {
-          "title": "G7峰会据悉系为特朗普而改期",
-          "url": "https://flash.jin10.com/detail/20260110203044449800",
-          "source": "金十数据",
-          "ranks": [
-            6,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时19分]"
         },
         {
           "title": "特朗普的“房管局长”Pulte：需要处理鲍威尔",
@@ -1154,6 +1170,17 @@
           "time_info": "04时24分"
         },
         {
+          "title": "特朗普称「无论难易」都要得到格陵兰岛，美国近期对委内瑞拉和格陵兰岛的一系列动作是否宣告危险时代的来临？",
+          "url": "https://www.zhihu.com/question/1993265925231761101",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "美国总统特朗普：将在2月份第一周会见哥伦比亚总统Petro。",
           "url": "https://wallstreetcn.com/livenews/3034358",
           "source": "华尔街见闻-快讯",
@@ -1182,7 +1209,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时19分"
         },
@@ -1561,6 +1588,17 @@
           "time_info": "05时21分"
         },
         {
+          "title": "俄罗斯回应特朗普释放俄船员",
+          "url": "https://www.douyin.com/hot/2362921",
+          "source": "抖音",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
+        },
+        {
           "title": "特朗普政府称ICE特工枪杀事件是自卫",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E7%A7%B0ICE%E7%89%B9%E5%B7%A5%E6%9E%AA%E6%9D%80%E4%BA%8B%E4%BB%B6%E6%98%AF%E8%87%AA%E5%8D%AB",
           "source": "百度热搜",
@@ -1641,7 +1679,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗大范围断网，澳大利亚曾发警告，要求其公民尽快离伊，大规模断网是什么原因？如何解读当前伊朗局势？",
@@ -1679,8 +1717,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 23时19分]"
         },
         {
           "title": "伊朗军方表示将捍卫国家利益",
@@ -1689,11 +1727,12 @@
           "ranks": [
             1,
             4,
-            11
+            11,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 23时19分]"
         },
         {
           "title": "伊朗代表致信安理会 谴责美以干涉伊朗内政并煽动暴力",
@@ -1711,15 +1750,19 @@
           "time_info": "[16时27分 ~ 20时39分]"
         },
         {
-          "title": "据伊朗迈赫尔通讯社：伊朗安全部队拦截了试图从伊拉克入境的库尔德武装分子。",
-          "url": "https://flash.jin10.com/detail/20260110220521103800",
+          "title": "伊朗塔斯尼姆通讯社报道称，伊朗当局在德黑兰附近的巴赫雷斯坦镇逮捕了100名“武装暴乱分子”。",
+          "url": "https://flash.jin10.com/detail/20260110184952339800",
           "source": "金十数据",
           "ranks": [
-            1
+            2,
+            11,
+            17,
+            25,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时19分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时17分 ~ 23时19分]"
         },
         {
           "title": "法国总统府：法国、英国和德国敦促伊朗当局保持克制。",
@@ -1756,20 +1799,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[16时27分 ~ 19时17分]"
-        },
-        {
-          "title": "伊朗塔斯尼姆通讯社报道称，伊朗当局在德黑兰附近的巴赫雷斯坦镇逮捕了100名“武装暴乱分子”。",
-          "url": "https://flash.jin10.com/detail/20260110184952339800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            11,
-            17,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时17分 ~ 22时19分]"
         },
         {
           "title": "胡锡进：伊朗的骚乱离政权更迭似乎还远，但有个关键变量",
@@ -1810,6 +1839,31 @@
           "time_info": "[02时32分 ~ 07时20分]"
         },
         {
+          "title": "据伊朗迈赫尔通讯社：伊朗安全部队拦截了试图从伊拉克入境的库尔德武装分子。",
+          "url": "https://flash.jin10.com/detail/20260110220521103800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时19分 ~ 23时19分]"
+        },
+        {
+          "title": "伊朗军方表示将捍卫国家利益",
+          "url": "https://flash.jin10.com/detail/20260110205008555800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            11,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 23时19分]"
+        },
+        {
           "title": "伊朗军队呼吁公民保持警惕，以挫败敌人的阴谋。",
           "url": "https://flash.jin10.com/detail/20260110164419679800",
           "source": "金十数据",
@@ -1823,16 +1877,29 @@
           "time_info": "[17时20分 ~ 19时17分]"
         },
         {
-          "title": "伊朗军方表示将捍卫国家利益",
-          "url": "https://flash.jin10.com/detail/20260110205008555800",
+          "title": "伊拉克方面表示，没有迹象表明伊朗的天然气供应会很快恢复。",
+          "url": "https://flash.jin10.com/detail/20260110192253430800",
           "source": "金十数据",
           "ranks": [
-            3,
-            11
+            8,
+            14,
+            22,
+            27
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 23时19分]"
+        },
+        {
+          "title": "伊朗军方：将捍卫国家利益",
+          "url": "https://news.ifeng.com/c/8po8Gjrx0kc",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时29分 ~ 23时19分]"
         },
         {
           "title": "伊朗军队表示，誓言捍卫国家利益、战略基础设施和公共财产。",
@@ -1861,30 +1928,6 @@
           "time_info": "[14时31分 ~ 16时27分]"
         },
         {
-          "title": "伊拉克方面表示，没有迹象表明伊朗的天然气供应会很快恢复。",
-          "url": "https://flash.jin10.com/detail/20260110192253430800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            14,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时19分]"
-        },
-        {
-          "title": "伊朗军方：将捍卫国家利益",
-          "url": "https://news.ifeng.com/c/8po8Gjrx0kc",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时29分 ~ 22时19分]"
-        },
-        {
           "title": "黎真主党领导人会见伊朗外长，双方讨论加强合作",
           "url": "https://wallstreetcn.com/livenews/3034356",
           "source": "华尔街见闻-快讯",
@@ -1906,6 +1949,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时23分"
+        },
+        {
+          "title": "记者报道伊朗现状",
+          "url": "https://www.douyin.com/hot/2363807",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时19分"
         },
         {
           "title": "WTI原油日内涨幅达3.0%，报59.38美元/桶。 委内瑞拉危机数日后，石油交易员又迎来伊朗风险。",
@@ -1989,8 +2043,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时40分 ~ 22时19分]"
+          "appearance_count": 15,
+          "time_info": "[09时40分 ~ 23时19分]"
         },
         {
           "title": "DeepSeek能否第二次震惊全世界",
@@ -2003,8 +2057,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时31分 ~ 22时19分]"
+          "appearance_count": 11,
+          "time_info": "[14时31分 ~ 23时19分]"
         },
         {
           "title": "UP主解读DeepSeek进化史",
@@ -2018,8 +2072,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[15时19分 ~ 22时19分]"
+          "appearance_count": 10,
+          "time_info": "[15时19分 ~ 23时19分]"
         },
         {
           "title": "DeepSeek能第二次震惊世界吗",
@@ -2029,11 +2083,12 @@
             6,
             7,
             23,
-            26
+            26,
+            25
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时31分 ~ 18时21分]"
+          "appearance_count": 7,
+          "time_info": "[14时31分 ~ 23时19分]"
         },
         {
           "title": "DeepSeek 计划二月中旬发布新模型 DeepSeek-V4，有哪些技术亮点？能第二次震惊世界吗？",
@@ -2045,8 +2100,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时39分 ~ 22时19分]"
+          "appearance_count": 4,
+          "time_info": "[20时39分 ~ 23时19分]"
         },
         {
           "title": "DeepSeek准备第二次震惊全世界",
@@ -2164,11 +2219,12 @@
             10,
             9,
             7,
-            8
+            8,
+            11
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时40分 ~ 22时19分]"
+          "appearance_count": 15,
+          "time_info": "[09时40分 ~ 23时19分]"
         },
         {
           "title": "12月非农不及预期，美股三大股指开盘涨跌不一，纽约银日内涨幅达5.0%，美元指数短线下挫，基本金属铜铝继续攀升，嘉能可上涨10%",
@@ -2305,8 +2361,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时40分 ~ 22时19分]"
+          "appearance_count": 15,
+          "time_info": "[09时40分 ~ 23时19分]"
         },
         {
           "title": "非农数据”温和“，标普新高，美元指数四连涨，黄金重回4500关口",
