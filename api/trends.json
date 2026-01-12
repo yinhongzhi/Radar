@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-12T17:32:48.790351+08:00",
-  "total_titles_processed": 1294,
+  "generated_at": "2026-01-12T18:26:00.519133+08:00",
+  "total_titles_processed": 1386,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 54,
+      "match_count": 58,
       "titles": [
         {
           "title": "以色列官员：应做好准备应对伊朗局势，但不应进行干预",
@@ -47,6 +47,31 @@
           "time_info": "[00时24分 ~ 16时32分]"
         },
         {
+          "title": "为什么近两年时间，以伊朗为首的势力突然不行了？",
+          "url": "https://www.zhihu.com/question/1989482381921518040",
+          "source": "知乎",
+          "ranks": [
+            11,
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时49分 ~ 18时26分]"
+        },
+        {
+          "title": "伊朗哀悼3天",
+          "url": "https://www.douyin.com/hot/2364835",
+          "source": "抖音",
+          "ranks": [
+            13,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时49分 ~ 18时26分]"
+        },
+        {
           "title": "伊朗总统称美国与以色列指使「暴徒」在伊朗制造不稳定局势，透露出哪些信息？",
           "url": "https://www.zhihu.com/question/1993777619401929393",
           "source": "知乎",
@@ -58,16 +83,16 @@
           "time_info": "[00时24分 ~ 07时20分]"
         },
         {
-          "title": "为什么近两年时间，以伊朗为首的势力突然不行了？",
-          "url": "https://www.zhihu.com/question/1989482381921518040",
-          "source": "知乎",
+          "title": "伊朗外长：局势目前完全得到控制",
+          "url": "https://news.ifeng.com/c/8pr5wuKJ4Wo",
+          "source": "凤凰网",
           "ranks": [
-            11,
-            6
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时49分 ~ 17时32分]"
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时26分]"
         },
         {
           "title": "伊朗政府宣布全国哀悼三天",
@@ -77,18 +102,6 @@
             12,
             18,
             24
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时49分 ~ 17时32分]"
-        },
-        {
-          "title": "伊朗哀悼3天",
-          "url": "https://www.douyin.com/hot/2364835",
-          "source": "抖音",
-          "ranks": [
-            13,
-            16
           ],
           "is_new": false,
           "appearance_count": 9,
@@ -164,6 +177,20 @@
           "time_info": "[00时24分 ~ 06时19分]"
         },
         {
+          "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
+          "url": "https://www.zhihu.com/question/1993995898699658333",
+          "source": "知乎",
+          "ranks": [
+            19,
+            15,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[14时36分 ~ 18时26分]"
+        },
+        {
           "title": "伊朗政府宣布全国哀悼3天",
           "url": "https://news.ifeng.com/c/8pqCxO7hS7y",
           "source": "凤凰网",
@@ -173,17 +200,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时19分 ~ 07时20分]"
-        },
-        {
-          "title": "伊朗外长：局势目前完全得到控制",
-          "url": "https://news.ifeng.com/c/8pr5wuKJ4Wo",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 17时32分]"
         },
         {
           "title": "据美联社：以色列官员透露，该国总理内塔尼亚胡周六深夜与美国国务卿鲁比奥通话，讨论伊朗局势。",
@@ -264,6 +280,17 @@
           "time_info": "[00时24分 ~ 05时19分]"
         },
         {
+          "title": "伊朗司法总监：部分骚乱煽动者居住在境外",
+          "url": "https://wallstreetcn.com/livenews/3035195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "伊朗外交部发言人：除瑞士作为中间渠道外，伊朗与美方特使的沟通渠道仍然保持开放。",
           "url": "https://flash.jin10.com/detail/20260112162231094800",
           "source": "金十数据",
@@ -315,20 +342,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时23分 ~ 07时20分]"
-        },
-        {
-          "title": "伊朗已有超百名安全人员在骚乱中丧生，美国将讨论干涉方案，骚乱的根本原因是何？美国或将从哪些方面干涉？",
-          "url": "https://www.zhihu.com/question/1993995898699658333",
-          "source": "知乎",
-          "ranks": [
-            19,
-            15,
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时36分 ~ 17时32分]"
         },
         {
           "title": "伊朗政府宣布全国哀悼三天：悼念在伊朗抵抗美国和以色列斗争中牺牲的人员",
@@ -493,6 +506,17 @@
           "time_info": "[05时19分 ~ 07时20分]"
         },
         {
+          "title": "伊朗：不寻求战争但已做好准备",
+          "url": "https://www.douyin.com/hot/2365457",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 18时26分]"
+        },
+        {
           "title": "伊朗外长称已控制国内局势",
           "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%E7%A7%B0%E5%B7%B2%E6%8E%A7%E5%88%B6%E5%9B%BD%E5%86%85%E5%B1%80%E5%8A%BF",
           "source": "bilibili 热搜",
@@ -516,6 +540,18 @@
           "time_info": "[06时19分 ~ 07时20分]"
         },
         {
+          "title": "伊朗外长：伊朗不寻求战争，但已做好战争准备",
+          "url": "https://wallstreetcn.com/livenews/3035145",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 18时26分]"
+        },
+        {
           "title": "伊朗警告若遭攻击必将还击",
           "url": "https://www.douyin.com/hot/2364390",
           "source": "抖音",
@@ -526,6 +562,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时48分 ~ 11时49分]"
+        },
+        {
+          "title": "伊朗外长：伊朗安全部队已控制全国局势",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32367578",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
         },
         {
           "title": "伊朗外长：互联网服务将在与安全部门协调后恢复",
@@ -551,15 +598,15 @@
           "time_info": "[07时20分 ~ 09时48分]"
         },
         {
-          "title": "伊朗外长：伊朗不寻求战争，但已做好战争准备",
-          "url": "https://wallstreetcn.com/livenews/3035145",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外长称安全部队已控制全国局势，并称美以应对伊朗发生的事件承担「直接责任」，如何理解这一表态？",
+          "url": "https://www.zhihu.com/question/1994070815289918935",
+          "source": "知乎",
           "ranks": [
-            7
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
         },
         {
           "title": "伊朗外长：伊朗近期骚乱与以色列摩萨德有关",
@@ -573,17 +620,6 @@
           "time_info": "15时27分"
         },
         {
-          "title": "伊朗：不寻求战争但已做好准备",
-          "url": "https://www.douyin.com/hot/2365457",
-          "source": "抖音",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
-        },
-        {
           "title": "伊朗外长：局势现已完全受控。",
           "url": "https://flash.jin10.com/detail/20260112150228914800",
           "source": "金十数据",
@@ -595,13 +631,24 @@
           "time_info": "15时27分"
         },
         {
+          "title": "伊朗司法总监：部分骚乱煽动者居住在境外",
+          "url": "https://flash.jin10.com/detail/20260112175202918800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
+        },
+        {
           "title": "伊朗全国多地集会谴责外国干涉",
           "url": "https://flash.jin10.com/detail/20260112163857086800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -656,7 +703,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -675,8 +722,21 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 52,
       "titles": [
+        {
+          "title": "特朗普发图自称“委内瑞拉代总统”",
+          "url": "https://news.ifeng.com/c/8pqpIh8lxzW",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[11时49分 ~ 18时26分]"
+        },
         {
           "title": "特朗普再次威胁伊朗，被曝已听取军事打击方案汇报 伊朗军方：团结起来挫败敌人阴谋",
           "url": "https://wallstreetcn.com/articles/3763030",
@@ -689,18 +749,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时24分 ~ 09时48分]"
-        },
-        {
-          "title": "特朗普发图自称“委内瑞拉代总统”",
-          "url": "https://news.ifeng.com/c/8pqpIh8lxzW",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时49分 ~ 17时32分]"
         },
         {
           "title": "特朗普表态让万千台湾民众看清现实",
@@ -738,31 +786,6 @@
           "time_info": "[00时24分 ~ 16时32分]"
         },
         {
-          "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
-          "url": "https://www.zhihu.com/question/1993540481494311303",
-          "source": "知乎",
-          "ranks": [
-            6,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时48分 ~ 17时32分]"
-        },
-        {
-          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
-          "url": "https://wallstreetcn.com/articles/3763032",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时24分 ~ 11时49分]"
-        },
-        {
           "title": "特朗普对台问题表态引岛内热议",
           "url": "https://www.douyin.com/hot/2364980",
           "source": "抖音",
@@ -775,8 +798,34 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[11时49分 ~ 17时32分]"
+          "appearance_count": 11,
+          "time_info": "[11时49分 ~ 18时26分]"
+        },
+        {
+          "title": "为「保护」美方所持委石油收入，特朗普宣布进入国家紧急状态，这意味着什么？将带来哪些影响？",
+          "url": "https://www.zhihu.com/question/1993540481494311303",
+          "source": "知乎",
+          "ranks": [
+            6,
+            12,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[09时48分 ~ 18时26分]"
+        },
+        {
+          "title": "美银Hartnett谈“一季度策略”：特朗普为中选“压通胀、降利率”，投资者“做多经济繁荣、做空AI泡沫”",
+          "url": "https://wallstreetcn.com/articles/3763032",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时24分 ~ 11时49分]"
         },
         {
           "title": "“台湾问题是中国自己的事！”特朗普最新表态，岛内震动",
@@ -801,6 +850,31 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时24分 ~ 07时20分]"
+        },
+        {
+          "title": "特朗普威胁古巴，委内瑞拉发声",
+          "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时26分]"
+        },
+        {
+          "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
+          "url": "https://news.ifeng.com/c/8pr7YJccLIS",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 18时26分]"
         },
         {
           "title": "特朗普被曝正考虑多个干涉伊朗方案",
@@ -855,30 +929,6 @@
           "time_info": "[11时49分 ~ 15时27分]"
         },
         {
-          "title": "特朗普威胁古巴，委内瑞拉发声",
-          "url": "https://news.ifeng.com/c/8pqpuA2I7mV",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 17时32分]"
-        },
-        {
-          "title": "特朗普称中俄只能在美方控制下购买委原油，中方回应",
-          "url": "https://news.ifeng.com/c/8pr7YJccLIS",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时32分 ~ 17时32分]"
-        },
-        {
           "title": "又要动手了？美媒爆料：特朗普或向中东派航母战斗群",
           "url": "https://news.ifeng.com/c/8ppuy7JPm5z",
           "source": "凤凰网",
@@ -925,6 +975,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时24分 ~ 05时19分]"
+        },
+        {
+          "title": "市场消息：墨西哥总统辛鲍姆将于周一与美国总统特朗普通电话。",
+          "url": "https://flash.jin10.com/detail/20260112180850351800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时26分"
         },
         {
           "title": "美国共和党参议员蒂利斯：如果之前还有人怀疑特朗普政府内部的顾问是否正在积极推动结束美联储的独立性，那么现在应该没有任何疑问了。",
@@ -1107,6 +1168,28 @@
           "time_info": "[05时19分 ~ 07时20分]"
         },
         {
+          "title": "“木头姐”预言：特朗普政府将很快开始采购比特币，建立国家储备！",
+          "url": "https://www.cls.cn/detail/2254447",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
+        },
+        {
+          "title": "美企业家：特朗普正在损害美国实力",
+          "url": "https://www.toutiao.com/trending/7593575351952343059/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时25分 ~ 18时26分]"
+        },
+        {
           "title": "特朗普车队因可疑物体改道",
           "url": "https://flash.jin10.com/detail/20260112092416383800",
           "source": "金十数据",
@@ -1276,8 +1359,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时48分 ~ 17时32分]"
+          "appearance_count": 12,
+          "time_info": "[09时48分 ~ 18时26分]"
         },
         {
           "title": "下周重磅日程：美国通胀、中国外贸数据，美股财报季正式开启，美高院关税裁决将出",
@@ -1312,9 +1395,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时32分 ~ 18时26分]"
         },
         {
           "title": "美股三大股指期货小幅低开，纳指期货下跌0.2%。",
@@ -1332,11 +1415,12 @@
           "url": "https://wallstreetcn.com/livenews/3035153",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            22
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时32分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时32分 ~ 18时26分]"
         },
         {
           "title": "特朗普呼吁将信用卡利率上限设定为10%，美股银行股盘前下跌，摩根大通下跌2.4%，花旗下跌3.6%，美国银行下跌1.5%。",
@@ -1345,7 +1429,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -1356,7 +1440,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
@@ -1386,8 +1470,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时50分 ~ 17时32分]"
+          "appearance_count": 10,
+          "time_info": "[12时50分 ~ 18时26分]"
         },
         {
           "title": "金价飙升 多家银行公告提醒",
@@ -1506,11 +1590,12 @@
           "url": "https://wallstreetcn.com/articles/3763059",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时27分 ~ 17时32分]"
+          "appearance_count": 5,
+          "time_info": "[15时27分 ~ 18时26分]"
         },
         {
           "title": "美股盘前，明星科技股普跌，英伟达(NVDA.O)跌1.2%、谷歌C(GOOG.O)跌0.95%、甲骨文(ORCL.N)跌1.7%、英特尔(INTC.O)跌2%。",
@@ -1519,7 +1604,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时32分"
         },
