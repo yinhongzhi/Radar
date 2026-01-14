@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-01-14T07:20:31.708672+08:00",
-  "total_titles_processed": 711,
+  "generated_at": "2026-01-14T09:47:06.884996+08:00",
+  "total_titles_processed": 870,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 84,
+      "match_count": 87,
       "titles": [
-        {
-          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
-          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时20分]"
-        },
         {
           "title": "美媒：特朗普政府对伊朗行动选项“远超传统空袭”",
           "url": "https://news.ifeng.com/c/8pspQ2slRcl",
           "source": "凤凰网",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 09时47分]"
+        },
+        {
+          "title": "特朗普想对伊朗直接动手，万斯“踩刹车”？",
+          "url": "https://news.ifeng.com/c/8psqYtTK9Dp",
+          "source": "凤凰网",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 8,
@@ -66,13 +66,24 @@
           "time_info": "[00时32分 ~ 05时21分]"
         },
         {
+          "title": "特朗普再度抨击鲍威尔：“那个混蛋”很快就要走人了",
+          "url": "https://www.cls.cn/detail/2256844",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
           "title": "伊朗驻联合国代表团指责美国总统特朗普鼓励政治动荡、煽动暴力、威胁伊朗主权，称美国和以色列应对由此造成平民生命损失承担法律责任，特别是青年群体中的伤亡。",
           "url": "https://flash.jin10.com/detail/20260114070919942800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -425,6 +436,17 @@
           "time_info": "[04时25分 ~ 05时21分]"
         },
         {
+          "title": "特朗普称取消与伊朗官员所有会面",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%96%E6%B6%88%E4%B8%8E%E4%BC%8A%E6%9C%97%E5%AE%98%E5%91%98%E6%89%80%E6%9C%89%E4%BC%9A%E9%9D%A2%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
           "title": "美国总统特朗普：我们将开始通过陆路打击毒贩。",
           "url": "https://flash.jin10.com/detail/20260114034918816800",
           "source": "金十数据",
@@ -662,7 +684,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -810,6 +832,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "据AXIOS网站：特朗普称他知道可能对伊朗采取的应对措施，但他强调尚未做出决定。他说他需要今天晚些时候了解伊朗局势和死亡人数的准确情况。",
+          "url": "https://flash.jin10.com/detail/20260114090134298800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时47分"
+        },
+        {
           "title": "美国总统特朗普：美联储主席扼杀了经济的每一次反弹。",
           "url": "https://flash.jin10.com/detail/20260114031448130800",
           "source": "金十数据",
@@ -838,7 +871,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -967,7 +1000,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 24,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗议长：若美“误判”形势，美基地将遭打击",
@@ -977,8 +1010,25 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 09时47分]"
+        },
+        {
+          "title": "外交部回应伊朗局势",
+          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            16,
+            6,
+            19,
+            9,
+            10,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 09时47分]"
         },
         {
           "title": "美国国务院要求美国公民立即离开伊朗",
@@ -1007,20 +1057,15 @@
           "time_info": "[00时32分 ~ 07时20分]"
         },
         {
-          "title": "外交部回应伊朗局势",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A4%96%E4%BA%A4%E9%83%A8%E5%9B%9E%E5%BA%94%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF",
-          "source": "bilibili 热搜",
+          "title": "关系高度紧张，美军在伊朗附近集结多少兵力？",
+          "url": "https://news.ifeng.com/c/8psTbSveNse",
+          "source": "凤凰网",
           "ranks": [
-            13,
-            16,
-            6,
-            19,
-            9,
-            10
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时20分]"
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
         },
         {
           "title": "美媒：海湾国家游说美国别对伊朗动武",
@@ -1029,7 +1074,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -1051,7 +1096,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -1116,6 +1161,39 @@
           "time_info": "[03时20分 ~ 04时25分]"
         },
         {
+          "title": "美法两国开始从伊朗撤人，如何看待这一举动？",
+          "url": "https://www.zhihu.com/question/1994353599640270638",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
+          "title": "美国会对伊朗动武吗",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%9B%BD%E4%BC%9A%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8A%A8%E6%AD%A6%E5%90%97",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
+          "title": "英国：将对伊朗实施全面进一步制裁",
+          "url": "https://www.toutiao.com/trending/7594879556943806506/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
+        },
+        {
           "title": "美国能源部长赖特：如果伊朗政权垮台，美国乐于与伊朗在石油领域开展合作。",
           "url": "https://flash.jin10.com/detail/20260114045620341800",
           "source": "金十数据",
@@ -1133,7 +1211,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         },
@@ -1251,7 +1329,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "核心通胀降温，美股指集体高开，日元跌至159，现货白银逼近89美元，伊朗局势提振油价",
@@ -1266,6 +1344,29 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时32分 ~ 06时22分]"
+        },
+        {
+          "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
+          "url": "https://www.cls.cn/detail/2256863",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 09时47分]"
+        },
+        {
+          "title": "CPI降温未改降息预期，银行股拖累美股，摩根大通跌超4%，金银新高但黄金转跌",
+          "url": "https://wallstreetcn.com/articles/3763167",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时46分 ~ 09时47分]"
         },
         {
           "title": "金十图示：2026年01月13日（周二）美股热门股票行情一览（美股收盘）",
@@ -1299,17 +1400,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时21分"
-        },
-        {
-          "title": "美股收盘：三大股指自历史高位回落 摩根大通拉开财报季序幕",
-          "url": "https://www.cls.cn/detail/2256863",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时20分"
         },
         {
           "title": "美国总统特朗普赞赏美股的表现。",
@@ -1398,6 +1488,18 @@
           "time_info": "[00时32分 ~ 07时20分]"
         },
         {
+          "title": "UP主锐评苹果谷歌合作",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 09时47分]"
+        },
+        {
           "title": "苹果选中Gemini，谷歌登上“4万亿”",
           "url": "https://wallstreetcn.com/articles/3763115",
           "source": "华尔街见闻",
@@ -1408,18 +1510,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时32分 ~ 05时21分]"
-        },
-        {
-          "title": "UP主锐评苹果谷歌合作",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E8%8B%B9%E6%9E%9C%E8%B0%B7%E6%AD%8C%E5%90%88%E4%BD%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时20分]"
         },
         {
           "title": "gemini3pro 真那么好用吗？",
@@ -1477,7 +1567,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时20分"
         }
@@ -1529,29 +1619,31 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "梁文锋新论文剧透下一代模型",
+          "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87%E5%89%A7%E9%80%8F%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%A8%A1%E5%9E%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 09时47分]"
+        },
+        {
           "title": "梁文锋署名新论文：给大模型配本“字典”，计算、记忆分家后智商爆表，剧透DeepSeek V4？",
           "url": "https://wallstreetcn.com/articles/3763151",
           "source": "华尔街见闻",
           "ranks": [
             9,
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时20分]"
-        },
-        {
-          "title": "梁文锋新论文剧透下一代模型",
-          "url": "https://search.bilibili.com/all?keyword=%E6%A2%81%E6%96%87%E9%94%8B%E6%96%B0%E8%AE%BA%E6%96%87%E5%89%A7%E9%80%8F%E4%B8%8B%E4%B8%80%E4%BB%A3%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 07时20分]"
+          "appearance_count": 10,
+          "time_info": "[00时32分 ~ 09时47分]"
         }
       ]
     },
