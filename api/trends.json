@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-16T11:40:18.665183+08:00",
-  "total_titles_processed": 1008,
+  "generated_at": "2026-01-16T12:40:33.269803+08:00",
+  "total_titles_processed": 1096,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 79,
+      "match_count": 81,
       "titles": [
         {
           "title": "美军航母开往中东，特朗普要“速战速决”？",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 11时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 12时40分]"
         },
         {
           "title": "特朗普：我会去委内瑞拉，委代总统将访美",
@@ -30,6 +30,28 @@
           "time_info": "[00时35分 ~ 07时21分]"
         },
         {
+          "title": "欧洲多国向格陵兰岛派遣军事人员，白宫：影响不了特朗普",
+          "url": "https://news.ifeng.com/c/8pwzGme7VVB",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 12时40分]"
+        },
+        {
+          "title": "她给特朗普献了份大礼，诺奖气坏了",
+          "url": "https://news.ifeng.com/c/8pxCIgAkMR2",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 12时40分]"
+        },
+        {
           "title": "特朗普称将“观望”伊朗局势发展，美油盘中跌3%",
           "url": "https://wallstreetcn.com/articles/3763320",
           "source": "华尔街见闻",
@@ -41,37 +63,15 @@
           "time_info": "[00时35分 ~ 05时22分]"
         },
         {
-          "title": "欧洲多国向格陵兰岛派遣军事人员，白宫：影响不了特朗普",
-          "url": "https://news.ifeng.com/c/8pwzGme7VVB",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 11时40分]"
-        },
-        {
-          "title": "她给特朗普献了份大礼，诺奖气坏了",
-          "url": "https://news.ifeng.com/c/8pxCIgAkMR2",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 11时40分]"
-        },
-        {
           "title": "特朗普暂缓对伊朗动武决定",
           "url": "https://news.ifeng.com/c/8pwnQlJCjgv",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 12时40分]"
         },
         {
           "title": "美国白宫：特朗普的医保计划将要求保险公司公布费率和承保范围的对比信息。",
@@ -94,17 +94,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "特朗普关税突然熄火了？丨Hi，今天怎么看？",
-          "url": "https://flash.jin10.com/detail/20260116112201338800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
         },
         {
           "title": "美国白宫：特朗普提议的成本分摊计划可能使最常见的奥巴马医改计划保费降低逾10%。",
@@ -229,6 +218,18 @@
           "time_info": "[02时37分 ~ 04时26分]"
         },
         {
+          "title": "特朗普关税突然熄火了？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260116112201338800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 12时40分]"
+        },
+        {
           "title": "美国总统特朗普：欧盟对美国科技公司非常不公平。 对美国公司和美国人来说，欧盟科技罚款都非常不公平。",
           "url": "https://wallstreetcn.com/livenews/3038123",
           "source": "华尔街见闻-快讯",
@@ -239,6 +240,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时32分]"
+        },
+        {
+          "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
+          "url": "https://wallstreetcn.com/articles/3763392",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 12时40分]"
         },
         {
           "title": "白宫新闻秘书莱维特：欧洲国家向格陵兰岛派兵不会影响美国总统特朗普关于格陵兰岛的决定。",
@@ -276,17 +288,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时22分 ~ 09时44分]"
-        },
-        {
-          "title": "航母打击群开往中东，特朗普：希望“速战速决”！伊朗进入最高战备状态，约2000枚导弹可覆盖美以基地！多国航班绕飞伊领空",
-          "url": "https://wallstreetcn.com/articles/3763392",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 11时40分]"
         },
         {
           "title": "白宫新闻秘书Leavitt：美国总统特朗普愿意与任何人共同解决信用卡利率上限问题。",
@@ -361,6 +362,17 @@
           "time_info": "[03时24分 ~ 04时26分]"
         },
         {
+          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
+          "url": "https://wallstreetcn.com/articles/3763411",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 12时40分]"
+        },
+        {
           "title": "特朗普盟友声称冰岛将成为“第52州”，冰岛要求美方作出解释",
           "url": "https://wallstreetcn.com/livenews/3038113",
           "source": "华尔街见闻-快讯",
@@ -371,6 +383,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时32分]"
+        },
+        {
+          "title": "报道称内塔尼亚胡在通话中请求特朗普推迟可能对伊朗发动的军事打击，白宫未透露通话细节",
+          "url": "https://wallstreetcn.com/livenews/3038420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 12时40分]"
         },
         {
           "title": "特朗普称加沙和平委员会成立",
@@ -461,17 +485,6 @@
           "time_info": "07时21分"
         },
         {
-          "title": "白银狂欢暂歇，特朗普暂未对关键矿产征关税，现货银价一度跌超7%后V字反弹",
-          "url": "https://wallstreetcn.com/articles/3763411",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
-        },
-        {
           "title": "美国密歇根州州长：特朗普政府延长与加拿大、墨西哥的北美自由贸易协议，对美国的汽车生产至关重要。",
           "url": "https://flash.jin10.com/detail/20260116002253912800",
           "source": "金十数据",
@@ -560,6 +573,17 @@
           "time_info": "09时44分"
         },
         {
+          "title": "研究：特朗普“言出必行”倾向上升 伊朗难再赌其退缩",
+          "url": "https://flash.jin10.com/detail/20260116113330716800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "特朗普：作为“和平委员会”主席 支持巴勒斯坦技术官僚委员会",
           "url": "https://wallstreetcn.com/livenews/3038330",
           "source": "华尔街见闻-快讯",
@@ -577,7 +601,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -670,6 +694,17 @@
           "time_info": "09时44分"
         },
         {
+          "title": "“特朗普级”军舰造价或创美历史新高，高达220亿美元",
+          "url": "https://wallstreetcn.com/livenews/3038447",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "“先别打伊朗”，以总理劝告特朗普避免隔靴搔痒式进攻",
           "url": "https://flash.jin10.com/detail/20260116034226096800",
           "source": "金十数据",
@@ -690,17 +725,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时22分"
-        },
-        {
-          "title": "报道称内塔尼亚胡在通话中请求特朗普推迟可能对伊朗发动的军事打击，白宫未透露通话细节",
-          "url": "https://wallstreetcn.com/livenews/3038420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
         },
         {
           "title": "声明显示：美国总统特朗普要求国会通过其医改方案。",
@@ -753,7 +777,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -786,7 +810,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -797,7 +821,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         },
@@ -896,7 +920,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时40分"
         }
@@ -904,7 +928,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "王毅同伊朗外长通话，连说3个“反对”",
@@ -923,11 +947,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[01时32分 ~ 11时40分]"
+          "appearance_count": 13,
+          "time_info": "[01时32分 ~ 12时40分]"
         },
         {
           "title": "王毅同伊朗外长通电话",
@@ -938,8 +963,23 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 11时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 12时40分]"
+        },
+        {
+          "title": "王毅同伊朗外长阿拉格齐通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32392740",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            13,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 12时40分]"
         },
         {
           "title": "美国宣布对伊朗实施新制裁",
@@ -954,20 +994,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时35分 ~ 07时21分]"
-        },
-        {
-          "title": "王毅同伊朗外长阿拉格齐通电话",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32392740",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            13,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 11时40分]"
         },
         {
           "title": "撤走侨民、调动航母、出动侦察机，美军准备好对伊朗“动武”了？",
@@ -1073,8 +1099,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 11时40分]"
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 12时40分]"
         },
         {
           "title": "据福克斯新闻：美国空军、陆军和海军军事力量正向中东转移。美国军方正在针对伊朗制定一系列应对方案。",
@@ -1117,11 +1143,24 @@
           "url": "https://www.cls.cn/detail/2259666",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 12时40分]"
+        },
+        {
+          "title": "中方呼吁美方对伊朗放下武力执念",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%91%BC%E5%90%81%E7%BE%8E%E6%96%B9%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%94%BE%E4%B8%8B%E6%AD%A6%E5%8A%9B%E6%89%A7%E5%BF%B5",
+          "source": "百度热搜",
+          "ranks": [
+            18,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 12时40分]"
         },
         {
           "title": "葡萄牙暂时关闭驻伊朗大使馆",
@@ -1144,6 +1183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "新西兰驻伊朗大使馆因“安全形势恶化”暂时关闭",
+          "url": "https://wallstreetcn.com/livenews/3038448",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "美国驻联合国特使：伊朗声称准备好与美国对话，但其行动却表明并非如此。",
@@ -1177,17 +1227,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
-        },
-        {
-          "title": "中方呼吁美方对伊朗放下武力执念",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%91%BC%E5%90%81%E7%BE%8E%E6%96%B9%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%94%BE%E4%B8%8B%E6%AD%A6%E5%8A%9B%E6%89%A7%E5%BF%B5",
-          "source": "百度热搜",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时40分"
         },
         {
           "title": "美国财政部发布与伊朗相关的制裁措施。 对多家伊朗公司和若干个人实施制裁。",
@@ -1248,7 +1287,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "科技股下挫拖累美股，金银铜锡盘中齐创新高，金银比跌破50，原油重挫",
@@ -1282,8 +1321,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时43分 ~ 11时40分]"
+          "appearance_count": 4,
+          "time_info": "[09时43分 ~ 12时40分]"
+        },
+        {
+          "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
+          "url": "https://www.cls.cn/detail/2259656",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时21分 ~ 12时40分]"
         },
         {
           "title": "台积电季报提振市场信心 芯片股美股盘前集体上涨 | 今夜看点",
@@ -1297,18 +1348,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[03时24分 ~ 09时44分]"
-        },
-        {
-          "title": "美股收盘：台积电财报点燃AI行情 银行股强势回暖 三大指数集体收涨",
-          "url": "https://www.cls.cn/detail/2259656",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时21分 ~ 11时40分]"
         },
         {
           "title": "芯片股撑美股反弹，半导体指数新高，台积电涨超4%，美元站上99关口，金银微跌",
@@ -1392,6 +1431,17 @@
           "time_info": "06时22分"
         },
         {
+          "title": "台积电财报引爆AI行情：美股芯片股普涨 阿斯麦市值突破5000亿美元",
+          "url": "https://www.cls.cn/detail/2259861",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
+        },
+        {
           "title": "金十图示：2026年01月15日（周四）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260116013113671800",
           "source": "金十数据",
@@ -1439,7 +1489,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "如何看待姚班大神陈立杰官宣入职 OpenAI？",
@@ -1450,11 +1500,12 @@
             3,
             1,
             2,
-            14
+            14,
+            13
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 11时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 12时40分]"
         },
         {
           "title": "OpenAI寻求美国供应商，推动机器人与AI设备计划",
@@ -1467,6 +1518,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时35分 ~ 01时32分]"
+        },
+        {
+          "title": "清华姚班陈立杰加入OpenAI",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B8%85%E5%8D%8E%E5%A7%9A%E7%8F%AD%E9%99%88%E7%AB%8B%E6%9D%B0%E5%8A%A0%E5%85%A5OpenAI",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时40分"
         },
         {
           "title": "OpenAI：发布提案请求，重点关注人工智能供应链关键环节中的美国本土制造业。",
@@ -1569,11 +1631,12 @@
           "source": "微博",
           "ranks": [
             21,
-            22
+            22,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时35分 ~ 11时40分]"
+          "appearance_count": 14,
+          "time_info": "[00时35分 ~ 12时40分]"
         },
         {
           "title": "金价",
