@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T14:38:29.532680+08:00",
-  "total_titles_processed": 1011,
+  "generated_at": "2026-01-19T15:29:28.195579+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
@@ -55,17 +55,6 @@
           "time_info": "[00时24分 ~ 11时50分]"
         },
         {
-          "title": "欧洲8国集体回应特朗普关税威胁",
-          "url": "https://news.ifeng.com/c/8q27ChONuGJ",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时48分 ~ 14时38分]"
-        },
-        {
           "title": "【早报】中国商业航天首次！载人飞船着陆缓冲技术获成功验证；特朗普再打“关税牌”，欧盟多国：正考虑反制",
           "url": "https://www.cls.cn/detail/2261562",
           "source": "财联社热门",
@@ -74,8 +63,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时48分 ~ 14时38分]"
+          "appearance_count": 7,
+          "time_info": "[09时48分 ~ 15时29分]"
+        },
+        {
+          "title": "欧洲8国集体回应特朗普关税威胁",
+          "url": "https://news.ifeng.com/c/8q27ChONuGJ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时48分 ~ 15时29分]"
         },
         {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
@@ -275,6 +276,29 @@
           "time_info": "[00时24分 ~ 05时19分]"
         },
         {
+          "title": "【外交部回应美方对欧洲八国加征关税】据新华社，美国总统特朗普17日在社交媒体上宣布，将从2月1日起对来自丹麦、挪威、瑞典、法国、德国、英国、荷兰和芬兰的输美商品加征10%关税，并宣称加征关税的税率将从6月1日起提高至25%，直到相关方就美国“全面、彻底购买格陵兰岛”达成协议。对此，外交部发言人郭嘉昆19日在例行记者会上表示，中方已经多次阐明在格陵兰岛问题上的立场。以联合国宪章宗旨和原则为基础的国际法是现行国际秩序的基础，必须得到维护。",
+          "url": "https://wallstreetcn.com/livenews/3039608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
+        },
+        {
+          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
+          "url": "https://wallstreetcn.com/articles/3763548",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 15时29分]"
+        },
+        {
           "title": "伊朗：将追究特朗普等人责任",
           "url": "https://news.ifeng.com/c/8q2B9XoMclS",
           "source": "凤凰网",
@@ -389,18 +413,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时24分 ~ 04时23分]"
-        },
-        {
-          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
-          "url": "https://wallstreetcn.com/articles/3763548",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时52分 ~ 14时38分]"
         },
         {
           "title": "美媒：欧洲担心若特朗普解散北约 恐将被迫自组防务联盟",
@@ -577,7 +589,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -588,7 +600,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -610,7 +622,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -635,6 +647,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时52分"
+        },
+        {
+          "title": "美媒：特朗普就职一周年满意度下降",
+          "url": "https://www.toutiao.com/trending/7596933654534688302/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时29分"
         }
       ]
     },
@@ -673,6 +696,19 @@
           "time_info": "[09时48分 ~ 14时38分]"
         },
         {
+          "title": "一图看懂｜从中产跌落到空难激增：美国制裁如何重创伊朗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32411977",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            14,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[11时50分 ~ 15时29分]"
+        },
+        {
           "title": "伊朗外交部：美国干涉应为美伊关系紧张负责",
           "url": "https://wallstreetcn.com/livenews/3039297",
           "source": "华尔街见闻-快讯",
@@ -697,18 +733,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时16分 ~ 07时20分]"
-        },
-        {
-          "title": "一图看懂｜从中产跌落到空难激增：美国制裁如何重创伊朗？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32411977",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时50分 ~ 14时38分]"
         },
         {
           "title": "土耳其外长称以色列摩萨德正在介入伊朗局势",
@@ -844,7 +868,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         },
@@ -855,7 +879,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时38分"
         }
@@ -875,8 +899,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时24分 ~ 14时38分]"
+          "appearance_count": 18,
+          "time_info": "[00时24分 ~ 15时29分]"
         }
       ]
     }
