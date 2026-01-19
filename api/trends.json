@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-19T18:29:15.632651+08:00",
-  "total_titles_processed": 1395,
+  "generated_at": "2026-01-19T19:21:58.482926+08:00",
+  "total_titles_processed": 1471,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 69,
+      "match_count": 74,
       "titles": [
         {
           "title": "欧洲8国集体回应特朗普关税威胁",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时48分 ~ 18时29分]"
+          "appearance_count": 14,
+          "time_info": "[09时48分 ~ 19时21分]"
         },
         {
           "title": "特朗普挥关税大棒强索格陵兰岛，意大利总理：这是个“错误”",
@@ -80,6 +80,20 @@
           "time_info": "[09时48分 ~ 15时29分]"
         },
         {
+          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
+          "url": "https://wallstreetcn.com/articles/3763548",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[12时52分 ~ 19时21分]"
+        },
+        {
           "title": "伊朗总统警告特朗普：攻击哈梅内伊将引发全面战争",
           "url": "https://news.ifeng.com/c/8q1bdYC7EP7",
           "source": "凤凰网",
@@ -90,19 +104,6 @@
           "is_new": false,
           "appearance_count": 12,
           "time_info": "[00时24分 ~ 09时48分]"
-        },
-        {
-          "title": "特朗普为何强夺格陵兰岛？贝森特：因为欧洲“软弱”",
-          "url": "https://wallstreetcn.com/articles/3763548",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时52分 ~ 18时29分]"
         },
         {
           "title": "欧洲指责特朗普引发“危险恶性循环”，将面临哪些艰难抉择？",
@@ -272,7 +273,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -312,26 +313,17 @@
           "time_info": "16时33分"
         },
         {
-          "title": "英镑兑美元短线波动不大，此前英国首相斯塔默对特朗普的加征关税威胁亮明立场：“大错特错”",
-          "url": "https://wallstreetcn.com/livenews/3039707",
-          "source": "华尔街见闻-快讯",
+          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
+          "url": "https://wallstreetcn.com/articles/3763556",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            10,
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
-        },
-        {
-          "title": "高盛：特朗普破坏性政策频发 料引发新一轮资金逃离美国资产",
-          "url": "https://wallstreetcn.com/livenews/3039703",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时29分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 19时21分]"
         },
         {
           "title": "伊朗：将追究特朗普等人责任",
@@ -384,6 +376,17 @@
           "time_info": "[11时50分 ~ 14时38分]"
         },
         {
+          "title": "从抢油到夺岛：解析特朗普的“唐罗主义”",
+          "url": "https://wallstreetcn.com/articles/3763551",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时52分 ~ 19时21分]"
+        },
+        {
           "title": "美国财长贝森特：最高法院推翻特朗普关税的可能性不大。",
           "url": "https://flash.jin10.com/detail/20260118221440040800",
           "source": "金十数据",
@@ -415,6 +418,18 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时24分 ~ 04时23分]"
+        },
+        {
+          "title": "特朗普：“解决俄罗斯对格陵兰岛威胁”时机已到",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32414383",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 19时21分]"
         },
         {
           "title": "英国右翼政党罕见公开批评特朗普政府",
@@ -486,6 +501,18 @@
           "time_info": "[15时29分 ~ 16时33分]"
         },
         {
+          "title": "英镑兑美元短线波动不大，此前英国首相斯塔默对特朗普的加征关税威胁亮明立场：“大错特错”",
+          "url": "https://wallstreetcn.com/livenews/3039707",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 19时21分]"
+        },
+        {
           "title": "出于多重考虑 特朗普没有下达对伊朗动武指令",
           "url": "https://wallstreetcn.com/livenews/3039672",
           "source": "华尔街见闻-快讯",
@@ -498,16 +525,16 @@
           "time_info": "[17时35分 ~ 18时29分]"
         },
         {
-          "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
-          "url": "https://wallstreetcn.com/articles/3763556",
-          "source": "华尔街见闻",
+          "title": "高盛：特朗普破坏性政策频发 料引发新一轮资金逃离美国资产",
+          "url": "https://wallstreetcn.com/livenews/3039703",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10,
-            8
+            4,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 18时29分]"
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 19时21分]"
         },
         {
           "title": "德国财长Klingbeil：欧洲不会因格陵兰岛问题被美国勒索。 欧洲在准备应对美国威胁的反制措施。 无意令贸易局势升级，也不寻求升级。 欧洲愿意与美国在贸易问题上折中。 欧洲应该研究如何利用现有工具。 由于特朗普的挑衅，已经触及了“红线”。",
@@ -520,28 +547,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时33分 ~ 17时35分]"
-        },
-        {
-          "title": "从抢油到夺岛：解析特朗普的“唐罗主义”",
-          "url": "https://wallstreetcn.com/articles/3763551",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时52分 ~ 14时38分]"
-        },
-        {
-          "title": "特朗普：“解决俄罗斯对格陵兰岛威胁”时机已到",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32414383",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 18时29分]"
         },
         {
           "title": "特朗普称加拿大需要增加国防开支。（NBC）",
@@ -603,6 +608,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时24分 ~ 01时18分]"
+        },
+        {
+          "title": "英媒：特朗普撼动世界，世界却爱上中国",
+          "url": "https://wallstreetcn.com/livenews/3039698",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时29分 ~ 19时21分]"
         },
         {
           "title": "特朗普称，在达拉斯建造一个“纽约证券交易所”对纽约来说是一件糟糕透顶的事。",
@@ -699,15 +716,15 @@
           "time_info": "14时38分"
         },
         {
-          "title": "英媒：特朗普撼动世界，世界却爱上中国",
-          "url": "https://wallstreetcn.com/livenews/3039698",
-          "source": "华尔街见闻-快讯",
+          "title": "欧盟委员会发言人：目前达沃斯尚未安排欧盟委员会主席冯德莱恩与美国总统特朗普会面。",
+          "url": "https://flash.jin10.com/detail/20260119191243867800",
+          "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时29分"
+          "time_info": "19时21分"
         },
         {
           "title": "消息人士：格陵兰岛只是开胃菜，特朗普的下一个目标是加拿大",
@@ -743,6 +760,17 @@
           "time_info": "14时38分"
         },
         {
+          "title": "德总理称特朗普关税威胁损害跨大西洋关系",
+          "url": "https://wallstreetcn.com/livenews/3039709",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "专家：若特朗普对欧关税威胁落实，欧盟将集体反击美国",
           "url": "https://flash.jin10.com/detail/20260119155228340800",
           "source": "金十数据",
@@ -752,6 +780,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时33分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-01-19）",
+          "url": "https://flash.jin10.com/detail/20260119185844242800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "市场分析：特朗普对欧洲的关税威胁最终将反噬自身",
@@ -798,6 +837,17 @@
           "time_info": "17时35分"
         },
         {
+          "title": "德国政府发言人：不认同美国总统特朗普的和平委员会会削弱联合国的担忧。",
+          "url": "https://flash.jin10.com/detail/20260119184647494800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "特朗普致信挪威首相：“不再有义务只考虑和平”",
           "url": "https://wallstreetcn.com/livenews/3039642",
           "source": "华尔街见闻-快讯",
@@ -807,6 +857,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时35分"
+        },
+        {
+          "title": "德国政府发言人：德国感谢美国总统特朗普发出的和平理事会邀请。",
+          "url": "https://flash.jin10.com/detail/20260119184323133800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
         },
         {
           "title": "法国财长Lescure：朋友之间勒索不可接受。 将在未来几天召集七国集团会议。 特朗普的言论代表着维度的转变。",
@@ -834,7 +895,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "世界周刊之伊朗危机",
@@ -898,7 +959,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时29分"
         },
@@ -954,6 +1015,17 @@
           "time_info": "[05时19分 ~ 06时20分]"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗官员呼吁对受“误导”的示威者予以宽大处理。",
+          "url": "https://flash.jin10.com/detail/20260119190212302800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时21分"
+        },
+        {
           "title": "伊朗议会议长：我们挫败了破坏我国稳定的阴谋。",
           "url": "https://flash.jin10.com/detail/20260119154724623800",
           "source": "金十数据",
@@ -978,8 +1050,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时34分 ~ 18时29分]"
+          "appearance_count": 5,
+          "time_info": "[17时34分 ~ 19时21分]"
         },
         {
           "title": "美股明日休市 金银油交易提前结束",
