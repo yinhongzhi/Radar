@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-01-20T07:21:04.585261+08:00",
-  "total_titles_processed": 602,
+  "generated_at": "2026-01-20T09:44:06.952306+08:00",
+  "total_titles_processed": 766,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 37,
       "titles": [
+        {
+          "title": "会武力夺岛？特朗普：无可奉告",
+          "url": "https://news.ifeng.com/c/8q3HDvDloum",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[02时32分 ~ 09时44分]"
+        },
         {
           "title": "特朗普致信挪威首相：我不再有义务只考虑和平",
           "url": "https://news.ifeng.com/c/8q2mrUjZSWs",
@@ -30,19 +42,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时21分]"
-        },
-        {
-          "title": "会武力夺岛？特朗普：无可奉告",
-          "url": "https://news.ifeng.com/c/8q3HDvDloum",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时32分 ~ 07时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 09时44分]"
         },
         {
           "title": "反制特朗普，马克龙冲最猛，默茨想拉住他",
@@ -76,8 +77,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时29分 ~ 07时21分]"
+          "appearance_count": 13,
+          "time_info": "[00时29分 ~ 09时44分]"
         },
         {
           "title": "反击特朗普“关税战”！欧洲酝酿“资本战”，德银：八万亿美国资产或成“杀手锏”",
@@ -112,6 +113,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时29分 ~ 01时24分]"
+        },
+        {
+          "title": "特朗普写了一封信，杀气腾腾，槽点满满",
+          "url": "https://news.ifeng.com/c/8q3qn0KjEks",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 09时44分]"
+        },
+        {
+          "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
+          "url": "https://www.cls.cn/detail/2262874",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时20分 ~ 09时44分]"
         },
         {
           "title": "丹麦外交部长：相信英国首相斯塔默已与美国总统特朗普直接通话。",
@@ -188,6 +212,28 @@
           "time_info": "[02时32分 ~ 04时24分]"
         },
         {
+          "title": "美联储独立性的分水岭！明天，美国最高法院审“特朗普诉库克案”",
+          "url": "https://wallstreetcn.com/articles/3763591",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 09时44分]"
+        },
+        {
+          "title": "特朗普重返白宫一周年，怎样评价他这一年的执政成绩？给美国带来了什么？",
+          "url": "https://www.zhihu.com/question/1995879633401374340",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 09时44分]"
+        },
+        {
           "title": "叙利亚总统府：叙利亚总统沙拉与美国总统特朗普在电话中讨论了叙利亚局势的最新发展，沙拉和特朗普同意继续合作打击“伊斯兰国”。沙拉和特朗普强调，有必要在叙利亚国家框架内维护库尔德人民的权利。",
           "url": "https://flash.jin10.com/detail/20260120035612237800",
           "source": "金十数据",
@@ -222,17 +268,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时32分 ~ 03时19分]"
-        },
-        {
-          "title": "特朗普再掀贸易摩擦 黄金白银大涨 全球股市承压 | 环球市场",
-          "url": "https://www.cls.cn/detail/2262874",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
         },
         {
           "title": "报道：法国总统将拒绝特朗普“和平委员会”的加入邀请",
@@ -415,7 +450,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -491,6 +526,45 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI高管：首款硬件设备有望于2026年下半年亮相",
+          "url": "https://www.cls.cn/detail/2262848",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时43分 ~ 09时44分]"
+        },
+        {
+          "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
+          "url": "https://www.zhihu.com/question/63359251",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
+        },
+        {
+          "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3039842",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时29分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 3,
       "titles": [
@@ -506,6 +580,17 @@
           "time_info": "[00时29分 ~ 05时20分]"
         },
         {
+          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
+          "url": "https://wallstreetcn.com/articles/3763546",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时20分 ~ 09时44分]"
+        },
+        {
           "title": "格陵兰引发关税战风险，美股债休市，欧股重创，美元走低，避险情绪推金银新高",
           "url": "https://wallstreetcn.com/articles/3763546",
           "source": "华尔街见闻",
@@ -515,17 +600,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时21分 ~ 06时22分]"
-        },
-        {
-          "title": "格陵兰引发关税战风险，美股债休市，欧股重创，人民币升破6.96，金银新高",
-          "url": "https://wallstreetcn.com/articles/3763546",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
         }
       ]
     },
@@ -574,34 +648,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "在 DeepMind 或 OpenAI 工作是什么体验？",
-          "url": "https://www.zhihu.com/question/63359251",
-          "source": "知乎",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "OpenAI政策主管Lehane在达沃斯接受采访时说，该公司计划2026年发布第一款设备。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3039842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时29分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 2,
       "titles": [
@@ -617,8 +663,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时23分 ~ 07时21分]"
+          "appearance_count": 12,
+          "time_info": "[01时23分 ~ 09时44分]"
         },
         {
           "title": "决定黄金价格的三大属性",
