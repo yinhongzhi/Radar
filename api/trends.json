@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-01-29T14:46:31.714094+08:00",
-  "total_titles_processed": 1323,
+  "generated_at": "2026-01-29T15:40:17.746353+08:00",
+  "total_titles_processed": 1433,
   "failed_sources": [],
   "trends": [
     {
@@ -91,11 +91,27 @@
           "source": "凤凰网",
           "ranks": [
             2,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 14时46分]"
+          "appearance_count": 6,
+          "time_info": "[09时58分 ~ 15时40分]"
+        },
+        {
+          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2273451",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            7,
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时58分 ~ 15时40分]"
         },
         {
           "title": "美国总统特朗普结束在“特朗普账号”活动上的发言。",
@@ -131,20 +147,6 @@
           "time_info": "01时33分"
         },
         {
-          "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
-          "url": "https://www.cls.cn/detail/2273451",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            7,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时58分 ~ 14时46分]"
-        },
-        {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
           "url": "https://flash.jin10.com/detail/20260129004308229800",
           "source": "金十数据",
@@ -154,6 +156,20 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
+        },
+        {
+          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
+          "url": "https://www.cls.cn/detail/2273523",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 15时40分]"
         },
         {
           "title": "美国参议院多数党领袖约翰·图恩（John Thune）：民主党必须与总统特朗普的白宫处理（与国土安全部/DHS相关的）预算问题。",
@@ -229,17 +245,16 @@
           "time_info": "[01时33分 ~ 02时37分]"
         },
         {
-          "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
-          "url": "https://www.cls.cn/detail/2273523",
-          "source": "财联社热门",
+          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
+          "url": "https://www.zhihu.com/question/2000136531822794040",
+          "source": "知乎",
           "ranks": [
             11,
-            10,
-            9
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 14时46分]"
+          "appearance_count": 4,
+          "time_info": "[13时43分 ~ 15时40分]"
         },
         {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
@@ -336,18 +351,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 01时33分]"
-        },
-        {
-          "title": "特朗普被曝「正考虑对伊朗发动新的重大打击」，美伊局势会再度升级吗？伊朗会做出哪些反应？",
-          "url": "https://www.zhihu.com/question/2000136531822794040",
-          "source": "知乎",
-          "ranks": [
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时43分 ~ 14时46分]"
         },
         {
           "title": "鲍威尔：（鉴于特朗普的司法部发起刑事调查）拒绝置评国会山关键共和党人Thom Tillis发誓要阻挠美联储主席提名人的立场。 美联储独立性这种立法安排已经让美联储很好地服务于美国。 不相信美联储会（因为特朗普而）丧失独立性。 我的同僚们和我本人都强烈致力于维护独立性。",
@@ -567,11 +570,12 @@
           "url": "https://www.toutiao.com/trending/7600325965138886662/",
           "source": "今日头条",
           "ranks": [
-            5
+            5,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时46分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时46分 ~ 15时40分]"
         },
         {
           "title": "伊朗总统宣布启动紧急状态",
@@ -610,6 +614,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时26分 ~ 12时11分]"
+        },
+        {
+          "title": "以色列总理称若遭伊朗袭击必将回击",
+          "url": "https://www.toutiao.com/trending/7600028353815674922/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时46分 ~ 15时40分]"
         },
         {
           "title": "伊朗副外长：做好200%的自卫准备",
@@ -714,17 +730,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
-        },
-        {
-          "title": "以色列总理称若遭伊朗袭击必将回击",
-          "url": "https://www.toutiao.com/trending/7600028353815674922/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时46分"
         },
         {
           "title": "伊朗外交部长阿拉奇：伊朗武装部队已严阵以待，手指扣在扳机上，随时准备对任何“侵略”作出回应。",
@@ -985,7 +990,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -1033,11 +1038,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             21,
-            22
+            22,
+            24
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时37分 ~ 14时46分]"
+          "appearance_count": 16,
+          "time_info": "[00时37分 ~ 15时40分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1075,6 +1081,30 @@
           "time_info": "[02时37分 ~ 07时26分]"
         },
         {
+          "title": "挪威石油基金：2025年基金价值增加1.526万亿挪威克朗。",
+          "url": "https://flash.jin10.com/detail/20260129151543362800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时40分"
+        },
+        {
+          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
+          "url": "https://www.cls.cn/detail/2273531",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 15时40分]"
+        },
+        {
           "title": "渣打：金价任何回调都是买入机会",
           "url": "https://www.toutiao.com/trending/7600387008329944595/",
           "source": "今日头条",
@@ -1085,18 +1115,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时26分 ~ 09时58分]"
-        },
-        {
-          "title": "金价涨不停！史上首次突破5500美元大关 因特朗普威胁打击伊朗",
-          "url": "https://www.cls.cn/detail/2273531",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 14时46分]"
         },
         {
           "title": "金价",
@@ -1200,7 +1218,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时46分"
         }
@@ -1220,8 +1238,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时11分 ~ 14时46分]"
+          "appearance_count": 5,
+          "time_info": "[12时11分 ~ 15时40分]"
         },
         {
           "title": "谷歌同意就与蜂窝数据处理相关的集体诉讼达成和解协议，谷歌将支付1.35亿美元作为集体诉讼和解的一部分。",
