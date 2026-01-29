@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-29T22:52:14.721360+08:00",
-  "total_titles_processed": 2140,
+  "generated_at": "2026-01-29T23:35:59.565536+08:00",
+  "total_titles_processed": 2214,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 56,
+      "match_count": 57,
       "titles": [
         {
           "title": "特朗普：一支庞大的舰队正前往伊朗",
@@ -124,8 +124,20 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时42分 ~ 22时52分]"
+          "appearance_count": 10,
+          "time_info": "[17时42分 ~ 23时35分]"
+        },
+        {
+          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，伦铜涨幅扩大至10%创新高",
+          "url": "https://wallstreetcn.com/articles/3764423",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时02分 ~ 23时35分]"
         },
         {
           "title": "国际金银价格再度创出历史新高 特朗普威胁将再次打击伊朗 | 环球市场",
@@ -141,18 +153,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[09时58分 ~ 15时40分]"
-        },
-        {
-          "title": "特朗普升级对伊施压，布油重回70美元，白银冲上120后回落，黄金突破5500，伦铜涨幅扩大至10%创新高",
-          "url": "https://wallstreetcn.com/articles/3764423",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时02分 ~ 22时52分]"
         },
         {
           "title": "特朗普被曝“正考虑对伊朗发动新的重大打击”",
@@ -212,17 +212,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时33分"
-        },
-        {
-          "title": "伊朗议会议长：难以信任特朗普",
-          "url": "https://wallstreetcn.com/livenews/3046543",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
         },
         {
           "title": "美国总统特朗普称赞英伟达为“特朗普账户”捐款。",
@@ -297,6 +286,18 @@
           "time_info": "[01时33分 ~ 02时37分]"
         },
         {
+          "title": "伊朗议会议长：难以信任特朗普",
+          "url": "https://wallstreetcn.com/livenews/3046543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 23时35分]"
+        },
+        {
           "title": "美国总统特朗普在“特朗普账户”活动上赞赏英伟达的捐款。",
           "url": "https://wallstreetcn.com/livenews/3045719",
           "source": "华尔街见闻-快讯",
@@ -309,6 +310,17 @@
           "time_info": "[01时33分 ~ 02时37分]"
         },
         {
+          "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
+          "url": "https://v.ifeng.com/c/8qJY5CqQQ7n",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时51分 ~ 23时35分]"
+        },
+        {
           "title": "特朗普“称赞美元贬值”引发抛售后 贝森特出面救火",
           "url": "https://www.cls.cn/detail/2273332",
           "source": "财联社热门",
@@ -319,17 +331,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时58分 ~ 12时11分]"
-        },
-        {
-          "title": "打击伊朗的机会窗口未到，特朗普在等什么？",
-          "url": "https://v.ifeng.com/c/8qJY5CqQQ7n",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时51分 ~ 22时52分]"
         },
         {
           "title": "美国总统特朗普在特朗普账户活动上发表讲话时称赞戴尔电脑，此前戴尔夫妇为“特朗普账户”豪捐62.5亿美元 。",
@@ -535,9 +536,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
+        },
+        {
+          "title": "美国边境事务主管：特朗普承认移民执法行动需要改进",
+          "url": "https://wallstreetcn.com/livenews/3046552",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "特朗普再派舰队施压伊朗",
@@ -623,7 +635,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
@@ -675,7 +687,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 46,
       "titles": [
         {
           "title": "伊朗启动紧急措施“备战”",
@@ -751,13 +763,24 @@
           "time_info": "18时37分"
         },
         {
+          "title": "伊朗：不会主动挑起战争 若遭到侵略将坚决反击",
+          "url": "https://wallstreetcn.com/livenews/3046565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "据报道，伊朗发出警告，宣布计划于周日和周一在霍尔木兹海峡举行实弹海军演习。",
           "url": "https://flash.jin10.com/detail/20260129222954175800",
           "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
@@ -782,6 +805,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "伊朗就德国总理默茨抨击伊朗革命卫队的言论召见德国大使。",
+          "url": "https://flash.jin10.com/detail/20260129231540183800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "伊朗接收俄罗斯装备",
@@ -832,6 +866,19 @@
           "time_info": "[02时37分 ~ 03时28分]"
         },
         {
+          "title": "伊朗：美若动武 伊将打击以色列",
+          "url": "https://www.douyin.com/hot/2382618",
+          "source": "抖音",
+          "ranks": [
+            18,
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[22时02分 ~ 23时35分]"
+        },
+        {
           "title": "伊朗副外长：做好200%的自卫准备",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%89%AF%E5%A4%96%E9%95%BF%EF%BC%9A%E5%81%9A%E5%A5%BD200%25%E7%9A%84%E8%87%AA%E5%8D%AB%E5%87%86%E5%A4%87",
           "source": "百度热搜",
@@ -843,18 +890,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时26分 ~ 12时11分]"
-        },
-        {
-          "title": "伊朗：美若动武 伊将打击以色列",
-          "url": "https://www.douyin.com/hot/2382618",
-          "source": "抖音",
-          "ranks": [
-            18,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时02分 ~ 22时52分]"
         },
         {
           "title": "评论员：伊朗数千枚导弹待命迎战",
@@ -879,6 +914,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时46分 ~ 15时40分]"
+        },
+        {
+          "title": "欧盟对伊朗相关个人和实体实施新一轮制裁",
+          "url": "https://wallstreetcn.com/livenews/3046538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 23时35分]"
         },
         {
           "title": "伊朗副外长：做好200%的自卫准备",
@@ -974,15 +1021,26 @@
           "time_info": "18时37分"
         },
         {
-          "title": "欧盟对伊朗相关个人和实体实施新一轮制裁",
-          "url": "https://wallstreetcn.com/livenews/3046538",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗革命卫队副司令：敌人试图暗示我们软弱，但事实恰恰相反。我们的敌人正处于混乱之中。",
+          "url": "https://flash.jin10.com/detail/20260129230547316800",
+          "source": "金十数据",
           "ranks": [
-            8
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时52分"
+          "time_info": "23时35分"
+        },
+        {
+          "title": "伊朗：不会主动挑起战争 若遭到侵略将坚决反击",
+          "url": "https://flash.jin10.com/detail/20260129230435807800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "伊朗外长回应美方威胁：伊朗武装力量高度戒备",
@@ -1002,9 +1060,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
+        },
+        {
+          "title": "伊朗革命卫队副司令：我们不惧任何威胁，凭借我们的威慑力量以及人民的意志，已成功阻止敌人进行任何冒险行动。",
+          "url": "https://flash.jin10.com/detail/20260129230156871800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "中国代表：支持伊朗国家稳定，武力解决不了问题",
@@ -1035,7 +1104,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
@@ -1117,6 +1186,17 @@
           "time_info": "02时37分"
         },
         {
+          "title": "对美国可能对伊朗发动军事袭击的担忧加剧，原油期货价格延续涨势，布伦特原油期货价格一度涨5%，创下2024年8月以来的最高水平。",
+          "url": "https://flash.jin10.com/detail/20260129225811577800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "欧盟拟将伊朗革命卫队列为恐怖组织",
           "url": "https://flash.jin10.com/detail/20260129160346406800",
           "source": "金十数据",
@@ -1126,12 +1206,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "两名外交官：欧盟部长就将伊朗伊斯兰革命卫队（IRGC）列入恐怖组织名单达成政治协议。",
+          "url": "https://flash.jin10.com/detail/20260129225308357800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "美股“七巨头”财报即将亮相：投资者该关注哪些要点？",
@@ -1189,7 +1280,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
@@ -1271,17 +1362,6 @@
           "time_info": "19时31分"
         },
         {
-          "title": "能源业ETF涨超2.4%，领跑美股行业ETF，半导体ETF涨0.75%，网络股指数ETF跌0.2%，科技行业ETF跌超1.1%，全球科技股指数ETF跌超1.3%。",
-          "url": "https://wallstreetcn.com/livenews/3046542",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时52分"
-        },
-        {
           "title": "金十数据整理：每日美股市场要闻速递（2026-01-29）",
           "url": "https://flash.jin10.com/detail/20260129214609846800",
           "source": "金十数据",
@@ -1306,16 +1386,29 @@
           "time_info": "[05时29分 ~ 06时27分]"
         },
         {
+          "title": "能源业ETF涨超2.4%，领跑美股行业ETF，半导体ETF涨0.75%，网络股指数ETF跌0.2%，科技行业ETF跌超1.1%，全球科技股指数ETF跌超1.3%。",
+          "url": "https://wallstreetcn.com/livenews/3046542",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时52分 ~ 23时35分]"
+        },
+        {
           "title": "美股期指小幅走高 金银铜等集体大涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2274635",
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时02分 ~ 22时52分]"
+          "appearance_count": 4,
+          "time_info": "[22时02分 ~ 23时35分]"
         },
         {
           "title": "周三（1月28日）美股尾盘，彭博电动汽车价格回报指数涨0.63%，报3711.30点，亚太时段出现V形反转行情，日内大部分时候高位震荡。 成分股Olectra Greentech涨超10%，EVgo涨8.7%，港股理想汽车收涨4.9%、蔚来集团收涨3.98%表现第四，美国雅宝目前跌5.1%表现倒数第二，Solid Power跌7.6%。",
@@ -1413,7 +1506,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
@@ -1424,7 +1517,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         },
@@ -1471,6 +1564,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时37分"
+        },
+        {
+          "title": "美股稀土矿商和关键矿物公司下跌，美国稀土(USAR.O)下跌14.5%，Mp Materials(MP.N)下跌9%，Critical Metals(CRML.O)下跌13%。有报道称美国总统特朗普政府放弃关键矿物价格下限后。",
+          "url": "https://flash.jin10.com/detail/20260129225856450800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         },
         {
           "title": "美股盘前：Meta涨约7%，微软跌约6%，特斯拉涨约2%",
@@ -1520,7 +1624,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "渣打：金价出现任何回调都是买入机会",
@@ -1573,8 +1677,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 26,
-          "time_info": "[00时37分 ~ 22时52分]"
+          "appearance_count": 27,
+          "time_info": "[00时37分 ~ 23时35分]"
         },
         {
           "title": "金价暴涨女子卖300克黄金变现30万",
@@ -1621,11 +1725,12 @@
           "ranks": [
             14,
             13,
-            5
+            5,
+            21
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时31分 ~ 22时52分]"
+          "appearance_count": 7,
+          "time_info": "[19时31分 ~ 23时35分]"
         },
         {
           "title": "金价波动",
@@ -1680,11 +1785,12 @@
           "source": "微博",
           "ranks": [
             6,
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时02分 ~ 22时52分]"
+          "appearance_count": 4,
+          "time_info": "[22时02分 ~ 23时35分]"
         },
         {
           "title": "高盛：上调今明两年金价预测",
@@ -1699,6 +1805,17 @@
           "time_info": "[18时36分 ~ 19时31分]"
         },
         {
+          "title": "金价暴涨对普通人的影响",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E5%BD%B1%E5%93%8D%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时51分 ~ 23时35分]"
+        },
+        {
           "title": "金价",
           "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=22&Refer=top",
           "source": "微博",
@@ -1709,17 +1826,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时26分 ~ 09时58分]"
-        },
-        {
-          "title": "金价暴涨对普通人的影响",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E7%9A%84%E5%BD%B1%E5%93%8D%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时51分 ~ 22时52分]"
         },
         {
           "title": "美联储主席鲍威尔：未从金价上涨中解读出太多宏观信息。",
@@ -1766,6 +1872,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "一口气看懂金价涨跌的底层逻辑",
+          "url": "https://www.douyin.com/hot/2383551",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "金价银价暴涨原因",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%9A%B4%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=26&Refer=top",
           "source": "微博",
@@ -1792,8 +1909,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时31分 ~ 22时52分]"
+          "appearance_count": 7,
+          "time_info": "[19时31分 ~ 23时35分]"
         },
         {
           "title": "一位前OpenAI高级研究员创办了一家新的人工智能初创公司，目标是筹集高达10亿美元的资金。",
@@ -1812,11 +1929,12 @@
           "source": "知乎",
           "ranks": [
             20,
-            11
+            11,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[22时02分 ~ 22时52分]"
+          "appearance_count": 4,
+          "time_info": "[22时02分 ~ 23时35分]"
         },
         {
           "title": "OpenAI至少从编码初创公司Cline招聘了七名员工。",
@@ -1919,7 +2037,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时52分"
         }
@@ -1941,8 +2059,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时42分 ~ 22时52分]"
+          "appearance_count": 10,
+          "time_info": "[17时42分 ~ 23时35分]"
         },
         {
           "title": "人类基因密码被谷歌AI破解",
