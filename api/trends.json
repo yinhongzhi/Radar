@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-01T16:32:50.902041+08:00",
-  "total_titles_processed": 884,
+  "generated_at": "2026-02-01T17:31:39.584405+08:00",
+  "total_titles_processed": 960,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 43,
+      "match_count": 45,
       "titles": [
         {
           "title": "伊朗新年将至市场冷清，民众：我不担心战争，更担心未来",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时14分 ~ 16时32分]"
+          "appearance_count": 8,
+          "time_info": "[10时14分 ~ 17时31分]"
         },
         {
           "title": "伊朗阿巴斯港楼房爆炸致1死14伤",
@@ -86,6 +86,21 @@
           "time_info": "[00时28分 ~ 10时14分]"
         },
         {
+          "title": "伊朗最高领袖顾问：正形成对美“谈判架构”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32509010",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            7,
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[10时14分 ~ 17时31分]"
+        },
+        {
           "title": "伊朗方面否认大不里士市发生爆炸事件",
           "url": "https://wallstreetcn.com/livenews/3047711",
           "source": "华尔街见闻-快讯",
@@ -138,21 +153,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时27分 ~ 07时22分]"
-        },
-        {
-          "title": "伊朗最高领袖顾问：正形成对美“谈判架构”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32509010",
-          "source": "澎湃新闻",
-          "ranks": [
-            11,
-            7,
-            4,
-            3,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时14分 ~ 16时32分]"
         },
         {
           "title": "伊朗阿巴斯港一楼房发生爆炸",
@@ -311,6 +311,20 @@
           "time_info": "[00时28分 ~ 07时22分]"
         },
         {
+          "title": "伊朗总统：战争既不符合伊朗也不符合美国利益",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32509366",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            13,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时01分 ~ 17时31分]"
+        },
+        {
           "title": "伊朗阿巴斯港一楼房发生爆炸",
           "url": "https://www.toutiao.com/trending/7600746871209508918/",
           "source": "今日头条",
@@ -322,18 +336,28 @@
           "time_info": "[00时27分 ~ 00时28分]"
         },
         {
-          "title": "伊朗总统：战争既不符合伊朗也不符合美国利益",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32509366",
+          "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32509724",
           "source": "澎湃新闻",
           "ranks": [
-            15,
-            13,
-            10,
-            9
+            12,
+            9,
+            8
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[13时01分 ~ 16时32分]"
+          "time_info": "[14时48分 ~ 17时31分]"
+        },
+        {
+          "title": "美军侦察机现身伊朗附近空域，美国为何盯上伊朗？一旦动武将产生哪些连锁反应？",
+          "url": "https://www.zhihu.com/question/2001056898753983700",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时48分 ~ 17时31分]"
         },
         {
           "title": "伊朗阿巴斯港一楼房发生爆炸",
@@ -362,73 +386,17 @@
           "time_info": "[00时28分 ~ 05时21分]"
         },
         {
-          "title": "伊朗革命卫队：伊武装部队准备就绪 状态远超“12日战争”时期",
-          "url": "https://flash.jin10.com/detail/20260201160413399800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
           "title": "伊朗议长：伊朗将所有欧盟国家军队视为“恐怖组织”",
           "url": "https://wallstreetcn.com/livenews/3047764",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2,
-            13
+            13,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时49分 ~ 16时32分]"
-        },
-        {
-          "title": "伊朗布什尔省阿萨卢耶附近发生5.2级地震",
-          "url": "https://flash.jin10.com/detail/20260201155745242800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "伊朗革命卫队：伊武装部队准备就绪 状态远超“12日战争”时期",
-          "url": "https://wallstreetcn.com/livenews/3047783",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
-        },
-        {
-          "title": "伊朗多地爆炸消息引发焦虑，美伊均释放和谈信号，哈梅内伊现身",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32509724",
-          "source": "澎湃新闻",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时48分 ~ 16时32分]"
-        },
-        {
-          "title": "美军侦察机现身伊朗附近空域，美国为何盯上伊朗？一旦动武将产生哪些连锁反应？",
-          "url": "https://www.zhihu.com/question/2001056898753983700",
-          "source": "知乎",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时48分 ~ 16时32分]"
+          "appearance_count": 4,
+          "time_info": "[14时49分 ~ 17时31分]"
         },
         {
           "title": "卡塔尔首相访问伊朗表态支持和平解决分歧",
@@ -469,6 +437,18 @@
           "time_info": "[05时21分 ~ 10时14分]"
         },
         {
+          "title": "伊朗革命卫队：伊武装部队准备就绪 状态远超“12日战争”时期",
+          "url": "https://flash.jin10.com/detail/20260201160413399800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 17时31分]"
+        },
+        {
           "title": "伊朗外长称美国干涉其军演做法“荒谬”",
           "url": "https://flash.jin10.com/detail/20260201093135473800",
           "source": "金十数据",
@@ -479,6 +459,42 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时14分 ~ 13时01分]"
+        },
+        {
+          "title": "伊朗布什尔省阿萨卢耶附近发生5.2级地震",
+          "url": "https://flash.jin10.com/detail/20260201155745242800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 17时31分]"
+        },
+        {
+          "title": "伊朗革命卫队：伊武装部队准备就绪 状态远超“12日战争”时期",
+          "url": "https://wallstreetcn.com/livenews/3047783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 17时31分]"
+        },
+        {
+          "title": "伊朗阿巴斯港一楼房发生爆炸，已致1死14伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32508070",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[15时37分 ~ 17时31分]"
         },
         {
           "title": "伊朗总统谴责美以欧煽动仇恨",
@@ -492,18 +508,6 @@
           "time_info": "[00时28分 ~ 03时21分]"
         },
         {
-          "title": "伊朗阿巴斯港一楼房发生爆炸，已致1死14伤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32508070",
-          "source": "澎湃新闻",
-          "ranks": [
-            20,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时37分 ~ 16时32分]"
-        },
-        {
           "title": "凤凰记者连线：伊朗一居民楼爆炸，革命卫队否认海军司令遇刺",
           "url": "https://news.ifeng.com/c/8qN8KqiPnlf",
           "source": "凤凰网",
@@ -513,6 +517,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时22分"
+        },
+        {
+          "title": "伊朗最高领袖：如果美国挑起战争 这次冲突将不再局限于一地",
+          "url": "https://flash.jin10.com/detail/20260201163047620800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗最高领袖哈梅内伊表示，如果美国人这次发动战争，将引发地区性冲突。",
+          "url": "https://flash.jin10.com/detail/20260201162805324800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
         },
         {
           "title": "伊朗阿巴斯港一楼房发生爆炸，伊朗军方表示已完成备战随时待发，目前伊朗局势如何？",
@@ -540,7 +566,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 35,
       "titles": [
         {
           "title": "深扒凯文·沃什：特朗普提名的下任美联储主席，究竟是鹰是鸽？",
@@ -551,8 +577,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时27分 ~ 16时32分]"
+          "appearance_count": 18,
+          "time_info": "[00时27分 ~ 17时31分]"
         },
         {
           "title": "特朗普任命的美联储主席让市场瞬间蒸发3万亿 市场究竟在怕什么？",
@@ -576,6 +602,19 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时27分 ~ 10时14分]"
+        },
+        {
+          "title": "沃什的三大挑战：美联储、通胀和特朗普",
+          "url": "https://wallstreetcn.com/articles/3764667",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时01分 ~ 17时31分]"
         },
         {
           "title": "特朗普夫人个人纪录片上映，成本超5亿元，全球票房惨淡，评分1.7分",
@@ -626,19 +665,6 @@
           "time_info": "[02时32分 ~ 10时14分]"
         },
         {
-          "title": "沃什的三大挑战：美联储、通胀和特朗普",
-          "url": "https://wallstreetcn.com/articles/3764667",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 16时32分]"
-        },
-        {
           "title": "美国众议院议长约翰逊与众院少数派领导人Hakeem Jeffries周六对话，讨论政府融资立法草案事宜。 众议院民主党成员们不会帮助（总统特朗普所属共和党）批准关于（针对国土安全部/DHS）暂停拨款的应急资金方案。（PunchBowl）",
           "url": "https://wallstreetcn.com/livenews/3047717",
           "source": "华尔街见闻-快讯",
@@ -664,6 +690,17 @@
           "time_info": "[00时27分 ~ 01时23分]"
         },
         {
+          "title": "美国政府多个部门再次陷入“停摆”，特朗普喊话：动动你们的脑子",
+          "url": "https://news.ifeng.com/c/8qNur2Nbdfc",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时01分 ~ 17时31分]"
+        },
+        {
           "title": "特朗普上任一周年做了什么",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8A%E4%BB%BB%E4%B8%80%E5%91%A8%E5%B9%B4%E5%81%9A%E4%BA%86%E4%BB%80%E4%B9%88",
           "source": "bilibili 热搜",
@@ -673,17 +710,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[15时37分 ~ 15时38分]"
-        },
-        {
-          "title": "美国政府多个部门再次陷入“停摆”，特朗普喊话：动动你们的脑子",
-          "url": "https://news.ifeng.com/c/8qNur2Nbdfc",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 16时32分]"
         },
         {
           "title": "美国总统特朗普置评联邦政府关门问题，声称：民主党不想让政府停摆，那对国家不是好事。",
@@ -704,11 +730,26 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             4,
-            15
+            15,
+            22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时49分 ~ 16时32分]"
+          "appearance_count": 4,
+          "time_info": "[14时49分 ~ 17时31分]"
+        },
+        {
+          "title": "特朗普称就格陵兰岛的谈判即将达成一致",
+          "url": "https://wallstreetcn.com/livenews/3047752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            12,
+            23,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[13时01分 ~ 17时31分]"
         },
         {
           "title": "特朗普满意“鲍威尔接班人”：无需白宫施压，沃什自会降息",
@@ -721,19 +762,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时27分 ~ 02时32分]"
-        },
-        {
-          "title": "特朗普称就格陵兰岛的谈判即将达成一致",
-          "url": "https://wallstreetcn.com/livenews/3047752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            12,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时01分 ~ 16时32分]"
         },
         {
           "title": "特朗普称伊朗正“严肃”与美国对话",
@@ -812,6 +840,40 @@
           "time_info": "[15时38分 ~ 16时32分]"
         },
         {
+          "title": "特朗普：正与伊朗进行对话",
+          "url": "https://www.cls.cn/detail/2276668",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 17时31分]"
+        },
+        {
+          "title": "爱泼斯坦案牵一众大佬提特朗普数百次",
+          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%89%B5%E4%B8%80%E4%BC%97%E5%A4%A7%E4%BD%AC%E6%8F%90%E7%89%B9%E6%9C%97%E6%99%AE%E6%95%B0%E7%99%BE%E6%AC%A1",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时32分 ~ 17时31分]"
+        },
+        {
+          "title": "美法官下令释放被拘5岁男童，抨击特朗普政府：给儿童造成创伤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32510036",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时31分"
+        },
+        {
           "title": "特朗普：伊朗正“严肃”地与美国进行对话",
           "url": "https://flash.jin10.com/detail/20260201110314645800",
           "source": "金十数据",
@@ -832,17 +894,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
-        },
-        {
-          "title": "特朗普：正与伊朗进行对话",
-          "url": "https://www.cls.cn/detail/2276668",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
         },
         {
           "title": "特朗普：认为格陵兰岛协议已基本达成",
@@ -931,17 +982,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时01分"
-        },
-        {
-          "title": "爱泼斯坦案牵一众大佬提特朗普数百次",
-          "url": "https://www.baidu.com/s?wd=%E7%88%B1%E6%B3%BC%E6%96%AF%E5%9D%A6%E6%A1%88%E7%89%B5%E4%B8%80%E4%BC%97%E5%A4%A7%E4%BD%AC%E6%8F%90%E7%89%B9%E6%9C%97%E6%99%AE%E6%95%B0%E7%99%BE%E6%AC%A1",
-          "source": "百度热搜",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时32分"
         }
       ]
     },
@@ -1047,6 +1087,19 @@
           "time_info": "[01时23分 ~ 04时26分]"
         },
         {
+          "title": "男子看金价下跌花20多万买200克",
+          "url": "https://www.toutiao.com/trending/7600970812455845951/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            21,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时01分 ~ 17时31分]"
+        },
+        {
           "title": "金价遭遇过山车",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%81%AD%E9%81%87%E8%BF%87%E5%B1%B1%E8%BD%A6%23&t=31&band_rank=4&Refer=top",
           "source": "微博",
@@ -1058,18 +1111,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[14时48分 ~ 16时32分]"
-        },
-        {
-          "title": "男子看金价下跌花20多万买200克",
-          "url": "https://www.toutiao.com/trending/7600970812455845951/",
-          "source": "今日头条",
-          "ranks": [
-            22,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时01分 ~ 16时32分]"
         },
         {
           "title": "金价暴跌 有柜姐发帖退单一律扣500",
