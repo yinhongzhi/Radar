@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-05T18:40:39.381196+08:00",
-  "total_titles_processed": 1632,
+  "generated_at": "2026-02-05T19:36:01.472491+08:00",
+  "total_titles_processed": 1728,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 36,
       "titles": [
         {
           "title": "习近平同特朗普通电话",
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时47分 ~ 18时40分]"
+          "appearance_count": 23,
+          "time_info": "[00时47分 ~ 19时36分]"
         },
         {
           "title": "详讯丨习近平同美国总统特朗普通电话",
@@ -67,8 +67,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[01时45分 ~ 18时40分]"
+          "appearance_count": 22,
+          "time_info": "[01时45分 ~ 19时36分]"
         },
         {
           "title": "特朗普：中美元首通话内容详实，气氛积极",
@@ -360,7 +360,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -418,12 +418,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "特朗普也该就爱泼斯坦案去国会作证？美众议长回应",
+          "url": "https://wallstreetcn.com/livenews/3050592",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
@@ -461,8 +472,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时01分 ~ 18时40分]"
+          "appearance_count": 12,
+          "time_info": "[10时01分 ~ 19时36分]"
         },
         {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
@@ -475,8 +486,19 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时47分 ~ 18时40分]"
+          "appearance_count": 11,
+          "time_info": "[12时47分 ~ 19时36分]"
+        },
+        {
+          "title": "伊朗扣押两艘燃油走私船",
+          "url": "https://wallstreetcn.com/livenews/3050623",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "美伊谈判在即 伊朗：只谈核问题",
@@ -656,7 +678,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -727,6 +749,17 @@
           "time_info": "00时47分"
         },
         {
+          "title": "伊朗国家媒体报道，伊朗革命卫队在海湾扣押两艘船只，船上载有超过100万升走私燃料，15名外籍船员已被移交司法机关。",
+          "url": "https://flash.jin10.com/detail/20260205184514059800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
+        {
           "title": "伊朗和沙特外交部长在电话中讨论了地区局势。",
           "url": "https://flash.jin10.com/detail/20260204234058610800",
           "source": "金十数据",
@@ -736,6 +769,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时47分"
+        },
+        {
+          "title": "外交部部长助理刘彬会见伊朗副外长加里布阿巴迪",
+          "url": "https://wallstreetcn.com/livenews/3050597",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
         },
         {
           "title": "伊朗消息人士：美方泄露取消谈判消息表明其缺乏诚意",
@@ -840,13 +884,27 @@
           "time_info": "[07时27分 ~ 15时53分]"
         },
         {
+          "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
+          "url": "https://www.cls.cn/detail/2281312",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8,
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时42分 ~ 19时36分]"
+        },
+        {
           "title": "蔚来美股盘前涨超11%，此前公司发布盈利预告：2025年四季度实现季度盈利，经营利润7亿至12亿元。",
           "url": "https://wallstreetcn.com/livenews/3050580",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -861,19 +919,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时33分 ~ 06时29分]"
-        },
-        {
-          "title": "市值蒸发万亿！美股软件行业空头肆虐 对冲基金年内狂赚240亿美元",
-          "url": "https://www.cls.cn/detail/2281312",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时42分 ~ 18时40分]"
         },
         {
           "title": "相干公司Coherent Corp.（COHR）美股盘后跌19%。",
@@ -954,7 +999,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -976,7 +1021,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -1061,8 +1106,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时01分 ~ 18时40分]"
+          "appearance_count": 12,
+          "time_info": "[10时01分 ~ 19时36分]"
         },
         {
           "title": "谷歌财报电话会实录：首要任务是提高算力 否认“AI取代软件”担忧",
@@ -1074,8 +1119,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时55分 ~ 18时40分]"
+          "appearance_count": 10,
+          "time_info": "[13时55分 ~ 19时36分]"
         },
         {
           "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
@@ -1089,6 +1134,17 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[12时47分 ~ 16时42分]"
+        },
+        {
+          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
+          "url": "https://wallstreetcn.com/articles/3765004",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[15时53分 ~ 19时36分]"
         },
         {
           "title": "谷歌母公司Alphabet（GOOGL）美股盘后跌1.69%，该公司分析师电话会已经结束。",
@@ -1111,17 +1167,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时27分"
-        },
-        {
-          "title": "谷歌电话会：1850亿支出“不得不花”，确认与苹果合作，Gemini并非SaaS的“终结者”",
-          "url": "https://wallstreetcn.com/articles/3765004",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时53分 ~ 18时40分]"
         },
         {
           "title": "英伟达(NVDA.O)和AMD(AMD.O)盘后均涨超1%，谷歌(GOOG.O)大幅上调资本开支预期。",
@@ -1331,8 +1376,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "贝莱德基金刘鑫：短端境外债券相对稳健 长端美债短期内存在交易性机会",
+          "url": "https://wallstreetcn.com/livenews/3050619",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时36分"
+        },
         {
           "title": "美国财长贝森特被问及如何压低10年期美债收益率，称：它下降了25个基点。 认为可以继续看到10年期美债收益率继续小幅下降。",
           "url": "https://wallstreetcn.com/livenews/3050043",
@@ -1440,11 +1496,12 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[15时53分 ~ 18时40分]"
+          "appearance_count": 7,
+          "time_info": "[15时53分 ~ 19时36分]"
         }
       ]
     },
