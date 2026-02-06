@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-06T17:42:44.034195+08:00",
-  "total_titles_processed": 1549,
+  "generated_at": "2026-02-06T18:39:45.693108+08:00",
+  "total_titles_processed": 1643,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 44,
+      "match_count": 47,
       "titles": [
         {
           "title": "美俄唯一核军控条约失效，特朗普：不如谈个新的",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时01分 ~ 17时42分]"
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 18时39分]"
         },
         {
           "title": "波斯湾浪急与马斯喀特和谈之间：特朗普背后的以色列踪影",
@@ -31,8 +31,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时22分 ~ 17时42分]"
+          "appearance_count": 9,
+          "time_info": "[12时22分 ~ 18时39分]"
         },
         {
           "title": "日本大选前，特朗普发文支持高市",
@@ -65,8 +65,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[16时41分 ~ 17时42分]"
+          "appearance_count": 3,
+          "time_info": "[16时41分 ~ 18时39分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-06）",
+          "url": "https://flash.jin10.com/detail/20260206180327794800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "美媒爆：特朗普提议以自己名字命名杜勒斯机场和纽约宾州车站换取解冻项目资金，遭舒默拒绝",
@@ -248,6 +259,18 @@
           "time_info": "[04时33分 ~ 05时28分]"
         },
         {
+          "title": "特朗普转发李小龙武打视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%AC%E5%8F%91%E6%9D%8E%E5%B0%8F%E9%BE%99%E6%AD%A6%E6%89%93%E8%A7%86%E9%A2%91%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 18时39分]"
+        },
+        {
           "title": "美国白宫：（就古巴问题）特朗普始终乐于开展外交活动。",
           "url": "https://flash.jin10.com/detail/20260206033919812800",
           "source": "金十数据",
@@ -306,6 +329,17 @@
           "time_info": "02时46分"
         },
         {
+          "title": "特朗普力挺高市，金融市场怎么看？丨Hi，今天怎么看？",
+          "url": "https://flash.jin10.com/detail/20260206175033829800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
           "title": "美国财长贝森特：我在2024年（拜登任期内）看到了通胀。 （特朗普挑起的）关税造成美元走强。",
           "url": "https://wallstreetcn.com/livenews/3050783",
           "source": "华尔街见闻-快讯",
@@ -348,17 +382,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时22分"
-        },
-        {
-          "title": "特朗普转发李小龙武打视频",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E8%BD%AC%E5%8F%91%E6%9D%8E%E5%B0%8F%E9%BE%99%E6%AD%A6%E6%89%93%E8%A7%86%E9%A2%91%23&t=31&band_rank=16&Refer=top",
-          "source": "微博",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
         },
         {
           "title": "贝森特：是否起诉沃什由特朗普决定，称“起诉”言论只是玩笑",
@@ -411,7 +434,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -477,7 +500,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -491,6 +514,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时46分"
+        },
+        {
+          "title": "美伊谈判前特朗普发李小龙视频",
+          "url": "https://www.douyin.com/hot/2391580",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "美国总统特朗普：我完全且坚定地支持欧尔班再次担任匈牙利总理。",
@@ -518,7 +552,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 36,
+      "match_count": 44,
       "titles": [
         {
           "title": "一图看懂｜调重兵前往中东，美军目前在伊朗周边军事集结如何？",
@@ -542,11 +576,12 @@
             12,
             10,
             8,
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时22分 ~ 17时42分]"
+          "appearance_count": 9,
+          "time_info": "[12时22分 ~ 18时39分]"
         },
         {
           "title": "美国伊朗谈判今日举行",
@@ -569,8 +604,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时54分 ~ 17时42分]"
+          "appearance_count": 6,
+          "time_info": "[14时54分 ~ 18时39分]"
         },
         {
           "title": "贝森特：看到伊朗啥样了吧，我们干的",
@@ -580,8 +615,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时47分 ~ 17时42分]"
+          "appearance_count": 4,
+          "time_info": "[15时47分 ~ 18时39分]"
         },
         {
           "title": "伊朗最高领袖政治顾问沙姆哈尼获任国防委员会秘书",
@@ -617,6 +652,17 @@
           "time_info": "13时54分"
         },
         {
+          "title": "伊朗称武装部队进入最高级别战备状态",
+          "url": "https://wallstreetcn.com/livenews/3051343",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
           "title": "伊朗外交部发言人：希望美方也能“以负责任、务实和严肃的态度”参与其中。",
           "url": "https://flash.jin10.com/detail/20260206022835465800",
           "source": "金十数据",
@@ -637,6 +683,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时47分"
+        },
+        {
+          "title": "阿曼外交大臣在与美代表会面后 再次会见伊朗外长",
+          "url": "https://wallstreetcn.com/livenews/3051337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "伊朗外交部发言人：伊朗外长阿拉格齐启程前往阿曼马斯喀特，与美国举行核谈判。",
@@ -836,6 +893,17 @@
           "time_info": "14时55分"
         },
         {
+          "title": "阿曼外交部：我们斡旋了伊朗和美国之间的间接会谈。",
+          "url": "https://flash.jin10.com/detail/20260206175026951800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
           "title": "伊朗外长和阿曼外长举行双边会晤",
           "url": "https://wallstreetcn.com/livenews/3051169",
           "source": "华尔街见闻-快讯",
@@ -845,6 +913,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "阿曼外交部：与伊朗外长阿拉奇和美国中东问题特使威特科夫的磋商重点在于创造谈判条件。",
+          "url": "https://flash.jin10.com/detail/20260206174804274800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "伊朗外交消息人士：美国中央司令部或任何地区军事官员的介入，可能危及伊朗与美国在阿曼举行的“间接核”会谈。",
+          "url": "https://flash.jin10.com/detail/20260206173554695800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         },
         {
           "title": "以总理称若遭伊朗攻击将对其“重击”",
@@ -875,7 +965,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时42分"
         },
@@ -924,6 +1014,17 @@
           "time_info": "12时22分"
         },
         {
+          "title": "伊朗在谈判前展示导弹",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E5%9C%A8%E8%B0%88%E5%88%A4%E5%89%8D%E5%B1%95%E7%A4%BA%E5%AF%BC%E5%BC%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
           "title": "外交部副部长苗得雨会见伊朗外交部副部长加里布阿巴迪",
           "url": "https://wallstreetcn.com/livenews/3051148",
           "source": "华尔街见闻-快讯",
@@ -933,12 +1034,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时55分"
+        },
+        {
+          "title": "克里姆林宫：（就伊朗问题表态）我们敦促各方保持克制。",
+          "url": "https://flash.jin10.com/detail/20260206173045673800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "克里姆林宫：欢迎在阿曼就伊朗问题展开对话，期待局势缓和。",
+          "url": "https://flash.jin10.com/detail/20260206173032090800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 19,
       "titles": [
         {
           "title": "疲软就业数据冲击美股，三大股指集体低开，纳指跌1.5%，高通低开11%，比特币跌破7万关键心理位，VIX指数飙升7%，白银再度暴跌10%",
@@ -1022,6 +1145,17 @@
           "time_info": "01时48分"
         },
         {
+          "title": "科技股抛压暂缓，美股期指集体转涨，金银V形反弹，比特币止跌，英伟盘前上涨结束五连跌",
+          "url": "https://wallstreetcn.com/articles/3765113",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
           "title": "金十图示：2026年02月05日（周四）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260206013123695800",
           "source": "金十数据",
@@ -1031,17 +1165,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
-        },
-        {
-          "title": "亚马逊美股盘前跌近10%，今年支出指引2000亿意外爆表。Reddit盘前涨超7%，公司批准一项最高达10亿美元的股票回购计划。Stellantis跌超10%，因业务重组导致2025年下半年计提约222亿欧元费用。",
-          "url": "https://wallstreetcn.com/livenews/3051294",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时42分"
         },
         {
           "title": "美股三大指数集体收跌",
@@ -1079,6 +1202,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时26分]"
+        },
+        {
+          "title": "亚马逊美股盘前跌近10%，今年支出指引2000亿意外爆表。Reddit盘前涨超7%，公司批准一项最高达10亿美元的股票回购计划。Stellantis跌超10%，因业务重组导致2025年下半年计提约222亿欧元费用。",
+          "url": "https://wallstreetcn.com/livenews/3051294",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时42分 ~ 18时39分]"
         },
         {
           "title": "美股、金银、比特币、石油 全崩了",
@@ -1136,6 +1271,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "美股三大股指期货均转涨，纳指期货现涨0.4%，标普500指数期货涨0.3%，道指期货涨0.1%，此前纳指期货一度跌超1.6%。",
+          "url": "https://flash.jin10.com/detail/20260206173458950800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
+        },
+        {
+          "title": "美股期指盘中转涨，道指期货涨0.11%，标普500指数期货涨0.28%，纳斯达克100指数期货涨0.3%，盘中一度跌1.6%。",
+          "url": "https://wallstreetcn.com/livenews/3051309",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时39分"
         }
       ]
     },
@@ -1229,8 +1386,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时01分 ~ 17时42分]"
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 18时39分]"
         },
         {
           "title": "印度央行否认减持美债 称持仓变动属正常波动",
@@ -1340,8 +1497,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[10时01分 ~ 17时42分]"
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 18时39分]"
         }
       ]
     },
