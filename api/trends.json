@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T21:45:53.679649+08:00",
-  "total_titles_processed": 1220,
+  "generated_at": "2026-02-15T22:28:02.436074+08:00",
+  "total_titles_processed": 1261,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
@@ -27,8 +27,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[17时31分 ~ 21时45分]"
+          "appearance_count": 10,
+          "time_info": "[17时31分 ~ 22时28分]"
         },
         {
           "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
@@ -42,8 +42,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[16时32分 ~ 21时45分]"
+          "appearance_count": 12,
+          "time_info": "[16时32分 ~ 22时28分]"
         },
         {
           "title": "美军被曝正做准备：一旦特朗普下令攻击伊朗 行动或持续数周！",
@@ -143,6 +143,18 @@
           "time_info": "[00时29分 ~ 03时24分]"
         },
         {
+          "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
+          "url": "https://flash.jin10.com/detail/20260215212555860800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时28分]"
+        },
+        {
           "title": "加州州长回应特朗普为其起外号：快80岁的人干8岁的事",
           "url": "https://news.ifeng.com/c/8qjoPYjzxHm",
           "source": "凤凰网",
@@ -154,26 +166,18 @@
           "time_info": "[00时29分 ~ 03时24分]"
         },
         {
-          "title": "分析师：特朗普政府中期选举的成败可能取决于选民是否切实感受到日常生活有所改善",
-          "url": "https://flash.jin10.com/detail/20260215212555860800",
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
+          "url": "https://flash.jin10.com/detail/20260215183847434800",
           "source": "金十数据",
           "ranks": [
-            1
+            2,
+            7,
+            12,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：相信美国总统特朗普的助手威特科夫和特朗普女婿库什纳“此刻”正前往伊朗，举行有关伊朗的重要会议。",
-          "url": "https://flash.jin10.com/detail/20260215211009575800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时45分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 22时28分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -191,17 +195,16 @@
           "time_info": "[14时53分 ~ 18时27分]"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-02-15）",
-          "url": "https://flash.jin10.com/detail/20260215183847434800",
+          "title": "美国国务卿鲁比奥：相信美国总统特朗普的助手威特科夫和特朗普女婿库什纳“此刻”正前往伊朗，举行有关伊朗的重要会议。",
+          "url": "https://flash.jin10.com/detail/20260215211009575800",
           "source": "金十数据",
           "ranks": [
-            2,
-            7,
-            12
+            3,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时23分 ~ 21时45分]"
+          "appearance_count": 2,
+          "time_info": "[21时45分 ~ 22时28分]"
         },
         {
           "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
@@ -241,6 +244,17 @@
           "time_info": "[19时22分 ~ 21时45分]"
         },
         {
+          "title": "被特朗普恶搞成猿猴，奥巴马首次回应：廉耻心荡然无存",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32616271",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时27分 ~ 22时28分]"
+        },
+        {
           "title": "奥巴马回应被特朗普恶搞成猴",
           "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%B4%23&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -266,7 +280,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "伊朗副外长：伊美已将经贸领域议题纳入谈判文本",
@@ -276,11 +290,12 @@
             1,
             4,
             9,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 21时45分]"
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 22时28分]"
         },
         {
           "title": "伊朗官员证实第二轮美伊谈判将于周二举行",
@@ -290,11 +305,23 @@
             2,
             5,
             10,
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 21时45分]"
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 22时28分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：（谈及伊朗时表示）我们在和激进的什叶派神职人员打交道、在和那些基于纯粹神学做出地缘政治决策的人打交道。没有人能和伊朗成功达成协议，但我们会尝试。",
+          "url": "https://flash.jin10.com/detail/20260215221126386800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "英媒：若美国愿意解除制裁 伊朗将考虑就核谈判做出妥协",
@@ -347,11 +374,12 @@
             5,
             9,
             14,
-            18
+            18,
+            20
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时27分 ~ 21时45分]"
+          "appearance_count": 5,
+          "time_info": "[18时27分 ~ 22时28分]"
         },
         {
           "title": "伊朗副外长谈新一轮伊美谈判：“球在美国那边”",
@@ -360,11 +388,12 @@
           "ranks": [
             1,
             6,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时23分 ~ 21时45分]"
+          "appearance_count": 4,
+          "time_info": "[19时23分 ~ 22时28分]"
         },
         {
           "title": "伊朗官员：已准备好与美谈判方案 但对结果不乐观",
@@ -372,11 +401,12 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             3,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 21时45分]"
+          "appearance_count": 3,
+          "time_info": "[20时50分 ~ 22时28分]"
         },
         {
           "title": "伊朗官员：已准备好与美谈判方案 但对结果不乐观",
@@ -384,11 +414,12 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时50分 ~ 21时45分]"
+          "appearance_count": 3,
+          "time_info": "[20时50分 ~ 22时28分]"
         },
         {
           "title": "评论员：伊朗着手应战先保核设施",
@@ -428,11 +459,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[10时10分 ~ 21时45分]"
+          "appearance_count": 17,
+          "time_info": "[10时10分 ~ 22时28分]"
         },
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
@@ -503,6 +535,19 @@
           "time_info": "[00时29分 ~ 10时10分]"
         },
         {
+          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
+          "url": "https://wallstreetcn.com/articles/3765742",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[19时22分 ~ 22时28分]"
+        },
+        {
           "title": "DeepSeek“变冷淡”不是翻车",
           "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%8F%98%E5%86%B7%E6%B7%A1%E2%80%9D%E4%B8%8D%E6%98%AF%E7%BF%BB%E8%BD%A6",
           "source": "百度热搜",
@@ -514,19 +559,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[17时31分 ~ 19时23分]"
-        },
-        {
-          "title": "春节周重磅前瞻：美联储最爱通胀指标，DeepSeek V4或发布",
-          "url": "https://wallstreetcn.com/articles/3765742",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时22分 ~ 21时45分]"
         }
       ]
     },
@@ -581,6 +613,17 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
+          "url": "https://wallstreetcn.com/articles/3765755",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时45分 ~ 22时28分]"
+        },
+        {
           "title": "OpenClaw之父爆猛料：Meta和OpenAI跪着抢人，小扎亲自求收购",
           "url": "https://wallstreetcn.com/articles/3765726",
           "source": "华尔街见闻",
@@ -590,17 +633,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时10分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
+          "url": "https://www.cls.cn/detail/2290296",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            7,
+            10,
+            11,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 27,
+          "time_info": "[00时29分 ~ 22时28分]"
         },
         {
-          "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
-          "url": "https://wallstreetcn.com/articles/3765755",
-          "source": "华尔街见闻",
+          "title": "金十整理：下周重要事件与数据预告——美联储会议纪要携PCE数据登场，中国与多地市场因春节假期休市、美股周一因美国总统日休市一日",
+          "url": "https://flash.jin10.com/detail/20260215215525567800",
+          "source": "金十数据",
           "ranks": [
-            10
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时45分"
+          "time_info": "22时28分"
         }
       ]
     },
@@ -622,27 +687,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时29分 ~ 07时24分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美股轮动之际：黄仁勋跌出全球十大富翁之列 沃尔玛三兄妹进入排行",
-          "url": "https://www.cls.cn/detail/2290296",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            7,
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时29分 ~ 21时45分]"
         }
       ]
     }
