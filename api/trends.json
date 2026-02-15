@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-15T16:33:09.541864+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2026-02-15T17:32:14.170730+08:00",
+  "total_titles_processed": 986,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "王毅：特朗普非常尊重中方，但还有人想打压中国",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时29分 ~ 10时10分]"
+        },
+        {
+          "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
+          "url": "https://news.ifeng.com/c/8ql7NDkYK2B",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[12时54分 ~ 17时32分]"
         },
         {
           "title": "乌克兰总统泽连斯基：（被问及美国总统特朗普关于乌克兰的最新评论时）“有点”感受到压力。",
@@ -103,15 +114,53 @@
           "time_info": "[00时29分 ~ 03时24分]"
         },
         {
-          "title": "民主党人跳出来指责：绥靖！特朗普上赶着为中国效力",
-          "url": "https://news.ifeng.com/c/8ql7NDkYK2B",
+          "title": "民主党轮番安抚欧洲：再忍忍，特朗普3年后就会离开",
+          "url": "https://news.ifeng.com/c/8qlaP330gp4",
           "source": "凤凰网",
           "ranks": [
-            9
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时54分 ~ 16时33分]"
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
+        },
+        {
+          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
+          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%BF%E7%8C%B4+%E5%A5%A5%E5%B7%B4%E9%A9%AC%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[15时38分 ~ 17时32分]"
+        },
+        {
+          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
+          "source": "澎湃新闻",
+          "ranks": [
+            11,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[16时32分 ~ 17时32分]"
+        },
+        {
+          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
+          "url": "https://flash.jin10.com/detail/20260215135912358800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            15,
+            22,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[14时53分 ~ 17时32分]"
         },
         {
           "title": "曝特朗普发涉种族主义视频被批后发怒",
@@ -127,40 +176,26 @@
           "time_info": "[14时53分 ~ 16时33分]"
         },
         {
-          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
-          "url": "https://flash.jin10.com/detail/20260215135912358800",
-          "source": "金十数据",
+          "title": "奥巴马回应被特朗普恶搞成猴",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A5%A5%E5%B7%B4%E9%A9%AC%E5%9B%9E%E5%BA%94%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%B4%23&t=31&band_rank=17&Refer=top",
+          "source": "微博",
           "ranks": [
-            9,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时53分 ~ 16时33分]"
-        },
-        {
-          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
-          "url": "https://www.baidu.com/s?wd=%E8%A2%AB%E7%89%B9%E6%9C%97%E6%99%AE%E6%81%B6%E6%90%9E%E6%88%90%E7%8C%BF%E7%8C%B4+%E5%A5%A5%E5%B7%B4%E9%A9%AC%E9%A6%96%E6%AC%A1%E5%9B%9E%E5%BA%94",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时38分 ~ 16时33分]"
-        },
-        {
-          "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32614935",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[16时32分 ~ 16时33分]"
+          "time_info": "[17时31分 ~ 17时32分]"
+        },
+        {
+          "title": "被特朗普恶搞成猿猴 奥巴马首次回应",
+          "url": "https://www.toutiao.com/trending/7606703474663063593/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
         },
         {
           "title": "外媒：特朗普与内塔尼亚胡同意加大对伊朗的施压",
@@ -187,11 +222,24 @@
             8,
             5,
             4,
-            3
+            3,
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时10分 ~ 16时33分]"
+          "appearance_count": 9,
+          "time_info": "[10时10分 ~ 17时32分]"
+        },
+        {
+          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
+          "url": "https://www.cls.cn/detail/2290476",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[10时10分 ~ 17时32分]"
         },
         {
           "title": "1月市场份额再度攀升！Grok和谷歌Gemini瓜分ChatGPT丢失的市场",
@@ -218,18 +266,6 @@
           "is_new": false,
           "appearance_count": 13,
           "time_info": "[00时29分 ~ 15时38分]"
-        },
-        {
-          "title": "谷歌债券遭全球疯抢 但保护条款“缺席”引发隐忧",
-          "url": "https://www.cls.cn/detail/2290476",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时10分 ~ 16时33分]"
         },
         {
           "title": "美国2月13日当周投资级债券市场销售403亿美元债券，周环比下滑35%（之前一周616亿美元）；发行人19家，之前一周22笔。 其中，谷歌母公司Alphabet inc.出售200亿美元，迪士尼供应40亿美元第二大。 2月份迄今，高评级债券供应1020亿美元，1月份同期供应1233亿美元。 2026年迄今，累计发行3299亿美元，2025年同期为2681亿美元。（彭博）",
@@ -278,11 +314,12 @@
           "ranks": [
             6,
             12,
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时53分 ~ 16时33分]"
+          "appearance_count": 4,
+          "time_info": "[14时53分 ~ 17时32分]"
         },
         {
           "title": "据BBC：如果美国愿意讨论解除制裁的问题，伊朗已准备好考虑做出妥协，以与美国达成核协议。",
@@ -291,11 +328,12 @@
           "ranks": [
             7,
             13,
-            20
+            20,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时53分 ~ 16时33分]"
+          "appearance_count": 4,
+          "time_info": "[14时53分 ~ 17时32分]"
         },
         {
           "title": "评论员：伊朗着手应战先保核设施",
@@ -358,7 +396,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "DeepSeek变冷漠甚至凶凶的？回应来了",
@@ -372,6 +410,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时29分 ~ 10时10分]"
+        },
+        {
+          "title": "DeepSeek“变冷淡”不是翻车",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%8F%98%E5%86%B7%E6%B7%A1%E2%80%9D%E4%B8%8D%E6%98%AF%E7%BF%BB%E8%BD%A6",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时31分 ~ 17时32分]"
         }
       ]
     },
@@ -427,8 +476,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[00时29分 ~ 16时33分]"
+          "appearance_count": 19,
+          "time_info": "[00时29分 ~ 17时32分]"
         }
       ]
     }
