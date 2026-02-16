@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-16T12:59:34.427395+08:00",
-  "total_titles_processed": 770,
+  "generated_at": "2026-02-16T14:09:59.871570+08:00",
+  "total_titles_processed": 826,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "伊朗官员：已准备好与美谈判方案 但对结果不乐观",
@@ -44,6 +44,17 @@
           "time_info": "[00时31分 ~ 07时27分]"
         },
         {
+          "title": "伊朗外长启程赴会，以总理预设四项条件",
+          "url": "https://news.ifeng.com/c/8qmf04pVvw5",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 14时09分]"
+        },
+        {
           "title": "美国国务卿鲁比奥：（谈及伊朗时表示）我们在和激进的什叶派神职人员打交道、在和那些基于纯粹神学做出地缘政治决策的人打交道。没有人能和伊朗成功达成协议，但我们会尝试。",
           "url": "https://flash.jin10.com/detail/20260215221126386800",
           "source": "金十数据",
@@ -55,17 +66,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时31分 ~ 06时24分]"
-        },
-        {
-          "title": "伊朗外长启程赴会，以总理预设四项条件",
-          "url": "https://news.ifeng.com/c/8qmf04pVvw5",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 12时59分]"
         },
         {
           "title": "伊朗官员：已准备好与美谈判方案 但对结果不乐观",
@@ -150,6 +150,17 @@
           "time_info": "[07时27分 ~ 10时05分]"
         },
         {
+          "title": "抵近伊朗，卫星捕获美航母在阿曼附近活动",
+          "url": "https://news.ifeng.com/c/8qmgE0Gd2cL",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 14时09分]"
+        },
+        {
           "title": "美国务卿：向中东派兵是为防御，仍尝试与伊朗达成协议",
           "url": "https://news.ifeng.com/c/8qmDbCkeOUn",
           "source": "凤凰网",
@@ -174,15 +185,15 @@
           "time_info": "[05时24分 ~ 07时27分]"
         },
         {
-          "title": "抵近伊朗，卫星捕获美航母在阿曼附近活动",
-          "url": "https://news.ifeng.com/c/8qmgE0Gd2cL",
-          "source": "凤凰网",
+          "title": "美伊新一轮谈判在即，以总理：伊朗必须拆除核设施",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32618794",
+          "source": "澎湃新闻",
           "ranks": [
             6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 12时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         },
         {
           "title": "以称必须确保伊朗不再具备铀浓缩能力",
@@ -199,7 +210,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "泽连斯基慕安会演讲：美国总让乌克兰让步，“有点”感受到特朗普的压力",
@@ -318,6 +329,17 @@
           "time_info": "[05时24分 ~ 07时27分]"
         },
         {
+          "title": "特朗普或支持以色列打击伊朗",
+          "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时05分 ~ 14时09分]"
+        },
+        {
           "title": "特朗普：和平委员会成员已承诺提供逾50亿美元资金",
           "url": "https://flash.jin10.com/detail/20260216042836136800",
           "source": "金十数据",
@@ -331,15 +353,15 @@
           "time_info": "[05时24分 ~ 07时27分]"
         },
         {
-          "title": "特朗普或支持以色列打击伊朗",
-          "url": "https://news.ifeng.com/c/8qmhQv7Byxy",
-          "source": "凤凰网",
+          "title": "涉特朗普政府政策，希拉里与捷克副总理上演言语冲突",
+          "url": "https://flash.jin10.com/detail/20260216131526064800",
+          "source": "金十数据",
           "ranks": [
-            7
+            8
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时05分 ~ 12时59分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时09分"
         }
       ]
     },
@@ -354,11 +376,12 @@
           "ranks": [
             9,
             10,
-            6
+            6,
+            7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 12时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 14时09分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -403,22 +426,24 @@
           "url": "https://www.zhihu.com/question/2006637072895738078",
           "source": "知乎",
           "ranks": [
-            8
+            8,
+            7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 14时09分]"
         },
         {
           "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
           "url": "https://wallstreetcn.com/articles/3765772",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时59分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时59分 ~ 14时09分]"
         }
       ]
     },
@@ -436,8 +461,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时30分 ~ 12时59分]"
+          "appearance_count": 13,
+          "time_info": "[00时30分 ~ 14时09分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
