@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T21:02:30.728309+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-02-16T22:41:25.199289+08:00",
+  "total_titles_processed": 1467,
   "failed_sources": [],
   "trends": [
     {
@@ -18,8 +18,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时09分 ~ 21时02分]"
+          "appearance_count": 9,
+          "time_info": "[14时09分 ~ 22时41分]"
         },
         {
           "title": "伊朗官员：已准备好与美谈判方案 但对结果不乐观",
@@ -541,7 +541,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -563,7 +563,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -596,8 +596,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时59分 ~ 21时02分]"
+          "appearance_count": 10,
+          "time_info": "[12时59分 ~ 22时41分]"
         },
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -700,11 +700,12 @@
           "ranks": [
             7,
             8,
-            9
+            9,
+            11
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时30分 ~ 21时02分]"
+          "appearance_count": 21,
+          "time_info": "[00时30分 ~ 22时41分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
@@ -744,8 +745,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[19时40分 ~ 21时02分]"
+          "appearance_count": 3,
+          "time_info": "[19时40分 ~ 22时41分]"
         },
         {
           "title": "千问3.5成本仅为谷歌大模型5%",
@@ -754,7 +755,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         }
@@ -773,8 +774,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[15时54分 ~ 21时02分]"
+          "appearance_count": 4,
+          "time_info": "[15时54分 ~ 22时41分]"
         },
         {
           "title": "大摩：市场开始买美债了",
@@ -849,7 +850,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         }
