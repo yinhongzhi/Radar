@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-16T10:05:59.594809+08:00",
-  "total_titles_processed": 615,
+  "generated_at": "2026-02-16T12:59:34.427395+08:00",
+  "total_titles_processed": 770,
   "failed_sources": [],
   "trends": [
     {
@@ -57,6 +57,17 @@
           "time_info": "[00时31分 ~ 06时24分]"
         },
         {
+          "title": "伊朗外长启程赴会，以总理预设四项条件",
+          "url": "https://news.ifeng.com/c/8qmf04pVvw5",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 12时59分]"
+        },
+        {
           "title": "伊朗官员：已准备好与美谈判方案 但对结果不乐观",
           "url": "https://flash.jin10.com/detail/20260215194121768800",
           "source": "金十数据",
@@ -67,17 +78,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时31分 ~ 05时24分]"
-        },
-        {
-          "title": "伊朗外长启程赴会，以总理预设四项条件",
-          "url": "https://news.ifeng.com/c/8qmf04pVvw5",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时05分"
         },
         {
           "title": "伊朗副外长：伊美已将经贸领域议题纳入谈判文本",
@@ -180,9 +180,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 12时59分]"
         },
         {
           "title": "以称必须确保伊朗不再具备铀浓缩能力",
@@ -191,7 +191,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时05分"
         }
@@ -337,15 +337,15 @@
           "ranks": [
             7
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时05分 ~ 12时59分]"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI高管：工程师变成“魔法师”，AI将开启新一轮创业狂潮",
@@ -353,11 +353,12 @@
           "source": "华尔街见闻",
           "ranks": [
             9,
-            10
+            10,
+            6
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 10时05分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 12时59分]"
         },
         {
           "title": "OpenAI联合创始人Grek Brockman：Codex在处理繁琐事务方面做得非常出色，比如解决合并冲突、让持续集成（CI）顺利通过、在不同编程语言之间重写代码，这提高了我对构建项目的雄心壮志。",
@@ -396,6 +397,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时24分 ~ 07时27分]"
+        },
+        {
+          "title": "OpenClaw 之父宣布加入 OpenAI，对此你怎么看？",
+          "url": "https://www.zhihu.com/question/2006637072895738078",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
+        },
+        {
+          "title": "OpenClaw创始人加入OpenAI，目标“开发一款连我妈妈都能用的AI助手”",
+          "url": "https://wallstreetcn.com/articles/3765772",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时59分"
         }
       ]
     },
@@ -413,8 +436,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时30分 ~ 10时05分]"
+          "appearance_count": 12,
+          "time_info": "[00时30分 ~ 12时59分]"
         },
         {
           "title": "消息称 Anthropic 员工效率远超谷歌，入职需「杀死自我」，这种企业文化有效吗？",
