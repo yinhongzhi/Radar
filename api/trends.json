@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-18T22:44:34.400319+08:00",
-  "total_titles_processed": 1758,
+  "generated_at": "2026-02-18T23:53:37.261075+08:00",
+  "total_titles_processed": 1854,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "美国专家：美伊谈判前景像掷硬币，关键在于特朗普的决策",
@@ -31,6 +31,17 @@
           "time_info": "[01时56分 ~ 07时35分]"
         },
         {
+          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
+          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时44分 ~ 23时53分]"
+        },
+        {
           "title": "美部长与下属传出婚外情，特朗普回应",
           "url": "https://news.ifeng.com/c/8qp4YVQ6NeA",
           "source": "凤凰网",
@@ -43,17 +54,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时57分 ~ 06时31分]"
-        },
-        {
-          "title": "特朗普、拜登、奥巴马、克林顿齐发声",
-          "url": "https://news.ifeng.com/c/8qqUCbPAN8F",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[16时44分 ~ 22时44分]"
         },
         {
           "title": "特朗普涉台最新表态，台当局和日本都慌了",
@@ -99,6 +99,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时07分 ~ 16时44分]"
+        },
+        {
+          "title": "美国参议院卫生委员会将于2月25日就美国总统特朗普提名的公共卫生局局长候选人凯西·米恩斯举行听证会。",
+          "url": "https://flash.jin10.com/detail/20260218231039678800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "泽连斯基称特朗普要求乌方单方让步“不公平”",
@@ -385,6 +396,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "特朗普：日本在美投建的天然气电厂将成为全美最大",
+          "url": "https://wallstreetcn.com/livenews/3056374",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "美国总统特朗普的内阁与顾问开会，讨论中期选举策略。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3056161",
           "source": "华尔街见闻-快讯",
@@ -586,7 +608,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗谈判新策略曝光：与美联合开发油气田、矿区，采购美飞机，“让美国能快速获得高额经济回报”！",
@@ -631,8 +653,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时53分 ~ 22时44分]"
+          "appearance_count": 10,
+          "time_info": "[12时53分 ~ 23时53分]"
         },
         {
           "title": "万斯：美方向伊朗划定“红线”",
@@ -711,6 +733,17 @@
           "time_info": "19时38分"
         },
         {
+          "title": "伊朗首都德黑兰附近的帕兰德发生火灾。",
+          "url": "https://flash.jin10.com/detail/20260218230908167800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "报道：俄罗斯和伊朗海军在阿曼湾举行联合演习",
           "url": "https://wallstreetcn.com/livenews/3056092",
           "source": "华尔街见闻-快讯",
@@ -773,6 +806,18 @@
           "time_info": "[12时53分 ~ 15时14分]"
         },
         {
+          "title": "伊朗将迅速落实伊俄全面战略合作计划",
+          "url": "https://www.toutiao.com/trending/7607948856885624895/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时03分 ~ 23时53分]"
+        },
+        {
           "title": "伊朗将在未来两周向美国递交详细方案。（Axios）",
           "url": "https://wallstreetcn.com/livenews/3056061",
           "source": "华尔街见闻-快讯",
@@ -809,17 +854,6 @@
           "time_info": "[17时47分 ~ 18时44分]"
         },
         {
-          "title": "伊朗将迅速落实伊俄全面战略合作计划",
-          "url": "https://www.toutiao.com/trending/7607948856885624895/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "21时03分"
-        },
-        {
           "title": "美国副总统万斯：在某些方面，伊朗谈判进展顺利。",
           "url": "https://flash.jin10.com/detail/20260218041904754800",
           "source": "金十数据",
@@ -829,6 +863,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时43分"
+        },
+        {
+          "title": "伊朗与俄罗斯将举行海上联合军演",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32629571",
+          "source": "澎湃新闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "美官员：预计伊朗将在未来两周就核谈判内容提出详细方案",
@@ -892,7 +937,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
         },
@@ -919,6 +964,17 @@
           "time_info": "00时57分"
         },
         {
+          "title": "卫星图像显示，伊朗修复并巩固军事设施",
+          "url": "https://flash.jin10.com/detail/20260218223915606800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "伊朗总统：伊方希望谈判能带来“切实成果”",
           "url": "https://wallstreetcn.com/livenews/3056036",
           "source": "华尔街见闻-快讯",
@@ -933,7 +989,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 24,
+      "match_count": 31,
       "titles": [
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -944,8 +1000,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时07分 ~ 22时44分]"
+          "appearance_count": 11,
+          "time_info": "[10时07分 ~ 23时53分]"
         },
         {
           "title": "美股休市，科技股拖累欧股反弹，黄金失去“中国动力”失守5000美元，人民币涨破6.89",
@@ -969,8 +1025,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时57分 ~ 22时44分]"
+          "appearance_count": 21,
+          "time_info": "[00时57分 ~ 23时53分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -979,11 +1035,12 @@
           "ranks": [
             13,
             9,
-            10
+            10,
+            12
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时07分 ~ 22时44分]"
+          "appearance_count": 11,
+          "time_info": "[10时07分 ~ 23时53分]"
         },
         {
           "title": "美股盘前科技股普涨，黄金收复4900，白银日内涨超3%，欧洲斯托克600触及新纪录高位",
@@ -997,6 +1054,18 @@
           "time_info": "[17时47分 ~ 18时44分]"
         },
         {
+          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
+          "url": "https://wallstreetcn.com/articles/3765829",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[17时47分 ~ 23时53分]"
+        },
+        {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，大宗商品普跌，英央行降息预期上升，英镑一度跳水1%",
           "url": "https://wallstreetcn.com/articles/3765810",
           "source": "华尔街见闻",
@@ -1008,13 +1077,35 @@
           "time_info": "07时35分"
         },
         {
+          "title": "美股三大指数小幅高开，黄金收复5000，白银日内涨5%，原油上涨3%",
+          "url": "https://wallstreetcn.com/articles/3765834",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "房利美股价迅速扩大涨幅，上涨4%。",
+          "url": "https://flash.jin10.com/detail/20260218231319433800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "美股盘初：黄金股、中概股普涨，英伟达涨约2%",
           "url": "https://wallstreetcn.com/livenews/3056361",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
         },
@@ -1025,21 +1116,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
-        },
-        {
-          "title": "摩根大通交易台：“先卖再问”的美股AI抛售潮即将结束，抄底软件股的时候到了",
-          "url": "https://wallstreetcn.com/articles/3765829",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[17时47分 ~ 22时44分]"
         },
         {
           "title": "金十图示：2026年02月17日（周二）美股热门股票行情一览（美股收盘）",
@@ -1174,6 +1253,28 @@
           "time_info": "[17时47分 ~ 18时44分]"
         },
         {
+          "title": "美股两房涨幅扩大",
+          "url": "https://wallstreetcn.com/livenews/3056379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2291551",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
           "title": "美股三大股指收涨 贵金属、有色板块跌幅居前",
           "url": "https://flash.jin10.com/detail/20260218050249906800",
           "source": "金十数据",
@@ -1202,9 +1303,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，能源业ETF、区域银行业ETF涨超1%，公用事业ETF跌近1%。",
+          "url": "https://wallstreetcn.com/livenews/3056367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "金十数据整理：每日美股市场要闻速递（2026-02-18）",
@@ -1213,15 +1325,37 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时44分"
+        },
+        {
+          "title": "美股盘初：黄金股、热门中概股普涨，英伟达涨约2%",
+          "url": "https://wallstreetcn.com/livenews/3056361",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
+        },
+        {
+          "title": "金十图示：2026年02月18日（周三）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260218223642456800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "谷歌I/O开发者大会将于5月19日至20日举办",
@@ -1233,6 +1367,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时35分"
+        },
+        {
+          "title": "谷歌：推出499美元的Pixel 10A智能手机，价格保持不变。",
+          "url": "https://flash.jin10.com/detail/20260218230854451800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时53分"
         },
         {
           "title": "13F报告显示：Tiger Global Management LLC.在四季度增持Coupang、Black、ServiceNOW等。 清仓MongoDB等。 减持Sea、微软、Applovin、Meta、Reddit。 重仓谷歌母公司Alphabet、微软、亚马逊、英伟达、Sea。",
