@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-19T18:43:09.680793+08:00",
-  "total_titles_processed": 1449,
+  "generated_at": "2026-02-19T19:38:53.848158+08:00",
+  "total_titles_processed": 1506,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 47,
       "titles": [
         {
           "title": "为不影响特朗普访华，美对台军售疑停滞，白宫回应",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时05分 ~ 18时43分]"
+          "appearance_count": 12,
+          "time_info": "[10时05分 ~ 19时38分]"
         },
         {
           "title": "特朗普将举行首届“和平委员会”会议，宣布成员国注资",
@@ -124,6 +124,18 @@
           "time_info": "[15时10分 ~ 17时45分]"
         },
         {
+          "title": "美国总统特朗普考虑达成一项不包括加拿大的北美贸易协定。",
+          "url": "https://flash.jin10.com/detail/20260219181201454800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时38分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt谈及美国国土安全部（DHS）停摆问题，宣称：美国总统特朗普还没有与民主党沟通。",
           "url": "https://wallstreetcn.com/livenews/3056449",
           "source": "华尔街见闻-快讯",
@@ -184,17 +196,6 @@
           "time_info": "[10时05分 ~ 12时52分]"
         },
         {
-          "title": "美国总统特朗普考虑达成一项不包括加拿大的北美贸易协定。",
-          "url": "https://flash.jin10.com/detail/20260219181201454800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
-        },
-        {
           "title": "特朗普签署行政令指示农业部和国防部确保元素磷、除草剂充足",
           "url": "https://flash.jin10.com/detail/20260219070013382800",
           "source": "金十数据",
@@ -204,6 +205,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "特朗普政府扩大了移民与海关执法局拘留合法难民的权力。",
+          "url": "https://flash.jin10.com/detail/20260219184006351800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         },
         {
           "title": "特朗普：英国签迪戈加西亚百年租约是“大错”，若有必要美军将动用该基地",
@@ -528,7 +540,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 45,
       "titles": [
         {
           "title": "美油大涨5%！美以或对伊朗联合袭击，白宫称谈判取得进展、但关键议题相距甚远",
@@ -538,11 +550,28 @@
             10,
             5,
             4,
-            3
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[10时05分 ~ 19时38分]"
+        },
+        {
+          "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
+          "url": "https://wallstreetcn.com/articles/3765857",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            7,
+            4,
+            2,
+            1
           ],
           "is_new": false,
           "appearance_count": 11,
-          "time_info": "[10时05分 ~ 18时43分]"
+          "time_info": "[12时52分 ~ 19时38分]"
         },
         {
           "title": "美媒：对伊朗开展军事行动“迫在眉睫”",
@@ -555,21 +584,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[02时54分 ~ 07时30分]"
-        },
-        {
-          "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
-          "url": "https://wallstreetcn.com/articles/3765857",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8,
-            7,
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时52分 ~ 18时43分]"
         },
         {
           "title": "伊朗将迅速落实伊俄全面战略合作计划",
@@ -600,6 +614,21 @@
           "time_info": "[01时03分 ~ 16时43分]"
         },
         {
+          "title": "美以或对伊朗发动大规模袭击",
+          "url": "https://www.douyin.com/hot/2405517",
+          "source": "抖音",
+          "ranks": [
+            1,
+            13,
+            9,
+            14,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[15时09分 ~ 19时38分]"
+        },
+        {
           "title": "伊朗：已进入全面战备状态",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E5%B7%B2%E8%BF%9B%E5%85%A5%E5%85%A8%E9%9D%A2%E6%88%98%E5%A4%87%E7%8A%B6%E6%80%81",
           "source": "百度热搜",
@@ -614,20 +643,6 @@
           "time_info": "[13时58分 ~ 18时43分]"
         },
         {
-          "title": "美以或对伊朗发动大规模袭击",
-          "url": "https://www.douyin.com/hot/2405517",
-          "source": "抖音",
-          "ranks": [
-            1,
-            13,
-            9,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时09分 ~ 18时43分]"
-        },
-        {
           "title": "俄外长：美国若打击伊朗后果严重",
           "url": "https://www.douyin.com/hot/2405736",
           "source": "抖音",
@@ -635,11 +650,12 @@
             26,
             17,
             23,
-            18
+            18,
+            27
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[15时09分 ~ 18时43分]"
+          "appearance_count": 8,
+          "time_info": "[15时09分 ~ 19时38分]"
         },
         {
           "title": "伊朗：已进入全面战备状态",
@@ -647,11 +663,50 @@
           "source": "抖音",
           "ranks": [
             16,
-            1
+            1,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时44分 ~ 18时43分]"
+          "appearance_count": 5,
+          "time_info": "[17时44分 ~ 19时38分]"
+        },
+        {
+          "title": "原油贵金属大幅收涨 消息称美以或将联合袭击伊朗 | 环球市场",
+          "url": "https://www.cls.cn/detail/2291663",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时43分 ~ 19时38分]"
+        },
+        {
+          "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32632034",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时43分 ~ 19时38分]"
+        },
+        {
+          "title": "美媒称美军方已准备好“最早本周末”打击伊朗",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32632095",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时43分 ~ 19时38分]"
         },
         {
           "title": "美国国务院：美国国务卿鲁比奥正采取措施，对18名伊朗政权官员和电信行业领导人实施签证限制。",
@@ -674,44 +729,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时43分"
-        },
-        {
-          "title": "原油贵金属大幅收涨 消息称美以或将联合袭击伊朗 | 环球市场",
-          "url": "https://www.cls.cn/detail/2291663",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时43分 ~ 18时43分]"
-        },
-        {
-          "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32632034",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时43分 ~ 18时43分]"
-        },
-        {
-          "title": "美媒称美军方已准备好“最早本周末”打击伊朗",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32632095",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时43分 ~ 18时43分]"
         },
         {
           "title": "据华尔街日报：官员称，美国正从叙利亚撤出所有部队，部队将在未来两个月内从剩余地点撤军。消息人士称，撤军与为可能袭击伊朗而部署部队无关。",
@@ -763,6 +780,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时43分 ~ 18时43分]"
+        },
+        {
+          "title": "伊朗",
+          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时42分 ~ 19时38分]"
         },
         {
           "title": "伊朗备战",
@@ -848,6 +876,18 @@
           "time_info": "[17时45分 ~ 18时43分]"
         },
         {
+          "title": "国际原子能机构（IAEA）总干事：达成伊朗核协议“时间已经不多了”。",
+          "url": "https://wallstreetcn.com/livenews/3056612",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时43分 ~ 19时38分]"
+        },
+        {
           "title": "白宫新闻秘书Leavitt声称，在伊朗问题上取得了一点进展。 针对俄乌问题的三方会谈取得进展。",
           "url": "https://wallstreetcn.com/livenews/3056448",
           "source": "华尔街见闻-快讯",
@@ -858,17 +898,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时48分 ~ 04时39分]"
-        },
-        {
-          "title": "伊朗",
-          "url": "https://s.weibo.com/weibo?q=%E4%BC%8A%E6%9C%97&t=31&band_rank=12&Refer=top",
-          "source": "微博",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时42分 ~ 18时43分]"
         },
         {
           "title": "俄外长警告美若打击伊朗后果严重",
@@ -882,6 +911,17 @@
           "time_info": "[15时09分 ~ 15时10分]"
         },
         {
+          "title": "波兰总理呼吁在伊朗的波兰公民尽快离境",
+          "url": "https://wallstreetcn.com/livenews/3056625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
+        },
+        {
           "title": "伊朗外长称就伊美谈判“指导原则”达成一致，布油一度跌近3%",
           "url": "https://wallstreetcn.com/articles/3765814",
           "source": "华尔街见闻",
@@ -891,17 +931,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
-        },
-        {
-          "title": "国际原子能机构（IAEA）总干事：达成伊朗核协议“时间已经不多了”。",
-          "url": "https://wallstreetcn.com/livenews/3056612",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时43分"
         },
         {
           "title": "德国地学研究中心：伊朗南部发生5.47级地震。",
@@ -1061,18 +1090,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "科技股力撑美股两连阳，美联储自曝通胀担忧，道指盘中闪跌，美伊风险助原油大反弹",
           "url": "https://wallstreetcn.com/articles/3765834",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[06时32分 ~ 18时43分]"
+          "appearance_count": 16,
+          "time_info": "[06时32分 ~ 19时38分]"
         },
         {
           "title": "AI担忧仍存，美股走V微涨，软件股再遭抛售，金银油下挫，期银跌近6%",
@@ -1122,8 +1152,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时03分 ~ 18时43分]"
+          "appearance_count": 23,
+          "time_info": "[01时03分 ~ 19时38分]"
         },
         {
           "title": "美股三大期指集体走高 美联储将公布1月会议纪要 | 今夜看点",
@@ -1134,8 +1164,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时03分 ~ 18时43分]"
+          "appearance_count": 23,
+          "time_info": "[01时03分 ~ 19时38分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -1147,8 +1177,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 22,
-          "time_info": "[01时03分 ~ 18时43分]"
+          "appearance_count": 23,
+          "time_info": "[01时03分 ~ 19时38分]"
+        },
+        {
+          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
+          "url": "https://www.cls.cn/detail/2291660",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时43分 ~ 19时38分]"
         },
         {
           "title": "Doordash美股盘后涨10%。",
@@ -1160,18 +1202,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
-        },
-        {
-          "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
-          "url": "https://www.cls.cn/detail/2291660",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时43分 ~ 18时43分]"
         },
         {
           "title": "能源业ETF收涨1.92%，半导体ETF涨1.24%，网络股指数ETF、全球科技股指数ETF、科技行业ETF至少涨1.03%，领跑美股行业ETF，公用事业ETF跌1.66%。 标普500指数的11个板块中，能源板块收涨2%，可选消费板块涨1%，信息技术/科技板块涨0.97%，房地产板块收跌1.45%，公用事业板块跌1.7%。",
@@ -1192,11 +1222,25 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            12
+            12,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 18时43分]"
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 19时38分]"
+        },
+        {
+          "title": "美股存储芯片概念股盘前上涨，Sandisk、美光科技均涨超1%。白银概念股走强，泛美白银涨超4%，赫克拉矿业涨近2%。",
+          "url": "https://wallstreetcn.com/livenews/3056607",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            15,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 19时38分]"
         },
         {
           "title": "科技股推动美股期指上扬，盘前存储芯片、白银股走高，地缘局势升温推高金银油，黄金站上5000美元",
@@ -1235,18 +1279,6 @@
           "time_info": "[05时35分 ~ 06时33分]"
         },
         {
-          "title": "美股存储芯片概念股盘前上涨，Sandisk、美光科技均涨超1%。白银概念股走强，泛美白银涨超4%，赫克拉矿业涨近2%。",
-          "url": "https://wallstreetcn.com/livenews/3056607",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时45分 ~ 18时43分]"
-        },
-        {
           "title": "Figma美股盘后涨15%，该公司认为人工智能（AI）货币化带动增长。 该公司四季度营收3.038亿美元，分析师预期2.931亿美元。 预计2026年营收大约13.7亿美元，分析师预期12.9亿美元。",
           "url": "https://wallstreetcn.com/livenews/3056488",
           "source": "华尔街见闻-快讯",
@@ -1258,6 +1290,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时35分 ~ 07时30分]"
+        },
+        {
+          "title": "科技股拖累美股期指转跌，特斯拉盘前领跌Mag7，地缘局势升温推高金银油，黄金站上5000美元",
+          "url": "https://wallstreetcn.com/articles/3765856",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         },
         {
           "title": "美股高开高走 英伟达收涨1.63%",
@@ -1401,7 +1444,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI CEO Sam Altman：人工智能需要监管和保障措施。",
@@ -1453,6 +1496,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时33分 ~ 07时30分]"
+        },
+        {
+          "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
+          "url": "https://wallstreetcn.com/articles/3765864",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时38分"
         },
         {
           "title": "OpenAI：OpenAI计划在印度的孟买和班加罗尔开设新办公室。",
@@ -1517,11 +1571,12 @@
           "source": "微博",
           "ranks": [
             25,
-            27
+            27,
+            28
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时44分 ~ 18时43分]"
+          "appearance_count": 5,
+          "time_info": "[17时44分 ~ 19时38分]"
         },
         {
           "title": "金价涨约2%，白银涨约5%",
