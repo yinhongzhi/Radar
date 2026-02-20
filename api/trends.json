@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-20T19:32:40.694929+08:00",
-  "total_titles_processed": 1490,
+  "generated_at": "2026-02-20T20:58:22.775139+08:00",
+  "total_titles_processed": 1593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 91,
+      "match_count": 92,
       "titles": [
         {
           "title": "“10-15天”最后通牒？特朗普：美伊必须达成有意义协议，否则发生“糟糕的事”",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时01分 ~ 19时32分]"
+          "appearance_count": 12,
+          "time_info": "[10时01分 ~ 20时58分]"
         },
         {
           "title": "特朗普：高市早苗“特别喜欢我”",
@@ -43,17 +43,6 @@
           "time_info": "[10时01分 ~ 18时37分]"
         },
         {
-          "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
-          "url": "https://news.ifeng.com/c/8qtImyHlk4E",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时01分 ~ 18时37分]"
-        },
-        {
           "title": "特朗普阵营的坚定降息派动摇了？美联储理事米兰：劳动力市场改善可令今年少些降息",
           "url": "https://wallstreetcn.com/articles/3765884",
           "source": "华尔街见闻",
@@ -63,8 +52,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时46分 ~ 19时32分]"
+          "appearance_count": 10,
+          "time_info": "[12时46分 ~ 20时58分]"
         },
         {
           "title": "“和平委员会”首次开会，特朗普警告拒加入国家“勿耍小聪明”",
@@ -74,8 +63,19 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时46分 ~ 19时32分]"
+          "appearance_count": 10,
+          "time_info": "[12时46分 ~ 20时58分]"
+        },
+        {
+          "title": "奥巴马称外星人确实存在，特朗普：他泄密了",
+          "url": "https://news.ifeng.com/c/8qtImyHlk4E",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[10时01分 ~ 18时37分]"
         },
         {
           "title": "对于伊朗和油价，特朗普是“自信过头”还是“姿态做足”？",
@@ -103,13 +103,24 @@
           "time_info": "[10时01分 ~ 12时46分]"
         },
         {
+          "title": "特朗普再次呼吁降低利率。特朗普表示，政府关门至少让美国损失了两个百分点的GDP。",
+          "url": "https://wallstreetcn.com/livenews/3056941",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "宾夕法尼亚大学沃顿商学院预算模型称，如果最高法院裁定特朗普败诉，美国可能面临超过1750亿美元的关税退税。",
           "url": "https://flash.jin10.com/detail/20260220190226119800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         },
@@ -120,7 +131,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时32分"
         },
@@ -337,6 +348,18 @@
           "time_info": "[01时51分 ~ 03时39分]"
         },
         {
+          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
+          "url": "https://www.zhihu.com/question/2008125477047509192",
+          "source": "知乎",
+          "ranks": [
+            17,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时37分 ~ 20时58分]"
+        },
+        {
           "title": "美国总统特朗普：奥巴马泄露了关于外星人的机密信息。",
           "url": "https://flash.jin10.com/detail/20260220021119038800",
           "source": "金十数据",
@@ -549,17 +572,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时49分 ~ 05时40分]"
-        },
-        {
-          "title": "特朗普称将解密外星生命相关的政府文件，如何看待这一解密承诺？有哪些与外星人相关的待解之谜？",
-          "url": "https://www.zhihu.com/question/2008125477047509192",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时37分 ~ 19时32分]"
         },
         {
           "title": "美国总统特朗普：并不知道外星人是否真实存在。",
@@ -1063,7 +1075,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 40,
       "titles": [
         {
           "title": "这一次不一样？美军做好“最早本周末打击伊朗”准备，油价会如何？",
@@ -1086,8 +1098,23 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时01分 ~ 19时32分]"
+          "appearance_count": 12,
+          "time_info": "[10时01分 ~ 20时58分]"
+        },
+        {
+          "title": "美考虑对伊朗有限军事打击",
+          "url": "https://www.douyin.com/hot/2406424",
+          "source": "抖音",
+          "ranks": [
+            19,
+            2,
+            1,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时46分 ~ 20时58分]"
         },
         {
           "title": "美油大涨5%！美以或对伊朗联合袭击，白宫称谈判取得进展、但关键议题相距甚远",
@@ -1100,20 +1127,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时53分 ~ 05时40分]"
-        },
-        {
-          "title": "美考虑对伊朗有限军事打击",
-          "url": "https://www.douyin.com/hot/2406424",
-          "source": "抖音",
-          "ranks": [
-            19,
-            2,
-            1,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时46分 ~ 19时32分]"
         },
         {
           "title": "俄外长：美国若打击伊朗后果严重",
@@ -1131,16 +1144,42 @@
           "time_info": "[00时53分 ~ 10时02分]"
         },
         {
+          "title": "美军在中东集结近 23 年来最大空中兵力，伊朗致信联合国称若遭军事侵略将反击，局势会怎样发展？",
+          "url": "https://www.zhihu.com/question/2008093003923808772",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时46分 ~ 20时58分]"
+        },
+        {
           "title": "原油贵金属大幅收涨 消息称美以或将联合袭击伊朗 | 环球市场",
           "url": "https://www.cls.cn/detail/2291663",
           "source": "财联社热门",
           "ranks": [
             10,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时53分 ~ 19时32分]"
+          "appearance_count": 21,
+          "time_info": "[00时53分 ~ 20时58分]"
+        },
+        {
+          "title": "伊朗致函联合国",
+          "url": "https://www.douyin.com/hot/2406601",
+          "source": "抖音",
+          "ranks": [
+            6,
+            5,
+            9,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[13时54分 ~ 20时58分]"
         },
         {
           "title": "美设定“3月中旬”期限：对伊朗兵力将部署到位，战云逼近？",
@@ -1170,30 +1209,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时53分 ~ 10时02分]"
-        },
-        {
-          "title": "美军在中东集结近 23 年来最大空中兵力，伊朗致信联合国称若遭军事侵略将反击，局势会怎样发展？",
-          "url": "https://www.zhihu.com/question/2008093003923808772",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时46分 ~ 19时32分]"
-        },
-        {
-          "title": "伊朗致函联合国",
-          "url": "https://www.douyin.com/hot/2406601",
-          "source": "抖音",
-          "ranks": [
-            6,
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时54分 ~ 19时32分]"
         },
         {
           "title": "伊朗：已进入全面战备状态",
@@ -1282,6 +1297,17 @@
           "time_info": "[10时01分 ~ 10时02分]"
         },
         {
+          "title": "伊朗石油部长：与美国石油合作并非不可能",
+          "url": "https://news.ifeng.com/c/8qtwXLy365G",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时32分 ~ 20时58分]"
+        },
+        {
           "title": "伊朗国防部队已进入全面战备状态",
           "url": "https://www.toutiao.com/trending/7607778401805910057/",
           "source": "今日头条",
@@ -1306,6 +1332,17 @@
           "time_info": "10时02分"
         },
         {
+          "title": "伊朗外长阿拉格齐：我们并不把美国人视为敌人。我们认为美国政府对伊朗的政策是敌对的。当这些敌对行动停止时，我们或许可以考虑建立另一种关系。",
+          "url": "https://flash.jin10.com/detail/20260220202745048800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "伊朗致信联合国：如遭侵略将回击",
           "url": "https://www.toutiao.com/trending/7608264659308822570/",
           "source": "今日头条",
@@ -1319,15 +1356,18 @@
           "time_info": "[10时01分 ~ 13时54分]"
         },
         {
-          "title": "伊朗石油部长：与美国石油合作并非不可能",
-          "url": "https://news.ifeng.com/c/8qtwXLy365G",
-          "source": "凤凰网",
+          "title": "伊朗石油部长：伊朗与美国石油合作并非不可能",
+          "url": "https://wallstreetcn.com/livenews/3056916",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1,
+            7,
+            16,
+            25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时32分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时41分 ~ 20时58分]"
         },
         {
           "title": "美考虑对伊朗有限军事打击",
@@ -1342,19 +1382,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[12时46分 ~ 18时37分]"
-        },
-        {
-          "title": "伊朗石油部长：伊朗与美国石油合作并非不可能",
-          "url": "https://wallstreetcn.com/livenews/3056916",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            7,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时41分 ~ 19时32分]"
         },
         {
           "title": "金十整理：美牵头注资百亿、将部署多国部队、再次警告伊朗......“和平委员会”首次会议要点一览",
@@ -1406,6 +1433,17 @@
           "time_info": "[18时37分 ~ 19时32分]"
         },
         {
+          "title": "伊朗外长阿拉格齐：美国并未要求伊朗完全停止铀浓缩活动。 伊朗并未提出“零浓缩”选项。 会谈旨在确保伊朗核计划和平性质。",
+          "url": "https://wallstreetcn.com/livenews/3056936",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "伊朗致信联合国：不寻求战争，若遭军事侵略将反击",
           "url": "https://wallstreetcn.com/livenews/3056817",
           "source": "华尔街见闻-快讯",
@@ -1450,6 +1488,28 @@
           "time_info": "17时41分"
         },
         {
+          "title": "伊朗外长阿拉格齐：会谈旨在确保伊朗核计划用于和平目的。",
+          "url": "https://flash.jin10.com/detail/20260220194941667800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：伊朗并未提出“零浓缩”选项。",
+          "url": "https://flash.jin10.com/detail/20260220194757392800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
+        },
+        {
           "title": "俄配合伊朗展开军演释放何信号",
           "url": "https://www.toutiao.com/trending/7608813964167745034/",
           "source": "今日头条",
@@ -1470,6 +1530,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "市场消息：伊朗外长阿拉格齐表示，在日内瓦的会谈中，美国谈判代表威特科夫和库什纳并未向伊朗提出“零铀浓缩”的要求。",
+          "url": "https://flash.jin10.com/detail/20260220194543908800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "伊朗石油部长：伊朗与美国石油合作并非不可能",
@@ -1508,7 +1579,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "科技股拖累美股，金融股砸盘，美伊开打危险撑原油至半年新高，降息分歧压制黄金涨势",
@@ -1520,8 +1591,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[06时31分 ~ 19时32分]"
+          "appearance_count": 14,
+          "time_info": "[06时31分 ~ 20时58分]"
         },
         {
           "title": "美股收盘：多重利空压顶华尔街情绪恶化 三大指数集体下跌",
@@ -1531,11 +1602,12 @@
             11,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[10时01分 ~ 19时32分]"
+          "appearance_count": 12,
+          "time_info": "[10时01分 ~ 20时58分]"
         },
         {
           "title": "美股三大指数高开后悉数转跌，明星科技股普跌，黄金站上5000美元",
@@ -1570,8 +1642,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时53分 ~ 19时32分]"
+          "appearance_count": 21,
+          "time_info": "[00时53分 ~ 20时58分]"
         },
         {
           "title": "美股收盘：“七巨头”集体走高 三大指数齐收涨",
@@ -1579,11 +1651,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            12
+            12,
+            10
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[00时53分 ~ 19时32分]"
+          "appearance_count": 21,
+          "time_info": "[00时53分 ~ 20时58分]"
         },
         {
           "title": "美股收盘：三大指数小幅收升 英伟达Meta深化合作关系",
@@ -1619,8 +1692,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[15时49分 ~ 19时32分]"
+          "appearance_count": 7,
+          "time_info": "[15时49分 ~ 20时58分]"
         },
         {
           "title": "金十图示：2026年02月19日（周四）美股热门股票行情一览（美股收盘）",
@@ -1701,6 +1774,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时31分 ~ 07时30分]"
+        },
+        {
+          "title": "静候“美联储最爱通胀指标”，美股期货转跌，黄金站上5040美元，白银突破81美元",
+          "url": "https://wallstreetcn.com/articles/3765902",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
@@ -1753,11 +1837,12 @@
           "ranks": [
             6,
             12,
-            21
+            21,
+            30
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时41分 ~ 19时32分]"
+          "appearance_count": 4,
+          "time_info": "[17时41分 ~ 20时58分]"
         },
         {
           "title": "谷歌(GOOG.O)：将继续投资于人工智能驱动的防御措施，并为安卓开发者提供构建安全应用所需的工具。",
@@ -1799,7 +1884,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "为AI交易“背书”！OpenAI正敲定新一轮融资：以8300亿美元估值募资高达1000亿美元",
@@ -1813,6 +1898,17 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时53分 ~ 10时02分]"
+        },
+        {
+          "title": "OpenAI CEO Sam Altman：对儿童社交媒体的限制将是好事。",
+          "url": "https://wallstreetcn.com/livenews/3056937",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         },
         {
           "title": "OpenAI：关于芯片供应，公司已做到“对未来需求心中有数”",
@@ -1861,6 +1957,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时02分 ~ 12时46分]"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：对儿童社交媒体的限制将是好事。",
+          "url": "https://flash.jin10.com/detail/20260220200907201800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时58分"
         }
       ]
     },
