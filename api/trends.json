@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-02-28T09:50:29.898831+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2026-02-28T11:55:37.121327+08:00",
+  "total_titles_processed": 959,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 82,
+      "match_count": 89,
       "titles": [
         {
           "title": "美军中东最高指挥官向特朗普汇报",
@@ -46,13 +46,37 @@
           "time_info": "[00时40分 ~ 06时23分]"
         },
         {
+          "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
+          "url": "https://wallstreetcn.com/articles/3766396",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 11时55分]"
+        },
+        {
+          "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32667369",
+          "source": "澎湃新闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 11时55分]"
+        },
+        {
           "title": "特朗普对伊核谈判不满",
           "url": "https://news.ifeng.com/c/8r6XYcWAlcB",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -77,6 +101,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "【早报】证监会召开重磅会议，吴清发声；特朗普警告伊朗“有时候不得不打”",
+          "url": "https://www.cls.cn/detail/2297916",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "特朗普发布白宫宴会厅完工效果图，称其为“同类建筑中最宏伟的一座”。",
@@ -112,26 +147,15 @@
           "time_info": "07时24分"
         },
         {
-          "title": "多国撤人，航母抵以，美国要边打边谈？特朗普称美伊将继续谈判、警告“有时不得不打”",
-          "url": "https://wallstreetcn.com/articles/3766396",
-          "source": "华尔街见闻",
+          "title": "特朗普扬言：美国或“友好接管”古巴",
+          "url": "https://news.ifeng.com/c/8r6XoCrGIH8",
+          "source": "凤凰网",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "专访｜打击伊核设施“刺激”特朗普军事冒进，以色列欲再推美国动武",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32667369",
-          "source": "澎湃新闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "11时55分"
         },
         {
           "title": "美国总统特朗普：我们拭目以待伊朗局势的发展，一切都会好起来的。",
@@ -457,6 +481,18 @@
           "time_info": "[07时24分 ~ 09时50分]"
         },
         {
+          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 11时55分]"
+        },
+        {
           "title": "美国总统特朗普宣称：关税已经影响到诺华制药。 该公司打算在美国建厂。",
           "url": "https://wallstreetcn.com/livenews/3060471",
           "source": "华尔街见闻-快讯",
@@ -505,6 +541,18 @@
           "time_info": "[02时42分 ~ 03时33分]"
         },
         {
+          "title": "美国总统特朗普谈及得州水危机，称：我们将处理这个问题。",
+          "url": "https://wallstreetcn.com/livenews/3060558",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 11时55分]"
+        },
+        {
           "title": "特朗普发文呼吁最高法院重审或再审其关税政策案",
           "url": "https://flash.jin10.com/detail/20260228052645165800",
           "source": "金十数据",
@@ -515,6 +563,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时24分]"
+        },
+        {
+          "title": "特朗普不满意伊核谈判进展",
+          "url": "https://wallstreetcn.com/livenews/3060557",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 11时55分]"
         },
         {
           "title": "特朗普喊话购房者：再等等就能获得非常低的利率",
@@ -562,6 +622,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时24分"
+        },
+        {
+          "title": "特朗普：我不喜欢克林顿被这样质询，他们当初对我狠得多",
+          "url": "https://news.ifeng.com/c/8r6bGfY13Ho",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "美国总统特朗普：我们在石油方面运气好极了。",
@@ -619,6 +690,17 @@
           "time_info": "07时24分"
         },
         {
+          "title": "特朗普政府正在考虑对Anthropic公司采取更强有力的措施。",
+          "url": "https://flash.jin10.com/detail/20260228105235978800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "美国总统特朗普：国务卿鲁比奥正“在非常高的层面”处理古巴问题。",
           "url": "https://flash.jin10.com/detail/20260228020403832800",
           "source": "金十数据",
@@ -628,6 +710,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        },
+        {
+          "title": "特朗普政府寻求推迟关税退税诉讼",
+          "url": "https://flash.jin10.com/detail/20260228104012834800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "美国总统特朗普：（谈对伊军事行动）我非常希望不要动用武力。",
@@ -652,6 +745,17 @@
           "time_info": "05时29分"
         },
         {
+          "title": "特朗普政府表示，关税退款流程将继续进行，退款流程可能需要很长时间。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3060581",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "美国总统特朗普：古巴处境很危险。",
           "url": "https://flash.jin10.com/detail/20260228020158379800",
           "source": "金十数据",
@@ -674,26 +778,15 @@
           "time_info": "02时42分"
         },
         {
-          "title": "美国总统特朗普谈及得州水危机，称：我们将处理这个问题。",
-          "url": "https://wallstreetcn.com/livenews/3060558",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗同意不拥有「可制造核弹的核材料」，特朗普称「更愿和平解决问题」，美伊局势是否会有缓和？",
+          "url": "https://www.zhihu.com/question/2011015793220002031",
+          "source": "知乎",
           "ranks": [
             13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "特朗普不满意伊核谈判进展",
-          "url": "https://wallstreetcn.com/livenews/3060557",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "11时55分"
         },
         {
           "title": "据华尔街日报：美国共和党人敦促特朗普叫停英国在迪戈加西亚岛建设军事基地的计划。",
@@ -713,18 +806,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "多国撤人、双航母就位，特朗普就伊朗问题释放最新信号",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32669796",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -856,7 +938,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -952,7 +1034,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 56,
       "titles": [
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -977,27 +1059,17 @@
           "time_info": "[00时40分 ~ 07时24分]"
         },
         {
-          "title": "伊朗危!提醒中国公民撤离",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351092&amp;topic_name=%E4%BC%8A%E6%9C%97%E5%8D%B1%21%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%92%A4%E7%A6%BB",
-          "source": "贴吧",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 09时50分]"
-        },
-        {
           "title": "外交部提醒中国公民暂勿前往伊朗",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%9A%82%E5%8B%BF%E5%89%8D%E5%BE%80%E4%BC%8A%E6%9C%97",
           "source": "bilibili 热搜",
           "ranks": [
             4,
-            5
+            5,
+            10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 11时55分]"
         },
         {
           "title": "美军最大航母抵达中东，美官方：美国公民尽快离开以色列！我外交部：中国公民尽快撤离伊朗",
@@ -1010,8 +1082,33 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 11时55分]"
+        },
+        {
+          "title": "伊朗危!提醒中国公民撤离",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28351092&amp;topic_name=%E4%BC%8A%E6%9C%97%E5%8D%B1%21%E6%8F%90%E9%86%92%E4%B8%AD%E5%9B%BD%E5%85%AC%E6%B0%91%E6%92%A4%E7%A6%BB",
+          "source": "贴吧",
+          "ranks": [
+            3,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 11时55分]"
+        },
+        {
+          "title": "外交部提醒中国公民暂勿前往伊朗，在当地中国公民尽快撤离",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32667152",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 11时55分]"
         },
         {
           "title": "外交部提醒中国公民暂勿前往伊朗",
@@ -1044,18 +1141,6 @@
           "time_info": "[00时40分 ~ 07时24分]"
         },
         {
-          "title": "外交部提醒中国公民暂勿前往伊朗，在当地中国公民尽快撤离",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32667152",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 09时50分]"
-        },
-        {
           "title": "美国 伊朗",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E5%9B%BD%20%E4%BC%8A%E6%9C%97&t=31&band_rank=11&Refer=top",
           "source": "微博",
@@ -1073,11 +1158,12 @@
           "source": "微博",
           "ranks": [
             21,
-            20
+            20,
+            28
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时40分 ~ 09时50分]"
+          "appearance_count": 12,
+          "time_info": "[00时40分 ~ 11时55分]"
         },
         {
           "title": "中国驻伊朗大使馆郑重提醒",
@@ -1087,8 +1173,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时24分 ~ 09时50分]"
+          "appearance_count": 3,
+          "time_info": "[07时24分 ~ 11时55分]"
+        },
+        {
+          "title": "信号已很明显，伊朗进入空前高危时刻",
+          "url": "https://news.ifeng.com/c/8r6YprFoVti",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "卡塔尔首相与伊朗外长通电话 讨论地区局势",
+          "url": "https://wallstreetcn.com/livenews/3060594",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "IAEA：无法确认伊朗核活动",
@@ -1100,17 +1208,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时40分 ~ 04时27分]"
-        },
-        {
-          "title": "中国公民暂勿前往伊朗",
-          "url": "https://www.douyin.com/hot/2413685",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时40分"
         },
         {
           "title": "伊美第三轮谈判结束，伊朗外长称取得良好进展，美媒称美方谈判期间感到失望",
@@ -1136,26 +1233,26 @@
           "time_info": "01时36分"
         },
         {
-          "title": "伊朗同意不拥有可制造核弹的核材料",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E4%B8%8D%E6%8B%A5%E6%9C%89%E5%8F%AF%E5%88%B6%E9%80%A0%E6%A0%B8%E5%BC%B9%E7%9A%84%E6%A0%B8%E6%9D%90%E6%96%99%23&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
           "title": "【早报】证监会召开重磅会议，吴清发声；特朗警告伊朗“有时候不得不打”",
           "url": "https://www.cls.cn/detail/2297916",
           "source": "财联社热门",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
+        },
+        {
+          "title": "美国对伊朗提了4项要求",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%9B%BD%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%8F%90%E4%BA%864%E9%A1%B9%E8%A6%81%E6%B1%82%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "美国国务院：任何美国公民均不应以任何理由前往伊朗。",
@@ -1209,6 +1306,30 @@
           "time_info": "[05时29分 ~ 06时23分]"
         },
         {
+          "title": "中国公民暂勿前往伊朗",
+          "url": "https://www.douyin.com/hot/2413685",
+          "source": "抖音",
+          "ranks": [
+            2,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时40分 ~ 11时55分]"
+        },
+        {
+          "title": "伊朗同意不拥有可制造核弹的核材料",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E4%B8%8D%E6%8B%A5%E6%9C%89%E5%8F%AF%E5%88%B6%E9%80%A0%E6%A0%B8%E5%BC%B9%E7%9A%84%E6%A0%B8%E6%9D%90%E6%96%99%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 11时55分]"
+        },
+        {
           "title": "波兰呼吁本国公民立即离开伊朗、以色列和黎巴嫩",
           "url": "https://wallstreetcn.com/livenews/3060484",
           "source": "华尔街见闻-快讯",
@@ -1257,6 +1378,42 @@
           "time_info": "[03时33分 ~ 04时27分]"
         },
         {
+          "title": "多国呼吁避免前往伊朗等中东地区",
+          "url": "https://wallstreetcn.com/livenews/3060563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 11时55分]"
+        },
+        {
+          "title": "土耳其航空公司：飞往伊朗的日间航班正常运营",
+          "url": "https://wallstreetcn.com/livenews/3060560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 11时55分]"
+        },
+        {
+          "title": "伊朗同意不拥有可制造核弹核材料",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E4%B8%8D%E6%8B%A5%E6%9C%89%E5%8F%AF%E5%88%B6%E9%80%A0%E6%A0%B8%E5%BC%B9%E6%A0%B8%E6%9D%90%E6%96%99",
+          "source": "百度热搜",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 11时55分]"
+        },
+        {
           "title": "美国国务院：我们再次呼吁目前身处伊朗的美国公民立即离境。",
           "url": "https://flash.jin10.com/detail/20260228051307163800",
           "source": "金十数据",
@@ -1281,6 +1438,29 @@
           "time_info": "[02时42分 ~ 03时33分]"
         },
         {
+          "title": "曝伊朗同意不拥有可制造核弹核材料",
+          "url": "https://www.toutiao.com/trending/7611689408793677331/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 11时55分]"
+        },
+        {
+          "title": "伊朗核问题到底咋回事",
+          "url": "https://www.douyin.com/hot/2413953",
+          "source": "抖音",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 11时55分]"
+        },
+        {
           "title": "据CNN：没有情报显示伊朗正在计划研发能够打击美国的洲际弹道导弹。",
           "url": "https://flash.jin10.com/detail/20260228034849756800",
           "source": "金十数据",
@@ -1292,15 +1472,15 @@
           "time_info": "04时27分"
         },
         {
-          "title": "多国呼吁避免前往伊朗等中东地区",
-          "url": "https://wallstreetcn.com/livenews/3060563",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外长称致力于通过外交解决问题",
+          "url": "https://flash.jin10.com/detail/20260228101958729800",
+          "source": "金十数据",
           "ranks": [
-            10
+            11
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时50分"
+          "time_info": "11时55分"
         },
         {
           "title": "鉴于伊朗的安全局势，法国外交部建议法国公民不要前往以色列、耶路撒冷和约旦河西岸。",
@@ -1325,24 +1505,13 @@
           "time_info": "04时27分"
         },
         {
-          "title": "土耳其航空公司：飞往伊朗的日间航班正常运营",
-          "url": "https://wallstreetcn.com/livenews/3060560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
           "title": "伊朗称将对美侵略予以毁灭性回应",
           "url": "https://www.toutiao.com/trending/7610882248673820722/",
           "source": "今日头条",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -1386,18 +1555,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "伊朗同意不拥有可制造核弹核材料",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%90%8C%E6%84%8F%E4%B8%8D%E6%8B%A5%E6%9C%89%E5%8F%AF%E5%88%B6%E9%80%A0%E6%A0%B8%E5%BC%B9%E6%A0%B8%E6%9D%90%E6%96%99",
-          "source": "百度热搜",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -1435,6 +1593,17 @@
           "time_info": "00时40分"
         },
         {
+          "title": "伊朗同意不拥有制造核弹的核材料",
+          "url": "https://www.douyin.com/hot/2414004",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "实拍伊朗德黑兰现状",
           "url": "https://search.bilibili.com/all?keyword=%E5%AE%9E%E6%8B%8D%E4%BC%8A%E6%9C%97%E5%BE%B7%E9%BB%91%E5%85%B0%E7%8E%B0%E7%8A%B6",
           "source": "bilibili 热搜",
@@ -1468,17 +1637,6 @@
           "time_info": "00时40分"
         },
         {
-          "title": "曝伊朗同意不拥有可制造核弹核材料",
-          "url": "https://www.toutiao.com/trending/7611689408793677331/",
-          "source": "今日头条",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
           "title": "美国国务院：美国国务卿鲁比奥将于3月2日至3日访问以色列，将讨论伊朗、黎巴嫩和加沙问题。",
           "url": "https://flash.jin10.com/detail/20260227233508959800",
           "source": "金十数据",
@@ -1496,7 +1654,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -1507,7 +1665,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -1529,18 +1687,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "伊朗核问题到底咋回事",
-          "url": "https://www.douyin.com/hot/2413953",
-          "source": "抖音",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         }
@@ -1548,7 +1695,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 13,
       "titles": [
         {
           "title": "亚马逊、英伟达和软银豪掷1100亿美元 OpenAI估值冲至7300亿美元",
@@ -1560,8 +1707,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时35分 ~ 09时50分]"
+          "appearance_count": 11,
+          "time_info": "[01时35分 ~ 11时55分]"
         },
         {
           "title": "OpenAI获1100亿美元投资",
@@ -1586,8 +1733,52 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时29分 ~ 09时50分]"
+          "appearance_count": 6,
+          "time_info": "[05时29分 ~ 11时55分]"
+        },
+        {
+          "title": "消息人士称，英伟达正准备推出一款专用芯片，以撼动人工智能计算领域的竞争格局。OpenAI即将成为英伟达新款处理器的最大客户之一。",
+          "url": "https://flash.jin10.com/detail/20260228110554688800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们将部署前线工程师来协助我们的模型，为了确保模型的安全，我们将只在云网络上进行部署。",
+          "url": "https://flash.jin10.com/detail/20260228110043453800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们强烈希望事态能够缓和，避免诉诸法律和政府行动，并达成合理的协议。",
+          "url": "https://flash.jin10.com/detail/20260228105851301800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们要求美国国防部向所有人工智能公司提供这些相同条款，我们认为每个人都应该愿意接受。",
+          "url": "https://flash.jin10.com/detail/20260228105836118800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         },
         {
           "title": "OpenAI将追加融资100亿美元。（The Information）",
@@ -1602,13 +1793,46 @@
           "time_info": "[03时33分 ~ 04时27分]"
         },
         {
+          "title": "OpenAI创始人奥尔特曼：我们也会构建技术安全措施，以确保我们的模型按预期运行，美国国防部也希望如此。",
+          "url": "https://flash.jin10.com/detail/20260228105824885800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
+          "url": "https://wallstreetcn.com/livenews/3060587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
+          "title": "OpenAI创始人奥尔特曼：我们与美国国防部达成协议，将我们的模型部署到他们的机密网络中。",
+          "url": "https://flash.jin10.com/detail/20260228105722729800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "一位消息人士透露，五角大楼已同意OpenAI制定的在保密环境下安全部署其技术的规则，但尚未签署任何合同。",
           "url": "https://flash.jin10.com/detail/20260228080935525800",
           "source": "金十数据",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         },
@@ -1626,73 +1850,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
-          "url": "https://wallstreetcn.com/articles/3766324",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时40分 ~ 06时23分]"
-        },
-        {
-          "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
-          "url": "https://wallstreetcn.com/articles/3766324",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时24分"
-        },
-        {
-          "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
-          "url": "https://wallstreetcn.com/articles/3766324",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时50分"
-        },
-        {
-          "title": "美国10年期国债收益率跌穿3.96%，创10月23日以来新低，日内当前跌超4.2个基点。 两年期美债收益率跌超4.5个基点，失守3.38%，创10月17日以来新低；30年期美债收益率跌约2.7个基点，刷新日低至4.6287%。",
-          "url": "https://wallstreetcn.com/livenews/3060482",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            9,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时33分 ~ 05时29分]"
-        },
-        {
-          "title": "10年期美债收益率跌穿3.94%，2月份累跌将近30个基点",
-          "url": "https://wallstreetcn.com/livenews/3060546",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时24分 ~ 09时50分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美股收盘：英伟达再度蒸发万亿市值 金融板块全线重挫",
@@ -1700,11 +1859,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时24分 ~ 09时50分]"
+          "appearance_count": 3,
+          "time_info": "[07时24分 ~ 11时55分]"
         },
         {
           "title": "美股金银指数收涨超1.6%，历史上首次站上470点，2月份累涨23%",
@@ -1742,6 +1902,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "美股下跌对普通人有何启示",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E4%B8%8B%E8%B7%8C%E5%AF%B9%E6%99%AE%E9%80%9A%E4%BA%BA%E6%9C%89%E4%BD%95%E5%90%AF%E7%A4%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时55分"
+        },
+        {
           "title": "瑞银下调美股评级，警告政策和估值等多重风险",
           "url": "https://wallstreetcn.com/livenews/3060440",
           "source": "华尔街见闻-快讯",
@@ -1751,6 +1922,71 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时42分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "超预期PPI打压降息预期，AI担忧发酵，美股指集体低开，金银油携手大涨，美债上扬，人民币贬近150点",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 06时23分]"
+        },
+        {
+          "title": "美PPI、伊朗局势、私募危机拖累美股，道指跌1%，10年期美债收益率跌破4%，金银油涨",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时50分 ~ 11时55分]"
+        },
+        {
+          "title": "地缘政治与信贷担忧拖累美股，道指跌1%，10年期美债收益率跌破4%，金银拉升，原油走强",
+          "url": "https://wallstreetcn.com/articles/3766324",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时24分"
+        },
+        {
+          "title": "美国10年期国债收益率跌穿3.96%，创10月23日以来新低，日内当前跌超4.2个基点。 两年期美债收益率跌超4.5个基点，失守3.38%，创10月17日以来新低；30年期美债收益率跌约2.7个基点，刷新日低至4.6287%。",
+          "url": "https://wallstreetcn.com/livenews/3060482",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            9,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时33分 ~ 05时29分]"
+        },
+        {
+          "title": "10年期美债收益率跌穿3.94%，2月份累跌将近30个基点",
+          "url": "https://wallstreetcn.com/livenews/3060546",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时24分 ~ 09时50分]"
         }
       ]
     },
@@ -1765,7 +2001,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         }
@@ -1781,11 +2017,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 07时24分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 11时55分]"
         }
       ]
     },
@@ -1800,7 +2037,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时50分"
         }
