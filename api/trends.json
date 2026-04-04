@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-04T15:18:54.997239+08:00",
-  "total_titles_processed": 979,
+  "generated_at": "2026-04-04T16:40:45.148341+08:00",
+  "total_titles_processed": 1093,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 139,
+      "match_count": 158,
       "titles": [
         {
           "title": "美以伊战争丨美方证实战斗机在伊朗境内被击落",
@@ -27,8 +27,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 15时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 16时40分]"
         },
         {
           "title": "外交部回应伊朗桥梁遭袭：中方反对袭击民用设施 有关方应立即停火",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时40分 ~ 15时18分]"
+          "appearance_count": 16,
+          "time_info": "[00时40分 ~ 16时40分]"
         },
         {
           "title": "伊朗称再次击落美军F-35战机，公布解体碎片照片",
@@ -95,6 +95,29 @@
           "time_info": "[00时40分 ~ 10时06分]"
         },
         {
+          "title": "伊朗公布击中美军A-10攻击机瞬间画面",
+          "url": "https://news.ifeng.com/c/8s2VjctK5cz",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时05分 ~ 16时40分]"
+        },
+        {
+          "title": "停火斡旋陷僵局：伊朗拒绝与美方伊斯兰堡会面，卡塔尔退出调解",
+          "url": "https://wallstreetcn.com/articles/3769228",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时05分 ~ 16时40分]"
+        },
+        {
           "title": "一美军战机在伊朗境内坠毁",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%80%E7%BE%8E%E5%86%9B%E6%88%98%E6%9C%BA%E5%9C%A8%E4%BC%8A%E6%9C%97%E5%A2%83%E5%86%85%E5%9D%A0%E6%AF%81",
           "source": "bilibili 热搜",
@@ -132,6 +155,18 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时40分 ~ 07时34分]"
+        },
+        {
+          "title": "美F-15E战机被击落，伊朗地方官发百亿悬赏令",
+          "url": "https://news.ifeng.com/c/8s2hkbioeTh",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时05分 ~ 16时40分]"
         },
         {
           "title": "伊朗：摧毁一套远程三维空中预警雷达系统",
@@ -194,17 +229,6 @@
           "time_info": "[00时40分 ~ 07时34分]"
         },
         {
-          "title": "伊朗公布击中美军A-10攻击机瞬间画面",
-          "url": "https://news.ifeng.com/c/8s2VjctK5cz",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 15时18分]"
-        },
-        {
           "title": "美方证实战机被伊朗击落 正搜救人员",
           "url": "https://www.toutiao.com/trending/7624386558845668927/",
           "source": "今日头条",
@@ -214,30 +238,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时40分 ~ 06时33分]"
-        },
-        {
-          "title": "停火斡旋陷僵局：伊朗拒绝与美方伊斯兰堡会面，卡塔尔退出调解",
-          "url": "https://wallstreetcn.com/articles/3769228",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 15时18分]"
-        },
-        {
-          "title": "美F-15E战机被击落，伊朗地方官发百亿悬赏令",
-          "url": "https://news.ifeng.com/c/8s2hkbioeTh",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 15时18分]"
         },
         {
           "title": "伊朗再发地面战警告：绝不留活口",
@@ -275,8 +275,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 15时18分]"
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 16时40分]"
+        },
+        {
+          "title": "伊朗驳斥“防空系统已被摧毁”的说法 公布最新战果",
+          "url": "https://www.cls.cn/detail/2335226",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时05分 ~ 16时40分]"
         },
         {
           "title": "一艘法籍集装箱船驶出霍尔木兹海峡，或为伊朗战争以来西欧船只首次通过",
@@ -293,6 +306,35 @@
           "time_info": "[06时33分 ~ 15时18分]"
         },
         {
+          "title": "美军搜救直升机被伊朗火力击中",
+          "url": "https://www.toutiao.com/trending/7624629654246785034/",
+          "source": "今日头条",
+          "ranks": [
+            12,
+            6,
+            15,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时34分 ~ 16时40分]"
+        },
+        {
+          "title": "伊朗悬赏活捉被击落美战斗机飞行员",
+          "url": "https://www.toutiao.com/trending/7624435052776148543/",
+          "source": "今日头条",
+          "ranks": [
+            24,
+            15,
+            16,
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时34分 ~ 16时40分]"
+        },
+        {
           "title": "美以伊战争丨伊朗或击落F-16战机，残骸照曝光",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
           "source": "凤凰网",
@@ -302,6 +344,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时05分 ~ 10时06分]"
+        },
+        {
+          "title": "美以伊战争丨伊朗：美驻沙特使馆遭袭与我们无关",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时40分]"
+        },
+        {
+          "title": "伊朗公布击中美攻击机瞬间画面",
+          "url": "https://www.toutiao.com/trending/7624518684372058118/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时34分 ~ 16时40分]"
         },
         {
           "title": "伊朗称以色列袭击科威特海水淡化设施",
@@ -318,17 +384,15 @@
           "time_info": "[00时40分 ~ 06时33分]"
         },
         {
-          "title": "伊朗驳斥“防空系统已被摧毁”的说法 公布最新战果",
-          "url": "https://www.cls.cn/detail/2335226",
-          "source": "财联社热门",
+          "title": "伊朗宣称击落一美国先进战斗机后，消息称该战机飞行员或被伊朗军方俘虏，若属实，会如何影响战场内外？",
+          "url": "https://www.zhihu.com/question/2023505434653324083",
+          "source": "知乎",
           "ranks": [
-            12,
-            6,
-            4
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 15时18分]"
+          "appearance_count": 6,
+          "time_info": "[10时05分 ~ 16时40分]"
         },
         {
           "title": "伊朗被曝实施打了就跑战术",
@@ -353,17 +417,17 @@
           "time_info": "[10时05分 ~ 10时06分]"
         },
         {
-          "title": "美军搜救直升机被伊朗火力击中",
-          "url": "https://www.toutiao.com/trending/7624629654246785034/",
-          "source": "今日头条",
+          "title": "伊朗称击中美军A10攻击机",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%87%BB%E4%B8%AD%E7%BE%8E%E5%86%9BA10%E6%94%BB%E5%87%BB%E6%9C%BA",
+          "source": "bilibili 热搜",
           "ranks": [
-            12,
             6,
-            15
+            12,
+            13
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时34分 ~ 15时18分]"
+          "time_info": "[10时05分 ~ 16时40分]"
         },
         {
           "title": "据伊朗国家媒体称，伊朗在霍尔木兹海峡附近南部海域击中了一架A-10战机。",
@@ -378,20 +442,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[03时38分 ~ 07时34分]"
-        },
-        {
-          "title": "伊朗悬赏活捉被击落美战斗机飞行员",
-          "url": "https://www.toutiao.com/trending/7624435052776148543/",
-          "source": "今日头条",
-          "ranks": [
-            24,
-            15,
-            16,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时34分 ~ 15时18分]"
         },
         {
           "title": "伊朗驻阿根廷临时代办被驱逐 离境前批阿方“站队”美以",
@@ -409,50 +459,75 @@
           "time_info": "[02时46分 ~ 06时33分]"
         },
         {
-          "title": "美以伊战争丨伊朗：美驻沙特使馆遭袭与我们无关",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W",
-          "source": "凤凰网",
+          "title": "据伊朗塔斯尼姆通讯社：一枚弹片击中布什尔核电站外围区域，造成一人死亡。事件未对工厂主要部件造成损害，生产未受影响。",
+          "url": "https://flash.jin10.com/detail/20260404163217645800",
+          "source": "金十数据",
           "ranks": [
             1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时18分"
+          "time_info": "16时40分"
         },
         {
-          "title": "伊朗公布击中美攻击机瞬间画面",
-          "url": "https://www.toutiao.com/trending/7624518684372058118/",
-          "source": "今日头条",
+          "title": "可能是伊朗战争迄今最全的一份“美国决策细节”披露",
+          "url": "https://wallstreetcn.com/articles/3769247",
+          "source": "华尔街见闻",
           "ranks": [
             8,
-            12,
-            13
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 16时40分]"
+        },
+        {
+          "title": "伊朗前副总统美媒撰文提出停战和平方案",
+          "url": "https://news.ifeng.com/c/8s2ksc8OFUK",
+          "source": "凤凰网",
+          "ranks": [
+            10
           ],
           "is_new": false,
           "appearance_count": 6,
-          "time_info": "[07时34分 ~ 15时18分]"
+          "time_info": "[10时05分 ~ 16时40分]"
         },
         {
-          "title": "伊朗称美驻沙特大使馆遭袭与伊无关 系以色列所为",
-          "url": "https://wallstreetcn.com/livenews/3082393",
+          "title": "美以袭击伊朗进入第 36 天，当前局势如何？哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2023477896145106608",
+          "source": "知乎",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时05分 ~ 16时40分]"
+        },
+        {
+          "title": "美军一天内两架战机被击落，伊朗媒体称美方营救飞行员未能成功",
+          "url": "https://wallstreetcn.com/articles/3769241",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 16时40分]"
+        },
+        {
+          "title": "伊朗石化经济特区遭袭已致5人受伤 园区人员被疏散",
+          "url": "https://wallstreetcn.com/livenews/3082411",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "伊朗宣称击落一美国先进战斗机后，消息称该战机飞行员或被伊朗军方俘虏，若属实，会如何影响战场内外？",
-          "url": "https://www.zhihu.com/question/2023505434653324083",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 15时18分]"
+          "time_info": "16时40分"
         },
         {
           "title": "世卫组织总干事谭德塞：呼吁紧急支援受中东冲突影响的五个国家——黎巴嫩、伊朗、伊拉克、叙利亚和约旦的卫生系统。",
@@ -474,18 +549,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时18分"
-        },
-        {
-          "title": "美以袭击对伊朗25家制药企业造成损失",
-          "url": "https://wallstreetcn.com/livenews/3082391",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
@@ -516,6 +580,20 @@
           "time_info": "[04时36分 ~ 07时34分]"
         },
         {
+          "title": "伊朗德黑兰接连传出多次爆炸声",
+          "url": "https://wallstreetcn.com/livenews/3082384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            6,
+            11,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 16时40分]"
+        },
+        {
           "title": "当地时间3日23时15分， 伊朗首都德黑兰再次遭袭。",
           "url": "https://flash.jin10.com/detail/20260404035246811800",
           "source": "金十数据",
@@ -529,18 +607,6 @@
           "time_info": "[04时36分 ~ 07时34分]"
         },
         {
-          "title": "伊朗称击中美军A10攻击机",
-          "url": "https://search.bilibili.com/all?keyword=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%87%BB%E4%B8%AD%E7%BE%8E%E5%86%9BA10%E6%94%BB%E5%87%BB%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 15时18分]"
-        },
-        {
           "title": "伊朗军方严正警告美方：若破坏伊基础设施必遭强硬回击",
           "url": "https://flash.jin10.com/detail/20260404062116568800",
           "source": "金十数据",
@@ -552,15 +618,15 @@
           "time_info": "07时34分"
         },
         {
-          "title": "伊朗称击落一架敌方MQ-1无人机",
-          "url": "https://wallstreetcn.com/livenews/3082390",
-          "source": "华尔街见闻-快讯",
+          "title": "美以袭击伊朗石化经济特区 造成至少5人受伤",
+          "url": "https://flash.jin10.com/detail/20260404162324305800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时18分"
+          "time_info": "16时40分"
         },
         {
           "title": "美媒：伊朗已正式回复调解方，称美方关于停火的要求不可接受",
@@ -591,28 +657,6 @@
           "time_info": "[04时36分 ~ 07时34分]"
         },
         {
-          "title": "伊朗前副总统美媒撰文提出停战和平方案",
-          "url": "https://news.ifeng.com/c/8s2ksc8OFUK",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 15时18分]"
-        },
-        {
-          "title": "美以袭击伊朗进入第 36 天，当前局势如何？哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2023477896145106608",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时05分 ~ 15时18分]"
-        },
-        {
           "title": "伊朗情报部门逮捕28名与美以有关人员",
           "url": "https://www.toutiao.com/trending/7623466744694390826/",
           "source": "今日头条",
@@ -625,19 +669,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时40分 ~ 06时33分]"
-        },
-        {
-          "title": "伊朗德黑兰接连传出多次爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3082384",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            6,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 15时18分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：全球石油、液化天然气、小麦、大米和化肥运输中有多少是通过曼德海峡的？哪些国家和公司通过曼德海峡的运输量最高？",
@@ -689,6 +720,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时06分 ~ 13时57分]"
+        },
+        {
+          "title": "伊朗总统：让国际社会评判 谁是谈判者谁是恐怖分子",
+          "url": "https://wallstreetcn.com/livenews/3082387",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 16时40分]"
+        },
+        {
+          "title": "胡锡进：伊朗一天击落2架美战机，这成绩惊人",
+          "url": "https://news.ifeng.com/c/8s2qATxAUV7",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 16时40分]"
         },
         {
           "title": "美媒：美方证实被伊朗击落战机一名机组人员获救",
@@ -765,18 +820,6 @@
           "time_info": "[06时33分 ~ 07时34分]"
         },
         {
-          "title": "伊朗总统：让国际社会评判 谁是谈判者谁是恐怖分子",
-          "url": "https://wallstreetcn.com/livenews/3082387",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 15时18分]"
-        },
-        {
           "title": "美国驻黎巴嫩大使馆表示，伊朗及其盟友武装组织可能正计划以黎巴嫩的大学为目标。",
           "url": "https://flash.jin10.com/detail/20260404001917598800",
           "source": "金十数据",
@@ -839,6 +882,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时34分 ~ 10时06分]"
+        },
+        {
+          "title": "伊朗称美驻沙特大使馆遭袭与伊无关 系以色列所为",
+          "url": "https://wallstreetcn.com/livenews/3082393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时40分]"
         },
         {
           "title": "伊朗恰拉克港口遭袭 4艘登陆艇受损 1人遇难",
@@ -915,18 +970,6 @@
           "time_info": "[06时33分 ~ 07时34分]"
         },
         {
-          "title": "可能是伊朗战争迄今最全的一份“美国决策细节”披露",
-          "url": "https://wallstreetcn.com/articles/3769247",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 15时18分]"
-        },
-        {
           "title": "据伊朗媒体：伊朗处决两名与反对派组织有关、被判定实施袭击的男子。",
           "url": "https://flash.jin10.com/detail/20260404124933072800",
           "source": "金十数据",
@@ -937,6 +980,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时57分 ~ 15时18分]"
+        },
+        {
+          "title": "美以袭击对伊朗25家制药企业造成损失",
+          "url": "https://wallstreetcn.com/livenews/3082391",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时40分]"
         },
         {
           "title": "伊朗公布击中美军A-10攻击机瞬间画面",
@@ -950,6 +1005,19 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[07时34分 ~ 12时50分]"
+        },
+        {
+          "title": "伊朗媒体：美国周四曾提议停火48小时，伊朗以猛攻回应",
+          "url": "https://wallstreetcn.com/articles/3769237",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 16时40分]"
         },
         {
           "title": "卡塔尔拒绝在“美国与伊朗的冲突”中扮演关键调停人的角色。 上周，卡塔尔告知美方，卡方并不倾向于在调停中发挥主导作用。（华尔街日报）",
@@ -1000,6 +1068,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时34分 ~ 10时06分]"
+        },
+        {
+          "title": "伊朗称击落一架敌方MQ-1无人机",
+          "url": "https://wallstreetcn.com/livenews/3082390",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时40分]"
         },
         {
           "title": "伊朗说击中一架美军A-10攻击机，美媒：美军又一架战机坠毁",
@@ -1070,6 +1150,17 @@
           "time_info": "[07时34分 ~ 12时50分]"
         },
         {
+          "title": "伊朗嘲讽：美以战争降级成“找飞行员”，简直天才",
+          "url": "https://news.ifeng.com/c/8s2g0iESDyn",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时50分 ~ 16时40分]"
+        },
+        {
           "title": "伊朗称发动第92波打击",
           "url": "https://www.douyin.com/hot/2454221",
           "source": "抖音",
@@ -1094,29 +1185,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时45分 ~ 04时36分]"
-        },
-        {
-          "title": "美军一天内两架战机被击落，伊朗媒体称美方营救飞行员未能成功",
-          "url": "https://wallstreetcn.com/articles/3769241",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 15时18分]"
-        },
-        {
-          "title": "胡锡进：伊朗一天击落2架美战机，这成绩惊人",
-          "url": "https://news.ifeng.com/c/8s2qATxAUV7",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 15时18分]"
         },
         {
           "title": "据伊朗努尔新闻(Nour News)：伊朗称空袭击中以色列大不里士一处休闲区。",
@@ -1170,18 +1238,6 @@
           "time_info": "[03时38分 ~ 05时33分]"
         },
         {
-          "title": "伊朗媒体：美国周四曾提议停火48小时，伊朗以猛攻回应",
-          "url": "https://wallstreetcn.com/articles/3769237",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 15时18分]"
-        },
-        {
           "title": "美伊停火斡旋陷僵局 伊朗不愿会面 卡塔尔拒绝充当调解方",
           "url": "https://flash.jin10.com/detail/20260404023244929800",
           "source": "金十数据",
@@ -1217,17 +1273,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时38分 ~ 05时33分]"
-        },
-        {
-          "title": "伊朗嘲讽：美以战争降级成“找飞行员”，简直天才",
-          "url": "https://news.ifeng.com/c/8s2g0iESDyn",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时50分 ~ 15时18分]"
         },
         {
           "title": "伊朗议长发文嘲讽美国战机被击落：战争从图谋“政权更迭”降级为“找到飞行员”",
@@ -1375,6 +1420,18 @@
           "time_info": "[10时06分 ~ 12时50分]"
         },
         {
+          "title": "伊朗总统：让国际评判谁是恐怖分子",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E8%AE%A9%E5%9B%BD%E9%99%85%E8%AF%84%E5%88%A4%E8%B0%81%E6%98%AF%E6%81%90%E6%80%96%E5%88%86%E5%AD%90",
+          "source": "百度热搜",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时40分]"
+        },
+        {
           "title": "伊朗军方严正警告美方：若破坏基础设施必遭强硬回击",
           "url": "https://news.ifeng.com/c/8s2WMe387GA",
           "source": "凤凰网",
@@ -1505,6 +1562,18 @@
           "time_info": "[02时46分 ~ 03时38分]"
         },
         {
+          "title": "伊朗：让国际社会评判谁是恐怖分子",
+          "url": "https://www.toutiao.com/trending/7624772183201697331/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时18分 ~ 16时40分]"
+        },
+        {
           "title": "伊朗伊斯兰革命卫队任命新发言人",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E4%BC%8A%E6%96%AF%E5%85%B0%E9%9D%A9%E5%91%BD%E5%8D%AB%E9%98%9F%E4%BB%BB%E5%91%BD%E6%96%B0%E5%8F%91%E8%A8%80%E4%BA%BA",
           "source": "百度热搜",
@@ -1575,15 +1644,59 @@
           "time_info": "00时40分"
         },
         {
+          "title": "印度石油部：印度炼油企业已确保原油需求，包括来自伊朗的供应。 进口伊朗原油不存在支付障碍。 未来几个月印度的原油需求已完全得到保障。",
+          "url": "https://wallstreetcn.com/livenews/3082408",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "以色列军方电台：空军刚刚袭击了伊朗西南部的一个石化综合体。",
+          "url": "https://flash.jin10.com/detail/20260404161946032800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "伊朗称击落一架敌方MQ-1无人机",
           "url": "https://flash.jin10.com/detail/20260404141453611800",
           "source": "金十数据",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗当局表示，在美国与以色列对卡拉季B1桥发动的“恐怖袭击”中，遇难人数已升至13人，多名伤者因伤势严重不治身亡。",
+          "url": "https://flash.jin10.com/detail/20260404161829033800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "美以对伊朗西南地区石化枢纽发动空袭",
+          "url": "https://wallstreetcn.com/livenews/3082406",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "凤凰探访以遭袭地，民众：只要削弱伊朗，愿继续忍耐",
@@ -1597,26 +1710,81 @@
           "time_info": "12时50分"
         },
         {
+          "title": "据伊朗迈赫尔通讯社：伊朗西南部胡齐斯坦省班达尔伊玛目石化综合体遭到空袭，部分设施受损。",
+          "url": "https://flash.jin10.com/detail/20260404161513657800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "伊官员：伊朗石油出口量有所增加 全国燃料供应正常",
+          "url": "https://wallstreetcn.com/livenews/3082404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "伊朗总统：让国际社会评判 谁是谈判者谁是恐怖分子",
+          "url": "https://www.cls.cn/detail/2335312",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "伊朗西南地区石化枢纽传出连续爆炸",
+          "url": "https://wallstreetcn.com/livenews/3082403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "印度石油部：印度炼油企业已落实原油供应，其中包括来自伊朗的原油；伊朗原油进口不存在付款障碍。",
+          "url": "https://flash.jin10.com/detail/20260404161301848800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "以总理称将继续与美国共同打击伊朗",
           "url": "https://flash.jin10.com/detail/20260404134729900800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时18分"
         },
         {
-          "title": "伊朗总统：让国际评判谁是恐怖分子",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%EF%BC%9A%E8%AE%A9%E5%9B%BD%E9%99%85%E8%AF%84%E5%88%A4%E8%B0%81%E6%98%AF%E6%81%90%E6%80%96%E5%88%86%E5%AD%90",
-          "source": "百度热搜",
+          "title": "伊朗警告以色列：若伊使馆和外交机构遭袭 将迅速反击",
+          "url": "https://flash.jin10.com/detail/20260404160555275800",
+          "source": "金十数据",
           "ranks": [
-            16
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时18分"
+          "time_info": "16时40分"
         },
         {
           "title": "美国防部：365名美军人员在对伊朗军事行动中受伤",
@@ -1630,15 +1798,26 @@
           "time_info": "10时06分"
         },
         {
-          "title": "伊朗：让国际社会评判谁是恐怖分子",
-          "url": "https://www.toutiao.com/trending/7624772183201697331/",
-          "source": "今日头条",
+          "title": "伊朗军方：已做好伏击敌方先进战斗机的准备",
+          "url": "https://wallstreetcn.com/livenews/3082395",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            18
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时18分"
+          "time_info": "16时40分"
+        },
+        {
+          "title": "伊媒：美以对伊朗石化特别经济区发动空袭 很可能造成伤亡",
+          "url": "https://flash.jin10.com/detail/20260404155146443800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "美国官员：伊朗袭击美驻沙特使馆造成的破坏远超披露程度",
@@ -1650,6 +1829,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "伊官员：伊朗石油出口量有所增加 全国燃料供应正常",
+          "url": "https://flash.jin10.com/detail/20260404155018594800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "伊朗称若基础设施遭袭将更有力回击",
+          "url": "https://www.toutiao.com/trending/7624384049926569990/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "伊朗悬赏活捉被击落的美军飞行员",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%82%AC%E8%B5%8F%E6%B4%BB%E6%8D%89%E8%A2%AB%E5%87%BB%E8%90%BD%E7%9A%84%E7%BE%8E%E5%86%9B%E9%A3%9E%E8%A1%8C%E5%91%98",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "据华尔街日报：美国与伊朗官员均表示，上月伊朗对美国驻沙特大使馆发动的无人机袭击造成的破坏程度比此前所披露的更为严重。",
@@ -1672,6 +1884,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗西南部胡齐斯坦省马赫沙赫尔（Mahshahr）石化特别经济区传出多起爆炸声。",
+          "url": "https://flash.jin10.com/detail/20260404153732501800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "市场消息：伊朗导弹袭击后，以色列特拉维夫多处地点发生火灾。",
@@ -1710,7 +1933,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 30,
+      "match_count": 33,
       "titles": [
         {
           "title": "一图看懂｜特朗普“解放日”一周年，关税让美国再次伟大了吗？",
@@ -1724,8 +1947,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时45分 ~ 15时18分]"
+          "appearance_count": 13,
+          "time_info": "[02时45分 ~ 16时40分]"
         },
         {
           "title": "发了又删，特朗普1小时闭门讲话引发巨大争议",
@@ -1881,6 +2104,19 @@
           "time_info": "[06时33分 ~ 10时06分]"
         },
         {
+          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
+          "url": "https://wallstreetcn.com/livenews/3082385",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 16时40分]"
+        },
+        {
           "title": "特朗普：美国战机坠毁不会影响与伊朗的谈判",
           "url": "https://flash.jin10.com/detail/20260404034503573800",
           "source": "金十数据",
@@ -1921,18 +2157,6 @@
           "time_info": "[04时36分 ~ 07时34分]"
         },
         {
-          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
-          "url": "https://wallstreetcn.com/livenews/3082385",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 15时18分]"
-        },
-        {
           "title": "美国总统特朗普表示，击落美国战机不会影响与伊朗的谈判。（NBC新闻）",
           "url": "https://wallstreetcn.com/livenews/3082318",
           "source": "华尔街见闻-快讯",
@@ -1947,6 +2171,17 @@
           "time_info": "[04时36分 ~ 07时34分]"
         },
         {
+          "title": "凤凰观察：出乎特朗普意料，伊朗正把一手烂牌打得很出色",
+          "url": "https://news.ifeng.com/c/8s2xxMXfWA9",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时57分 ~ 16时40分]"
+        },
+        {
           "title": "特朗普称美战机被击落不会影响与伊朗谈判",
           "url": "https://news.ifeng.com/c/8s2NeCx0C0O",
           "source": "凤凰网",
@@ -1956,17 +2191,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时05分 ~ 10时06分]"
-        },
-        {
-          "title": "凤凰观察：出乎特朗普意料，伊朗正把一手烂牌打得很出色",
-          "url": "https://news.ifeng.com/c/8s2xxMXfWA9",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时57分 ~ 15时18分]"
         },
         {
           "title": "特朗普一句话打回原形，市场为何这么容易上当？｜大师复盘",
@@ -2040,6 +2264,17 @@
           "time_info": "[00时40分 ~ 01时35分]"
         },
         {
+          "title": "特朗普政府人事大换血",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%94%BF%E5%BA%9C%E4%BA%BA%E4%BA%8B%E5%A4%A7%E6%8D%A2%E8%A1%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
           "title": "停火斡旋陷僵局，伊朗拒绝与美方伊斯兰堡会面，周五美或有两架战机坠毁，特朗普称战机被击落不影响谈判",
           "url": "https://wallstreetcn.com/articles/3769228",
           "source": "华尔街见闻",
@@ -2049,6 +2284,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "二战以来最大军费年增！特朗普政府寻求2027财年国防预算1.5万亿美元，非国防支出压缩10%",
+          "url": "https://wallstreetcn.com/articles/3769222",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
+        },
+        {
+          "title": "一名美军战机飞行员仍失踪，特朗普：希望“那种情况”不会发生",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32901007",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时40分"
         },
         {
           "title": "如果特朗普休市突袭！开盘第一单该怎么做？",
