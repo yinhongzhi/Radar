@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-27T21:52:04.543517+08:00",
-  "total_titles_processed": 1354,
+  "generated_at": "2026-04-27T23:48:30.386085+08:00",
+  "total_titles_processed": 1500,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 87,
+      "match_count": 102,
       "titles": [
         {
           "title": "伊朗称“已形成霍尔木兹海峡综合管理方案”，“须缴纳相关费用，里亚尔支付优先”，美军称将继续对进出伊朗港口船只实施全面封锁",
@@ -46,6 +46,20 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时42分 ~ 07时39分]"
+        },
+        {
+          "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
+          "url": "https://wallstreetcn.com/articles/3770927",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            5,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时54分 ~ 23时48分]"
         },
         {
           "title": "伊朗：美以伊战争导致伊朗3468人死亡、34060人受伤",
@@ -109,20 +123,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时42分 ~ 07时39分]"
-        },
-        {
-          "title": "伊朗提出一项分三阶段解决的谈判方案：先谈终止战争，然后霍尔木兹海峡，最后才是核问题",
-          "url": "https://wallstreetcn.com/articles/3770927",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            5,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时54分 ~ 21时52分]"
         },
         {
           "title": "伊朗称已成功摧毁三枚美国巨型钻地弹",
@@ -218,6 +218,35 @@
           "time_info": "[13时54分 ~ 19时04分]"
         },
         {
+          "title": "美国以涉伊朗为由制裁中企 中方表态",
+          "url": "https://www.toutiao.com/trending/7632821618738167818/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            2,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时24分 ~ 23时48分]"
+        },
+        {
+          "title": "消息人士：伊朗提出一项分三阶段解决的谈判方案",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060063",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            12,
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时54分 ~ 23时48分]"
+        },
+        {
           "title": "伊朗外长抵达巴基斯坦",
           "url": "https://wallstreetcn.com/livenews/3094533",
           "source": "华尔街见闻-快讯",
@@ -298,19 +327,6 @@
           "time_info": "[02时54分 ~ 06时37分]"
         },
         {
-          "title": "美国以涉伊朗为由制裁中企 中方表态",
-          "url": "https://www.toutiao.com/trending/7632821618738167818/",
-          "source": "今日头条",
-          "ranks": [
-            16,
-            2,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时24分 ~ 21时52分]"
-        },
-        {
           "title": "巴媒记者披露伊朗外长折返伊斯兰堡内情",
           "url": "https://flash.jin10.com/detail/20260427073445994800",
           "source": "金十数据",
@@ -320,6 +336,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "伊朗外交部：伊朗外长阿拉格齐率领外交代表团于周一晚间与俄罗斯总统普京会晤，讨论了双边伊朗-俄罗斯关系及国际形势。",
+          "url": "https://flash.jin10.com/detail/20260427233214724800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "油轮追踪数据显示，伊朗在其原油码头装载了460万桶原油，另有400万桶石油似乎已突破美国封锁线。",
@@ -335,20 +362,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[02时54分 ~ 06时37分]"
-        },
-        {
-          "title": "消息人士：伊朗提出一项分三阶段解决的谈判方案",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060063",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            12,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时54分 ~ 21时52分]"
         },
         {
           "title": "轰炸中，伊朗国宝来到中国",
@@ -446,6 +459,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时42分"
+        },
+        {
+          "title": "伊朗暂停出口部分钢铁产品",
+          "url": "https://wallstreetcn.com/livenews/3095124",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "阿曼外交大臣：与伊朗外交部长阿拉格齐就霍尔木兹海峡问题进行了富有成效的讨论。",
@@ -603,6 +627,18 @@
           "time_info": "[13时54分 ~ 19时04分]"
         },
         {
+          "title": "伊朗外长抵达圣彼得堡将同普京举行会谈，会谈些啥？美伊局势转向会迎来重要契机吗？",
+          "url": "https://www.zhihu.com/question/2032051759590397567",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时51分 ~ 23时48分]"
+        },
+        {
           "title": "伊朗外长折返伊斯兰堡内情披露",
           "url": "https://news.ifeng.com/c/8sep2SLcTLv",
           "source": "凤凰网",
@@ -652,17 +688,6 @@
           "title": "伊朗战争丨德国总理：美国正在被伊朗羞辱",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时51分 ~ 21时52分]"
-        },
-        {
-          "title": "伊朗外长抵达圣彼得堡将同普京举行会谈，会谈些啥？美伊局势转向会迎来重要契机吗？",
-          "url": "https://www.zhihu.com/question/2032051759590397567",
-          "source": "知乎",
           "ranks": [
             7
           ],
@@ -786,6 +811,39 @@
           "time_info": "[00时42分 ~ 01时38分]"
         },
         {
+          "title": "伊朗外长：美方请求谈判 伊方正考虑",
+          "url": "https://www.toutiao.com/trending/7633444247001189938/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
+          "title": "伊朗外长：美方请求谈判 伊方正考虑",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%96%E9%95%BF%EF%BC%9A%E7%BE%8E%E6%96%B9%E8%AF%B7%E6%B1%82%E8%B0%88%E5%88%A4+%E4%BC%8A%E6%96%B9%E6%AD%A3%E8%80%83%E8%99%91",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
+          "title": "伊朗战争丨普京会见伊朗外长，与穆杰塔巴隔空互动",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "凤凰女记者：伊朗外长来回穿梭巴基斯坦内幕曝光",
           "url": "https://news.ifeng.com/c/8sfFK5RQNCv",
           "source": "凤凰网",
@@ -830,6 +888,17 @@
           "time_info": "16时24分"
         },
         {
+          "title": "伊朗宣布暂停66类钢铁产品出口，此前70%钢铁产能被以色列摧毁",
+          "url": "https://wallstreetcn.com/articles/3770985",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "德国总理默茨：（关于伊朗战争）目前，我看不出美国人选择了什么退出策略。",
           "url": "https://flash.jin10.com/detail/20260427185406224800",
           "source": "金十数据",
@@ -858,7 +927,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -885,6 +954,17 @@
           "time_info": "13时54分"
         },
         {
+          "title": "美以袭击伊朗进入第 59 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2031863204075106462",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "伊朗议会要员：所有通过霍尔木兹海峡的船只必须缴纳通行费",
           "url": "https://wallstreetcn.com/livenews/3094642",
           "source": "华尔街见闻-快讯",
@@ -896,6 +976,17 @@
           "time_info": "10时42分"
         },
         {
+          "title": "伊朗外交部发言人：伊朗坚定谴责一切形式的恐怖主义和暴力极端主义，这一原则立场是明确的。",
+          "url": "https://flash.jin10.com/detail/20260427231053538800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "伊朗提出一项分三阶段解决的谈判方案",
           "url": "https://flash.jin10.com/detail/20260427063949656800",
           "source": "金十数据",
@@ -905,6 +996,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时39分"
+        },
+        {
+          "title": "伊朗外交部发言人：强烈谴责马里多个地区发生的恐怖袭击事件。",
+          "url": "https://flash.jin10.com/detail/20260427231033972800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
+          "title": "普京：已收到伊朗最高领袖传来的信息",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%EF%BC%9A%E5%B7%B2%E6%94%B6%E5%88%B0%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E4%BC%A0%E6%9D%A5%E7%9A%84%E4%BF%A1%E6%81%AF",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "伊朗外长：目前重点是寻求确保霍尔木兹海峡安全通行的解决方案",
@@ -929,13 +1042,24 @@
           "time_info": "10时42分"
         },
         {
+          "title": "美国国务卿卢比奥：美国无法容忍伊朗将控制霍尔木兹海峡的做法常态化。",
+          "url": "https://wallstreetcn.com/livenews/3095110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "普京称已收到伊朗最高领袖传来的信息",
           "url": "https://wallstreetcn.com/livenews/3095036",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -979,9 +1103,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
+        },
+        {
+          "title": "法国总统马克龙：我将在结束对Andorra的访问之后接触伊朗（政府官员）。",
+          "url": "https://wallstreetcn.com/livenews/3095105",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "巴林内政部表示，因表达对伊朗袭击活动的支持，撤销69人及其家属的国籍。",
@@ -990,7 +1125,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -1001,9 +1136,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
+        },
+        {
+          "title": "BP力压埃克森美孚，成伊朗战争期间石油巨头中的头号赢家",
+          "url": "https://wallstreetcn.com/livenews/3095098",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "德国财政部为暂停债务刹车“留门”，以应对伊朗战争影响",
@@ -1012,7 +1158,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -1050,6 +1196,17 @@
           "time_info": "16时24分"
         },
         {
+          "title": "美国国务卿鲁比奥：美国不能容忍伊朗将控制霍尔木兹海峡的行为正常化。",
+          "url": "https://flash.jin10.com/detail/20260427230126778800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
           "title": "伊朗议会要员：霍尔木兹海峡通行费须以里亚尔结算",
           "url": "https://wallstreetcn.com/livenews/3094701",
           "source": "华尔街见闻-快讯",
@@ -1059,12 +1216,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        },
+        {
+          "title": "俄总统新闻秘书：重启战端不符合伊朗、霍尔木兹海峡沿岸国家和全球经济体利益",
+          "url": "https://wallstreetcn.com/livenews/3095094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 72,
+      "match_count": 73,
       "titles": [
         {
           "title": "特朗普被紧急疏散！白宫记者晚宴大厅发生枪击事件",
@@ -1146,6 +1314,17 @@
           "time_info": "[00时42分 ~ 07时39分]"
         },
         {
+          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
+          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[13时54分 ~ 23时48分]"
+        },
+        {
           "title": "“早知这么危险就不当总统了”，特朗普撤离时摔倒，枪手系教师兼游戏开发者，作案目标是美政府官员",
           "url": "https://wallstreetcn.com/articles/3770913",
           "source": "华尔街见闻",
@@ -1212,17 +1391,6 @@
           "is_new": false,
           "appearance_count": 11,
           "time_info": "[00时42分 ~ 07时39分]"
-        },
-        {
-          "title": "特朗普未来出席活动或须穿防弹衣，枪击案更多细节曝光",
-          "url": "https://news.ifeng.com/c/8sf2y52FJcG",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[13时54分 ~ 21时52分]"
         },
         {
           "title": "为何你总被暗杀？特朗普回应：我研究过，杀手总挑大人物",
@@ -1312,8 +1480,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时42分 ~ 21时52分]"
+          "appearance_count": 20,
+          "time_info": "[00时42分 ~ 23时48分]"
         },
         {
           "title": "特朗普与英国首相通话，强调需要恢复霍尔木兹海峡航运",
@@ -1345,6 +1513,17 @@
           "time_info": "[03时46分 ~ 07时39分]"
         },
         {
+          "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
+          "url": "https://news.ifeng.com/c/8sfY3xvuykb",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时51分 ~ 23时48分]"
+        },
+        {
           "title": "特朗普：枪击案嫌疑人留下字条",
           "url": "https://news.ifeng.com/c/8seILG9U4yn",
           "source": "凤凰网",
@@ -1355,17 +1534,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时41分 ~ 13时54分]"
-        },
-        {
-          "title": "美记者当面念枪手宣言，特朗普发怒：你真可耻",
-          "url": "https://news.ifeng.com/c/8sfY3xvuykb",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时51分 ~ 21时52分]"
         },
         {
           "title": "美国参议员汤姆·蒂利斯（Thom Tillis）：总统特朗普在发动伊朗战争方面需要清晰的战略目标。",
@@ -1449,6 +1617,20 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时03分 ~ 19时04分]"
+        },
+        {
+          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            13,
+            11,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[16时24分 ~ 23时48分]"
         },
         {
           "title": "一文读懂丨白宫记协晚宴突发枪击，特朗普紧急撤离始末",
@@ -1558,7 +1740,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -1588,19 +1770,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时38分 ~ 05时38分]"
-        },
-        {
-          "title": "为什么先救万斯？特朗普：我不愿意走，想看看怎么回事",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33060612",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时24分 ~ 21时52分]"
         },
         {
           "title": "今晨7:00 特朗普采访将播出",
@@ -1810,7 +1979,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -1879,6 +2048,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时42分"
+        },
+        {
+          "title": "伊朗外长：美国总统特朗普要求谈判，因为美方尚未实现任何目标，我们正在研究对方的请求。",
+          "url": "https://wallstreetcn.com/livenews/3095102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "美国总统特朗普：英国国王查尔斯要来了。",
@@ -1950,7 +2130,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 22,
+      "match_count": 24,
       "titles": [
         {
           "title": "高盛：DeepSeek V4对中国AI意味着什么？",
@@ -2109,11 +2289,12 @@
           "source": "今日头条",
           "ranks": [
             5,
-            25
+            25,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时03分 ~ 21时52分]"
+          "appearance_count": 5,
+          "time_info": "[19时03分 ~ 23时48分]"
         },
         {
           "title": "手机厂商加速接入DeepSeek-V4，荣耀打响第一枪",
@@ -2219,12 +2400,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时03分 ~ 19时04分]"
+        },
+        {
+          "title": "国芯+国模！DeepSeek适配国产芯片 AI算力底座迈向多样化",
+          "url": "https://www.cls.cn/detail/2357012",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
+          "title": "如何评价小米 4 月 23 日发布的 MiMo-V2.5 系列模型，有可能比 DeepSeekV4 更强吗？",
+          "url": "https://www.zhihu.com/question/2030445160417510538",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美股盘初：三大股指小幅下跌，高通涨约7%，微软跌约1%",
@@ -2233,7 +2436,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -2244,9 +2447,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
+        },
+        {
+          "title": "美伊谈判僵局难解，美股开盘小幅下跌，高通涨7%，微软跌约1%，布油日内涨2%",
+          "url": "https://wallstreetcn.com/articles/3770961",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         },
         {
           "title": "美股财报季进入关键周：“五巨头”将集中亮相 近1/3标普500成分股公布业绩",
@@ -2261,6 +2475,18 @@
           "time_info": "[16时24分 ~ 19时04分]"
         },
         {
+          "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
+          "url": "https://wallstreetcn.com/articles/3770942",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时03分 ~ 23时48分]"
+        },
+        {
           "title": "美股期货亚市盘初小幅走低，标普500指数期货、纳斯达克100指数期货均跌0.3%。",
           "url": "https://wallstreetcn.com/livenews/3094557",
           "source": "华尔街见闻-快讯",
@@ -2271,18 +2497,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时37分 ~ 07时39分]"
-        },
-        {
-          "title": "对冲基金两年来最快速度抛售科技股，美股内部已现裂痕",
-          "url": "https://wallstreetcn.com/articles/3770942",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时03分 ~ 21时52分]"
         },
         {
           "title": "美伊谈判僵局难解，美股盘前小幅下跌，高通大涨10%，布油日内涨3%，镍价刷两年新高",
@@ -2314,7 +2528,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -2336,7 +2550,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         }
@@ -2351,11 +2565,12 @@
           "url": "https://www.cls.cn/detail/2357129",
           "source": "财联社热门",
           "ranks": [
-            12
+            12,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时51分 ~ 21时52分]"
+          "appearance_count": 3,
+          "time_info": "[21时51分 ~ 23时48分]"
         },
         {
           "title": "美股开盘，道指开跌0.24%，标普500指数跌0.15%，纳指跌0.17%。微软(MSFT.O)跌0.5%，公司宣布OpenAI许可转为非独家且将不再向OpenAI支付收入分成。高通(QCOM.O)涨5.2%，据悉OpenAI正与联发科及高通合作开发手机处理器。",
@@ -2364,7 +2579,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -2375,7 +2590,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -2386,7 +2601,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -2397,7 +2612,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时52分"
         },
@@ -2411,6 +2626,45 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "原谷歌Deepmind研究员David Silver为自家新公司Ineffable Intelligence在种子轮按照51亿美元估值融资11亿美元。 红杉资本与Lightspeed Venture Partners领投，英伟达、Alphabet旗下谷歌公司、英国政府等参投。",
+          "url": "https://wallstreetcn.com/livenews/3095118",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
+          "title": "美国五角大楼增添新的Gemini模型到其AI工具。",
+          "url": "https://wallstreetcn.com/livenews/3095117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
+        {
+          "title": "美国国防部在其人工智能门户中新增了Gemini模型。",
+          "url": "https://flash.jin10.com/detail/20260427230746134800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
         }
       ]
     },
@@ -2455,8 +2709,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "美国财政部拍卖690亿美元两年期国债，得标利率3.812%（3月24日为3.936%），投标倍数2.65（前次为2.44）。 两年期美债收益率涨2.95个基点，刷新日高至3.8078%。",
+          "url": "https://wallstreetcn.com/livenews/3095125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时48分"
+        },
         {
           "title": "美债收益率上行 市场聚焦本周密集央行会议",
           "url": "https://flash.jin10.com/detail/20260427134519219800",
