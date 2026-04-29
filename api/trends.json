@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-30T01:28:42.121941+08:00",
-  "total_titles_processed": 400,
+  "generated_at": "2026-04-30T03:24:56.672115+08:00",
+  "total_titles_processed": 482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美方禁止本国个人或实体向伊朗缴纳海峡通行费",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 03时24分]"
         },
         {
           "title": "伊朗议长呼吁民众保持团结挫败敌人阴谋",
@@ -25,7 +25,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
         },
@@ -37,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 03时24分]"
         },
         {
           "title": "伊朗：将以前所未有的军事行动回应美",
@@ -48,8 +48,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 03时24分]"
         },
         {
           "title": "伊朗男孩重回中国上学全班紧紧抱住",
@@ -57,11 +57,23 @@
           "source": "今日头条",
           "ranks": [
             24,
-            25
+            25,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 03时24分]"
+        },
+        {
+          "title": "美以袭击伊朗进入第 61 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2032594578629292226",
+          "source": "知乎",
+          "ranks": [
+            18
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时28分]"
+          "time_info": "[01时28分 ~ 03时24分]"
         },
         {
           "title": "伊朗战争丨伊朗专家亮出反封锁底牌",
@@ -81,9 +93,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "伊朗战争丨伊朗议长：敌人正发起新一轮攻势，我们要团结",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：敌人煽动内部分裂以削弱伊朗。",
@@ -125,7 +148,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
         },
@@ -139,17 +162,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时06分"
-        },
-        {
-          "title": "美以袭击伊朗进入第 61 天，当前局势如何？还有哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2032594578629292226",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时28分"
         },
         {
           "title": "五角大楼称伊朗战事迄今“烧掉”250亿美元",
@@ -180,7 +192,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
         },
@@ -210,7 +222,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
         {
           "title": "英国国王当面嘲讽美国，特朗普表情亮了",
@@ -220,8 +232,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 03时24分]"
         },
         {
           "title": "特朗普公布持枪造型，威胁伊朗“放聪明点”",
@@ -231,8 +243,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 03时24分]"
         },
         {
           "title": "伊朗用“羞辱战术”拿捏特朗普？德国总理锐评释放5个信号",
@@ -242,8 +254,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 03时24分]"
         },
         {
           "title": "俄罗斯总统普京与美国总统特朗普讨论了伊朗问题。",
@@ -252,7 +264,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
         },
@@ -263,7 +275,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
         },
@@ -274,9 +286,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
+          "url": "https://www.zhihu.com/question/2032828585195434245",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 03时24分]"
         },
         {
           "title": "伊朗议长卡利巴夫：特朗普施压伊朗投降。 对抗敌人的唯一的解决方案就是国家团结。（Tasnim）",
@@ -291,15 +314,27 @@
           "time_info": "[00时06分 ~ 01时28分]"
         },
         {
-          "title": "英国查尔斯国王当面嘲讽特朗普，要不是英国，美国现在说的是法语，这是个什么梗？特朗普台下尬笑可能在想啥？",
-          "url": "https://www.zhihu.com/question/2032828585195434245",
-          "source": "知乎",
+          "title": "特朗普再次无视英王室规矩拍国王肩膀",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E6%97%A0%E8%A7%86%E8%8B%B1%E7%8E%8B%E5%AE%A4%E8%A7%84%E7%9F%A9%E6%8B%8D%E5%9B%BD%E7%8E%8B%E8%82%A9%E8%86%80%23&t=31&band_rank=23&Refer=top",
+          "source": "微博",
           "ranks": [
-            11
+            23,
+            25
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时28分]"
+          "time_info": "[01时28分 ~ 03时24分]"
+        },
+        {
+          "title": "特朗普支持率降至任内新低",
+          "url": "https://www.douyin.com/hot/2482851",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         },
         {
           "title": "特朗普“为无限期封锁伊朗”做准备，但对达成临时协议持开放态度",
@@ -308,7 +343,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
         },
@@ -319,9 +354,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
+        },
+        {
+          "title": "鲍威尔：在决定继续留任美联储理事方面，并不是因为理事库克（被特朗普政府起诉）的缘故。",
+          "url": "https://wallstreetcn.com/livenews/3096880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：美国总统特朗普通过经济压力寻求伊朗投降。",
@@ -341,20 +387,42 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
         },
         {
-          "title": "特朗普再次无视英王室规矩拍国王肩膀",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%86%8D%E6%AC%A1%E6%97%A0%E8%A7%86%E8%8B%B1%E7%8E%8B%E5%AE%A4%E8%A7%84%E7%9F%A9%E6%8B%8D%E5%9B%BD%E7%8E%8B%E8%82%A9%E8%86%80%23&t=31&band_rank=23&Refer=top",
-          "source": "微博",
+          "title": "鲍威尔：将在一段时期内继续担任美联储理事。 我打算在（卸任美联储主席、继续）担任理事期间低调行事。 当我认为时机合适时，我就会离开美联储。 近期一系列事件让我除了留下别无选择。 我不是要介入（特朗普的降息“旨意”）。",
+          "url": "https://wallstreetcn.com/livenews/3096873",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             23
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时28分"
+          "time_info": "03时24分"
+        },
+        {
+          "title": "鲍威尔：我对美国华盛顿特区检察官上周五宣布的结果表示欢迎。 司法部说了，如果（特朗普的）联邦政府不介入，就不会重新调查美联储。 （特朗普的）联邦政府对美联储的那些行径是规模空前的。 我担心，这样的攻击正在重创美联储这个机构。 攻击让美联储实施（货币/监管）政策的能力面临风险。",
+          "url": "https://wallstreetcn.com/livenews/3096872",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
+        },
+        {
+          "title": "美联储主席鲍威尔在新闻发布会的开场白阶段称：美国经济一直稳步扩张。 就业增速一直偏低，失业率大致持稳。 就业人口增幅放缓，在一定程度上体现出（美国总统特朗普造成的）移民人口下降。 劳动力需求也显然趋于温和。 消费者开支一直稳固。 基于CPI的预测表明，美国3月PCE上升3.5%。 企业固定投资按较快的步伐扩张。 住房市场保持疲软。",
+          "url": "https://wallstreetcn.com/livenews/3096867",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时24分"
         }
       ]
     },
@@ -370,8 +438,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 03时24分]"
         },
         {
           "title": "因OpenAI未能达成目标，软银股价创六个月来最大跌幅，甲骨文、AMD也被拖累",
@@ -382,19 +450,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 03时24分]"
         },
         {
           "title": "OpenAI“鬼故事”重创股市，但债市“没慌”",
           "url": "https://wallstreetcn.com/articles/3771182",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 03时24分]"
         },
         {
           "title": "美股芯片股跳水，OpenAI 用户和营收不及预期，CFO 担心付不起数据中心账单，哪些信息值得关注？",
@@ -405,8 +474,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 03时24分]"
         },
         {
           "title": "OpenAI：开发者大会9月29日在旧金山举行。",
@@ -415,7 +484,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
         }
@@ -426,6 +495,19 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "如何评价 DeepSeek 刚刚上线的多模态「识图模式」？",
+          "url": "https://www.zhihu.com/question/2032851960177631968",
+          "source": "知乎",
+          "ranks": [
+            18,
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 03时24分]"
+        },
+        {
           "title": "从硅谷视角看DeepSeekV4",
           "url": "https://search.bilibili.com/all?keyword=%E4%BB%8E%E7%A1%85%E8%B0%B7%E8%A7%86%E8%A7%92%E7%9C%8BDeepSeekV4",
           "source": "bilibili 热搜",
@@ -434,31 +516,20 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时28分]"
-        },
-        {
-          "title": "如何评价 DeepSeek 刚刚上线的多模态「识图模式」？",
-          "url": "https://www.zhihu.com/question/2032851960177631968",
-          "source": "知乎",
-          "ranks": [
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 03时24分]"
         },
         {
           "title": "DeepSeek V4炸场背后",
           "url": "https://www.toutiao.com/trending/7634160479450959423/",
           "source": "今日头条",
           "ranks": [
-            23
+            23,
+            17
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时06分"
+          "appearance_count": 2,
+          "time_info": "[00时06分 ~ 03时24分]"
         },
         {
           "title": "DeepSeek上线识图模式",
@@ -486,8 +557,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 03时24分]"
         },
         {
           "title": "国际金价继续回撤至4500美元附近",
@@ -495,11 +566,12 @@
           "source": "今日头条",
           "ranks": [
             19,
-            14
+            14,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 03时24分]"
         }
       ]
     },
@@ -513,11 +585,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时06分 ~ 01时28分]"
+          "appearance_count": 3,
+          "time_info": "[00时06分 ~ 03时24分]"
         },
         {
           "title": "金十图示：2026年04月29日（周三）热门中概股行情一览（美股盘中）",
@@ -526,7 +599,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时28分"
         }
