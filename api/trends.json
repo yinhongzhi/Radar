@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-05-01T07:54:07.933825+08:00",
-  "total_titles_processed": 629,
+  "generated_at": "2026-05-01T10:57:18.570633+08:00",
+  "total_titles_processed": 790,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 49,
       "titles": [
         {
           "title": "当枪声在白宫记者晚宴响起——特朗普如何改写美国媒体规则？",
@@ -16,8 +16,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 10时57分]"
         },
         {
           "title": "美军拟以“高超音速导弹”打击伊朗，周四将向特朗普汇报新“打击计划”",
@@ -26,11 +26,12 @@
           "ranks": [
             7,
             5,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 10时57分]"
         },
         {
           "title": "普京与特朗普通话一个半小时，涉及众多议题",
@@ -50,11 +51,48 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            8
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 10时57分]"
+        },
+        {
+          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
+          "url": "https://www.zhihu.com/question/2032044326121730326",
+          "source": "知乎",
+          "ranks": [
+            16,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 10时57分]"
+        },
+        {
+          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/articles/3771420",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时00分 ~ 10时57分]"
+        },
+        {
+          "title": "还是不解气，特朗普又炮轰默茨",
+          "url": "https://news.ifeng.com/c/8skrGhZKZnd",
+          "source": "凤凰网",
+          "ranks": [
+            9
           ],
           "is_new": false,
           "appearance_count": 7,
-          "time_info": "[01时21分 ~ 07时54分]"
+          "time_info": "[03时20分 ~ 10时57分]"
         },
         {
           "title": "俄乌还是美伊先打完？特朗普曝与普京通话细节，称乌克兰在军事上已败",
@@ -67,29 +105,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时21分 ~ 07时54分]"
-        },
-        {
-          "title": "枪击发生时，坐在特朗普身旁的华裔记者是谁？出生于中国厦门的她，是如何一步步成为白宫记者协会主席的？",
-          "url": "https://www.zhihu.com/question/2032044326121730326",
-          "source": "知乎",
-          "ranks": [
-            16,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 07时54分]"
-        },
-        {
-          "title": "还是不解气，特朗普又炮轰默茨",
-          "url": "https://news.ifeng.com/c/8skrGhZKZnd",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时20分 ~ 07时54分]"
         },
         {
           "title": "美国总统特朗普签署联邦合同相关命令。",
@@ -112,17 +127,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
-        },
-        {
-          "title": "特朗普称已“摧毁”伊朗核能力，仅少数人知晓谈判实际进展",
-          "url": "https://wallstreetcn.com/livenews/3097761",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
         },
         {
           "title": "美国总统特朗普的助手表示，特朗普将签署授权跨境管道的许可证。",
@@ -213,18 +217,6 @@
           "time_info": "03时20分"
         },
         {
-          "title": "美媒称特朗普提出建立海上联盟新计划，以重开霍尔木兹海峡",
-          "url": "https://wallstreetcn.com/articles/3771420",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时00分 ~ 07时54分]"
-        },
-        {
           "title": "美国总统特朗普：田纳西州重新划分选区将使共和党多出一个席位。",
           "url": "https://flash.jin10.com/detail/20260501005752668800",
           "source": "金十数据",
@@ -245,6 +237,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "据AXIOS网站记者：两名美国官员表示，美国中央司令部指挥官布拉德·库珀海军上将和联合参谋长主席丹·凯恩将军今天向特朗普总统简报了45分钟，讨论了针对伊朗可能采取的军事行动新计划。",
+          "url": "https://flash.jin10.com/detail/20260501103800548800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "白宫：美国总统特朗普签署国会山移交的预算拨款草案为法律，从而结束国土安全部（DHS）的停摆状态。",
@@ -269,6 +272,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时04分 ~ 07时54分]"
+        },
+        {
+          "title": "特朗普称已“摧毁”伊朗核能力，仅少数人知晓谈判实际进展",
+          "url": "https://wallstreetcn.com/livenews/3097761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 10时57分]"
         },
         {
           "title": "特朗普政府对鲍威尔的调查结束了，美国司法部正准备对美联储传票裁决提起上诉",
@@ -327,6 +342,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "伊朗总统表示美国海上封锁不可容忍 特朗普称已摧毁伊朗核能力 | 环球市场",
+          "url": "https://www.cls.cn/detail/2361654",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "特朗普取消部分威士忌关税",
@@ -401,7 +427,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -489,7 +515,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -541,8 +567,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 29,
       "titles": [
+        {
+          "title": "伊朗外长：“制止以色列侵略黎巴嫩”是伊美停火方案组成部分",
+          "url": "https://wallstreetcn.com/livenews/3097785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
         {
           "title": "伊朗战争冲击石油市场下，巴西油气产量创历史新高",
           "url": "https://flash.jin10.com/detail/20260501071636612800",
@@ -550,7 +587,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -601,6 +638,29 @@
           "time_info": "[05时01分 ~ 06时04分]"
         },
         {
+          "title": "伊朗股市暂停交易至5月4日",
+          "url": "https://wallstreetcn.com/livenews/3097754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 10时57分]"
+        },
+        {
+          "title": "美防长：“60天时限”已“暂停” 对伊朗军事行动无需寻求国会授权",
+          "url": "https://www.cls.cn/detail/2361658",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
           "title": "伊朗战争丨美众议院议长：国会无需就对伊朗的军事行动表决",
           "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
           "source": "凤凰网",
@@ -610,6 +670,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "伊朗战争丨美政府官员：2月28日开始的敌对行动已结束",
+          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 63 天，当前局势如何？还有哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2033318594176443288",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "伊朗外长阿拉格齐：今天是伊朗的‘波斯湾国家日’，这一天旨在纪念约400年前我们的先辈将葡萄牙人驱逐出霍尔木兹海峡的历史时刻。美国总统使用的是‘波斯湾’这一正确名称，而非五角大楼所炮制的虚假术语！然而，若以其他任何名称来替代‘霍尔木兹’，无疑将是一个‘极其严重的错误’。",
@@ -623,15 +705,15 @@
           "time_info": "01时21分"
         },
         {
-          "title": "伊朗股市暂停交易至5月4日",
-          "url": "https://wallstreetcn.com/livenews/3097754",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗外长：“制止以色列侵略黎巴嫩”是伊美停火方案组成部分",
+          "url": "https://flash.jin10.com/detail/20260501103453601800",
+          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时54分"
+          "time_info": "10时57分"
         },
         {
           "title": "伊朗股市暂停交易至5月4日",
@@ -640,7 +722,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -706,9 +788,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
+        },
+        {
+          "title": "多艘伊朗超级油轮在美军封锁线内集结",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%A4%9A%E8%89%98%E4%BC%8A%E6%9C%97%E8%B6%85%E7%BA%A7%E6%B2%B9%E8%BD%AE%E5%9C%A8%E7%BE%8E%E5%86%9B%E5%B0%81%E9%94%81%E7%BA%BF%E5%86%85%E9%9B%86%E7%BB%93%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗外交部发言人表示，期望与美国的谈判迅速取得成果是不切实际的。",
@@ -720,6 +813,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时04分"
+        },
+        {
+          "title": "伊朗称其40%的贸易可转向陆路运输",
+          "url": "https://wallstreetcn.com/livenews/3097772",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "据华尔街日报：Meta Platforms CEO扎克伯格表示，公司将缩减公司各部门团队，伊朗战争导致公司销售出现“轨迹变化”。",
@@ -739,7 +843,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -753,6 +857,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "伊朗住联合国代表指责部分阿拉伯国家参与对伊“侵略”行动",
+          "url": "https://flash.jin10.com/detail/20260501095116924800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "美国官员称伊朗战争耗资接近500亿美元，较一天前说法“翻倍”",
@@ -818,6 +933,18 @@
           "time_info": "[06时04分 ~ 07时54分]"
         },
         {
+          "title": "周四（4月30日），美股降息赢家指数收涨0.70%，报91.53点，4月份劣迹上涨4.92%，4月1日以来持续走高、在4月21日美股开盘时达到98.86点，随后逐步回吐涨幅。 “特朗普关税输家”指数涨1.30%，报103.40点，4月份累涨3.41%，4月21日美股开盘曾达到110.11点。 “特朗普金融指数”涨1.44%，报163.60点，4月份累涨9.30%，4月15日以来持续高位震荡。 散户抱团概念股指数/迷因股（meme stock）指数涨2.48%，报14.51点，4月份累涨18.06%，4月21日美股盘初曾达到16.30点。",
+          "url": "https://wallstreetcn.com/livenews/3097756",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时54分 ~ 10时57分]"
+        },
+        {
           "title": "Roblox美股盘后跌28%，该公司下调全年预定预期。",
           "url": "https://wallstreetcn.com/livenews/3097703",
           "source": "华尔街见闻-快讯",
@@ -840,17 +967,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时01分 ~ 06时04分]"
-        },
-        {
-          "title": "周四（4月30日），美股降息赢家指数收涨0.70%，报91.53点，4月份劣迹上涨4.92%，4月1日以来持续走高、在4月21日美股开盘时达到98.86点，随后逐步回吐涨幅。 “特朗普关税输家”指数涨1.30%，报103.40点，4月份累涨3.41%，4月21日美股开盘曾达到110.11点。 “特朗普金融指数”涨1.44%，报163.60点，4月份累涨9.30%，4月15日以来持续高位震荡。 散户抱团概念股指数/迷因股（meme stock）指数涨2.48%，报14.51点，4月份累涨18.06%，4月21日美股盘初曾达到16.30点。",
-          "url": "https://wallstreetcn.com/livenews/3097756",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时54分"
         },
         {
           "title": "金十图示：2026年04月30日（周四）美股热门股票行情一览（美股收盘）",
@@ -881,7 +997,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -892,7 +1008,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -914,7 +1030,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         },
@@ -966,7 +1082,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "“科技四巨头”罕见同日财报：谷歌大涨Meta重挫，谷歌、微软和亚马逊云增长迅猛，谷歌和Meta上调资本开支",
@@ -989,8 +1105,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 07时54分]"
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 10时57分]"
         },
         {
           "title": "胡锡进：只要中国赚钱机会越来越多，谷歌就不舍得真正“离开”",
@@ -1001,19 +1117,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 10时57分]"
         },
         {
           "title": "美股收盘：标普纳指再创新高 谷歌劲升10%闪迪盘后重挫",
           "url": "https://www.cls.cn/detail/2361634",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 07时54分]"
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 10时57分]"
         },
         {
           "title": "谷歌母公司Q1营收超预期增长22%，AI驱动多板块业务增长，云业务大增63%",
@@ -1035,8 +1152,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时53分 ~ 07时54分]"
+          "appearance_count": 3,
+          "time_info": "[07时53分 ~ 10时57分]"
+        },
+        {
+          "title": "美股四大科技巨头「谷歌、微软、亚马逊、 Meta」2026 年 Q1 财报同时出炉，如何解析？",
+          "url": "https://www.zhihu.com/question/2033115543276930640",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "谷歌母公司Alphabet涨幅扩大至10%，创最近逾一年来最大盘中涨幅。",
@@ -1086,18 +1214,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "DeepSeek破底价,友商瑟瑟发抖",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28353912&amp;topic_name=DeepSeek%E7%A0%B4%E5%BA%95%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E7%91%9F%E7%91%9F%E5%8F%91%E6%8A%96",
           "source": "贴吧",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 10时57分]"
         },
         {
           "title": "从硅谷视角看DeepSeekV4",
@@ -1109,8 +1238,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时21分 ~ 07时54分]"
+          "appearance_count": 8,
+          "time_info": "[01时21分 ~ 10时57分]"
         },
         {
           "title": "DeepSeek多模态模型来了",
@@ -1146,12 +1275,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时53分 ~ 07时54分]"
+        },
+        {
+          "title": "摩尔线程完成DeepSeek-V4全链路工程化适配",
+          "url": "https://flash.jin10.com/detail/20260501103248247800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "金价突涨",
@@ -1204,6 +1344,17 @@
           "time_info": "[07时53分 ~ 07时54分]"
         },
         {
+          "title": "分析师：黄金价格持稳 但中东外交停滞构成拖累",
+          "url": "https://flash.jin10.com/detail/20260501095658985800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
+        },
+        {
           "title": "美国银行：预计铝价格将提前至2026年四季度达到4000美元/吨，之前预计要到2027年二季度才会涨至那样的水平。 上调锌价格预期12.7%，至3309美元/吨。 铜市场仍然供应紧俏，预计2026-27年将存在供应缺口。 重申对未来12个月黄金价格6000美元/盎司的预期。",
           "url": "https://wallstreetcn.com/livenews/3097626",
           "source": "华尔街见闻-快讯",
@@ -1218,7 +1369,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "OpenAI 被曝联手联发科、高通开发手机芯片，高通涨逾 10%，这对 AI 手机市场来说意味着什么？",
@@ -1230,6 +1381,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时21分"
+        },
+        {
+          "title": "OpenAI CFO回应未达目标质疑：需求依然强劲",
+          "url": "https://flash.jin10.com/detail/20260501100005491800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时57分"
         },
         {
           "title": "4月30日，马斯克重返证人席，接受OpenAI律师反询问。",
@@ -1289,7 +1451,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时54分"
         }
