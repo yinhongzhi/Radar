@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-25T20:20:55.447256+08:00",
-  "total_titles_processed": 1328,
+  "generated_at": "2026-06-25T23:40:16.939788+08:00",
+  "total_titles_processed": 1493,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 55,
       "titles": [
         {
           "title": "特朗普：对意法德英很失望，希望北约盟友表忠心",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时19分 ~ 20时20分]"
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 23时40分]"
         },
         {
           "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
@@ -66,6 +66,20 @@
           "time_info": "02时51分"
         },
         {
+          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
+          "url": "https://www.zhihu.com/question/2053130730595791572",
+          "source": "知乎",
+          "ranks": [
+            19,
+            14,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时04分 ~ 23时40分]"
+        },
+        {
           "title": "白宫：特朗普补充预算请求包括671.5亿美元用于国防部军事项目。",
           "url": "https://flash.jin10.com/detail/20260625044203755800",
           "source": "金十数据",
@@ -88,6 +102,19 @@
           "time_info": "08时12分"
         },
         {
+          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
+          "url": "https://www.cls.cn/detail/2408936",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时19分 ~ 23时40分]"
+        },
+        {
           "title": "美国总统特朗普：北约秘书长吕特做得不错。 对德国、法国、西班牙感到失望。",
           "url": "https://wallstreetcn.com/livenews/3124229",
           "source": "华尔街见闻-快讯",
@@ -99,16 +126,15 @@
           "time_info": "04时48分"
         },
         {
-          "title": "再度呼吁降息！特朗普回应拒签住房法案：低利率能解决一切",
-          "url": "https://www.cls.cn/detail/2408936",
-          "source": "财联社热门",
+          "title": "美国法官叫停特朗普关于邮寄投票的行政令",
+          "url": "https://wallstreetcn.com/livenews/3124758",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            7
+            3
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时19分 ~ 20时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "美国总统特朗普：（关于英国首相潜在继任者伯纳姆）我听说他非常自由派，非常。因此，这意味着他可能不会开放北海。",
@@ -156,19 +182,6 @@
           "time_info": "[17时19分 ~ 20时20分]"
         },
         {
-          "title": "国际足联主席确认特朗普将出席世界杯决赛，并直接向冠军球队颁奖，如何看待这一操作？为啥会打破惯例？",
-          "url": "https://www.zhihu.com/question/2053130730595791572",
-          "source": "知乎",
-          "ranks": [
-            19,
-            14,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时04分 ~ 20时20分]"
-        },
-        {
           "title": "美参议院以50∶48通过决议，特朗普愤怒回应",
           "url": "https://news.ifeng.com/c/8uEoIOrELpr",
           "source": "凤凰网",
@@ -208,7 +221,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -318,7 +331,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -444,6 +457,17 @@
           "time_info": "06时17分"
         },
         {
+          "title": "美国法官叫停特朗普关于邮寄投票的行政令",
+          "url": "https://flash.jin10.com/detail/20260625230803866800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "美国总统特朗普要求国会山拨款超14亿美元来应对埃博拉。（路透）",
           "url": "https://wallstreetcn.com/livenews/3124209",
           "source": "华尔街见闻-快讯",
@@ -488,6 +512,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "美国最高法院表示，下周一将是下一个意见征询日。 据彭博报道，最高法院完成审议后，下周可能会对特朗普政府起诉美联储理事库克一案作出裁决。",
+          "url": "https://wallstreetcn.com/livenews/3124740",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "欧盟在特朗普设定的最后期限前最终批准与美国的贸易协议",
           "url": "https://wallstreetcn.com/livenews/3124531",
           "source": "华尔街见闻-快讯",
@@ -505,7 +540,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -527,7 +562,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -590,7 +625,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
@@ -604,6 +639,19 @@
           "time_info": "[00时21分 ~ 06时17分]"
         },
         {
+          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
+          "url": "https://www.zhihu.com/question/2053109056487822677",
+          "source": "知乎",
+          "ranks": [
+            12,
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[13时04分 ~ 23时40分]"
+        },
+        {
           "title": "美国国务卿鲁比奥：负责伊朗事务的技术小组将于本月晚些时候重返。",
           "url": "https://flash.jin10.com/detail/20260625001227488800",
           "source": "金十数据",
@@ -615,16 +663,15 @@
           "time_info": "00时21分"
         },
         {
-          "title": "美飞行员曝伊朗「创新武器」，简直是外星来的东西，具体情况如何？伊朗无人机研发是什么水平？",
-          "url": "https://www.zhihu.com/question/2053109056487822677",
-          "source": "知乎",
+          "title": "伊朗阿曼外长通话讨论霍尔木兹海峡问题",
+          "url": "https://flash.jin10.com/detail/20260625233541514800",
+          "source": "金十数据",
           "ranks": [
-            12,
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[13时04分 ~ 20时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "伊朗：签谅解备忘录表明“美国战败”",
@@ -691,7 +738,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -718,6 +765,17 @@
           "time_info": "00时21分"
         },
         {
+          "title": "报道：伊朗预计每年将从霍尔木兹海峡获得400亿美元收入",
+          "url": "https://wallstreetcn.com/livenews/3124750",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "伊朗外长与沙特外交大臣通电话。",
           "url": "https://wallstreetcn.com/livenews/3124128",
           "source": "华尔街见闻-快讯",
@@ -727,6 +785,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时21分"
+        },
+        {
+          "title": "美国：预计伊朗石油出口将达到200万桶/日",
+          "url": "https://wallstreetcn.com/livenews/3124749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "据半岛电视台：伊朗官员称以色列应对“整个地区的问题”负责。",
@@ -757,7 +826,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -779,9 +848,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
+        },
+        {
+          "title": "伊朗外长：我们决心推进这一进程，并将与邻国协调和交流意见。",
+          "url": "https://flash.jin10.com/detail/20260625231307002800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
         },
         {
           "title": "白宫要求美国国会山围绕伊朗和埃博拉疫情拨款876亿美元。",
@@ -795,13 +875,24 @@
           "time_info": "06时17分"
         },
         {
+          "title": "伊朗外长：与阿曼外长举行了富有成效的通话，重申伊朗和阿曼将开展对话，“以确定霍尔木兹海峡未来的行政管理和海上服务”。",
+          "url": "https://flash.jin10.com/detail/20260625231214798800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "美国国务卿鲁比奥：如果伊朗将资金用于代理人，这笔交易就无效。",
           "url": "https://flash.jin10.com/detail/20260625193904690800",
           "source": "金十数据",
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -812,7 +903,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         }
@@ -820,7 +911,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美股收盘：科技股回调拖累纳指跌0.4% AI估值与资本开支担忧持续发酵",
@@ -940,6 +1031,17 @@
           "time_info": "04时48分"
         },
         {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时40分"
+        },
+        {
           "title": "美光科技盘后大涨近14%，带飞美股芯片股",
           "url": "https://flash.jin10.com/detail/20260625042822342800",
           "source": "金十数据",
@@ -968,7 +1070,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         },
@@ -1001,6 +1103,18 @@
           "time_info": "02时51分"
         },
         {
+          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
+          "url": "https://www.zhihu.com/question/2053015352347293676",
+          "source": "知乎",
+          "ranks": [
+            15,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时20分 ~ 23时40分]"
+        },
+        {
           "title": "谷歌前CEO批中国AI开源",
           "url": "https://s.weibo.com/weibo?q=%E8%B0%B7%E6%AD%8C%E5%89%8DCEO%E6%89%B9%E4%B8%AD%E5%9B%BDAI%E5%BC%80%E6%BA%90&t=31&band_rank=19&Refer=top",
           "source": "微博",
@@ -1021,17 +1135,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时51分"
-        },
-        {
-          "title": "SpaceX 暴跌 16% 股份逼近挂牌价，谷歌狂跌 5%，为何科技股开始下跌？未来走向可能如何？",
-          "url": "https://www.zhihu.com/question/2053015352347293676",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "20时20分"
         },
         {
           "title": "谷歌(GOOG.O)短线下挫，消息称谷歌再有两名人工智能员工或将跳槽至Anthropic公司。",
@@ -1138,7 +1241,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "20时20分"
         }
