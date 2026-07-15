@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-15T13:31:55.079501+08:00",
-  "total_titles_processed": 1077,
+  "generated_at": "2026-07-15T16:08:55.395991+08:00",
+  "total_titles_processed": 1239,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 72,
+      "match_count": 76,
       "titles": [
         {
           "title": "伊朗称美进入正式战争状态",
@@ -19,8 +19,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[02时02分 ~ 13时31分]"
+          "appearance_count": 11,
+          "time_info": "[02时02分 ~ 16时08分]"
         },
         {
           "title": "伊朗前总统内贾德被曝遭软禁，曾短暂现身哈梅内伊葬礼队伍",
@@ -32,6 +32,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时13分 ~ 06时57分]"
+        },
+        {
+          "title": "伊朗打击约旦美军F18战机部署地",
+          "url": "https://news.ifeng.com/c/8ulszWPhhIW",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时22分 ~ 16时08分]"
         },
         {
           "title": "美国向全世界敲竹杠，伊朗外长嘲讽",
@@ -55,17 +66,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时13分 ~ 10时23分]"
-        },
-        {
-          "title": "伊朗打击约旦美军F18战机部署地",
-          "url": "https://news.ifeng.com/c/8ulszWPhhIW",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时22分 ~ 13时31分]"
         },
         {
           "title": "时隔4个月，伊朗议会复会，现场宣读穆杰塔巴声明",
@@ -92,6 +92,18 @@
           "time_info": "[00时13分 ~ 07时55分]"
         },
         {
+          "title": "以色列总理对伊朗领导人发出警告",
+          "url": "https://news.ifeng.com/c/8um9I5gqxqB",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时30分 ~ 16时08分]"
+        },
+        {
           "title": "伊朗民众：最担心的不只是战争，更是持续恶化的经济",
           "url": "https://news.ifeng.com/c/8ulXx9GmIBX",
           "source": "凤凰网",
@@ -101,17 +113,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时54分 ~ 07时55分]"
-        },
-        {
-          "title": "以色列总理对伊朗领导人发出警告",
-          "url": "https://news.ifeng.com/c/8um9I5gqxqB",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时30分 ~ 13时31分]"
         },
         {
           "title": "【伊媒：伊朗格什姆岛、阿巴斯港等多地传出爆炸声】据伊朗多家媒体报道，当地时间14日深夜，伊朗南部的格什姆岛、阿巴斯港、亨加姆岛，以及东南部班普尔市和西部阿瓦士市等地传出爆炸声。 伊朗布什尔核电站周边防空系统已启动。目前，伊朗官方尚未就此发表评论。 美军中央司令部14日在社交媒体发文说，其部队于美东时间当天15时对伊朗发动新一轮打击，16时恢复针对往返伊朗港口及沿海地区船只的海上封锁。（新华社）",
@@ -145,6 +146,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时23分"
+        },
+        {
+          "title": "两艘运载伊朗原油油轮将目的地改为巴基斯坦 或为规避美国海上封锁",
+          "url": "https://flash.jin10.com/detail/20260715154301840800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "美国冻结伊朗数字资产超1.3亿美元",
@@ -186,7 +198,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -233,6 +245,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "载有伊朗石油的两艘油轮指示目的地是巴基斯坦。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3134197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "伊朗称美进入正式战争状态",
@@ -537,6 +560,17 @@
           "time_info": "04时10分"
         },
         {
+          "title": "伊朗军方称美军袭击伊朗沙赫尔军营致7人死亡。（ISNA）",
+          "url": "https://wallstreetcn.com/livenews/3134191",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
           "title": "美军确认对伊朗进行了新一轮打击",
           "url": "https://flash.jin10.com/detail/20260715033059498800",
           "source": "金十数据",
@@ -686,9 +720,20 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
+        },
+        {
+          "title": "伊朗称美进入正式战争状态",
+          "url": "https://www.douyin.com/hot/2571461",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "伊朗副外长：在战争状态下，我们将完全管理霍尔木兹海峡。",
@@ -774,7 +819,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -826,7 +871,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -840,8 +885,22 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时10分 ~ 13时31分]"
+          "appearance_count": 10,
+          "time_info": "[04时10分 ~ 16时08分]"
+        },
+        {
+          "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33581551",
+          "source": "澎湃新闻",
+          "ranks": [
+            14,
+            15,
+            17,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[04时10分 ~ 16时08分]"
         },
         {
           "title": "特朗普强硬重启对伊战事，共和党、白宫双双内讧",
@@ -853,6 +912,20 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时13分 ~ 06时57分]"
+        },
+        {
+          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
+          "url": "https://wallstreetcn.com/articles/3776934",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[05时57分 ~ 16时08分]"
         },
         {
           "title": "一图世界｜特朗普威胁收20%过路费，霍尔木兹海峡为何仍是冲突焦点？",
@@ -868,31 +941,17 @@
           "time_info": "[00时13分 ~ 10时23分]"
         },
         {
-          "title": "新闻蒸馏器｜边打边放话还要收过路费，特朗普重启60天战争窗口",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33581551",
-          "source": "澎湃新闻",
+          "title": "不到24小时，特朗普态度大转弯",
+          "url": "https://news.ifeng.com/c/8uly6273mL2",
+          "source": "凤凰网",
           "ranks": [
-            14,
-            15,
-            17
+            1,
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[04时10分 ~ 13时31分]"
-        },
-        {
-          "title": "才一天就改口！特朗普放弃霍尔木兹海峡货运收费20%，美油“闪跌”",
-          "url": "https://wallstreetcn.com/articles/3776934",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[05时57分 ~ 13时31分]"
+          "appearance_count": 5,
+          "time_info": "[10时22分 ~ 16时08分]"
         },
         {
           "title": "原油盘中暴涨10%！美军恢复对伊朗封锁，特朗普放话今晚明天“重击”、对海峡货运收两成费用",
@@ -905,6 +964,20 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时13分 ~ 04时10分]"
+        },
+        {
+          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            18,
+            13,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[06时57分 ~ 16时08分]"
         },
         {
           "title": "特朗普放弃霍尔木兹海峡20%收费计划 国际油价回吐部分涨幅",
@@ -947,31 +1020,6 @@
           "time_info": "[07时54分 ~ 07时55分]"
         },
         {
-          "title": "特朗普：用贸易投资协议取代霍尔木兹海峡货物收费",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33586641",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            18,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时57分 ~ 13时31分]"
-        },
-        {
-          "title": "不到24小时，特朗普态度大转弯",
-          "url": "https://news.ifeng.com/c/8uly6273mL2",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时22分 ~ 13时31分]"
-        },
-        {
           "title": "国际空间站运行拟于2030年底结束 特朗普放弃霍尔木兹海峡收费计划 | 环球市场",
           "url": "https://www.cls.cn/detail/2426568",
           "source": "财联社热门",
@@ -1001,11 +1049,25 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            7
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时22分 ~ 13时31分]"
+          "appearance_count": 5,
+          "time_info": "[10时22分 ~ 16时08分]"
+        },
+        {
+          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            15,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时22分 ~ 16时08分]"
         },
         {
           "title": "特朗普威胁下周袭击伊朗桥梁发电厂",
@@ -1018,18 +1080,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时57分 ~ 07时55分]"
-        },
-        {
-          "title": "特朗普重启伊朗战事：美伊“战略韧性”较量下的海峡控制权博弈",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33583485",
-          "source": "澎湃新闻",
-          "ranks": [
-            17,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时22分 ~ 13时31分]"
         },
         {
           "title": "沃什货币政策听证首秀：即使特朗普批评也会按数据行动，美联储有工具实现价格稳定",
@@ -1163,6 +1213,17 @@
           "time_info": "[06时57分 ~ 07时55分]"
         },
         {
+          "title": "特朗普：伊朗就像“伟大的拳击手”，以为他败了，突然来一重拳",
+          "url": "https://v.ifeng.com/c/8uitzwbrrp3",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬：我们将以实际行动回应特朗普的叫嚣，并将捍卫祖国的每一寸土地。特朗普的无礼言论，只配留给美国人自己。",
           "url": "https://flash.jin10.com/detail/20260715011502137800",
           "source": "金十数据",
@@ -1191,7 +1252,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -1238,6 +1299,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
+        },
+        {
+          "title": "特朗普性侵案败诉",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%A7%E4%BE%B5%E6%A1%88%E8%B4%A5%E8%AF%89%23&t=31&band_rank=18&Refer=top",
+          "source": "微博",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时08分"
         },
         {
           "title": "据AXIOS：美国总统特朗普要求以色列总理内塔尼亚胡将军队撤出叙利亚和黎巴嫩。",
@@ -1355,8 +1427,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时22分 ~ 13时31分]"
+          "appearance_count": 5,
+          "time_info": "[10时22分 ~ 16时08分]"
         },
         {
           "title": "地缘风暴叠加鹰派理事，美股指齐跌，半导体指数重挫5%，原油飙升10%，黄金大跌",
@@ -1656,22 +1728,24 @@
           "url": "https://www.zhihu.com/question/2060645375338180828",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时30分 ~ 13时31分]"
+          "appearance_count": 3,
+          "time_info": "[13时30分 ~ 16时08分]"
         },
         {
           "title": "曝DeepSeek计划明年上市",
           "url": "https://www.baidu.com/s?wd=%E6%9B%9DDeepSeek%E8%AE%A1%E5%88%92%E6%98%8E%E5%B9%B4%E4%B8%8A%E5%B8%82",
           "source": "百度热搜",
           "ranks": [
-            15
+            15,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时30分 ~ 13时31分]"
+          "appearance_count": 3,
+          "time_info": "[13时30分 ~ 16时08分]"
         },
         {
           "title": "The Information：DeepSeek正寻求新一轮融资，目标金额为74亿美元，公司估值达740亿美元。",
@@ -1680,7 +1754,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         },
@@ -1691,7 +1765,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时31分"
         }
