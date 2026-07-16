@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-07-16T16:11:13.606815+08:00",
-  "total_titles_processed": 1206,
+  "generated_at": "2026-07-16T18:59:23.256181+08:00",
+  "total_titles_processed": 1392,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 75,
+      "match_count": 82,
       "titles": [
+        {
+          "title": "伊朗议长发声：这是与美国的生存之战",
+          "url": "https://news.ifeng.com/c/8unecXHHhfz",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时29分 ~ 18时59分]"
+        },
         {
           "title": "美军称对伊朗进行了90分钟打击",
           "url": "https://wallstreetcn.com/articles/3777022",
@@ -16,8 +29,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时21分 ~ 16时11分]"
+          "appearance_count": 13,
+          "time_info": "[00时21分 ~ 18时59分]"
         },
         {
           "title": "【早报】长鑫科技，今日申购；热门中概股普涨；美军再次打击伊朗；原油小幅收涨",
@@ -25,18 +38,6 @@
           "source": "财联社热门",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时29分 ~ 16时11分]"
-        },
-        {
-          "title": "伊朗议长发声：这是与美国的生存之战",
-          "url": "https://news.ifeng.com/c/8unecXHHhfz",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -87,6 +88,17 @@
           "time_info": "06时01分"
         },
         {
+          "title": "伊朗革命卫队：如果美国军队犯下战略性错误，那么所有人都必须与这个地区的能源告别。",
+          "url": "https://flash.jin10.com/detail/20260716184743478800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "美国白宫发言人：（关于伊朗）美国可以在任何地点、任何时间发动攻击。",
           "url": "https://flash.jin10.com/detail/20260716014727199800",
           "source": "金十数据",
@@ -118,6 +130,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
+        },
+        {
+          "title": "伊朗陆军发言人：如果美国总统继续推行其违反单方面协议的冒险和恶意政策，伊朗将会拿出令其始料未及的反制举措。",
+          "url": "https://flash.jin10.com/detail/20260716184247583800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "白宫发言人Anna Kelly：我们能够在任何时候袭击（伊朗的）任何地方。",
@@ -247,6 +270,17 @@
           "time_info": "02时07分"
         },
         {
+          "title": "伊朗边防部队查获一批走私武器",
+          "url": "https://flash.jin10.com/detail/20260716184055020800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "伊朗外交部：若美方违约，伊朗则反制",
           "url": "https://wallstreetcn.com/livenews/3134510",
           "source": "华尔街见闻-快讯",
@@ -346,6 +380,17 @@
           "time_info": "10时29分"
         },
         {
+          "title": "伊朗称霍尔木兹海峡不会因美国施压恢复开放",
+          "url": "https://wallstreetcn.com/livenews/3135013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "美国副总统万斯：（关于伊朗问题）我们正在进行一场微妙的外交博弈。",
           "url": "https://flash.jin10.com/detail/20260716013824653800",
           "source": "金十数据",
@@ -379,6 +424,17 @@
           "time_info": "04时08分"
         },
         {
+          "title": "重启对伊封锁来首次！美国袭击与伊朗有关油轮 海上对抗升级",
+          "url": "https://www.cls.cn/detail/2428434",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：伊朗阿巴斯港传出爆炸声。",
           "url": "https://flash.jin10.com/detail/20260716033251836800",
           "source": "金十数据",
@@ -399,6 +455,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时05分"
+        },
+        {
+          "title": "伊朗革命卫队：我们的航空航天部队在“纳斯尔2”行动的第八、九、十波次中，对美军阵地发起了进攻行动。",
+          "url": "https://flash.jin10.com/detail/20260716183507199800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "美军对驶往伊朗油轮射“地狱火”导弹",
@@ -484,7 +551,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -638,7 +705,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -726,7 +793,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -770,7 +837,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -797,13 +864,24 @@
           "time_info": "04时08分"
         },
         {
+          "title": "伊朗：霍尔木兹海峡不会因美国施压恢复开放",
+          "url": "https://flash.jin10.com/detail/20260716181042592800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "巴林：周四拦截了多次伊朗空中打击。",
           "url": "https://wallstreetcn.com/livenews/3134907",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -844,7 +922,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 65,
+      "match_count": 67,
       "titles": [
         {
           "title": "白宫战情室紧急开会！特朗普讨论对伊朗发动大规模进攻计划",
@@ -918,11 +996,12 @@
             19,
             16,
             14,
-            11
+            11,
+            9
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[02时06分 ~ 16时11分]"
+          "appearance_count": 12,
+          "time_info": "[02时06分 ~ 18时59分]"
         },
         {
           "title": "沃什：AI推高价格但未必推升通胀，任何通胀指标都不精确，特朗普没试图干预美联储",
@@ -934,8 +1013,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时05分 ~ 16时11分]"
+          "appearance_count": 7,
+          "time_info": "[07时05分 ~ 18时59分]"
         },
         {
           "title": "沃什国会听证首秀：即使特朗普批评也会按数据行动，6月CPI降温不代表通胀“任务完成”",
@@ -1004,6 +1083,18 @@
           "time_info": "07时05分"
         },
         {
+          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
+          "url": "https://www.zhihu.com/question/2060762952576323839",
+          "source": "知乎",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[10时29分 ~ 18时59分]"
+        },
+        {
           "title": "美媒：特朗普倾向扩大对伊军事行动，选项包括夺取哈尔克岛",
           "url": "https://flash.jin10.com/detail/20260716034751447800",
           "source": "金十数据",
@@ -1068,18 +1159,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
-        },
-        {
-          "title": "特朗普性侵案败诉，已赔付女作家逾 560 万美元，美国现任总统被判定性侵成立，这件事对其影响多大？",
-          "url": "https://www.zhihu.com/question/2060762952576323839",
-          "source": "知乎",
-          "ranks": [
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时29分 ~ 16时11分]"
         },
         {
           "title": "特朗普敦促国防企业增加武器产量",
@@ -1216,6 +1295,17 @@
           "time_info": "04时08分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-07-16）",
+          "url": "https://flash.jin10.com/detail/20260716184022118800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "美国总统特朗普：伊朗非常渴望达成和解。 会知道我们是和解，还是彻底解决。",
           "url": "https://wallstreetcn.com/livenews/3134581",
           "source": "华尔街见闻-快讯",
@@ -1225,6 +1315,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时08分"
+        },
+        {
+          "title": "“特朗普金币”来了！面值1美元 计划今年秋季发行",
+          "url": "https://www.cls.cn/detail/2428113",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         },
         {
           "title": "据NewsNation：特朗普称，若无法与伊朗革命卫队达成解决方案，美国可能像打击“伊斯兰国”一样将其消灭。",
@@ -1574,7 +1675,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         }
@@ -1582,7 +1683,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "美国通胀降温，美股指全线反弹，SK海力士ADR飙升27%，IBM暴跌25%，美油闪跌",
@@ -1600,11 +1701,12 @@
           "url": "https://wallstreetcn.com/articles/3776964",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时29分 ~ 16时11分]"
+          "appearance_count": 6,
+          "time_info": "[10时29分 ~ 18时59分]"
         },
         {
           "title": "美股收盘：三大股指小幅收涨 中概股集体走强 存储板块逆势暴跌",
@@ -1682,13 +1784,24 @@
           "time_info": "[00时21分 ~ 06时01分]"
         },
         {
+          "title": "联合健康美股盘前涨超8%，公司二季度业绩超预期，并上调全年业绩指引。",
+          "url": "https://wallstreetcn.com/livenews/3135023",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
+        },
+        {
           "title": "美股盘前，存储芯片概念股普跌，SK海力士跌约5%，闪迪跌约4%，西部数据跌约4%，希捷科技跌约3%。 台积电跌约2%，此前公布二季度财报。",
           "url": "https://wallstreetcn.com/livenews/3134935",
           "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时11分"
         },
@@ -1795,11 +1908,12 @@
           "ranks": [
             9,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时29分 ~ 16时11分]"
+          "appearance_count": 6,
+          "time_info": "[10时29分 ~ 18时59分]"
         },
         {
           "title": "美股存储芯片指数初步收跌6.4%，半导体指数跌2.1%。 纳斯达克100指数初步收跌0.3%，成分股中，西部数据初步收跌8.7%，闪迪跌8.5%，美光跌7.9%，Lumentum跌7.3%，希捷科技跌6.1%，思科、英特尔、CoreWeave、AMD至少跌3.4%，Meta、谷歌A涨3%，苹果涨4.1%，汤森路透涨4.2%，PayPal涨17.4%。 亚马逊、微软、3M、Merck初步收涨超2%，与苹果、谷歌A领跑道指成分股。",
@@ -1884,7 +1998,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek工资待遇太恐怖了",
@@ -1924,6 +2038,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时21分 ~ 07时05分]"
+        },
+        {
+          "title": "梁文锋打新长鑫科技",
+          "url": "https://www.toutiao.com/trending/7663049647610400299/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时59分"
         }
       ]
     },
