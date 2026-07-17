@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-17T17:08:46.658856+08:00",
-  "total_titles_processed": 1199,
+  "generated_at": "2026-07-17T19:22:06.175486+08:00",
+  "total_titles_processed": 1354,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 63,
+      "match_count": 71,
       "titles": [
         {
           "title": "伊媒：伊朗布什尔市传出爆炸声",
@@ -85,6 +85,17 @@
           "time_info": "07时58分"
         },
         {
+          "title": "伊朗革命卫队打击卡塔尔美军基地",
+          "url": "https://wallstreetcn.com/livenews/3135672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：也门军事官员表示，以色列正协助沙特阿拉伯拦截也门的报复性攻击。",
           "url": "https://flash.jin10.com/detail/20260717000731990800",
           "source": "金十数据",
@@ -118,6 +129,18 @@
           "time_info": "04时03分"
         },
         {
+          "title": "伊朗：造成大量美军人员死亡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E9%80%A0%E6%88%90%E5%A4%A7%E9%87%8F%E7%BE%8E%E5%86%9B%E4%BA%BA%E5%91%98%E6%AD%BB%E4%BA%A1",
+          "source": "百度热搜",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时08分 ~ 19时22分]"
+        },
+        {
           "title": "重启对伊封锁来首次！美国袭击与伊朗有关油轮 海上对抗升级",
           "url": "https://www.cls.cn/detail/2428434",
           "source": "财联社热门",
@@ -127,6 +150,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时26分 ~ 04时03分]"
+        },
+        {
+          "title": "伊朗称摧毁多架美军战斗机",
+          "url": "https://www.toutiao.com/trending/7663410168377380371/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时21分 ~ 19时22分]"
         },
         {
           "title": "白宫：将继续关注伊朗进展。",
@@ -162,17 +196,6 @@
           "time_info": "14时14分"
         },
         {
-          "title": "伊朗：造成大量美军人员死亡",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E9%80%A0%E6%88%90%E5%A4%A7%E9%87%8F%E7%BE%8E%E5%86%9B%E4%BA%BA%E5%91%98%E6%AD%BB%E4%BA%A1",
-          "source": "百度热搜",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时08分"
-        },
-        {
           "title": "伊朗革命卫队：伊朗绝不会允许美国介入霍尔木兹海峡事务。伊朗规定的航行路线是安全的，任何偏离该路线的航线都将面临风险，相关船只可能遭受损害。",
           "url": "https://flash.jin10.com/detail/20260717031824680800",
           "source": "金十数据",
@@ -201,7 +224,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -223,7 +246,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -371,6 +394,17 @@
           "time_info": "04时03分"
         },
         {
+          "title": "科威特外交部：伊朗对电站的攻击是对主权的侵犯，继续这种侵略性行为将是严重升级。",
+          "url": "https://flash.jin10.com/detail/20260717190522239800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "科威特称伊朗周四的袭击造成了损失。",
           "url": "https://wallstreetcn.com/livenews/3135241",
           "source": "华尔街见闻-快讯",
@@ -391,6 +425,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时03分"
+        },
+        {
+          "title": "伊朗革命卫队：攻击平民和非民用基础设施将付出极其沉重和毁灭性的代价。",
+          "url": "https://flash.jin10.com/detail/20260717190507730800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "伊朗革命卫队：只有美国不再存在于该地区，霍尔木兹海峡的安全才能得到全面保障。",
@@ -424,6 +469,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "科威特外交部：我们谴责伊朗的侵略行为，该行为针对电站，造成发电单元受损。",
+          "url": "https://flash.jin10.com/detail/20260717190411893800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：伊朗军方表示，对在巴林萨基尔基地的美国直升机和侦察机实施了无人机攻击。",
@@ -586,7 +642,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -668,6 +724,17 @@
           "time_info": "07时58分"
         },
         {
+          "title": "伊朗沙赫尔市市长：美国袭击造成的损毁修复工作正在进行中。",
+          "url": "https://flash.jin10.com/detail/20260717185333094800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "美军开始对伊朗实施新一轮袭击。",
           "url": "https://wallstreetcn.com/livenews/3135229",
           "source": "华尔街见闻-快讯",
@@ -690,6 +757,17 @@
           "time_info": "07时58分"
         },
         {
+          "title": "报道：伊朗供电设施遭袭并面临极端高温",
+          "url": "https://wallstreetcn.com/livenews/3135644",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
+        },
+        {
           "title": "白宫称伊朗仍在与美国对话",
           "url": "https://wallstreetcn.com/livenews/3135227",
           "source": "华尔街见闻-快讯",
@@ -699,6 +777,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时03分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队：摧毁多架美军军机",
+          "url": "https://wallstreetcn.com/livenews/3135637",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         }
       ]
     },
@@ -706,6 +795,18 @@
       "keyword_group": "特朗普",
       "match_count": 22,
       "titles": [
+        {
+          "title": "白宫：特朗普将出席世界杯决赛",
+          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时15分 ~ 19时22分]"
+        },
         {
           "title": "担心特朗普全国演讲乱说话，共和党人：我们被吓得“屁滚尿流”",
           "url": "https://news.ifeng.com/c/8uoXl1Ao0h2",
@@ -719,16 +820,15 @@
           "time_info": "[00时26分 ~ 07时58分]"
         },
         {
-          "title": "白宫：特朗普将出席世界杯决赛",
-          "url": "https://news.ifeng.com/c/8upEtP2Gcyf",
+          "title": "中方驳斥特朗普“中国干预美国大选”论调",
+          "url": "https://news.ifeng.com/c/8upog6XKRmu",
           "source": "凤凰网",
           "ranks": [
-            2,
-            3
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时15分 ~ 17时08分]"
+          "time_info": "[17时08分 ~ 19时22分]"
         },
         {
           "title": "美国首例！特朗普恼火：可怕的决定，要输给中国了",
@@ -740,17 +840,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
-        },
-        {
-          "title": "中方驳斥特朗普“中国干预美国大选”论调",
-          "url": "https://news.ifeng.com/c/8upog6XKRmu",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时08分"
         },
         {
           "title": "白宫：特朗普今晚（北京时间今早9点）发表讲话时将谈及伊朗问题。",
@@ -859,7 +948,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -958,6 +1047,18 @@
       "match_count": 16,
       "titles": [
         {
+          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
+          "url": "https://wallstreetcn.com/articles/3777075",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时58分 ~ 19时22分]"
+        },
+        {
           "title": "半导体抛售潮重创全球股市，美股盘初涨跌互现，存储股普跌，台积电跌3%，现货黄金跌2%",
           "url": "https://wallstreetcn.com/articles/3777075",
           "source": "华尔街见闻",
@@ -967,17 +1068,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[00时26分 ~ 06时03分]"
-        },
-        {
-          "title": "半导体抛售潮拖累美股，纳指100一度跌2%，中概再逆市涨，黄金大跌破4000",
-          "url": "https://wallstreetcn.com/articles/3777075",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 17时08分]"
         },
         {
           "title": "美PPI确认通胀降温，科技巨头力撑美股指两连阳，中概股大涨，美光、闪迪暴跌8%",
@@ -1079,7 +1169,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -1101,7 +1191,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -1303,7 +1393,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "“雷曼时刻”在逼近？大空头1.5万字长文起底：OpenAI必将崩溃，全球股市恐遭清算",
@@ -1315,8 +1405,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时15分 ~ 17时08分]"
+          "appearance_count": 5,
+          "time_info": "[11时15分 ~ 19时22分]"
         },
         {
           "title": "长期AI怀疑论者：OpenAI恐成为AI时代的“雷曼兄弟”",
@@ -1336,7 +1426,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -1347,15 +1437,26 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
+        },
+        {
+          "title": "一些现就职于OpenAI的前苹果员工收到了法律信函。（英国《金融时报》）",
+          "url": "https://wallstreetcn.com/livenews/3135650",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "逾30年的美债多头Hoisington因通胀和债务加剧转而看空",
@@ -1367,6 +1468,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时58分"
+        },
+        {
+          "title": "瑞银资产管理高管看空美债 认为德债是极佳的防御性配置选择",
+          "url": "https://wallstreetcn.com/livenews/3135669",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时22分"
         },
         {
           "title": "美债收益率普遍涨超1个基点",
@@ -1447,8 +1559,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时26分 ~ 17时08分]"
+          "appearance_count": 10,
+          "time_info": "[00时26分 ~ 19时22分]"
         },
         {
           "title": "梁文锋打新长鑫科技",
