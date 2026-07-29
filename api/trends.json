@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-07-29T13:52:07.757660+08:00",
-  "total_titles_processed": 1019,
+  "generated_at": "2026-07-29T17:17:32.642297+08:00",
+  "total_titles_processed": 1216,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 41,
+      "match_count": 43,
       "titles": [
         {
           "title": "美暂停打击伊朗的军事行动，是因为美军被打疼了？",
@@ -65,6 +65,17 @@
           "time_info": "[00时40分 ~ 06时04分]"
         },
         {
+          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
+          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时53分 ~ 17时17分]"
+        },
+        {
           "title": "美以领导人会晤，聚焦伊朗核问题",
           "url": "https://wallstreetcn.com/livenews/3141150",
           "source": "华尔街见闻-快讯",
@@ -91,15 +102,16 @@
           "time_info": "[00时40分 ~ 06时04分]"
         },
         {
-          "title": "专家：乌克兰对伊朗商船动手，是在向美国交“投名状”",
-          "url": "https://news.ifeng.com/c/8v8Yy57TOBs",
-          "source": "凤凰网",
+          "title": "对伊朗军事行动以来，美以领导人首次会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            15,
+            16
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 13时52分]"
+          "appearance_count": 4,
+          "time_info": "[10时53分 ~ 17时17分]"
         },
         {
           "title": "7月29日投资避雷针：伊朗发射多枚导弹袭击驻中东美军 WTI原油期货早盘一度涨超5%",
@@ -107,18 +119,6 @@
           "source": "财联社热门",
           "ranks": [
             11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时53分 ~ 13时52分]"
-        },
-        {
-          "title": "对伊朗军事行动以来，美以领导人首次会晤",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33678142",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            16
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -337,6 +337,17 @@
           "time_info": "04时16分"
         },
         {
+          "title": "俄外交部：乌方打击里海水域伊朗商船是“侵略行径”",
+          "url": "https://wallstreetcn.com/livenews/3141587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "据伊朗媒体Fars News：位于伊拉克埃尔比勒省哈里尔的美军基地发生火灾。",
           "url": "https://flash.jin10.com/detail/20260729032652627800",
           "source": "金十数据",
@@ -392,13 +403,24 @@
           "time_info": "02时15分"
         },
         {
+          "title": "据日本共同社：3艘与日本相关的船只通过伊朗航线离开波斯湾。",
+          "url": "https://flash.jin10.com/detail/20260729164841655800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "据沙特媒体哈达斯（Alhadath）：科威特方面表示，伊朗在伊拉克的民兵组织持续实施袭击，反映出其坚持继续升级局势。",
           "url": "https://flash.jin10.com/detail/20260729132511563800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
@@ -472,7 +494,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "特朗普被发现在格雷厄姆葬礼打瞌睡",
@@ -598,6 +620,17 @@
           "time_info": "02时15分"
         },
         {
+          "title": "国际油价急涨5%！特朗普按下冲突“暂停键”后 伊朗首袭驻中东美军",
+          "url": "https://www.cls.cn/detail/2439731",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
+        },
+        {
           "title": "据华尔街日报：美国总统特朗普政府将终止医疗保险药物计划补贴。",
           "url": "https://flash.jin10.com/detail/20260729040156879800",
           "source": "金十数据",
@@ -618,6 +651,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时15分"
+        },
+        {
+          "title": "明查｜特朗普的替身出现了？先把视频暂停一下",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33674010",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "乌克兰总统泽连斯基：与特朗普进行了“良好的会晤”。还谈到了外交问题——重振外交进程非常重要。团队将安排后续展开进一步沟通的相关细节。",
@@ -766,8 +810,23 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3778135",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 17时17分]"
+        },
         {
           "title": "美股期指走势分化 芯片股继续下挫 道指期货涨近1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2439316",
@@ -783,29 +842,18 @@
           "time_info": "[00时40分 ~ 10时53分]"
         },
         {
-          "title": "康宁美股盘前暴跌15%！Q2营收利润双超预期，但Q3收入指引不够“惊喜”| 财报见闻",
-          "url": "https://wallstreetcn.com/articles/3778135",
-          "source": "华尔街见闻",
+          "title": "美股半导体崩盘,闪迪跌破新低",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
+          "source": "贴吧",
           "ranks": [
-            8,
-            7,
-            6,
-            4
+            11,
+            15,
+            17,
+            26
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 13时52分]"
-        },
-        {
-          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
-          "url": "https://wallstreetcn.com/articles/3778080",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时58分 ~ 13时52分]"
+          "appearance_count": 9,
+          "time_info": "[00时40分 ~ 17时17分]"
         },
         {
           "title": "美股收盘：AI概念延续“血色一夜” 另一场狂欢由此开启",
@@ -820,17 +868,16 @@
           "time_info": "[07时58分 ~ 13时52分]"
         },
         {
-          "title": "美股半导体崩盘,闪迪跌破新低",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356568&amp;topic_name=%E7%BE%8E%E8%82%A1%E5%8D%8A%E5%AF%BC%E4%BD%93%E5%B4%A9%E7%9B%98%2C%E9%97%AA%E8%BF%AA%E8%B7%8C%E7%A0%B4%E6%96%B0%E4%BD%8E",
-          "source": "贴吧",
+          "title": "美股涨跌不一，半导体连续两日遭抛售，苹果市值首次突破5万亿美元，金银油齐跌",
+          "url": "https://wallstreetcn.com/articles/3778080",
+          "source": "华尔街见闻",
           "ranks": [
-            11,
-            15,
-            17
+            1,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时40分 ~ 13时52分]"
+          "appearance_count": 5,
+          "time_info": "[07时58分 ~ 17时17分]"
         },
         {
           "title": "中国DRAM巨头搅动全球格局，美股存储芯片跳水，SK海力士破发，闪迪一个月接近腰斩",
@@ -901,6 +948,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时16分 ~ 06时04分]"
+        },
+        {
+          "title": "美联储决议与Meta、微软财报在即，美股期指涨跌互现，存储股盘前续跌，油价涨超3%",
+          "url": "https://wallstreetcn.com/articles/3778176",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时17分"
         },
         {
           "title": "金十图示：2026年07月28日（周二）美股热门股票行情一览（美股收盘）",
@@ -1008,7 +1066,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时52分"
         },
