@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-04T12:13:04.432442+08:00",
-  "total_titles_processed": 834,
+  "generated_at": "2026-08-04T15:39:08.711664+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 52,
       "titles": [
         {
           "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
@@ -18,8 +18,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 12时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 15时39分]"
         },
         {
           "title": "特朗普威胁对伊朗采取斩首行动",
@@ -29,19 +29,32 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 12时13分]"
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 15时39分]"
         },
         {
           "title": "霍尔木兹马上开放？特朗普多次遭伊朗“打脸”，仍坚称美伊正谈判！",
           "url": "https://www.cls.cn/detail/2444694",
           "source": "财联社热门",
           "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 15时39分]"
+        },
+        {
+          "title": "“控制”格陵兰岛，特朗普罕见列出时间表",
+          "url": "https://news.ifeng.com/c/8vIdcQIZgcx",
+          "source": "凤凰网",
+          "ranks": [
+            4,
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 12时13分]"
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 15时39分]"
         },
         {
           "title": "美25州联手，特朗普关税再遭阻击",
@@ -49,17 +62,6 @@
           "source": "凤凰网",
           "ranks": [
             3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 12时13分]"
-        },
-        {
-          "title": "“控制”格陵兰岛，特朗普罕见列出时间表",
-          "url": "https://news.ifeng.com/c/8vIdcQIZgcx",
-          "source": "凤凰网",
-          "ranks": [
-            4
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -125,44 +127,70 @@
           "url": "https://www.cls.cn/detail/2444679",
           "source": "财联社热门",
           "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 12时13分]"
-        },
-        {
-          "title": "美媒：因凡蒂诺向特朗普求助",
-          "url": "https://www.douyin.com/hot/2596620",
-          "source": "抖音",
-          "ranks": [
+            6,
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 12时13分]"
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 15时39分]"
         },
         {
           "title": "释新闻｜特朗普再次叫停袭击背后：伊朗“有选择地扩大冲突”如何捆住美国手脚",
           "url": "https://m.thepaper.cn/newsDetail_forward_33710926",
           "source": "澎湃新闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时12分 ~ 12时13分]"
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 15时39分]"
+        },
+        {
+          "title": "美媒：因凡蒂诺向特朗普求助",
+          "url": "https://www.douyin.com/hot/2596620",
+          "source": "抖音",
+          "ranks": [
+            8,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 15时39分]"
         },
         {
           "title": "美石油巨头大发“战争财” 特朗普炮轰：赚得太多了，我不喜欢！",
           "url": "https://www.cls.cn/detail/2444718",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 15时39分]"
+        },
+        {
+          "title": "特朗普威胁对伊朗采取“斩首”行动",
+          "url": "https://www.douyin.com/hot/2596526",
+          "source": "抖音",
+          "ranks": [
+            12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时12分 ~ 12时13分]"
+          "time_info": "[15时38分 ~ 15时39分]"
+        },
+        {
+          "title": "美议员痛批特朗普行事反复无常",
+          "url": "https://www.toutiao.com/trending/7669578491814576137/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 15时39分]"
         },
         {
           "title": "美国总统特朗普：在“斩首”之前，希望给予伊朗最后的机会。 在伊朗问题上我不受时间限制。",
@@ -391,7 +419,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         },
@@ -564,7 +592,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "没招了？美媒爆料：美军群发邮件征集对伊朗施压想法",
@@ -589,6 +617,17 @@
           "time_info": "[08时08分 ~ 12时13分]"
         },
         {
+          "title": "伊朗：乌克兰道歉了",
+          "url": "https://www.toutiao.com/trending/7668954284482134058/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 15时39分]"
+        },
+        {
           "title": "乌袭击伊朗船只 战争扩大化风险增加",
           "url": "https://www.toutiao.com/trending/7669807189430636086/",
           "source": "今日头条",
@@ -599,6 +638,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 08时08分]"
+        },
+        {
+          "title": "高盛预计伊朗局势明朗前，布油将维持80至90美元区间",
+          "url": "https://flash.jin10.com/detail/20260804153039832800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "伊朗革命卫队称具备全面情报掌控力",
@@ -656,6 +706,17 @@
           "time_info": "04时26分"
         },
         {
+          "title": "伊朗已不再相信美国，与阿曼的磋商成当前核心",
+          "url": "https://flash.jin10.com/detail/20260804151745633800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "伊朗法尔斯通讯社：伊朗将领礼萨伊表示，在美国停止袭击行动后，我方继续打击行动两天，以此让美方认清局势。",
           "url": "https://wallstreetcn.com/livenews/3144324",
           "source": "华尔街见闻-快讯",
@@ -689,6 +750,17 @@
           "time_info": "04时26分"
         },
         {
+          "title": "伊朗总统佩泽希齐扬：伊朗将捍卫领土但不寻求继续或扩大战争",
+          "url": "https://wallstreetcn.com/livenews/3144565",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
+        },
+        {
           "title": "据沙特阿拉比亚电视台：美国与伊朗谈判取得突破的前景存在谨慎乐观情绪。关于停止军事行动以及全面开放霍尔木兹海峡相关安排，目前气氛积极。调解方需要一些时间，以就即将宣布的停火声明达成一致。",
           "url": "https://flash.jin10.com/detail/20260804034016668800",
           "source": "金十数据",
@@ -698,6 +770,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "巴基斯坦外长邀请伊朗外长尽早访巴",
+          "url": "https://wallstreetcn.com/livenews/3144563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时39分"
         },
         {
           "title": "伊朗正与阿曼就霍尔木兹海峡通航进行磋商",
@@ -794,17 +877,6 @@
       "match_count": 17,
       "titles": [
         {
-          "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
-          "url": "https://wallstreetcn.com/articles/3778526",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时25分 ~ 04时26分]"
-        },
-        {
           "title": "美股8月开门红，道指新高，亚马逊市值首破三万亿，阿里涨超4%，原油重挫",
           "url": "https://wallstreetcn.com/articles/3778526",
           "source": "华尔街见闻",
@@ -813,8 +885,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时08分 ~ 12时13分]"
+          "appearance_count": 5,
+          "time_info": "[08时08分 ~ 15时39分]"
         },
         {
           "title": "【早报】美股半导体板块，深V反弹；原油大跌、黄金微涨；事关电力，重磅规划发布",
@@ -825,8 +897,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时08分 ~ 12时13分]"
+          "appearance_count": 5,
+          "time_info": "[08时08分 ~ 15时39分]"
+        },
+        {
+          "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时25分 ~ 04时26分]"
         },
         {
           "title": "美股收盘：三大指数全线走高纳指涨逾2% 美伊局势缓和提振风险偏好",
@@ -979,7 +1062,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时13分"
         }
@@ -987,8 +1070,23 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
+        {
+          "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
+          "url": "https://www.zhihu.com/question/2067545767003120313",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5,
+            2,
+            3,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时50分 ~ 15时39分]"
+        },
         {
           "title": "DeepSeek一天消耗了8万亿",
           "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%B8%80%E5%A4%A9%E6%B6%88%E8%80%97%E4%BA%868%E4%B8%87%E4%BA%BF&t=31&band_rank=1&Refer=top",
@@ -999,20 +1097,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时25分 ~ 08时08分]"
-        },
-        {
-          "title": "为什么大家都说 DeepSeek 已经成为大模型的「斩杀线」？",
-          "url": "https://www.zhihu.com/question/2067545767003120313",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时50分 ~ 12时13分]"
         },
         {
           "title": "DeepSeek 斩杀线",
@@ -1053,6 +1137,18 @@
           "time_info": "[00时25分 ~ 08时08分]"
         },
         {
+          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
+          "url": "https://www.zhihu.com/question/2067873642554156045",
+          "source": "知乎",
+          "ranks": [
+            16,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时12分 ~ 15时39分]"
+        },
+        {
           "title": "DeepSeek模型单日吞下8万亿Token",
           "url": "https://www.toutiao.com/trending/7669679149316836902/",
           "source": "今日头条",
@@ -1088,15 +1184,15 @@
           "time_info": "[12时12分 ~ 12时13分]"
         },
         {
-          "title": "OpenCode 发文称 DeepSeek 单日吞下 8 万亿 Token，传递出哪些信号？",
-          "url": "https://www.zhihu.com/question/2067873642554156045",
-          "source": "知乎",
+          "title": "Codex直连DeepSeek堪称国模之王",
+          "url": "https://s.weibo.com/weibo?q=Codex%E7%9B%B4%E8%BF%9EDeepSeek%E5%A0%AA%E7%A7%B0%E5%9B%BD%E6%A8%A1%E4%B9%8B%E7%8E%8B&t=31&band_rank=19&Refer=top",
+          "source": "微博",
           "ranks": [
-            16
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时12分 ~ 12时13分]"
+          "time_info": "[15时38分 ~ 15时39分]"
         },
         {
           "title": "OpenAI等巨头大幅降价对标DeepSeek",
@@ -1108,6 +1204,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[12时12分 ~ 12时13分]"
+        },
+        {
+          "title": "印韩宣称研发出媲美DeepSeek大模型",
+          "url": "https://www.toutiao.com/trending/7668966154531143707/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 15时39分]"
         }
       ]
     },
@@ -1122,11 +1229,12 @@
           "ranks": [
             7,
             9,
-            13
+            13,
+            17
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时25分 ~ 12时13分]"
+          "appearance_count": 9,
+          "time_info": "[00时25分 ~ 15时39分]"
         },
         {
           "title": "OpenAI：我们下一代主要模型的一个内部版本，在数学和理论计算机科学领域长期未解决的开放问题上取得了10项新成果，所使用的计算成本约为按照GPT-5.6 Sol API费率计算的2000美元token费用。 我们将发布这些手稿、正式的Lean证明证书以及推理过程说明，供数学家们审查这些结果，并在相关研究思路基础上进一步发展。 这些成果涵盖球体堆积、编码理论、群论、量子复杂性、格密码学、极值组合学等领域。其中包括：证明非sofic群的存在性，以及对高维球体堆积界限取得指数级改进。",
@@ -1181,6 +1289,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "罕见干预操作！贝森特抛欧元、指示美联储“借钱”，让日本“别抛美债”，市场担心“套利交易逆转”",
+          "url": "https://wallstreetcn.com/articles/3778620",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时38分 ~ 15时39分]"
+        },
+        {
+          "title": "“沉睡巨人”正在苏醒：30万亿美债市场暗流涌动，美股还能撑多久？",
+          "url": "https://flash.jin10.com/detail/20260804113530933800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "12时13分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -1209,19 +1345,19 @@
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "“沉睡巨人”正在苏醒：30万亿美债市场暗流涌动，美股还能撑多久？",
-          "url": "https://flash.jin10.com/detail/20260804113530933800",
+          "title": "金十图示：2026年08月04日（周二）上海金午盘价为883.88元/克，较国际金价(881.73元/克)，高2.15元/克",
+          "url": "https://flash.jin10.com/detail/20260804151647835800",
           "source": "金十数据",
           "ranks": [
-            4
+            19
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时13分"
+          "time_info": "15时39分"
         }
       ]
     }
