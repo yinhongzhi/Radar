@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-07T21:00:52.654754+08:00",
-  "total_titles_processed": 1388,
+  "generated_at": "2026-08-07T22:16:36.957318+08:00",
+  "total_titles_processed": 1502,
   "failed_sources": [],
   "trends": [
     {
@@ -28,11 +28,12 @@
             9,
             8,
             6,
-            4
+            4,
+            7
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[12时53分 ~ 21时00分]"
+          "appearance_count": 12,
+          "time_info": "[12时53分 ~ 22时16分]"
         },
         {
           "title": "特朗普签署行政令，宣布加征关税",
@@ -370,8 +371,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[16时12分 ~ 21时00分]"
+          "appearance_count": 9,
+          "time_info": "[16时12分 ~ 22时16分]"
         },
         {
           "title": "DeepSeek宣布大幅涨价，业内人士预计V4 Pro正式版即将发布",
@@ -419,6 +420,18 @@
           "time_info": "07时57分"
         },
         {
+          "title": "梁文锋 只想用座机",
+          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA",
+          "source": "百度热搜",
+          "ranks": [
+            14,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时59分 ~ 22时16分]"
+        },
+        {
           "title": "DeepSeek涨价，国产大模型\"免费午餐\"到头了！",
           "url": "https://wallstreetcn.com/articles/3778849",
           "source": "华尔街见闻",
@@ -455,17 +468,6 @@
           "time_info": "[07时57分 ~ 10时43分]"
         },
         {
-          "title": "梁文锋 只想用座机",
-          "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B+%E5%8F%AA%E6%83%B3%E7%94%A8%E5%BA%A7%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时59分 ~ 21时00分]"
-        },
-        {
           "title": "DeepSeek官宣涨价，且“幅度较大”！",
           "url": "https://wallstreetcn.com/articles/3778814",
           "source": "华尔街见闻",
@@ -490,8 +492,162 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
+          "url": "https://wallstreetcn.com/articles/3778821",
+          "source": "华尔街见闻",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 14,
+          "time_info": "[07时57分 ~ 22时16分]"
+        },
+        {
+          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
+          "url": "https://www.cls.cn/detail/2448354",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[18时01分 ~ 22时16分]"
+        },
+        {
+          "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
+          "url": "https://www.cls.cn/detail/2447905",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时57分 ~ 14时08分]"
+        },
+        {
+          "title": "美股盘前，存储概念股小幅走高，闪迪、西部数据涨超2%，光通信概念股走高，Coherent涨近5%，Lumentum涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3146560",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时13分"
+        },
+        {
+          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2448784",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
+          "url": "https://www.cls.cn/detail/2448478",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时59分 ~ 22时16分]"
+        },
+        {
+          "title": "非农爆冷打击加息预期，美股高开，光通信概念股普涨，光模块制造商AAOI涨超12%，现货黄金突破4350",
+          "url": "https://wallstreetcn.com/articles/3778924",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "美国7月非农超预期下降，美股三大股指集体高开",
+          "url": "https://wallstreetcn.com/livenews/3146763",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览",
+          "url": "https://flash.jin10.com/detail/20260807214234632800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
+          "title": "美股三大指数集体收跌",
+          "url": "https://www.douyin.com/hot/2600354",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时43分"
+        },
+        {
+          "title": "美股光通信股AAOI盘前涨超15%，公司管理层在业绩电话会上释放积极信号，表示AI基础设施需求强劲，客户需求较其当前供应能力高出约20%至40%。",
+          "url": "https://wallstreetcn.com/livenews/3146603",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "18时02分"
+        },
+        {
+          "title": "美股三大指数集体收跌 西数跌超13%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E8%A5%BF%E6%95%B0%E8%B7%8C%E8%B6%8513%25",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时57分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3146757",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "以情报高官疑因伊朗行动失败被解职",
@@ -502,8 +658,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时01分 ~ 21时00分]"
+          "appearance_count": 7,
+          "time_info": "[18时01分 ~ 22时16分]"
         },
         {
           "title": "伊朗公布霍尔木兹海峡管理草案 国际油价大幅走高",
@@ -517,6 +673,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[07时57分 ~ 14时08分]"
+        },
+        {
+          "title": "伊朗最高领袖给总统下了“最后警告”？",
+          "url": "https://news.ifeng.com/c/8vOzr19CfFi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "伊朗称与阿曼接近达成协议，海峡现有两条航道将关闭，“收费标准”仍是核心分歧",
@@ -575,6 +742,17 @@
           "time_info": "07时57分"
         },
         {
+          "title": "以媒：未落实更迭伊朗政权计划 摩萨德高官被解职",
+          "url": "https://wallstreetcn.com/livenews/3146751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
+        },
+        {
           "title": "伊朗霍尔木兹法案拟禁止美以船只通行，美国拒绝任何“阻碍”",
           "url": "https://flash.jin10.com/detail/20260807070032047800",
           "source": "金十数据",
@@ -610,107 +788,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "非农与美伊协议落地前市场谨慎，存储芯片股领跌美股，西部数据跌13%，原油走强",
-          "url": "https://wallstreetcn.com/articles/3778821",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时57分 ~ 21时00分]"
-        },
-        {
-          "title": "美股光模块黑马计划大幅扩产 全力押注800G、1.6T产品",
-          "url": "https://www.cls.cn/detail/2448354",
-          "source": "财联社热门",
-          "ranks": [
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[18时01分 ~ 21时00分]"
-        },
-        {
-          "title": "美股收盘：三大股指小幅收跌 投资者关注中东谈判与企业财报",
-          "url": "https://www.cls.cn/detail/2447905",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时57分 ~ 14时08分]"
-        },
-        {
-          "title": "美股盘前，存储概念股小幅走高，闪迪、西部数据涨超2%，光通信概念股走高，Coherent涨近5%，Lumentum涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3146560",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时13分"
-        },
-        {
-          "title": "韩股跌倒，美股吃饱！“受伤”的韩国散户大军重返华尔街怀抱",
-          "url": "https://www.cls.cn/detail/2448478",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时59分 ~ 21时00分]"
-        },
-        {
-          "title": "美股三大指数集体收跌",
-          "url": "https://www.douyin.com/hot/2600354",
-          "source": "抖音",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时43分"
-        },
-        {
-          "title": "美股光通信股AAOI盘前涨超15%，公司管理层在业绩电话会上释放积极信号，表示AI基础设施需求强劲，客户需求较其当前供应能力高出约20%至40%。",
-          "url": "https://wallstreetcn.com/livenews/3146603",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时02分"
-        },
-        {
-          "title": "美股三大指数集体收跌 西数跌超13%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%9B%86%E4%BD%93%E6%94%B6%E8%B7%8C+%E8%A5%BF%E6%95%B0%E8%B7%8C%E8%B6%8513%25",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时57分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "为什么 Jeff Dean 从 Google 离职引起这么大的轰动？",
@@ -733,6 +812,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时43分"
+        },
+        {
+          "title": "核心团队跑路,Gemini陷大危机",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
+          "source": "贴吧",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         },
         {
           "title": "新闻蒸馏器丨谷歌AI大改组：诺奖得主卸任日常管理，元老率核心人员出走创业",
@@ -814,7 +904,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
         },
@@ -825,9 +915,26 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时00分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "北美科技软件股指数ETF涨超2.7%，报102.34美元，逼近8月5日盘中最高位103.72美元和6月1日顶部108.03美元。",
+          "url": "https://wallstreetcn.com/livenews/3146770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时16分"
         }
       ]
     }
