@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-10T13:25:43.989075+08:00",
-  "total_titles_processed": 944,
+  "generated_at": "2026-08-10T15:38:33.291159+08:00",
+  "total_titles_processed": 1110,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 30,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗婉转回应最高领袖病危传闻",
@@ -53,11 +53,12 @@
             2,
             27,
             25,
-            17
+            17,
+            10
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时33分 ~ 13时25分]"
+          "appearance_count": 13,
+          "time_info": "[00时33分 ~ 15时38分]"
         },
         {
           "title": "伊朗最高领袖与总统会谈",
@@ -78,8 +79,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时41分 ~ 13时25分]"
+          "appearance_count": 4,
+          "time_info": "[09时41分 ~ 15时38分]"
         },
         {
           "title": "俄媒称伊朗布什尔核电站新机组建设仍在继续",
@@ -121,6 +122,17 @@
           "time_info": "09时41分"
         },
         {
+          "title": "伊朗密集更换高层，释放何种信号？",
+          "url": "https://news.ifeng.com/c/8vTT2C4rKru",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "关键时刻，伊朗突然换帅！革命卫队强硬派老将接掌最高安全机构",
           "url": "https://flash.jin10.com/detail/20260810090543144800",
           "source": "金十数据",
@@ -157,6 +169,17 @@
           "time_info": "[02时38分 ~ 05时31分]"
         },
         {
+          "title": "伊朗的5个条件，美国是否会照单全收？",
+          "url": "https://news.ifeng.com/c/8vTVeZD1iIn",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "伊朗公布美军基地遭袭前后最新卫星对比图",
           "url": "https://flash.jin10.com/detail/20260810063550783800",
           "source": "金十数据",
@@ -166,6 +189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时30分"
+        },
+        {
+          "title": "伊朗外交部发言人：（就麦加防御协定回应称）过去三年间，地区各国已意识到，安全绝非是可以从欺诈性中间商那里购买的商品。任何基于现实、正确识别敌人与威胁的计划，都有助于维护地区安全，并防止以色列制造动荡。",
+          "url": "https://flash.jin10.com/detail/20260810152449467800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗商会会长表示，私营部门已准备好运用其观点和能力来设计相关机制，以巩固任何潜在协议对国家的经济利益，并保护其经济成果。他强调，各国之间健康、平衡的经济联系和共同利益越深厚，回归紧张局势的成本就越高。",
@@ -205,6 +239,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时31分 ~ 06时29分]"
+        },
+        {
+          "title": "美军基地遭袭，伊朗公布最新卫星对比图",
+          "url": "https://news.ifeng.com/c/8vT6dxUIQom",
+          "source": "凤凰网",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时41分 ~ 15时38分]"
         },
         {
           "title": "伊朗议会议长卡利巴夫：伊斯兰体制正处于历史上最关键的时刻之一，在地区和全球安全与稳定中发挥着无可替代的作用。",
@@ -273,17 +319,6 @@
           "time_info": "[01时31分 ~ 04时31分]"
         },
         {
-          "title": "美军基地遭袭，伊朗公布最新卫星对比图",
-          "url": "https://news.ifeng.com/c/8vT6dxUIQom",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时41分 ~ 13时25分]"
-        },
-        {
           "title": "伊朗陆军司令称部队全面战备，警告美军勿踏足伊朗领土",
           "url": "https://flash.jin10.com/detail/20260809234510218800",
           "source": "金十数据",
@@ -320,6 +355,17 @@
           "time_info": "[00时33分 ~ 00时34分]"
         },
         {
+          "title": "伊朗外交部发言人：我们呼吁地区各国在没有外部势力介入的情况下加强关系、增进互信并维护安全。",
+          "url": "https://flash.jin10.com/detail/20260810152044806800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "伊朗高层重要人事变动",
           "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E9%AB%98%E5%B1%82%E9%87%8D%E8%A6%81%E4%BA%BA%E4%BA%8B%E5%8F%98%E5%8A%A8%23&t=31&band_rank=20&Refer=top",
           "source": "微博",
@@ -337,7 +383,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -378,7 +424,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
         {
           "title": "与特朗普关联的美石油公司拟在格陵兰岛钻探，岛政府强烈警告",
@@ -390,8 +436,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[01时31分 ~ 13时25分]"
+          "appearance_count": 11,
+          "time_info": "[01时31分 ~ 15时38分]"
         },
         {
           "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
@@ -468,6 +514,19 @@
           "time_info": "11时55分"
         },
         {
+          "title": "特朗普这是此地无银三百两吗？",
+          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时41分 ~ 15时38分]"
+        },
+        {
           "title": "前美国安全官员警告：特朗普正按“独裁者剧本”行事，美国安全堪忧",
           "url": "https://flash.jin10.com/detail/20260810030225732800",
           "source": "金十数据",
@@ -494,19 +553,6 @@
           "time_info": "[03时32分 ~ 05时31分]"
         },
         {
-          "title": "特朗普这是此地无银三百两吗？",
-          "url": "https://news.ifeng.com/c/8vT8RYkNUYi",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时41分 ~ 13时25分]"
-        },
-        {
           "title": "2架飞机靠近特朗普高尔夫俱乐部，F-16出动拦截",
           "url": "https://news.ifeng.com/c/8vT4r6JlFq0",
           "source": "凤凰网",
@@ -515,8 +561,19 @@
             8
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时41分 ~ 15时38分]"
+        },
+        {
+          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
+          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时41分 ~ 13时25分]"
+          "time_info": "[11时55分 ~ 15时38分]"
         },
         {
           "title": "F-16拦截特朗普高尔夫俱乐部附近两架违规飞机",
@@ -529,17 +586,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时31分 ~ 05时31分]"
-        },
-        {
-          "title": "美媒焦虑：特朗普这招伤不了中国，买单的将是盟友和自己",
-          "url": "https://news.ifeng.com/c/8vTIjJmGwAk",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 13时25分]"
         },
         {
           "title": "美国总统特朗普：自9月1日起，威尔·沙夫将接替大卫·沃灵顿，成为总统助理兼白宫法律顾问。",
@@ -566,13 +612,24 @@
           "time_info": "[00时34分 ~ 01时31分]"
         },
         {
+          "title": "新闻蒸馏器｜内塔尼亚胡公开拒绝美国15点加沙计划，与特朗普罕见摊牌",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33750452",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
           "title": "内塔尼亚胡算了一笔账：惹怒特朗普，竟成他眼下“最不坏的选择”",
           "url": "https://flash.jin10.com/detail/20260810123837709800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -586,6 +643,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时41分"
+        },
+        {
+          "title": "前美国官员：特朗普使美国安全恶化",
+          "url": "https://www.toutiao.com/trending/7671249968112173098/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
         },
         {
           "title": "美媒：美官员称特朗普耐心应对伊朗僵局，重点聚焦海峡通航",
@@ -605,7 +673,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
         },
@@ -638,6 +706,19 @@
           "time_info": "[00时33分 ~ 09时41分]"
         },
         {
+          "title": "一边买黄金，一边买美股",
+          "url": "https://wallstreetcn.com/articles/3779012",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[03时32分 ~ 15时38分]"
+        },
+        {
           "title": "环球下周看点：美股创新高后迎关键考验 7月通胀数据或决定美联储9月政策走向",
           "url": "https://www.cls.cn/detail/2449177",
           "source": "财联社热门",
@@ -648,18 +729,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时33分 ~ 09时41分]"
-        },
-        {
-          "title": "一边买黄金，一边买美股",
-          "url": "https://wallstreetcn.com/articles/3779012",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[03时32分 ~ 13时25分]"
         },
         {
           "title": "美股股指期货周一开盘涨跌不一，纳指期货涨0.16%，道指期货跌0.14%。",
@@ -680,9 +749,37 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "黄金看涨期权有押有撤，分歧之下金价是否还有突破空间？——增强版同步发布！",
+          "url": "https://flash.jin10.com/detail/20260810151012200800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时38分"
+        },
+        {
+          "title": "金十图示：2026年08月10日（周一）上海金早盘价为938.76元/克，较国际金价(936.92元/克)，高1.84元/克",
+          "url": "https://flash.jin10.com/detail/20260810110224681800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时55分"
         }
       ]
     },
@@ -696,28 +793,12 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时55分 ~ 13时25分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年08月10日（周一）上海金早盘价为938.76元/克，较国际金价(936.92元/克)，高1.84元/克",
-          "url": "https://flash.jin10.com/detail/20260810110224681800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时55分"
+          "appearance_count": 3,
+          "time_info": "[11时55分 ~ 15时38分]"
         }
       ]
     },
