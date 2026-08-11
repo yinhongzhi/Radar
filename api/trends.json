@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T21:02:08.080928+08:00",
-  "total_titles_processed": 1803,
+  "generated_at": "2026-08-11T22:24:05.220923+08:00",
+  "total_titles_processed": 1918,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 67,
+      "match_count": 69,
       "titles": [
         {
           "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
@@ -16,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时38分 ~ 21时02分]"
+          "appearance_count": 13,
+          "time_info": "[09时38分 ~ 22时24分]"
         },
         {
           "title": "伊朗最高领袖调整6名军方高层，美媒：德黑兰发出了信号",
@@ -28,8 +28,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时43分 ~ 21时02分]"
+          "appearance_count": 12,
+          "time_info": "[11时43分 ~ 22时24分]"
         },
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -51,8 +51,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时38分 ~ 21时02分]"
+          "appearance_count": 13,
+          "time_info": "[09时38分 ~ 22时24分]"
         },
         {
           "title": "伊朗的5个条件，美国是否会照单全收？",
@@ -118,7 +118,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -143,17 +143,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时38分"
-        },
-        {
-          "title": "伊朗外长：伊朗让美国幻想破灭",
-          "url": "https://wallstreetcn.com/livenews/3148079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
         },
         {
           "title": "市场消息：伊朗最高领袖任命阿卜杜拉希（Abdollahi）为武装部队总参谋长。",
@@ -265,6 +254,18 @@
           "time_info": "[04时41分 ~ 05时40分]"
         },
         {
+          "title": "伊朗外长：伊朗让美国幻想破灭",
+          "url": "https://wallstreetcn.com/livenews/3148079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时24分]"
+        },
+        {
           "title": "伊朗“圣城旅”指挥官到访巴格达 同伊拉克多方会晤",
           "url": "https://flash.jin10.com/detail/20260811045926051800",
           "source": "金十数据",
@@ -287,6 +288,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[19时43分 ~ 21时02分]"
+        },
+        {
+          "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
+          "url": "https://www.zhihu.com/question/2070450417981469090",
+          "source": "知乎",
+          "ranks": [
+            20,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时01分 ~ 22时24分]"
         },
         {
           "title": "伊朗更强硬的强硬派来了",
@@ -350,6 +363,18 @@
           "time_info": "[05时40分 ~ 06时36分]"
         },
         {
+          "title": "美国向一艘破坏其对伊朗封锁的船只开火。 美国周二早间向一艘悬挂巴拿马旗帜的船只开火。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3148075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时24分]"
+        },
+        {
           "title": "伊朗最高领袖将任命数名高级军事指挥官",
           "url": "https://wallstreetcn.com/livenews/3147590",
           "source": "华尔街见闻-快讯",
@@ -360,17 +385,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时01分 ~ 01时03分]"
-        },
-        {
-          "title": "伊朗高层近期密集调整军政核心职位，是出于哪些考虑？向外界传递了怎样的信息？",
-          "url": "https://www.zhihu.com/question/2070450417981469090",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
           "title": "伊朗警告乌克兰：不赔偿就动手",
@@ -418,15 +432,15 @@
           "time_info": "01时03分"
         },
         {
-          "title": "美国向一艘破坏其对伊朗封锁的船只开火。 美国周二早间向一艘悬挂巴拿马旗帜的船只开火。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3148075",
+          "title": "美官员称美军向一艘与伊朗有关的船只开火",
+          "url": "https://wallstreetcn.com/livenews/3148109",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时02分"
+          "time_info": "22时24分"
         },
         {
           "title": "伊朗最高国家安全委员会：伊朗处于历史转折点 对威胁“零容忍”",
@@ -435,7 +449,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -446,7 +460,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -457,7 +471,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -512,7 +526,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -581,6 +595,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时06分"
+        },
+        {
+          "title": "报道：巴基斯坦内政部长将于数小时内抵达伊朗举行会谈",
+          "url": "https://wallstreetcn.com/livenews/3148092",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "伊朗副外长：地区近期的事态发展，特别是犹太复国主义政权和美国最近对伊朗发动的军事行动及其后续影响，再次使里海的地缘政治和战略重要性变得更加凸显。这突显了这片水域在沿岸国家战略考量及区域关系中的地位。",
@@ -710,7 +735,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -773,7 +798,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 57,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -799,6 +824,17 @@
           "time_info": "[00时01分 ~ 07时34分]"
         },
         {
+          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[15时05分 ~ 22时24分]"
+        },
+        {
           "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
           "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
           "source": "凤凰网",
@@ -822,17 +858,6 @@
           "time_info": "[00时01分 ~ 09时38分]"
         },
         {
-          "title": "外媒曝出重大消息：特朗普放弃对伊朗的头号要求",
-          "url": "https://news.ifeng.com/c/8vUFosuJumv",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时05分 ~ 21时02分]"
-        },
-        {
           "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
           "url": "https://wallstreetcn.com/articles/3779107",
           "source": "华尔街见闻",
@@ -844,8 +869,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时38分 ~ 21时02分]"
+          "appearance_count": 13,
+          "time_info": "[09时38分 ~ 22时24分]"
         },
         {
           "title": "特朗普称要向伊朗索赔",
@@ -882,6 +907,17 @@
           "time_info": "[09时38分 ~ 19时43分]"
         },
         {
+          "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
+          "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[21时01分 ~ 22时24分]"
+        },
+        {
           "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
           "url": "https://news.ifeng.com/c/8vUFosuJumv",
           "source": "凤凰网",
@@ -892,17 +928,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时38分 ~ 13时07分]"
-        },
-        {
-          "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
-          "url": "https://news.ifeng.com/c/8vVVzg0SEzI",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时01分 ~ 21时02分]"
         },
         {
           "title": "释疑｜总在开盘前喊停？从两万五千条交易数据，看特朗普投资“玄学”",
@@ -960,6 +985,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普谈及伊朗时表示，“如果我没有那样做，他们现在就已经拥有核武器了，而你们现在就要称呼他们为‘先生’了。”",
+          "url": "https://flash.jin10.com/detail/20260811220134990800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "美国总统特朗普：我和内塔尼亚胡之间的关系非常好。",
@@ -1212,6 +1248,28 @@
           "time_info": "16时54分"
         },
         {
+          "title": "特朗普：伊朗喜欢耍花招 当面一套背后一套",
+          "url": "https://flash.jin10.com/detail/20260811215734286800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普表示，伊朗人在会谈中和美方达成一致，却在媒体上否认，这是在“耍我们”。",
+          "url": "https://flash.jin10.com/detail/20260811215644799800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "特朗普：自从沃什接任美联储主席以来，和他谈过一次",
           "url": "https://wallstreetcn.com/livenews/3147674",
           "source": "华尔街见闻-快讯",
@@ -1234,6 +1292,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "市场消息：美国总统特朗普表示，伊朗经济正处于混乱状态。",
+          "url": "https://flash.jin10.com/detail/20260811215616874800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "美国总统特朗普：伊朗要求对过去五个月军事冲突中对其造成的损失进行赔偿。我同样要求伊朗赔偿。已指示我的代表们在未来的任何谈判中，都要坚定地提出这一点。",
           "url": "https://flash.jin10.com/detail/20260811003419512800",
           "source": "金十数据",
@@ -1245,6 +1314,17 @@
           "time_info": "01时03分"
         },
         {
+          "title": "市场消息：美国总统特朗普表示，对伊朗的谈判风格感到沮丧。",
+          "url": "https://flash.jin10.com/detail/20260811215605322800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "特朗普称自沃什履新以来仅与其短暂交谈一次 否认频繁沟通",
           "url": "https://flash.jin10.com/detail/20260811042819105800",
           "source": "金十数据",
@@ -1254,6 +1334,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普表示，这场战争是为了防止伊朗拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260811215523547800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普表示，如果不打击伊朗，它就会获得核武器。",
+          "url": "https://flash.jin10.com/detail/20260811215458970800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "美国总统特朗普：武器化基金的未来将由司法部长布兰奇决定。",
@@ -1276,6 +1378,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时40分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普称油价比拜登执政时期还要低。",
+          "url": "https://flash.jin10.com/detail/20260811215433247800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）我们仍然有能力升级（战争）。美国将要求伊朗赔偿造成的损失。",
@@ -1347,7 +1460,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 22,
+      "match_count": 28,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -1357,8 +1470,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时38分 ~ 21时02分]"
+          "appearance_count": 13,
+          "time_info": "[09时38分 ~ 22时24分]"
         },
         {
           "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
@@ -1410,24 +1523,13 @@
           "time_info": "[06时36分 ~ 07时34分]"
         },
         {
-          "title": "周二美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3148081",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时02分"
-        },
-        {
           "title": "金十数据整理：每日美股市场要闻速递（2026-08-11）",
           "url": "https://flash.jin10.com/detail/20260811204047451800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -1471,6 +1573,29 @@
           "time_info": "[04时41分 ~ 06时36分]"
         },
         {
+          "title": "周二美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3148081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时02分 ~ 22时24分]"
+        },
+        {
+          "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股高开，存储芯片股普涨，黄金小幅上涨",
+          "url": "https://wallstreetcn.com/articles/3779161",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
+        },
+        {
           "title": "巴基斯坦称美伊“接近达成”协议，油价应声跳水，美股期指走高，黄金冲高回落",
           "url": "https://wallstreetcn.com/articles/3779161",
           "source": "华尔街见闻",
@@ -1504,6 +1629,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时41分 ~ 05时40分]"
+        },
+        {
+          "title": "中东局势峰回路转 AI撑起美股罕见业绩增速 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2451601",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时23分 ~ 22时24分]"
         },
         {
           "title": "美股收盘：芯片股、光通信概念重挫",
@@ -1573,13 +1709,57 @@
           "time_info": "04时41分"
         },
         {
+          "title": "美股盘初，主要行业ETF多数上涨，半导体ETF涨超1%，公用事业ETF、全球航空业ETF涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3148104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.2%，英伟达涨约2%，存储芯片股普涨",
+          "url": "https://wallstreetcn.com/livenews/3148099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "瑞士央行的美股持仓创新高 前三大持股为英伟达、苹果和微软",
+          "url": "https://wallstreetcn.com/livenews/3148091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
+          "title": "英伟达美股盘前涨近2%，报道称英伟达正在开发开源AI模型Nemotron 4",
+          "url": "https://wallstreetcn.com/livenews/3148090",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时24分"
+        },
+        {
           "title": "Beyond Meat美股盘前一度跌近21%，公司董事会批准按1:30比例进行反向股票分割",
           "url": "https://wallstreetcn.com/livenews/3148059",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -1590,7 +1770,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         },
@@ -1601,7 +1781,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时02分"
         }
