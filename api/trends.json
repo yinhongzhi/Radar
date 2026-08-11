@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-11T07:34:10.307270+08:00",
-  "total_titles_processed": 682,
+  "generated_at": "2026-08-11T09:38:54.736272+08:00",
+  "total_titles_processed": 859,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 37,
+      "match_count": 41,
       "titles": [
         {
           "title": "还剩85天，特朗普全面收缩，伊朗左冲右突",
@@ -39,8 +39,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时01分 ~ 07时34分]"
+          "appearance_count": 11,
+          "time_info": "[00时01分 ~ 09时38分]"
         },
         {
           "title": "特朗普称要向伊朗索赔",
@@ -96,9 +96,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
+        },
+        {
+          "title": "“特朗普关联”石油公司擅运钻探设备上岛，格陵兰强烈警告",
+          "url": "https://news.ifeng.com/c/8vUAxbsrTSq",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "外媒曝出惊人消息：特朗普放弃对伊朗的头号要求",
+          "url": "https://news.ifeng.com/c/8vUFosuJumv",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         },
         {
           "title": "美国总统特朗普：我和内塔尼亚胡之间的关系非常好。",
@@ -303,6 +325,28 @@
           "time_info": "01时03分"
         },
         {
+          "title": "伊朗密集换将，特朗普提“索赔”，美伊协议“希望渺茫”？",
+          "url": "https://wallstreetcn.com/articles/3779107",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "特朗普：美军已100%控制霍尔木兹海峡",
+          "url": "https://news.ifeng.com/c/8vUfcNGWBFb",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
           "title": "特朗普：自从沃什接任美联储主席以来，和他谈过一次",
           "url": "https://wallstreetcn.com/livenews/3147674",
           "source": "华尔街见闻-快讯",
@@ -386,7 +430,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -438,7 +482,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "伊朗最高安全官员换人，雷扎伊何许人也？",
@@ -474,6 +518,28 @@
           "time_info": "[07时33分 ~ 07时34分]"
         },
         {
+          "title": "结束会晤后，伊朗总统透露最高领袖身体状况",
+          "url": "https://news.ifeng.com/c/8vUfY9eJoTT",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "伊朗最高领袖签署命令：6人任高级军事指挥官",
+          "url": "https://news.ifeng.com/c/8vUC8C2pHLn",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
           "title": "伊朗最高领袖对武装部队进行新任命",
           "url": "https://wallstreetcn.com/livenews/3147599",
           "source": "华尔街见闻-快讯",
@@ -483,6 +549,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时01分"
+        },
+        {
+          "title": "只闻其事不见其人，伊朗最高领袖为何“隐身”？",
+          "url": "https://v.ifeng.com/c/8vU8lHyEo4N",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         },
         {
           "title": "市场消息：伊朗最高领袖任命阿卜杜拉希（Abdollahi）为武装部队总参谋长。",
@@ -608,6 +685,17 @@
           "time_info": "[00时01分 ~ 01时03分]"
         },
         {
+          "title": "伊朗更强硬的强硬派来了",
+          "url": "https://news.ifeng.com/c/8vUncUovk9A",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
           "title": "市场消息：伊朗最高领袖任命六名新军事指挥官。",
           "url": "https://flash.jin10.com/detail/20260810233716507800",
           "source": "金十数据",
@@ -628,6 +716,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时03分"
+        },
+        {
+          "title": "伊朗总统称最高领袖健康状况很好",
+          "url": "https://www.toutiao.com/trending/7672040770148417546/",
+          "source": "今日头条",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         },
         {
           "title": "巴基斯坦外交部：伊朗外长同巴基斯坦外长讨论地区与国际局势。 双方就地区及国际事态交换看法，重点围绕地区局势演变以及维护和平稳定的各项努力。 巴外长与阿拉格齐复盘巴、土、沙三方《麦加协议》的各项条款，并着重强调该协议对促进地区和平安全的目标。",
@@ -963,7 +1062,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美股开盘三大指数下挫，纳指跌0.1%，英特尔跌约3%，霍尔木兹谈判僵局推升油价，黄金维持高位",
@@ -994,11 +1093,35 @@
           "source": "财联社热门",
           "ranks": [
             8,
-            3
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[06时36分 ~ 09时38分]"
+        },
+        {
+          "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
+          "url": "https://wallstreetcn.com/articles/3779052",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
+          "url": "https://www.cls.cn/detail/2450678",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[06时36分 ~ 07时34分]"
+          "time_info": "[07时33分 ~ 09时38分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，布油基金涨约6.8%",
@@ -1038,17 +1161,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时41分 ~ 06时36分]"
-        },
-        {
-          "title": "【早报】美股芯片股大跌；中概股逆势走强；原油飙升、黄金收涨；A股又一波回购潮来了",
-          "url": "https://www.cls.cn/detail/2450678",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时33分 ~ 07时34分]"
         },
         {
           "title": "金十图示：2026年08月10日（周一）美股热门股票行情一览（美股收盘）",
@@ -1196,7 +1308,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时34分"
         },
@@ -1210,6 +1322,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时55分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价即将发布的 DeepSeek-V4 Pro 正式版，可能会有哪些亮点？",
+          "url": "https://www.zhihu.com/question/2067921583944085650",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         }
       ]
     },
