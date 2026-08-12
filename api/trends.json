@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-12T22:56:48.878239+08:00",
-  "total_titles_processed": 1806,
+  "generated_at": "2026-08-12T23:59:16.844670+08:00",
+  "total_titles_processed": 1884,
   "failed_sources": [],
   "trends": [
     {
@@ -174,6 +174,18 @@
           "time_info": "[09时49分 ~ 14时14分]"
         },
         {
+          "title": "伊朗：目前使用武器都是自主研发的",
+          "url": "https://www.toutiao.com/trending/7672229042539888694/",
+          "source": "今日头条",
+          "ranks": [
+            18,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时56分 ~ 23时59分]"
+        },
+        {
           "title": "美国预计伊朗战争造成的石油供应受阻将持续到2027年底",
           "url": "https://wallstreetcn.com/livenews/3148203",
           "source": "华尔街见闻-快讯",
@@ -333,17 +345,6 @@
           "time_info": "01时07分"
         },
         {
-          "title": "伊朗：目前使用武器都是自主研发的",
-          "url": "https://www.toutiao.com/trending/7672229042539888694/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
-        },
-        {
           "title": "美国军方：该船不再违反美国封锁驶往伊朗。",
           "url": "https://flash.jin10.com/detail/20260812030104095800",
           "source": "金十数据",
@@ -383,7 +384,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -501,7 +502,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 32,
       "titles": [
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
@@ -548,30 +549,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时44分 ~ 22时56分]"
-        },
-        {
-          "title": "美国总统特朗普：伊朗只会空谈，不会采取行动。美国对霍尔木兹海峡拥有完全控制权。",
-          "url": "https://flash.jin10.com/detail/20260812223154751800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
-        },
-        {
-          "title": "特朗普：美国完全控制霍尔木兹海峡。 伊朗只会空谈，没有实际行动。 认为我们将继续完全控制霍尔木兹海峡。",
-          "url": "https://wallstreetcn.com/livenews/3148690",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
+          "appearance_count": 6,
+          "time_info": "[19时44分 ~ 23时59分]"
         },
         {
           "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
@@ -581,8 +560,42 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时44分 ~ 22时56分]"
+          "appearance_count": 6,
+          "time_info": "[19时44分 ~ 23时59分]"
+        },
+        {
+          "title": "美国总统特朗普：伊朗只会空谈，不会采取行动。美国对霍尔木兹海峡拥有完全控制权。",
+          "url": "https://flash.jin10.com/detail/20260812223154751800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时56分"
+        },
+        {
+          "title": "特朗普因计划出售Truth Social帖文快速访问权限计划遭起诉。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3148699",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
+          "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[18时02分 ~ 23时59分]"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
@@ -598,6 +611,18 @@
           "time_info": "[05时44分 ~ 07时38分]"
         },
         {
+          "title": "特朗普：美国完全控制霍尔木兹海峡。 伊朗只会空谈，没有实际行动。 认为我们将继续完全控制霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3148690",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 23时59分]"
+        },
+        {
           "title": "内塔尼亚胡硬刚特朗普，美以同盟怎么了？",
           "url": "https://news.ifeng.com/c/8vWRcaa5PNY",
           "source": "凤凰网",
@@ -607,6 +632,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[09时49分 ~ 14时14分]"
+        },
+        {
+          "title": "不满美国施加高额关税，泰国罕见亮出军事筹码威胁特朗普政府",
+          "url": "https://news.ifeng.com/c/8vXFYlujdhz",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时56分 ~ 23时59分]"
         },
         {
           "title": "中期选举脚步渐近 特朗普酝酿“大招”：据悉考虑削减资本利得税",
@@ -619,18 +655,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[16时16分 ~ 18时03分]"
-        },
-        {
-          "title": "特朗普：我要伊朗赔钱，把过去50年的账还了",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33765581",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时02分 ~ 22时56分]"
         },
         {
           "title": "美国总统特朗普：医疗补助将不再为未成年人提供性别转换手术和激素治疗的资金。",
@@ -693,15 +717,16 @@
           "time_info": "[05时44分 ~ 06时40分]"
         },
         {
-          "title": "不满美国施加高额关税，泰国罕见亮出军事筹码威胁特朗普政府",
-          "url": "https://news.ifeng.com/c/8vXFYlujdhz",
-          "source": "凤凰网",
+          "title": "特朗普考虑削减资本利得税以提升共和党支持率",
+          "url": "https://wallstreetcn.com/livenews/3148682",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            9,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 23时59分]"
         },
         {
           "title": "特朗普承认：悄悄换乘飞机了",
@@ -715,15 +740,15 @@
           "time_info": "12时07分"
         },
         {
-          "title": "特朗普考虑削减资本利得税以提升共和党支持率",
-          "url": "https://wallstreetcn.com/livenews/3148682",
+          "title": "特朗普宣称“美国完全控制着霍尔木兹海峡”",
+          "url": "https://wallstreetcn.com/livenews/3148693",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时56分"
+          "time_info": "23时59分"
         },
         {
           "title": "据加拿大广播公司新闻：加拿大、美国贸易官员正在制定潜在协议，计划下周提交给特朗普。",
@@ -768,6 +793,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普被起诉，因他计划出售快速获取旗下社交媒体“真相”帖子的权限。",
+          "url": "https://flash.jin10.com/detail/20260812230344213800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         },
         {
           "title": "特朗普谈及第三任期：我很想竞选连任，但法律很严密。",
@@ -839,7 +875,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -900,6 +936,17 @@
           "time_info": "19时44分"
         },
         {
+          "title": "美银对冲基金客户继续大买美股 单周规模创出2008年以来之最",
+          "url": "https://wallstreetcn.com/livenews/3148701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "美股期指短线拉升，纳斯达克100指数期货上涨0.7%。 美国国债上涨，美国10年期国债收益率下行3个基点至4.66%。",
           "url": "https://wallstreetcn.com/livenews/3148557",
           "source": "华尔街见闻-快讯",
@@ -924,6 +971,17 @@
           "time_info": "[05时44分 ~ 07时38分]"
         },
         {
+          "title": "美通胀温和缓解加息压力，美股高开，光通信、存储芯片股领涨，Nebius涨15%，油价震荡",
+          "url": "https://wallstreetcn.com/articles/3779257",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时58分 ~ 23时59分]"
+        },
+        {
           "title": "Coreweave(CRWV.O)美股盘后上涨10%。",
           "url": "https://flash.jin10.com/detail/20260812043909627800",
           "source": "金十数据",
@@ -946,6 +1004,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时44分 ~ 06时40分]"
+        },
+        {
+          "title": "美股存储板块大涨 SK海力士涨超7%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%AD%98%E5%82%A8%E6%9D%BF%E5%9D%97%E5%A4%A7%E6%B6%A8+SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%B6%A8%E8%B6%857%25",
+          "source": "百度热搜",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时58分 ~ 23时59分]"
         },
         {
           "title": "Firefly Aerospace二季度营收1.177亿美元，上年同期亏损0.155亿美元。 二季度调整后EBITDA亏损0.612亿美元，分析师预期亏损0.479亿美元。 二季度每股亏损0.57美元，上年同期亏损5.78美元。 Firefly美股盘后跌3.6%。",
@@ -996,6 +1065,17 @@
           "time_info": "[05时44分 ~ 06时40分]"
         },
         {
+          "title": "美股三大指数集体高开",
+          "url": "https://www.douyin.com/hot/2607617",
+          "source": "抖音",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时58分 ~ 23时59分]"
+        },
+        {
           "title": "散户观望，机构掉队！惨淡情绪下，美股即将出现新机会？",
           "url": "https://flash.jin10.com/detail/20260811230408718800",
           "source": "金十数据",
@@ -1040,6 +1120,17 @@
           "time_info": "16时16分"
         },
         {
+          "title": "市场消息：美银对冲基金客户持续加仓美股，单周买入力度创2008年以来新高。",
+          "url": "https://flash.jin10.com/detail/20260812230612614800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
+        },
+        {
           "title": "美国7月CPI数据公布后，美元指数短线走高约10点，现报99.85。现货黄金短线走低约30美元后，又迅速走高逾20美元，现报4412.38美元/盎司。美股期货短线小幅走低后又迅速走高，纳斯达克100指数期货涨幅扩大至0.9%。美国10年期国债收益率短线走高后又迅速走低，现报4.659%。",
           "url": "https://wallstreetcn.com/livenews/3148634",
           "source": "华尔街见闻-快讯",
@@ -1057,7 +1148,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -1079,7 +1170,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         }
@@ -1087,7 +1178,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "谷歌将在美洲新增三条海底光缆系统",
@@ -1114,6 +1205,18 @@
           "time_info": "[03时01分 ~ 04时03分]"
         },
         {
+          "title": "谷歌提高新款手机价格，因内存“严重”短缺",
+          "url": "https://wallstreetcn.com/livenews/3148673",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 23时59分]"
+        },
+        {
           "title": "谷歌(GOOG.O)：Gemini应用的月活跃用户超过10亿，成为谷歌历史上增长速度最快的产品。",
           "url": "https://flash.jin10.com/detail/20260812014236644800",
           "source": "金十数据",
@@ -1125,24 +1228,13 @@
           "time_info": "03时01分"
         },
         {
-          "title": "谷歌提高新款手机价格，因内存“严重”短缺",
-          "url": "https://wallstreetcn.com/livenews/3148673",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
-        },
-        {
           "title": "谷歌发布PIXEL 11、11 PRO、11 PRO XL和11 PRO折叠屏手机",
           "url": "https://wallstreetcn.com/livenews/3148672",
           "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时56分"
         },
@@ -1167,6 +1259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时44分"
+        },
+        {
+          "title": "谷歌可穿戴设备将追踪胰岛素抵抗 向全面血糖监测迈出新一步",
+          "url": "https://wallstreetcn.com/livenews/3148672",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时59分"
         }
       ]
     },
@@ -1197,11 +1300,12 @@
             12,
             11,
             7,
-            9
+            9,
+            6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[14时14分 ~ 22时56分]"
+          "appearance_count": 10,
+          "time_info": "[14时14分 ~ 23时59分]"
         },
         {
           "title": "梁文锋跻身全球最富有50人之列",
@@ -1217,6 +1321,17 @@
           "time_info": "[03时00分 ~ 07时38分]"
         },
         {
+          "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
+          "url": "https://www.zhihu.com/question/2070810807168980648",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时56分 ~ 23时59分]"
+        },
+        {
           "title": "梁文锋跻身全球最富有50人之列",
           "url": "https://www.baidu.com/s?wd=%E6%A2%81%E6%96%87%E9%94%8B%E8%B7%BB%E8%BA%AB%E5%85%A8%E7%90%83%E6%9C%80%E5%AF%8C%E6%9C%8950%E4%BA%BA%E4%B9%8B%E5%88%97",
           "source": "百度热搜",
@@ -1227,17 +1342,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时49分 ~ 12时07分]"
-        },
-        {
-          "title": "梁文锋财富一年暴涨 3850% ，跻身全球亿万富豪榜，他是如何做到的？",
-          "url": "https://www.zhihu.com/question/2070810807168980648",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
         },
         {
           "title": "Chatgpt把Deepseek当宿敌了",
@@ -1388,11 +1492,12 @@
           "url": "https://wallstreetcn.com/livenews/3148669",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            30
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时56分 ~ 23时59分]"
         },
         {
           "title": "巴克莱：美债对价格敏感型买家的依赖显著上升，料使收益率维持高位",
@@ -1429,9 +1534,9 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时56分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时56分 ~ 23时59分]"
         },
         {
           "title": "金十图示：2026年08月12日（周三）上海金早盘价为955.49元/克，较国际金价(957.21元/克)，低1.72元/克",
