@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-12T18:03:11.215876+08:00",
-  "total_titles_processed": 1414,
+  "generated_at": "2026-08-12T19:44:38.394521+08:00",
+  "total_titles_processed": 1550,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 39,
+      "match_count": 40,
       "titles": [
         {
           "title": "伊朗讽美：对制裁“病态依赖”，丧失了独立思考能力",
@@ -74,7 +74,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -85,7 +85,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -350,7 +350,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -394,7 +394,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -427,9 +427,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：（告知日本首相高市早苗）伊朗从未以任何方式违反国际法。",
+          "url": "https://flash.jin10.com/detail/20260812191548705800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：也门马里布市传出爆炸声。",
@@ -457,7 +468,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 25,
       "titles": [
         {
           "title": "特朗普称伊朗谈判代表“非常狡猾”，但美有三种策略",
@@ -489,11 +500,23 @@
           "ranks": [
             20,
             2,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时40分 ~ 18时03分]"
+          "appearance_count": 8,
+          "time_info": "[06时40分 ~ 19时44分]"
+        },
+        {
+          "title": "越权制裁国际刑事法院，特朗普被美国多家人权组织共同起诉",
+          "url": "https://news.ifeng.com/c/8vX5eliYwTC",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         },
         {
           "title": "美法官叫停美邮政局执行特朗普涉限制邮寄选票的行政令",
@@ -603,6 +626,17 @@
           "time_info": "[18时02分 ~ 18时03分]"
         },
         {
+          "title": "美国人吓坏了：伊朗知道特朗普住哪一层，还发现肩扛防空导弹",
+          "url": "https://news.ifeng.com/c/8vX4SqfjB1V",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "特朗普承认：悄悄换乘飞机了",
           "url": "https://wallstreetcn.com/livenews/3148388",
           "source": "华尔街见闻-快讯",
@@ -700,12 +734,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "据大西洋月刊：美国财长贝森特曾告诉特朗普，加强制裁可能会迫使伊朗屈服，并声称随着70%的能源运输转移到地下管道，霍尔木兹海峡将在两年内变得无关紧要。",
+          "url": "https://flash.jin10.com/detail/20260812191933612800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
+          "title": "特朗普政府将至少花费9亿美元用于白宫翻修。（华盛顿邮报）",
+          "url": "https://wallstreetcn.com/livenews/3148574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "美伊协议“希望渺茫”，油价大涨，英伟达循环融资担忧拖累美股，光通信股重挫",
@@ -755,13 +811,24 @@
           "time_info": "[07时38分 ~ 14时14分]"
         },
         {
+          "title": "文远知行第二季度净亏损4.007亿元人民币，预估亏损3.013亿元人民币。 文远知行美股盘前涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3148604",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
+        },
+        {
           "title": "美股期指短线拉升，纳斯达克100指数期货上涨0.7%。 美国国债上涨，美国10年期国债收益率下行3个基点至4.66%。",
           "url": "https://wallstreetcn.com/livenews/3148557",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
         },
@@ -988,11 +1055,12 @@
           "ranks": [
             12,
             11,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时14分 ~ 18时03分]"
+          "appearance_count": 5,
+          "time_info": "[14时14分 ~ 19时44分]"
         },
         {
           "title": "梁文锋跻身全球最富有50人之列",
@@ -1021,7 +1089,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "谷歌将在美洲新增三条海底光缆系统",
@@ -1068,6 +1136,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时01分"
+        },
+        {
+          "title": "【但斌美股持仓“大换血”】具体操作上，东方港湾海外基金清仓了苹果、三倍做多纳斯达克100ETF、特斯拉、CIRCLE INTERNET GROUP INC等6只标的。同时，其新买入英特尔、闪迪、超威半导体、迈威尔科技、Arm Holdings plc ADR、博通、Lumentum等7只标的，上述标的均为AI硬件相关公司。从整体的持仓情况来看，东方港湾美股第一大重仓股仍为谷歌-C，持仓占其组合的比重约为23%，相比一季度有所减仓。同时，东方港湾还清仓了谷歌-A及二倍做多谷歌ETF。（上证报）",
+          "url": "https://wallstreetcn.com/livenews/3148567",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         }
       ]
     },
@@ -1117,9 +1196,37 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "巴克莱：美债对价格敏感型买家的依赖显著上升，料使收益率维持高位",
+          "url": "https://wallstreetcn.com/livenews/3148186",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时01分"
+        },
+        {
+          "title": "Pimco认为美联储公信力无虞 当前美债收益率具有吸引力",
+          "url": "https://wallstreetcn.com/livenews/3148572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时44分"
         }
       ]
     },
@@ -1137,23 +1244,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "巴克莱：美债对价格敏感型买家的依赖显著上升，料使收益率维持高位",
-          "url": "https://wallstreetcn.com/livenews/3148186",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时01分"
         }
       ]
     }
