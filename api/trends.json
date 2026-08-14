@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-14T18:02:47.292552+08:00",
-  "total_titles_processed": 1429,
+  "generated_at": "2026-08-14T19:03:52.199212+08:00",
+  "total_titles_processed": 1539,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 38,
+      "match_count": 39,
       "titles": [
         {
           "title": "深度｜为逼光伏制造回流，特朗普再挥大棒：瞄准对手，反伤自身",
@@ -61,11 +61,23 @@
           "url": "https://news.ifeng.com/c/8vaHza2NSPn",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
+          "appearance_count": 3,
+          "time_info": "[18时01分 ~ 19时03分]"
+        },
+        {
+          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
+          "url": "https://www.zhihu.com/question/2070813507499643585",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时13分 ~ 19时03分]"
         },
         {
           "title": "特朗普允许美海军海外建造舰船",
@@ -135,17 +147,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时01分 ~ 06时40分]"
-        },
-        {
-          "title": "美国政府设备重新允许使用 TikTok，特朗普称其在 TikTok 上长期霸榜，靠它帮助赢下大选，如何解读？",
-          "url": "https://www.zhihu.com/question/2070813507499643585",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时13分 ~ 18时02分]"
         },
         {
           "title": "市场消息：美国总统特朗普明日将访问纽约市拿骚县警察学院。",
@@ -251,6 +252,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时40分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-14）",
+          "url": "https://flash.jin10.com/detail/20260814181940361800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "美媒：特朗普下令美海军弃用电磁弹射系统，改回蒸汽弹射",
@@ -791,11 +803,12 @@
           "source": "贴吧",
           "ranks": [
             3,
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[01时01分 ~ 18时02分]"
+          "appearance_count": 17,
+          "time_info": "[01时01分 ~ 19时03分]"
         },
         {
           "title": "DeepSeek宣布API涨价，8月17日起峰值价格最高涨至27元，新版V4 Pro正式上线",
@@ -807,8 +820,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 17,
-          "time_info": "[01时01分 ~ 18时02分]"
+          "appearance_count": 18,
+          "time_info": "[01时01分 ~ 19时03分]"
         },
         {
           "title": "DeepSeek Harness发布",
@@ -911,8 +924,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 18时02分]"
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 19时03分]"
         },
         {
           "title": "DeepSeek Harness 来了，它不想做下一个Codex",
@@ -925,8 +938,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时49分 ~ 18时02分]"
+          "appearance_count": 8,
+          "time_info": "[09时49分 ~ 19时03分]"
         },
         {
           "title": "如何看待 Deepseek Harness 发布？",
@@ -1011,8 +1024,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时14分 ~ 18时02分]"
+          "appearance_count": 4,
+          "time_info": "[16时14分 ~ 19时03分]"
         },
         {
           "title": "为什么DeepSeek越涨价越是价格屠夫",
@@ -1087,7 +1100,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "OpenAI商业化加速：年化收入超400亿美元，7月单月增长超过20%",
@@ -1099,6 +1112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时14分"
+        },
+        {
+          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
+          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时01分 ~ 19时03分]"
         },
         {
           "title": "OpenAI 上市前年化营收突破 400 亿美元",
@@ -1125,17 +1149,6 @@
           "time_info": "[02时01分 ~ 03时15分]"
         },
         {
-          "title": "美国少年杀死母亲、弟弟，被指用ChatGPT策划",
-          "url": "https://news.ifeng.com/c/8vaHkh2o1IS",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时01分 ~ 18时02分]"
-        },
-        {
           "title": "OpenAI在不到一年内任命新首席营收官",
           "url": "https://wallstreetcn.com/livenews/3149247",
           "source": "华尔街见闻-快讯",
@@ -1154,7 +1167,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         },
@@ -1225,6 +1238,17 @@
           "time_info": "06时40分"
         },
         {
+          "title": "OpenAI首席营收官任职不到一年离职",
+          "url": "https://wallstreetcn.com/livenews/3149682",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
+        },
+        {
           "title": "国科投资领投ChatGPT核心贡献者，亮源新创获数亿元Pre-A轮融资",
           "url": "https://wallstreetcn.com/livenews/3149391",
           "source": "华尔街见闻-快讯",
@@ -1261,7 +1285,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "美温和CPI缓解加息压力，光通信领涨美股，Nebius暴涨超34%，美元、黄金齐涨",
@@ -1400,6 +1424,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时41分"
+        },
+        {
+          "title": "美股存储芯片股盘前走高，闪迪涨超6%，美光科技涨3%，西部数据涨近3%，希捷科技涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3149692",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时03分"
         },
         {
           "title": "Reddit(RDDT.N)美股盘后涨超12%。",
@@ -1554,6 +1589,18 @@
           "time_info": "[01时01分 ~ 09时49分]"
         },
         {
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时13分 ~ 19时03分]"
+        },
+        {
           "title": "如何看待 10 年期、 30 年期美债中标利率都达到 2007 年全球金融危机以来最高水平？",
           "url": "https://www.zhihu.com/question/2071179550575124530",
           "source": "知乎",
@@ -1565,18 +1612,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[04时40分 ~ 07时40分]"
-        },
-        {
-          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
-          "url": "https://wallstreetcn.com/articles/3779403",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[14时13分 ~ 18时02分]"
         },
         {
           "title": "美国PPI数据公布日，美债收益率普遍下挫",
@@ -1596,7 +1631,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时02分"
         }
