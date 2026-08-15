@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-16T05:20:26.099108+08:00",
-  "total_titles_processed": 445,
+  "generated_at": "2026-08-16T07:13:40.869488+08:00",
+  "total_titles_processed": 470,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时13分]"
         },
         {
           "title": "伊朗外长称无意延长停火协议",
@@ -26,8 +26,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时13分]"
         },
         {
           "title": "伊朗战事延宕 美航母部署时长恐将再刷纪录",
@@ -37,8 +37,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 07时13分]"
         },
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡通行方案达成协议",
@@ -48,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 07时13分]"
         },
         {
           "title": "伊朗称已与阿曼就霍尔木兹海峡航运路线图达成一致 谈判仍在进行中",
@@ -59,8 +59,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 07时13分]"
         },
         {
           "title": "伊朗与塔吉克斯坦达成长期石油合作协议",
@@ -70,8 +70,47 @@
             30
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时22分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时22分 ~ 07时13分]"
+        },
+        {
+          "title": "美国中央司令部：以圣地亚哥为母港的“亚伯拉罕·林肯”号于去年11月启程执行部署任务，并于1月抵达中东。该打击群已成功执行数千次作战飞行任务，以支持“史诗狂怒”行动、地区安全任务以及美国目前对伊朗实施的海上封锁。",
+          "url": "https://flash.jin10.com/detail/20260816055833172800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
+          "title": "卡塔尔外交部：卡塔尔曾于4月邀请伊朗代表团访问卡塔尔，听取搜救行动的详细情况，但伊朗方面迄今尚未对该邀请作出回应。",
+          "url": "https://flash.jin10.com/detail/20260816024442715800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            7,
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时21分 ~ 07时13分]"
+        },
+        {
+          "title": "卡塔尔外交部：搜救队发现一名伊朗飞行员的遗骸，已联系伊朗方面商讨移交事宜。",
+          "url": "https://flash.jin10.com/detail/20260816024231719800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            8,
+            13,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[03时21分 ~ 07时13分]"
         },
         {
           "title": "海湾合作委员会秘书长：伊朗的袭击是不可接受的升级行为，严重侵犯了国际航行自由。",
@@ -100,32 +139,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时27分 ~ 05时20分]"
-        },
-        {
-          "title": "卡塔尔外交部：卡塔尔曾于4月邀请伊朗代表团访问卡塔尔，听取搜救行动的详细情况，但伊朗方面迄今尚未对该邀请作出回应。",
-          "url": "https://flash.jin10.com/detail/20260816024442715800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            7,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时21分 ~ 05时20分]"
-        },
-        {
-          "title": "卡塔尔外交部：搜救队发现一名伊朗飞行员的遗骸，已联系伊朗方面商讨移交事宜。",
-          "url": "https://flash.jin10.com/detail/20260816024231719800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时21分 ~ 05时20分]"
         },
         {
           "title": "卡塔尔外交部：在伊朗飞行员侵犯了我们的领空后，我们采取了必要措施捍卫领土。",
@@ -230,6 +243,28 @@
           "time_info": "[00时22分 ~ 01时20分]"
         },
         {
+          "title": "伊朗能源优化组织负责人：第一种方案中，汽油价格保持不变，但总分配量上限为1.21亿升，一旦用完，加油口将关闭。第二种方案中，每日生产的1.21亿升汽油将分配给各车辆，任何希望超出配额的人必须按自由市场价格购买汽油；第三种方案中，汽油配额分配给民众，每人每月30升，且允许进行配额转让、购买和出售。",
+          "url": "https://flash.jin10.com/detail/20260816050035901800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
+          "title": "伊朗能源优化组织负责人：作为正在审议的三项管理伊朗汽油供应方案的一部分，伊朗正在考虑一项提案，即每月向每人分配30升汽油，且该配额可转让、可交易。",
+          "url": "https://flash.jin10.com/detail/20260816045907477800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时13分"
+        },
+        {
           "title": "伊朗称与阿曼就霍尔木兹通行达成协议",
           "url": "https://www.toutiao.com/trending/7674242385638870579/",
           "source": "今日头条",
@@ -266,8 +301,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时13分]"
         },
         {
           "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
@@ -277,30 +312,32 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时13分]"
         },
         {
           "title": "特朗普：击败伊朗后，将宣布霍尔木兹海峡为美国领土",
           "url": "https://m.thepaper.cn/newsDetail_forward_33787320",
           "source": "澎湃新闻",
           "ranks": [
-            16
+            16,
+            17
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时13分]"
         },
         {
           "title": "美国总统特朗普在社交平台上发布图片，图中他佩戴“Trump 2028”的帽子，并配文“我们将会赢（We are going to win）”。",
           "url": "https://flash.jin10.com/detail/20260816042803106800",
           "source": "金十数据",
           "ranks": [
-            3
+            3,
+            15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 07时13分]"
         }
       ]
     },
@@ -316,11 +353,12 @@
             6,
             4,
             3,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时13分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -331,8 +369,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时13分]"
         },
         {
           "title": "DeepSeek Harness实测",
@@ -341,11 +379,12 @@
           "ranks": [
             27,
             21,
-            24
+            24,
+            28
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时20分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[01时20分 ~ 07时13分]"
         }
       ]
     },
@@ -362,19 +401,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 05时20分]"
-        },
-        {
-          "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
-          "url": "https://flash.jin10.com/detail/20260816043254635800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时13分]"
         },
         {
           "title": "据TheInformation：英伟达(NVDA.O)正在洽谈向SB Energy投资30亿美元，作为OpenAI数据中心交易的一部分。",
@@ -382,11 +410,24 @@
           "source": "金十数据",
           "ranks": [
             3,
-            8
+            8,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时21分 ~ 07时13分]"
+        },
+        {
+          "title": "OpenAI Codex产品负责人：让Sol为你管理一支高效的Luna代理团队。这些模型彼此非常熟悉，能够通力合作，以惊人的速度和效率达成目标。",
+          "url": "https://flash.jin10.com/detail/20260816043254635800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[04时21分 ~ 05时20分]"
+          "time_info": "[05时20分 ~ 07时13分]"
         }
       ]
     },
@@ -420,8 +461,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时13分]"
         }
       ]
     },
@@ -439,8 +480,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时22分 ~ 05时20分]"
+          "appearance_count": 9,
+          "time_info": "[00时22分 ~ 07时13分]"
         }
       ]
     }
