@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-15T12:29:31.826269+08:00",
-  "total_titles_processed": 940,
+  "generated_at": "2026-08-15T13:23:41.803155+08:00",
+  "total_titles_processed": 1006,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 42,
       "titles": [
         {
           "title": "事关特朗普与马斯克，美媒最新爆料",
@@ -30,15 +30,40 @@
           "time_info": "[01时51分 ~ 07时20分]"
         },
         {
-          "title": "美媒：特朗普的要求令美国海军承压",
-          "url": "https://flash.jin10.com/detail/20260815114720287800",
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
+          "url": "https://www.cls.cn/detail/2455050",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时08分 ~ 13时23分]"
+        },
+        {
+          "title": "没完没了！中方试射，澳总理跟特朗普“告状”",
+          "url": "https://news.ifeng.com/c/8vbMxIkXgeZ",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 13时23分]"
+        },
+        {
+          "title": "选举压力加剧，伊朗正在“拿捏”特朗普",
+          "url": "https://flash.jin10.com/detail/20260815122132543800",
           "source": "金十数据",
           "ranks": [
-            1
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时29分"
+          "time_info": "13时23分"
         },
         {
           "title": "特朗普称将宣布霍尔木兹为“美国领土”",
@@ -66,19 +91,6 @@
           "time_info": "[01时52分 ~ 04时30分]"
         },
         {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土”",
-          "url": "https://www.cls.cn/detail/2455050",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时08分 ~ 12时29分]"
-        },
-        {
           "title": "美国总统特朗普表示，我很快将宣布霍尔木兹海峡为美国领土。美国对伊朗的封锁“势不可挡”，是一道“钢铁之墙”。 特朗普称，美国已经做好应对伊朗的充分准备，不会允许伊朗继续所作所为，也不会允许伊朗拥有核武器。",
           "url": "https://wallstreetcn.com/livenews/3149869",
           "source": "华尔街见闻-快讯",
@@ -98,22 +110,37 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            6
+            6,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时38分 ~ 13时23分]"
+        },
+        {
+          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
+          "url": "https://www.cls.cn/detail/2455058",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 13时23分]"
+        },
+        {
+          "title": "美媒：特朗普的要求令美国海军承压",
+          "url": "https://flash.jin10.com/detail/20260815114720287800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时38分 ~ 12时29分]"
-        },
-        {
-          "title": "没完没了！中方试射，澳总理跟特朗普“告状”",
-          "url": "https://news.ifeng.com/c/8vbMxIkXgeZ",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 12时29分]"
+          "time_info": "[12时29分 ~ 13时23分]"
         },
         {
           "title": "伊朗副外长加里巴巴迪：（回应特朗普称将宣布霍尔木兹海峡为美国领土的言论）不会被美国的威胁或武力展示所吓倒。",
@@ -190,16 +217,32 @@
           "time_info": "[03时47分 ~ 04时30分]"
         },
         {
-          "title": "特朗普称“很快将宣布霍尔木兹海峡为美国领土” | 环球市场",
-          "url": "https://www.cls.cn/detail/2455058",
-          "source": "财联社热门",
+          "title": "伊朗回应特朗普涉霍尔木兹海峡言论",
+          "url": "https://flash.jin10.com/detail/20260815092948437800",
+          "source": "金十数据",
           "ranks": [
-            11,
-            10
+            8,
+            10,
+            17,
+            24
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[10时51分 ~ 12时29分]"
+          "time_info": "[10时51分 ~ 13时23分]"
+        },
+        {
+          "title": "特朗普敦促美国人接受更高油价",
+          "url": "https://flash.jin10.com/detail/20260815091119294800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            14,
+            21,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时51分 ~ 13时23分]"
         },
         {
           "title": "美国总统特朗普周六日程一览",
@@ -213,19 +256,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时08分 ~ 11时38分]"
-        },
-        {
-          "title": "伊朗回应特朗普涉霍尔木兹海峡言论",
-          "url": "https://flash.jin10.com/detail/20260815092948437800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 12时29分]"
         },
         {
           "title": "特朗普：击败伊朗后会宣布霍尔木兹海峡为美国领土",
@@ -278,19 +308,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[09时08分 ~ 11时38分]"
-        },
-        {
-          "title": "特朗普敦促美国人接受更高油价",
-          "url": "https://flash.jin10.com/detail/20260815091119294800",
-          "source": "金十数据",
-          "ranks": [
-            12,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 12时29分]"
         },
         {
           "title": "特朗普证实部署中东的“林肯”号航母将被替换",
@@ -495,6 +512,161 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "伊朗方面的最新表态传递出哪些信号",
+          "url": "https://www.toutiao.com/trending/7673859930650054186/",
+          "source": "今日头条",
+          "ranks": [
+            5,
+            9,
+            17,
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时50分 ~ 05时24分]"
+        },
+        {
+          "title": "以媒：伊朗导弹库存恢复速度令以色列方面感到震惊",
+          "url": "https://flash.jin10.com/detail/20260815100007836800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            5,
+            12,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时51分 ~ 13时23分]"
+        },
+        {
+          "title": "伊外长：伊朗目前没有决定是否与美国重新开始谈判",
+          "url": "https://flash.jin10.com/detail/20260815122952910800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "伊外长：伊朗目前没有决定是否与美国重新开始谈判",
+          "url": "https://wallstreetcn.com/livenews/3149942",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        },
+        {
+          "title": "伊朗副外长加里巴巴迪：霍尔木兹海峡的开放或关闭只能由伊朗决定。",
+          "url": "https://flash.jin10.com/detail/20260815050027660800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            18,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时24分 ~ 07时20分]"
+        },
+        {
+          "title": "白宫新闻秘书莱维特表示，美国还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
+          "url": "https://wallstreetcn.com/livenews/3149851",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时52分 ~ 04时30分]"
+        },
+        {
+          "title": "伊朗外交部长：伊朗尚未决定恢复与美国的谈判。",
+          "url": "https://flash.jin10.com/detail/20260815113243919800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 13时23分]"
+        },
+        {
+          "title": "白宫新闻秘书莱维特：我们还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
+          "url": "https://flash.jin10.com/detail/20260815021403053800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时52分 ~ 03时47分]"
+        },
+        {
+          "title": "伊朗外长：美国必须满足（伊朗的）条件，才能恢复霍尔木兹海峡的航运。",
+          "url": "https://flash.jin10.com/detail/20260815112723569800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 13时23分]"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗外长阿拉格齐表示，尚未决定是否恢复与美国谈判。卡塔尔和巴基斯坦作为协调方正在与伊朗交换信息，但这并不意味着美伊已进入谈判。",
+          "url": "https://flash.jin10.com/detail/20260815050929790800",
+          "source": "金十数据",
+          "ranks": [
+            11,
+            14,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时21分 ~ 09时08分]"
+        },
+        {
+          "title": "伊朗外长：卡塔尔和巴基斯坦正在与我们交换信息，但这并不是谈判。伊朗与阿曼的会谈是独立进行的，重点关注霍尔木兹海峡的海上航线。",
+          "url": "https://flash.jin10.com/detail/20260815112659829800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时29分 ~ 13时23分]"
+        },
+        {
+          "title": "加拿大全球事务部：加拿大宣布对阻碍霍尔木兹海峡及其周边海域航行权利的伊朗个人实施额外制裁。",
+          "url": "https://flash.jin10.com/detail/20260815005008415800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时52分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 11,
       "titles": [
@@ -518,11 +690,12 @@
             13,
             7,
             3,
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 12时29分]"
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 13时23分]"
         },
         {
           "title": "金十图示：2026年08月14日（周五）热门中概股行情一览（美股盘中）",
@@ -631,137 +804,8 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "伊朗方面的最新表态传递出哪些信号",
-          "url": "https://www.toutiao.com/trending/7673859930650054186/",
-          "source": "今日头条",
-          "ranks": [
-            5,
-            9,
-            17,
-            16,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时50分 ~ 05时24分]"
-        },
-        {
-          "title": "以媒：伊朗导弹库存恢复速度令以色列方面感到震惊",
-          "url": "https://flash.jin10.com/detail/20260815100007836800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时51分 ~ 12时29分]"
-        },
-        {
-          "title": "伊朗外交部长：伊朗尚未决定恢复与美国的谈判。",
-          "url": "https://flash.jin10.com/detail/20260815113243919800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "伊朗外长：美国必须满足（伊朗的）条件，才能恢复霍尔木兹海峡的航运。",
-          "url": "https://flash.jin10.com/detail/20260815112723569800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "伊朗副外长加里巴巴迪：霍尔木兹海峡的开放或关闭只能由伊朗决定。",
-          "url": "https://flash.jin10.com/detail/20260815050027660800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            18,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时24分 ~ 07时20分]"
-        },
-        {
-          "title": "白宫新闻秘书莱维特表示，美国还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
-          "url": "https://wallstreetcn.com/livenews/3149851",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            13,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时52分 ~ 04时30分]"
-        },
-        {
-          "title": "白宫新闻秘书莱维特：我们还有更多施压伊朗的手段。美国可以继续惩罚伊朗并削弱其经济。",
-          "url": "https://flash.jin10.com/detail/20260815021403053800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时52分 ~ 03时47分]"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗外长阿拉格齐表示，尚未决定是否恢复与美国谈判。卡塔尔和巴基斯坦作为协调方正在与伊朗交换信息，但这并不意味着美伊已进入谈判。",
-          "url": "https://flash.jin10.com/detail/20260815050929790800",
-          "source": "金十数据",
-          "ranks": [
-            11,
-            14,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时21分 ~ 09时08分]"
-        },
-        {
-          "title": "伊朗外长：卡塔尔和巴基斯坦正在与我们交换信息，但这并不是谈判。伊朗与阿曼的会谈是独立进行的，重点关注霍尔木兹海峡的海上航线。",
-          "url": "https://flash.jin10.com/detail/20260815112659829800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时29分"
-        },
-        {
-          "title": "加拿大全球事务部：加拿大宣布对阻碍霍尔木兹海峡及其周边海域航行权利的伊朗个人实施额外制裁。",
-          "url": "https://flash.jin10.com/detail/20260815005008415800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时52分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "网友热议DeepSeek Harness：“自进化软件”的雏形",
@@ -786,11 +830,12 @@
             18,
             7,
             11,
-            19
+            19,
+            29
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时50分 ~ 12时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时50分 ~ 13时23分]"
         },
         {
           "title": "俱往矣!DeepSeek大幅涨价",
@@ -801,11 +846,12 @@
             8,
             10,
             13,
-            14
+            14,
+            15
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[00时50分 ~ 12时29分]"
+          "appearance_count": 17,
+          "time_info": "[00时50分 ~ 13时23分]"
         },
         {
           "title": "DeepSeek-V4 Pro 跑分飙升",
@@ -814,11 +860,12 @@
           "ranks": [
             2,
             6,
-            3
+            3,
+            19
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 12时29分]"
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 13时23分]"
         },
         {
           "title": "DeepSeek Harness是什么",
@@ -830,6 +877,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时24分"
+        },
+        {
+          "title": "如何看待 DeepSeek-V4 Pro 正式版疑似过拟合 DeepSeek Harness 的极简模式？",
+          "url": "https://www.zhihu.com/question/2071773348753945432",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
         }
       ]
     },
@@ -899,6 +957,71 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
+          "url": "https://wallstreetcn.com/articles/3779403",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 12,
+          "time_info": "[00时50分 ~ 09时08分]"
+        },
+        {
+          "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
+          "url": "https://wallstreetcn.com/articles/3779437",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时08分 ~ 13时23分]"
+        },
+        {
+          "title": "美股指小幅收跌，存储芯片股普涨，闪迪涨超7%，金油齐涨，美债跌",
+          "url": "https://wallstreetcn.com/articles/3779437",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时20分"
+        },
+        {
+          "title": "周五（8月7日）纽约尾盘，美国10年期基准国债收益率上行5.14个基点，报4.690%，北京时间20:30发布美国7月零售销售数据时从日低点4.628%快速拉升上行。 两年期美债收益率升2.88个基点，报4.169%，本周累跌2.40个基点。 20年期美债收益率上行5.22个基点，本周累涨5.10个基点，报5.257%；30年期美债收益率累涨5.96个基点，报5.259%。",
+          "url": "https://wallstreetcn.com/livenews/3149890",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            6,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时21分 ~ 09时08分]"
+        },
+        {
+          "title": "加息降温压不下收益率，40万亿美债要付出什么代价？",
+          "url": "https://flash.jin10.com/detail/20260815120116376800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时23分"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 4,
       "titles": [
@@ -908,11 +1031,12 @@
           "source": "百度热搜",
           "ranks": [
             21,
-            13
+            13,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时51分 ~ 12时29分]"
+          "appearance_count": 5,
+          "time_info": "[10时51分 ~ 13时23分]"
         },
         {
           "title": "周五（8月14日）纽约尾盘，国际贵金属期货收盘涨跌不一。 现货黄金先跌后涨，日内涨幅0.6%，报4375.67美元/盎司，本周累计上涨0.81%。 COMEX黄金期货涨0.26%报4432.00美元/盎司，本周累计上涨0.73%。美国经济数据走弱令美联储加息预期降温，叠加中东局势不确定性，加上央行长期净增持黄金托底，共同支撑金价。 现货白银涨0.40%，报64.667美元/盎司，本周累涨超1.8%。 COMEX白银期货跌0.26%报64.83美元/盎司，本周累计上涨2.09%。",
@@ -949,60 +1073,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时51分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "逼近历史警戒线！美债长端融资成本飙升，30年期得标利率创2001年最高",
-          "url": "https://wallstreetcn.com/articles/3779403",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时50分 ~ 09时08分]"
-        },
-        {
-          "title": "美股指小幅收跌，存储、光通信股集体拉升，闪迪涨超7%，金油齐涨，美债跌",
-          "url": "https://wallstreetcn.com/articles/3779437",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时08分 ~ 12时29分]"
-        },
-        {
-          "title": "美股指小幅收跌，存储芯片股普涨，闪迪涨超7%，金油齐涨，美债跌",
-          "url": "https://wallstreetcn.com/articles/3779437",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时20分"
-        },
-        {
-          "title": "周五（8月7日）纽约尾盘，美国10年期基准国债收益率上行5.14个基点，报4.690%，北京时间20:30发布美国7月零售销售数据时从日低点4.628%快速拉升上行。 两年期美债收益率升2.88个基点，报4.169%，本周累跌2.40个基点。 20年期美债收益率上行5.22个基点，本周累涨5.10个基点，报5.257%；30年期美债收益率累涨5.96个基点，报5.259%。",
-          "url": "https://wallstreetcn.com/livenews/3149890",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            6,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时21分 ~ 09时08分]"
         }
       ]
     },
