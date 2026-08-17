@@ -1,12 +1,584 @@
 {
-  "generated_at": "2026-08-17T14:52:26.294014+08:00",
-  "total_titles_processed": 1189,
+  "generated_at": "2026-08-17T15:52:32.388279+08:00",
+  "total_titles_processed": 1300,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 40,
+      "keyword_group": "伊朗",
+      "match_count": 47,
       "titles": [
+        {
+          "title": "伊朗高层换血，革命卫队更强势了？",
+          "url": "https://news.ifeng.com/c/8vdiSOXc8hN",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时18分]"
+        },
+        {
+          "title": "伊朗三大权力机构负责人举行会晤",
+          "url": "https://news.ifeng.com/c/8vd393ITLzT",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[00时23分 ~ 07时18分]"
+        },
+        {
+          "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
+          "url": "https://news.ifeng.com/c/8vdsEgwcxZU",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时09分 ~ 15时52分]"
+        },
+        {
+          "title": "伊朗称霍尔木兹海峡是结束冲突的筹码。（法尔斯通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3150079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 07时18分]"
+        },
+        {
+          "title": "伊朗称逮捕或消灭美军者将获奖励",
+          "url": "https://www.toutiao.com/trending/7674484727768301577/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            9,
+            7,
+            14,
+            15,
+            20,
+            16,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 20,
+          "time_info": "[00时23分 ~ 15时52分]"
+        },
+        {
+          "title": "伊朗议会通过反渗透法案",
+          "url": "https://wallstreetcn.com/livenews/3150070",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 07时18分]"
+        },
+        {
+          "title": "伊朗称美军已被驱逐不得进入海峡",
+          "url": "https://wallstreetcn.com/livenews/3150068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 07时18分]"
+        },
+        {
+          "title": "伊朗：美军不得进入霍尔木兹海峡",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E5%86%9B%E4%B8%8D%E5%BE%97%E8%BF%9B%E5%85%A5%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            24,
+            18,
+            14,
+            27,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时26分 ~ 07时18分]"
+        },
+        {
+          "title": "伊朗称逮捕或消灭美军者将获奖励",
+          "url": "https://wallstreetcn.com/livenews/3150063",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 07时18分]"
+        },
+        {
+          "title": "伊朗称美军已被驱逐不得进入海峡",
+          "url": "https://www.toutiao.com/trending/7673769080869191734/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            21,
+            28,
+            23,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时23分 ~ 04时20分]"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：部分邻国与侵略者的合作违背了良好邻里关系。",
+          "url": "https://flash.jin10.com/detail/20260817154600288800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：调解方巴基斯坦和卡塔尔正在为缓和局势作出努力，没有其他调解方。",
+          "url": "https://flash.jin10.com/detail/20260817154427030800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "伊朗外交部发言人：与美国签署的伊斯兰堡谅解备忘录没有60天期限。 谅解备忘录被违反意味着60天期限已无关紧要。 与阿曼关于霍尔木兹海峡的密集谈判仍在继续。",
+          "url": "https://wallstreetcn.com/livenews/3150341",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "伊朗农业部长：粮食安全无虞 一切尽在掌控",
+          "url": "https://flash.jin10.com/detail/20260817143305617800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：谅解备忘录中规定的期限是为就解除制裁和核问题进行谈判而设。",
+          "url": "https://flash.jin10.com/detail/20260817154201265800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "据半岛电视台：伊朗议会议长表示，我们必须达到一种威慑水平，以免陷入战争、和平再到战争消耗的循环中。",
+          "url": "https://flash.jin10.com/detail/20260817040612612800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            7,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 06时19分]"
+        },
+        {
+          "title": "伊朗第一副总统：物价高涨已达到令人不安的程度，敌人的策略就是利用这一点。",
+          "url": "https://flash.jin10.com/detail/20260817010920231800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 02时27分]"
+        },
+        {
+          "title": "据半岛电视台：伊朗总统表示，在国内制造分歧的人必须意识到，这只会对美国和以色列有利。",
+          "url": "https://flash.jin10.com/detail/20260817000751905800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            14,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时27分]"
+        },
+        {
+          "title": "据伊通社（IRNA）：伊朗陆军总司表示，我们确信，林肯号航空母舰至少被伊朗发射的弹药击中一次，以至于在一段时间内，舰上所有战斗机均无法起飞。",
+          "url": "https://flash.jin10.com/detail/20260817000142424800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            15,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时23分 ~ 02时27分]"
+        },
+        {
+          "title": "伊朗第一副总统：敌人企图通过经济战来弥补其军事上的失败，我们必须予以应对。",
+          "url": "https://flash.jin10.com/detail/20260817010814570800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时18分 ~ 02时27分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗议会议长卡利巴夫表示，这是美国和以色列政权遭受的绝对最惨痛的失败。",
+          "url": "https://flash.jin10.com/detail/20260817025702745800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            15,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 05时19分]"
+        },
+        {
+          "title": "伊朗媒体Fars News：伊朗革命卫队政治副司令表示，迄今为止，我们的行动一直是防御性的；但未来可能会转为进攻性。武装部队将采取变革性策略，并在必要时采取任何捍卫国家的行动。",
+          "url": "https://flash.jin10.com/detail/20260817033655350800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时20分 ~ 06时19分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗议会议长卡利巴夫表示，我们在军事和政治上都赢得了这场战争。这并非指我们摧毁了美军；而是指美国和以色列曾带着9项明确且公开宣称的目标向我们发动攻击，但无论在哪个层面，他们都未能实现其中任何一项。",
+          "url": "https://flash.jin10.com/detail/20260817025637231800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            16,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 05时19分]"
+        },
+        {
+          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2072617673721226019",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时33分 ~ 15时52分]"
+        },
+        {
+          "title": "卡塔尔外交部：首相强调，各方必须坚持对话与外交，落实美国与伊朗之间谅解备忘录中达成的共识，包括确保霍尔木兹海的航行自由，以维护地区安全，保护已取得的成就，并增强地区稳定。",
+          "url": "https://flash.jin10.com/detail/20260817025315208800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            19,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时20分 ~ 05时19分]"
+        },
+        {
+          "title": "伊朗农业部长：农业部门大部分事务已纳入智能系统并处于全面管控之下，我们之所以断言粮食安全完备无缺，正是基于对信息系统的全面掌握，并以此为依据。",
+          "url": "https://flash.jin10.com/detail/20260817143139490800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：由于华盛顿违反谅解备忘录，尚未启动任何谈判。",
+          "url": "https://flash.jin10.com/detail/20260817154139173800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "伊朗农业部长：过去数月民众未出现恐慌性购买，凭借过去14个月积累的信誉，以及政府与各权力层级所采取的预案和前瞻性安排，粮食安全将持续稳固。",
+          "url": "https://flash.jin10.com/detail/20260817143131671800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：我们的谈判代表团完全得到所有系统机构的信任。",
+          "url": "https://flash.jin10.com/detail/20260817154116779800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "伊朗农业部长：尽管过去数月面临诸多问题与困难，但粮食安全不存在任何隐患，敌人在这一领域已感到绝望。",
+          "url": "https://flash.jin10.com/detail/20260817143121875800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "伊朗外交部发言人：与阿曼的海上通行路线图正在认真制定中。",
+          "url": "https://flash.jin10.com/detail/20260817153821399800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "伊朗警告不要拿霍尔木兹海峡开玩笑",
+          "url": "https://wallstreetcn.com/livenews/3150228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "伊朗：不要拿霍尔木兹海峡开玩笑",
+          "url": "https://flash.jin10.com/detail/20260817124424953800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时34分"
+        },
+        {
+          "title": "伊朗外交部发言人：近期战争源于敌人在伊朗民族意志面前的误判。",
+          "url": "https://flash.jin10.com/detail/20260817153710014800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "伊朗外交部发言人：我们不是那种会在时间压力和最后通牒下做决策的一方。",
+          "url": "https://flash.jin10.com/detail/20260817153540800800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "伊朗外交部发言人：与阿曼的谈判耗时较长，原因是议题复杂、涉及多方参与者，且部分国家试图破坏这一进程。",
+          "url": "https://flash.jin10.com/detail/20260817153523942800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：与阿曼的谈判仍在进行中。",
+          "url": "https://flash.jin10.com/detail/20260817153507902800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：伊朗能够很好地捍卫自身主权，并且知道如何保卫自己的主权和领土完整。",
+          "url": "https://flash.jin10.com/detail/20260817153229784800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "伊朗军方：每名入境美军悬赏50亿土曼",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%EF%BC%9A%E6%AF%8F%E5%90%8D%E5%85%A5%E5%A2%83%E7%BE%8E%E5%86%9B%E6%82%AC%E8%B5%8F50%E4%BA%BF%E5%9C%9F%E6%9B%BC",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "伊朗秘密升级战争计划曝光！强硬派已定下全新打法",
+          "url": "https://flash.jin10.com/detail/20260817140632271800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃： 关于伊朗在波斯湾、霍尔木兹海峡和阿曼海的主权权利相关问题，现有法律已有规定。",
+          "url": "https://flash.jin10.com/detail/20260817153107005800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "伊朗总统：伊美谅解备忘录“维护尊严、展现实力”",
+          "url": "https://wallstreetcn.com/livenews/3150110",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "伊朗战争，正在掏空美国弹药库",
+          "url": "https://flash.jin10.com/detail/20260816211830849800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时23分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：美国在签署谅解备忘录几周后违反了条款。",
+          "url": "https://flash.jin10.com/detail/20260817153027306800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
+          "title": "伊朗议会通过一项反渗透法案",
+          "url": "https://flash.jin10.com/detail/20260817102451610800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时58分"
+        },
+        {
+          "title": "伊朗：媒体即战场 我方成功抵御舆论攻势",
+          "url": "https://flash.jin10.com/detail/20260817140035500800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "14时52分"
+        },
+        {
+          "title": "伊朗称美军已被驱逐不得进入海峡",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%B7%B2%E8%A2%AB%E9%A9%B1%E9%80%90%E4%B8%8D%E5%BE%97%E8%BF%9B%E5%85%A5%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 41,
+      "titles": [
+        {
+          "title": "特朗普向朝韩发出强烈信号，信息量很大",
+          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时09分 ~ 15时52分]"
+        },
         {
           "title": "特朗普又发旧照，称“与金正恩相处融洽”(图)",
           "url": "https://news.ifeng.com/c/8vd6r6o7WHm",
@@ -19,18 +591,6 @@
           "time_info": "[00时23分 ~ 07时18分]"
         },
         {
-          "title": "特朗普向朝韩发出强烈信号，信息量很大",
-          "url": "https://news.ifeng.com/c/8vehnvg4TOJ",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时09分 ~ 14时52分]"
-        },
-        {
           "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
           "url": "https://news.ifeng.com/c/8vegxyVDbqF",
           "source": "凤凰网",
@@ -38,8 +598,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时09分 ~ 14时52分]"
+          "appearance_count": 10,
+          "time_info": "[09时09分 ~ 15时52分]"
         },
         {
           "title": "沙土巴三国签署共同防务协议，特朗普发声",
@@ -74,19 +634,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[10时58分 ~ 14时52分]"
-        },
-        {
-          "title": "特朗普再促参议院通过全年采用夏令时法案",
-          "url": "https://wallstreetcn.com/livenews/3150053",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 06时19分]"
+          "appearance_count": 8,
+          "time_info": "[10时58分 ~ 15时52分]"
         },
         {
           "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
@@ -98,8 +647,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时53分 ~ 14时52分]"
+          "appearance_count": 7,
+          "time_info": "[11时53分 ~ 15时52分]"
+        },
+        {
+          "title": "特朗普再促参议院通过全年采用夏令时法案",
+          "url": "https://wallstreetcn.com/livenews/3150053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时19分]"
         },
         {
           "title": "特朗普要求“大幅缩减”美韩军演规模",
@@ -386,6 +946,17 @@
           "time_info": "07时18分"
         },
         {
+          "title": "特朗普缩减美韩联合军演规模会威胁中朝关系吗？外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3150337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
+        },
+        {
           "title": "特朗普：“不满”美国早前同意参加与韩国的联合军演",
           "url": "https://wallstreetcn.com/livenews/3150083",
           "source": "华尔街见闻-快讯",
@@ -469,7 +1040,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
         },
@@ -480,420 +1051,15 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时52分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 33,
-      "titles": [
-        {
-          "title": "伊朗高层换血，革命卫队更强势了？",
-          "url": "https://news.ifeng.com/c/8vdiSOXc8hN",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时18分]"
-        },
-        {
-          "title": "伊朗三大权力机构负责人举行会晤",
-          "url": "https://news.ifeng.com/c/8vd393ITLzT",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时23分 ~ 07时18分]"
-        },
-        {
-          "title": "伊朗悬赏美军：但凡俘虏或击毙一人，奖励三万美元",
-          "url": "https://news.ifeng.com/c/8vdsEgwcxZU",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时09分 ~ 14时52分]"
-        },
-        {
-          "title": "伊朗称霍尔木兹海峡是结束冲突的筹码。（法尔斯通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3150079",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时18分]"
-        },
-        {
-          "title": "伊朗称逮捕或消灭美军者将获奖励",
-          "url": "https://www.toutiao.com/trending/7674484727768301577/",
-          "source": "今日头条",
-          "ranks": [
-            8,
-            9,
-            7,
-            14,
-            15,
-            20,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时23分 ~ 14时52分]"
-        },
-        {
-          "title": "伊朗议会通过反渗透法案",
-          "url": "https://wallstreetcn.com/livenews/3150070",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时18分]"
-        },
-        {
-          "title": "伊朗称美军已被驱逐不得进入海峡",
-          "url": "https://wallstreetcn.com/livenews/3150068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时18分]"
-        },
-        {
-          "title": "伊朗：美军不得进入霍尔木兹海峡",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%BE%8E%E5%86%9B%E4%B8%8D%E5%BE%97%E8%BF%9B%E5%85%A5%E9%9C%8D%E5%B0%94%E6%9C%A8%E5%85%B9%E6%B5%B7%E5%B3%A1",
-          "source": "百度热搜",
-          "ranks": [
-            28,
-            24,
-            18,
-            14,
-            27,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[02时26分 ~ 07时18分]"
-        },
-        {
-          "title": "伊朗称逮捕或消灭美军者将获奖励",
-          "url": "https://wallstreetcn.com/livenews/3150063",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时23分 ~ 07时18分]"
-        },
-        {
-          "title": "伊朗称美军已被驱逐不得进入海峡",
-          "url": "https://www.toutiao.com/trending/7673769080869191734/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            21,
-            28,
-            23,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 04时20分]"
-        },
-        {
-          "title": "伊朗农业部长：粮食安全无虞 一切尽在掌控",
-          "url": "https://flash.jin10.com/detail/20260817143305617800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
-        },
-        {
-          "title": "据半岛电视台：伊朗议会议长表示，我们必须达到一种威慑水平，以免陷入战争、和平再到战争消耗的循环中。",
-          "url": "https://flash.jin10.com/detail/20260817040612612800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            7,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时20分 ~ 06时19分]"
-        },
-        {
-          "title": "伊朗第一副总统：物价高涨已达到令人不安的程度，敌人的策略就是利用这一点。",
-          "url": "https://flash.jin10.com/detail/20260817010920231800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 02时27分]"
-        },
-        {
-          "title": "据半岛电视台：伊朗总统表示，在国内制造分歧的人必须意识到，这只会对美国和以色列有利。",
-          "url": "https://flash.jin10.com/detail/20260817000751905800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            14,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时27分]"
-        },
-        {
-          "title": "据伊通社（IRNA）：伊朗陆军总司表示，我们确信，林肯号航空母舰至少被伊朗发射的弹药击中一次，以至于在一段时间内，舰上所有战斗机均无法起飞。",
-          "url": "https://flash.jin10.com/detail/20260817000142424800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            15,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时23分 ~ 02时27分]"
-        },
-        {
-          "title": "伊朗第一副总统：敌人企图通过经济战来弥补其军事上的失败，我们必须予以应对。",
-          "url": "https://flash.jin10.com/detail/20260817010814570800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时18分 ~ 02时27分]"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗议会议长卡利巴夫表示，这是美国和以色列政权遭受的绝对最惨痛的失败。",
-          "url": "https://flash.jin10.com/detail/20260817025702745800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            15,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 05时19分]"
-        },
-        {
-          "title": "伊朗媒体Fars News：伊朗革命卫队政治副司令表示，迄今为止，我们的行动一直是防御性的；但未来可能会转为进攻性。武装部队将采取变革性策略，并在必要时采取任何捍卫国家的行动。",
-          "url": "https://flash.jin10.com/detail/20260817033655350800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时20分 ~ 06时19分]"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗议会议长卡利巴夫表示，我们在军事和政治上都赢得了这场战争。这并非指我们摧毁了美军；而是指美国和以色列曾带着9项明确且公开宣称的目标向我们发动攻击，但无论在哪个层面，他们都未能实现其中任何一项。",
-          "url": "https://flash.jin10.com/detail/20260817025637231800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            16,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 05时19分]"
-        },
-        {
-          "title": "卡塔尔外交部：首相强调，各方必须坚持对话与外交，落实美国与伊朗之间谅解备忘录中达成的共识，包括确保霍尔木兹海的航行自由，以维护地区安全，保护已取得的成就，并增强地区稳定。",
-          "url": "https://flash.jin10.com/detail/20260817025315208800",
-          "source": "金十数据",
-          "ranks": [
-            8,
-            19,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时20分 ~ 05时19分]"
-        },
-        {
-          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
-          "url": "https://www.zhihu.com/question/2072617673721226019",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时33分 ~ 14时52分]"
-        },
-        {
-          "title": "伊朗农业部长：农业部门大部分事务已纳入智能系统并处于全面管控之下，我们之所以断言粮食安全完备无缺，正是基于对信息系统的全面掌握，并以此为依据。",
-          "url": "https://flash.jin10.com/detail/20260817143139490800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
-        },
-        {
-          "title": "伊朗农业部长：过去数月民众未出现恐慌性购买，凭借过去14个月积累的信誉，以及政府与各权力层级所采取的预案和前瞻性安排，粮食安全将持续稳固。",
-          "url": "https://flash.jin10.com/detail/20260817143131671800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
-        },
-        {
-          "title": "伊朗农业部长：尽管过去数月面临诸多问题与困难，但粮食安全不存在任何隐患，敌人在这一领域已感到绝望。",
-          "url": "https://flash.jin10.com/detail/20260817143121875800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
-        },
-        {
-          "title": "伊朗警告不要拿霍尔木兹海峡开玩笑",
-          "url": "https://wallstreetcn.com/livenews/3150228",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
-          "title": "伊朗：不要拿霍尔木兹海峡开玩笑",
-          "url": "https://flash.jin10.com/detail/20260817124424953800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时34分"
-        },
-        {
-          "title": "伊朗军方：每名入境美军悬赏50亿土曼",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%86%9B%E6%96%B9%EF%BC%9A%E6%AF%8F%E5%90%8D%E5%85%A5%E5%A2%83%E7%BE%8E%E5%86%9B%E6%82%AC%E8%B5%8F50%E4%BA%BF%E5%9C%9F%E6%9B%BC",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "伊朗秘密升级战争计划曝光！强硬派已定下全新打法",
-          "url": "https://flash.jin10.com/detail/20260817140632271800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
-        },
-        {
-          "title": "伊朗总统：伊美谅解备忘录“维护尊严、展现实力”",
-          "url": "https://wallstreetcn.com/livenews/3150110",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时10分"
-        },
-        {
-          "title": "伊朗战争，正在掏空美国弹药库",
-          "url": "https://flash.jin10.com/detail/20260816211830849800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时23分"
-        },
-        {
-          "title": "伊朗议会通过一项反渗透法案",
-          "url": "https://flash.jin10.com/detail/20260817102451610800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时58分"
-        },
-        {
-          "title": "伊朗：媒体即战场 我方成功抵御舆论攻势",
-          "url": "https://flash.jin10.com/detail/20260817140035500800",
-          "source": "金十数据",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
-        },
-        {
-          "title": "伊朗称美军已被驱逐不得进入海峡",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E7%BE%8E%E5%86%9B%E5%B7%B2%E8%A2%AB%E9%A9%B1%E9%80%90%E4%B8%8D%E5%BE%97%E8%BF%9B%E5%85%A5%E6%B5%B7%E5%B3%A1%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时18分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "DeepSeek正式涨价",
@@ -902,11 +1068,12 @@
           "ranks": [
             2,
             3,
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[11时53分 ~ 14时52分]"
+          "appearance_count": 7,
+          "time_info": "[11时53分 ~ 15时52分]"
         },
         {
           "title": "如何评价 deepseek8 月 17 日涨价后，opencode go 套餐的 flash 模型调用量削减 94%？",
@@ -964,11 +1131,12 @@
           "source": "知乎",
           "ranks": [
             15,
-            12
+            12,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时33分 ~ 14时52分]"
+          "appearance_count": 4,
+          "time_info": "[13时33分 ~ 15时52分]"
         },
         {
           "title": "DeepSeek Harness邪修攻略",
@@ -1002,6 +1170,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
+        },
+        {
+          "title": "DeepSeek Harness 有什么好用的插件？",
+          "url": "https://www.zhihu.com/question/2071617281214378127",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         }
       ]
     },
@@ -1069,8 +1248,19 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[12时40分 ~ 14时52分]"
+          "appearance_count": 5,
+          "time_info": "[12时40分 ~ 15时52分]"
+        },
+        {
+          "title": "OpenAI CEO：大学读两年就够了",
+          "url": "https://www.baidu.com/s?wd=OpenAI+CEO%EF%BC%9A%E5%A4%A7%E5%AD%A6%E8%AF%BB%E4%B8%A4%E5%B9%B4%E5%B0%B1%E5%A4%9F%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时52分 ~ 15时52分]"
         },
         {
           "title": "OpenAI 人事地震",
@@ -1082,17 +1272,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时40分"
-        },
-        {
-          "title": "OpenAI CEO：大学读两年就够了",
-          "url": "https://www.baidu.com/s?wd=OpenAI+CEO%EF%BC%9A%E5%A4%A7%E5%AD%A6%E8%AF%BB%E4%B8%A4%E5%B9%B4%E5%B0%B1%E5%A4%9F%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时52分"
         }
       ]
     },
@@ -1137,8 +1316,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时09分 ~ 14时52分]"
+          "appearance_count": 10,
+          "time_info": "[09时09分 ~ 15时52分]"
         }
       ]
     },
@@ -1146,6 +1325,18 @@
       "keyword_group": "美债",
       "match_count": 3,
       "titles": [
+        {
+          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
+          "url": "https://wallstreetcn.com/articles/3779560",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时33分 ~ 15时52分]"
+        },
         {
           "title": "李大霄解读美债收益率",
           "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87",
@@ -1170,17 +1361,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[01时18分 ~ 06时19分]"
-        },
-        {
-          "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
-          "url": "https://wallstreetcn.com/articles/3779560",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[13时33分 ~ 14时52分]"
         }
       ]
     },
@@ -1209,6 +1389,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美元指数跌0.3%，报99.32。",
+          "url": "https://wallstreetcn.com/livenews/3150340",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时52分"
         }
       ]
     }
