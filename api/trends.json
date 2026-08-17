@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-17T18:32:02.066730+08:00",
-  "total_titles_processed": 1603,
+  "generated_at": "2026-08-17T19:24:08.515705+08:00",
+  "total_titles_processed": 1700,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 62,
+      "match_count": 64,
       "titles": [
         {
           "title": "伊朗高层换血，革命卫队更强势了？",
@@ -26,8 +26,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时09分 ~ 18时32分]"
+          "appearance_count": 16,
+          "time_info": "[09时09分 ~ 19时24分]"
         },
         {
           "title": "伊朗三大权力机构负责人举行会晤",
@@ -71,6 +71,18 @@
           "time_info": "[00时23分 ~ 17时39分]"
         },
         {
+          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
+          "url": "https://www.zhihu.com/question/2072617673721226019",
+          "source": "知乎",
+          "ranks": [
+            10,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[13时33分 ~ 19时24分]"
+        },
+        {
           "title": "伊朗议会通过反渗透法案",
           "url": "https://wallstreetcn.com/livenews/3150070",
           "source": "华尔街见闻-快讯",
@@ -93,18 +105,6 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时23分 ~ 07时18分]"
-        },
-        {
-          "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
-          "url": "https://www.zhihu.com/question/2072617673721226019",
-          "source": "知乎",
-          "ranks": [
-            10,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时33分 ~ 18时32分]"
         },
         {
           "title": "伊朗：美军不得进入霍尔木兹海峡",
@@ -178,7 +178,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -192,17 +192,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时52分"
-        },
-        {
-          "title": "伊朗革命卫队官员：若美履行承诺 霍尔木兹海峡将重新开放",
-          "url": "https://wallstreetcn.com/livenews/3150440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时32分"
         },
         {
           "title": "伊朗农业部长：粮食安全无虞 一切尽在掌控",
@@ -341,6 +330,18 @@
           "time_info": "[03时20分 ~ 05时19分]"
         },
         {
+          "title": "伊朗革命卫队官员：若美履行承诺 霍尔木兹海峡将重新开放",
+          "url": "https://wallstreetcn.com/livenews/3150440",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时32分 ~ 19时24分]"
+        },
+        {
           "title": "卡塔尔外交部：首相强调，各方必须坚持对话与外交，落实美国与伊朗之间谅解备忘录中达成的共识，包括确保霍尔木兹海的航行自由，以维护地区安全，保护已取得的成就，并增强地区稳定。",
           "url": "https://flash.jin10.com/detail/20260817025315208800",
           "source": "金十数据",
@@ -352,6 +353,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时20分 ~ 05时19分]"
+        },
+        {
+          "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
+          "url": "https://wallstreetcn.com/articles/3779592",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时23分 ~ 19时24分]"
         },
         {
           "title": "伊朗农业部长：农业部门大部分事务已纳入智能系统并处于全面管控之下，我们之所以断言粮食安全完备无缺，正是基于对信息系统的全面掌握，并以此为依据。",
@@ -464,6 +476,17 @@
           "time_info": "16时41分"
         },
         {
+          "title": "伊朗称正与阿曼敲定霍尔木兹海峡谅解协议",
+          "url": "https://wallstreetcn.com/livenews/3150460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "伊朗外交部发言人：我们不是那种会在时间压力和最后通牒下做决策的一方。",
           "url": "https://flash.jin10.com/detail/20260817153540800800",
           "source": "金十数据",
@@ -481,7 +504,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -569,7 +592,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -731,7 +754,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 45,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
@@ -742,8 +765,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时09分 ~ 18时32分]"
+          "appearance_count": 16,
+          "time_info": "[09时09分 ~ 19时24分]"
         },
         {
           "title": "航母被曝大丑闻，美州长：特朗普的回应让我非常愤怒",
@@ -798,11 +821,12 @@
             8,
             7,
             5,
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时58分 ~ 18时32分]"
+          "appearance_count": 14,
+          "time_info": "[10时58分 ~ 19时24分]"
         },
         {
           "title": "苹果被特朗普政府督促放弃采购中国存储芯片，这背后有哪些利益博弈？双方还能合作吗？",
@@ -814,8 +838,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时53分 ~ 18时32分]"
+          "appearance_count": 12,
+          "time_info": "[11时53分 ~ 19时23分]"
         },
         {
           "title": "特朗普再促参议院通过全年采用夏令时法案",
@@ -846,7 +870,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
         },
@@ -857,9 +881,31 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "特朗普对：我可能会支持以色列选举中的某位候选人。以色列不该袭击加沙。（福克斯）",
+          "url": "https://wallstreetcn.com/livenews/3150476",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "特朗普威胁阿曼：若妨碍美国 将对其进行轰炸",
+          "url": "https://flash.jin10.com/detail/20260817191721703800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "特朗普要求“大幅缩减”美韩军演规模",
@@ -871,6 +917,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "特朗普威胁称，如果阿曼妨碍美国，美国将轰炸阿曼",
+          "url": "https://wallstreetcn.com/livenews/3150475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普表示，以色列不该袭击加沙。",
+          "url": "https://flash.jin10.com/detail/20260817191605015800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "哈马斯方面表示，我们高度评价特朗普在促成加沙停火协议方面发挥的作用。",
@@ -1158,6 +1226,17 @@
           "time_info": "07时18分"
         },
         {
+          "title": "据福克斯新闻：特朗普表示，他可能会在以色列选举中支持某位候选人。",
+          "url": "https://flash.jin10.com/detail/20260817191247640800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
           "title": "特朗普：“不满”美国早前同意参加与韩国的联合军演",
           "url": "https://wallstreetcn.com/livenews/3150083",
           "source": "华尔街见闻-快讯",
@@ -1167,6 +1246,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时18分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普威胁称，如果阿曼妨碍美国，美国将轰炸阿曼。",
+          "url": "https://flash.jin10.com/detail/20260817191233400800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "特朗普要求“大幅减少”美韩军演：因成本高昂，还释放不当“敌意信号”",
@@ -1186,9 +1276,31 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时32分"
+        },
+        {
+          "title": "据福克斯新闻：特朗普谈及伊朗问题时表示，他“不着急”。",
+          "url": "https://flash.jin10.com/detail/20260817191005202800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普表示，与伊朗伊斯兰革命卫队官员之间存在秘密沟通渠道。",
+          "url": "https://flash.jin10.com/detail/20260817190947776800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "据半岛电视台：巴勒斯坦消息人士透露，库什纳已告知哈马斯领导层，特朗普认为解除各派武装是加沙采取任何其他行动前的关键一步。",
@@ -1200,6 +1312,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时20分"
+        },
+        {
+          "title": "特朗普再称伊朗绝不能拥有核武器",
+          "url": "https://wallstreetcn.com/livenews/3150454",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
         },
         {
           "title": "特朗普发文欢迎中东各国自保",
@@ -1300,8 +1423,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时33分 ~ 18时32分]"
+          "appearance_count": 10,
+          "time_info": "[13时33分 ~ 19时24分]"
         },
         {
           "title": "如何评价 deepseek8 月 17 日涨价后，opencode go 套餐的 flash 模型调用量削减 94%？",
@@ -1533,8 +1656,8 @@
             16
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时09分 ~ 18时32分]"
+          "appearance_count": 15,
+          "time_info": "[09时09分 ~ 19时24分]"
         }
       ]
     },
@@ -1553,8 +1676,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[13时33分 ~ 18时32分]"
+          "appearance_count": 10,
+          "time_info": "[13时33分 ~ 19时24分]"
         },
         {
           "title": "李大霄解读美债收益率",
@@ -1613,8 +1736,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "Snap美股盘前跌幅扩大至逾15%。",
+          "url": "https://wallstreetcn.com/livenews/3150462",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时24分"
+        },
         {
           "title": "美股盘前，存储芯片股普涨，闪迪涨约6%，SK海力士涨约4%，希捷科技涨约3%，西部数据涨约4%，美光科技涨约3%。",
           "url": "https://wallstreetcn.com/livenews/3150351",
