@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T10:55:52.667477+08:00",
-  "total_titles_processed": 840,
+  "generated_at": "2026-08-18T11:47:35.858859+08:00",
+  "total_titles_processed": 925,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 57,
+      "match_count": 58,
       "titles": [
         {
           "title": "特朗普要求伊朗举白旗投降",
@@ -65,9 +65,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 11时47分]"
+        },
+        {
+          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
+          "url": "https://wallstreetcn.com/articles/3779635",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 11时47分]"
         },
         {
           "title": "美以盟友关系现裂痕 特朗普称以色列应停止对加沙的袭击",
@@ -103,17 +114,6 @@
           "time_info": "02时37分"
         },
         {
-          "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
-          "url": "https://wallstreetcn.com/articles/3779635",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
           "title": "美国总统特朗普：霍尔木兹海峡保持开放，油价正在回落。",
           "url": "https://flash.jin10.com/detail/20260818021458136800",
           "source": "金十数据",
@@ -142,7 +142,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
         },
@@ -281,6 +281,18 @@
           "time_info": "[06时22分 ~ 07时21分]"
         },
         {
+          "title": "特朗普该如何应对弹药短缺",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%A5%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E5%BC%B9%E8%8D%AF%E7%9F%AD%E7%BC%BA",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 11时47分]"
+        },
+        {
           "title": "土耳其总统埃尔多安与美国总统特朗普通电话。双方讨论了土耳其与美国的双边关系以及地区和全球局势。",
           "url": "https://flash.jin10.com/detail/20260818053526620800",
           "source": "金十数据",
@@ -303,6 +315,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普：金正恩已回应其对话请求",
+          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 11时47分]"
         },
         {
           "title": "特朗普称金正恩已回应其“对话”请求",
@@ -339,6 +362,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普和加拿大总理卡尼周一就贸易问题通话。",
+          "url": "https://wallstreetcn.com/livenews/3150785",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 11时47分]"
         },
         {
           "title": "加拿大总理卡尼：预计自己会在8月19日关税截止日期前与特朗普通话。 与美国的关税磋商是密集的、微妙的。",
@@ -455,15 +490,15 @@
           "time_info": "03时27分"
         },
         {
-          "title": "特朗普该如何应对弹药短缺",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%A5%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E5%BC%B9%E8%8D%AF%E7%9F%AD%E7%BC%BA",
-          "source": "bilibili 热搜",
+          "title": "特朗普被曝自己也通过邮寄选票投票",
+          "url": "https://www.toutiao.com/trending/7675157131825905718/",
+          "source": "今日头条",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时55分"
+          "time_info": "11时47分"
         },
         {
           "title": "美国总统特朗普：（关于英国首相）他面临移民和能源问题。",
@@ -497,17 +532,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "特朗普：金正恩已回应其对话请求",
-          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时55分"
         },
         {
           "title": "加拿大总理卡尼：预计将在当地时间8月19日关税截止日期之前与美国总统特朗普进行交谈。",
@@ -587,17 +611,6 @@
           "time_info": "04时25分"
         },
         {
-          "title": "特朗普和加拿大总理卡尼周一就贸易问题通话。",
-          "url": "https://wallstreetcn.com/livenews/3150785",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
           "title": "美国总统特朗普：伊朗想达成协议，但他们不会达成我认为必要的那种协议。",
           "url": "https://flash.jin10.com/detail/20260818020455379800",
           "source": "金十数据",
@@ -667,7 +680,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 25,
       "titles": [
         {
           "title": "强撑颜面：美国派出第三艘航母，伊朗威胁升级冲突",
@@ -689,8 +702,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 10时55分]"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 11时47分]"
         },
         {
           "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
@@ -711,9 +724,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 11时47分]"
         },
         {
           "title": "为向伊朗革命卫队传话，美国找了谁？",
@@ -722,9 +735,31 @@
           "ranks": [
             4
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 11时47分]"
+        },
+        {
+          "title": "美伊60天谈判期届满，伊朗：已决定从防御转向全面进攻",
+          "url": "https://news.ifeng.com/c/8vgY879Eq1Y",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时55分"
+          "time_info": "11时47分"
+        },
+        {
+          "title": "“美防长要丢工作了，可能要为伊朗战争背锅”",
+          "url": "https://news.ifeng.com/c/8vgcNfOmDFJ",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         },
         {
           "title": "伊朗最高领袖顾问：美国的未来将由“家庭餐桌”而非“作战室”决定",
@@ -938,7 +973,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
@@ -961,8 +996,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 10时55分]"
+          "appearance_count": 3,
+          "time_info": "[07时21分 ~ 11时47分]"
         },
         {
           "title": "6月日本大幅减持美债，策略师：料不会再减持",
@@ -984,8 +1019,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时21分 ~ 10时55分]"
+          "appearance_count": 3,
+          "time_info": "[07时21分 ~ 11时47分]"
+        },
+        {
+          "title": "荷兰国际银行：美伊停火协议到期，美债市场“偏空基调”还将延续",
+          "url": "https://flash.jin10.com/detail/20260818113355527800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         },
         {
           "title": "城堡证券：美债收益率飙升反映美联储政策风险，下次利率会议结果难料",
@@ -1014,6 +1060,29 @@
           "time_info": "[04时25分 ~ 06时22分]"
         },
         {
+          "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
+          "url": "https://www.cls.cn/detail/2456636",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 11时47分]"
+        },
+        {
+          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
+          "url": "https://wallstreetcn.com/articles/3779638",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 11时47分]"
+        },
+        {
           "title": "地产ETF、长端美债ETF收跌超0.8%，领跌美股大类资产类ETF",
           "url": "https://wallstreetcn.com/livenews/3150682",
           "source": "华尔街见闻-快讯",
@@ -1038,26 +1107,15 @@
           "time_info": "[05时26分 ~ 06时22分]"
         },
         {
-          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
-          "url": "https://wallstreetcn.com/articles/3779638",
-          "source": "华尔街见闻",
+          "title": "美债抛售中，交易员转向一个冷门套利策略",
+          "url": "https://flash.jin10.com/detail/20260818112706172800",
+          "source": "金十数据",
           "ranks": [
-            9
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时55分"
-        },
-        {
-          "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
-          "url": "https://www.cls.cn/detail/2456636",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时55分"
+          "time_info": "11时47分"
         },
         {
           "title": "美债抛售持续，30年期美债收益率创2007年以来最高水平",
@@ -1197,6 +1255,18 @@
           "time_info": "[05时26分 ~ 06时22分]"
         },
         {
+          "title": "美股期货小幅走低，标普500指数期货跌0.2%，纳斯达克100指数期货跌0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3150788",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 11时47分]"
+        },
+        {
           "title": "美股行业ETF多数收跌，航空业ETF跌超2.2%表现最差，标普能源板块涨约0.9%",
           "url": "https://wallstreetcn.com/livenews/3150681",
           "source": "华尔街见闻-快讯",
@@ -1207,17 +1277,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时22分]"
-        },
-        {
-          "title": "美股期货小幅走低，标普500指数期货跌0.2%，纳斯达克100指数期货跌0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3150788",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时55分"
         },
         {
           "title": "标普500指数收跌40.70点，跌幅0.52%，报7745.06点，美股开盘以来处于持续下跌状态，8月4日以来持续胶着于7800点附近。 道琼斯工业平均指数收跌272.63点，跌幅0.51%，报53459.78点。 纳斯达克综合指数（纳指）收跌84.253点，跌幅0.32%，报26644.911点。 纳斯达克100指数收跌50.76点，跌幅0.17%，报29995.381点。 纳斯达克科技市值加权指数收跌0.33%，报2989.2417点。 费城半导体指数收涨203.954点，涨幅1.64%，报12621.005点。 费城证交所KBW银行指数收跌0.49%，报192.97点，脱离收盘历史最高位193.91点，但（8月174日）美股盘初曾刷新盘中历史最高位至195.55点。 道琼斯KBW地区银行指数收跌0.679%，报149.86点，持稳于历史最高位附近。 罗素2000指数收跌0.35%，报3057.54点，脱离收盘历史最高位3068.415点。 纳斯达克生物科技指数收涨1.41%，报6895.52点，突破8月12日所创收盘历史最高位6878.91点、逼近8月13日所创盘中历史最高位6906.79点。 标普中盘股400指数收跌0.25%，纳斯达克美国中等市值指数跌0.58%，双双脱离历史最高位。 恐慌指数VIX收涨6.60%，报15.19，脱离2025年12月29日（收报14.20）以来最低收盘位14.25、逼近当年12月24日收盘位13.47，（8月17日）北京时间01:28曾达到15.47。",
@@ -1266,6 +1325,59 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价压力“暗线”浮现！市场终于担忧长债收益率走高",
+          "url": "https://flash.jin10.com/detail/20260818113452095800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "国际金价涨0.9%，白银涨1.7%",
+          "url": "https://wallstreetcn.com/livenews/3150688",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时26分 ~ 06时22分]"
+        },
+        {
+          "title": "金价回调半年抛压基本释放",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9E%E8%B0%83%E5%8D%8A%E5%B9%B4%E6%8A%9B%E5%8E%8B%E5%9F%BA%E6%9C%AC%E9%87%8A%E6%94%BE%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            30,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时26分 ~ 07时21分]"
+        },
+        {
+          "title": "金十图示：2026年08月18日（周二）上海金早盘价为953.79元/克，较国际金价(953.9元/克)，低0.11元/克",
+          "url": "https://flash.jin10.com/detail/20260818111717615800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 3,
       "titles": [
@@ -1308,37 +1420,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国际金价涨0.9%，白银涨1.7%",
-          "url": "https://wallstreetcn.com/livenews/3150688",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时26分 ~ 06时22分]"
-        },
-        {
-          "title": "金价回调半年抛压基本释放",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%9B%9E%E8%B0%83%E5%8D%8A%E5%B9%B4%E6%8A%9B%E5%8E%8B%E5%9F%BA%E6%9C%AC%E9%87%8A%E6%94%BE%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20,
-            30,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时26分 ~ 07时21分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -1353,11 +1434,12 @@
             19,
             9,
             8,
-            10
+            10,
+            13
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[00时26分 ~ 10时55分]"
+          "appearance_count": 13,
+          "time_info": "[00时26分 ~ 11时47分]"
         }
       ]
     },
@@ -1372,7 +1454,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时55分"
         }
@@ -1387,11 +1469,12 @@
           "url": "https://www.cls.cn/detail/2456537",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 11时47分]"
         }
       ]
     },
@@ -1406,9 +1489,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时55分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 11时47分]"
         }
       ]
     }
