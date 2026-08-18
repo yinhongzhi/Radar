@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T05:23:55.272601+08:00",
-  "total_titles_processed": 492,
+  "generated_at": "2026-08-19T06:21:46.241714+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "伊朗将重拳出击，霍尔木兹海峡上演猫鼠游戏",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 05时23分]"
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 06时21分]"
         },
         {
           "title": "伊朗称「美军比想象中更弱」，这一判断基于哪些事实，反映出美军的何种现状？",
@@ -25,22 +25,12 @@
           "ranks": [
             9,
             6,
-            5
+            5,
+            4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 05时23分]"
-        },
-        {
-          "title": "法国外长称将驱逐两名伊朗驻法外交人员",
-          "url": "https://wallstreetcn.com/livenews/3151337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 06时21分]"
         },
         {
           "title": "伊媒：伊朗最高领袖将主持宗教活动",
@@ -87,17 +77,6 @@
           "time_info": "01时43分"
         },
         {
-          "title": "伊朗外交部发言人警告称存在”假旗行动”，并指责（阿联酋）相关指控”毫无根据”。",
-          "url": "https://wallstreetcn.com/livenews/3151334",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
           "title": "伊朗最高国家安全委员会秘书雷扎伊：美国在霍尔木兹海峡的失利，标志波斯湾进入“后美国时代秩序”。",
           "url": "https://wallstreetcn.com/livenews/3151304",
           "source": "华尔街见闻-快讯",
@@ -111,6 +90,18 @@
           "time_info": "[03时34分 ~ 05时23分]"
         },
         {
+          "title": "法国外长称将驱逐两名伊朗驻法外交人员",
+          "url": "https://wallstreetcn.com/livenews/3151337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时21分]"
+        },
+        {
           "title": "伊朗宣布两名法国外交人员为“不受欢迎的人”",
           "url": "https://wallstreetcn.com/livenews/3151302",
           "source": "华尔街见闻-快讯",
@@ -122,6 +113,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时34分 ~ 05时23分]"
+        },
+        {
+          "title": "伊朗外交部发言人警告称存在”假旗行动”，并指责（阿联酋）相关指控”毫无根据”。",
+          "url": "https://wallstreetcn.com/livenews/3151334",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时21分]"
         },
         {
           "title": "伊朗最高领袖将主持活动",
@@ -146,6 +149,42 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时43分 ~ 03时34分]"
+        },
+        {
+          "title": "法国外长称将驱逐两名伊朗驻法外交人员",
+          "url": "https://flash.jin10.com/detail/20260819045100479800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时21分]"
+        },
+        {
+          "title": "伊朗外交部驳斥阿联酋关于伊朗向其发射导弹的指控",
+          "url": "https://flash.jin10.com/detail/20260819044854155800",
+          "source": "金十数据",
+          "ranks": [
+            7,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时21分]"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：呼吁地区各方勿对伊朗进行毫无根据的指责，并应警惕美以持续破坏地区和平的恶意行动及其假旗行动历史。",
+          "url": "https://flash.jin10.com/detail/20260819044707633800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时21分]"
         },
         {
           "title": "阿联酋称伊朗向该国发射两枚导弹，为5月以来首次袭击",
@@ -183,17 +222,6 @@
           "time_info": "03时34分"
         },
         {
-          "title": "法国外长称将驱逐两名伊朗驻法外交人员",
-          "url": "https://flash.jin10.com/detail/20260819045100479800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
           "title": "伊朗伊斯兰议会议长卡利巴夫： 美国人以为对伊朗施加更大压力，就能拿到协议中从未包含的让步。 美国财长贝森特与战争部长赫格塞斯完全不自量力。 别再指望这群跳梁小丑能变出什么奇迹，赶紧收拾你们自己捅出来的烂摊子。",
           "url": "https://wallstreetcn.com/livenews/3151258",
           "source": "华尔街见闻-快讯",
@@ -203,17 +231,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
-        },
-        {
-          "title": "伊朗外交部驳斥阿联酋关于伊朗向其发射导弹的指控",
-          "url": "https://flash.jin10.com/detail/20260819044854155800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
         },
         {
           "title": "伊朗议会议长卡利巴夫：美国人认为，对伊朗施加更大压力会换来让步，而这些让步从来就不在协议之中。美国财长贝森特和美国国防部长赫格塞思根本力不从心。",
@@ -227,15 +244,15 @@
           "time_info": "01时43分"
         },
         {
-          "title": "伊朗外交部发言人巴加埃：呼吁地区各方勿对伊朗进行毫无根据的指责，并应警惕美以持续破坏地区和平的恶意行动及其假旗行动历史。",
-          "url": "https://flash.jin10.com/detail/20260819044707633800",
-          "source": "金十数据",
+          "title": "阿官员称阿联酋已暂停与伊朗贸易往来",
+          "url": "https://wallstreetcn.com/livenews/3151338",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时23分"
+          "time_info": "06时21分"
         },
         {
           "title": "阿联酋国防部：探测到两枚从伊朗发射的弹道导弹。 一枚导弹落入领海以外海域，另一枚则坠入领海范围内。",
@@ -296,7 +313,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普发布地图，将霍尔木兹海峡划为“美国新领土”",
@@ -306,8 +323,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 05时23分]"
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 06时21分]"
         },
         {
           "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
@@ -317,8 +334,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 05时23分]"
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 06时21分]"
         },
         {
           "title": "罕见公开说“不”！内塔尼亚胡为何硬刚特朗普？",
@@ -328,8 +345,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 05时23分]"
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 06时21分]"
         },
         {
           "title": "特朗普的“相扑手”，会走上白宫讲台吗？",
@@ -339,8 +356,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 05时23分]"
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 06时21分]"
         },
         {
           "title": "特朗普反复要求CNN记者别吵：“假新闻，你闭嘴”",
@@ -351,8 +368,19 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 05时23分]"
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 06时21分]"
+        },
+        {
+          "title": "加拿大总理办公室：总理卡尼周二下午与美国总统特朗普通电话，讨论贸易磋商事宜。",
+          "url": "https://wallstreetcn.com/livenews/3151345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "据Politico：美国总统特朗普正在权衡是否暂缓对加拿大征收关税。",
@@ -377,6 +405,19 @@
           "time_info": "04时22分"
         },
         {
+          "title": "特朗普还对人民大会堂念念不忘",
+          "url": "https://www.toutiao.com/trending/7674416539562590254/",
+          "source": "今日头条",
+          "ranks": [
+            25,
+            18,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 06时21分]"
+        },
+        {
           "title": "特朗普威胁阿曼",
           "url": "https://www.douyin.com/hot/2613763",
           "source": "抖音",
@@ -390,18 +431,6 @@
           "time_info": "[01时43分 ~ 05时23分]"
         },
         {
-          "title": "特朗普还对人民大会堂念念不忘",
-          "url": "https://www.toutiao.com/trending/7674416539562590254/",
-          "source": "今日头条",
-          "ranks": [
-            25,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 03时34分]"
-        },
-        {
           "title": "据知情人士透露，美国总统特朗普考虑给予加拿大关税豁免。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3151293",
           "source": "华尔街见闻-快讯",
@@ -412,6 +441,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时34分 ~ 04时22分]"
+        },
+        {
+          "title": "加拿大总理卡尼办公室：加拿大总理卡尼和美国总统特朗普今天下午再次就正在进行的谈判进行了通话。",
+          "url": "https://flash.jin10.com/detail/20260819052539025800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         },
         {
           "title": "地区官员透露特朗普不满霍尔木兹海峡协议 以至于威胁阿曼",
@@ -475,6 +515,20 @@
       "match_count": 12,
       "titles": [
         {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14,
+            17,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 06时21分]"
+        },
+        {
           "title": "美股存储芯片指数初步收跌7.5%，费城半导体指数跌5.1%。 标普500指数初步收跌0.6%，科技板块跌2%，工业板块跌1.4%，能源板块涨1.7%。 纳斯达克100指数初步收跌1.6%，成分股中，CoreWeave初步收跌11.8%，Lumentum跌10%，泰瑞达跌9.8%，闪迪跌9.7%，迈威尔科技、希捷科技、Nebius Group NV、西部数据至少跌6.7%，吉利德科学涨3.3%，Adobe涨3.6%，财季Intuit涨4.3%。",
           "url": "https://wallstreetcn.com/livenews/3151321",
           "source": "华尔街见闻-快讯",
@@ -486,17 +540,40 @@
           "time_info": "04时22分"
         },
         {
-          "title": "美股",
-          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
-          "source": "微博",
+          "title": "美股大类资产类ETF多数收跌，新兴市场ETF跌超2.9%，黄金ETF跌1.7%",
+          "url": "https://wallstreetcn.com/livenews/3151328",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            14,
-            17,
+            10,
             19
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 05时23分]"
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时21分]"
+        },
+        {
+          "title": "周二（8月18日），美股行业ETF多数收跌，半导体ETF跌4.09%，全球科技股指数ETF跌3.08%，科技行业ETF跌2.47%，能源业ETF涨1.76%。",
+          "url": "https://wallstreetcn.com/livenews/3151324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时21分]"
+        },
+        {
+          "title": "周二（8月18日），彭博电动汽车价格回报指数跌2.50%，报3453.81点。 指数全天处于下跌状态，北京时间10:00前后显著扩大跌幅，美股开盘后迅速扩大跌幅。",
+          "url": "https://wallstreetcn.com/livenews/3151323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时23分 ~ 06时21分]"
         },
         {
           "title": "周二（8月18日）纽约尾盘，ICE原糖期货涨3.62%、整体呈现出N形走势，ICE白糖期货涨3.44%。 ICE阿拉比卡咖啡期货涨5.53%，咖啡“C”期货涨4.31%、美股开盘以来持续走高。罗布斯塔咖啡期货涨2.14%。 纽约可可期货跌2.39%，报5924美元/吨。伦敦可可期货跌1.83%。 芝加哥WCE双低油菜籽期货跌2.79%，美股开盘之前大致持平、之后持续下挫。 ICE棉花期货跌0.08%。",
@@ -542,39 +619,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
-        },
-        {
-          "title": "美股大类资产类ETF多数收跌，新兴市场ETF跌超2.9%，黄金ETF跌1.7%",
-          "url": "https://wallstreetcn.com/livenews/3151328",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "周二（8月18日），美股行业ETF多数收跌，半导体ETF跌4.09%，全球科技股指数ETF跌3.08%，科技行业ETF跌2.47%，能源业ETF涨1.76%。",
-          "url": "https://wallstreetcn.com/livenews/3151324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
-        },
-        {
-          "title": "周二（8月18日），彭博电动汽车价格回报指数跌2.50%，报3453.81点。 指数全天处于下跌状态，北京时间10:00前后显著扩大跌幅，美股开盘后迅速扩大跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3151323",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时23分"
         },
         {
           "title": "金十图示：2026年08月18日（周二）热门中概股行情一览（美股盘中）",
@@ -623,8 +667,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 05时23分]"
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 06时21分]"
         },
         {
           "title": "美债抛售潮恐持续！华尔街齐拉警报 一文读懂背后推手",
@@ -634,8 +678,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 05时23分]"
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 06时21分]"
         },
         {
           "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
@@ -645,8 +689,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 05时23分]"
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 06时21分]"
         },
         {
           "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
@@ -656,19 +700,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 05时23分]"
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 06时21分]"
         },
         {
           "title": "油价与通胀担忧推升美债收益率 美股三大期指集体走低 芯片股回调 | 今夜看点",
           "url": "https://www.cls.cn/detail/2457477",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时43分 ~ 05时23分]"
+          "appearance_count": 7,
+          "time_info": "[01时43分 ~ 06时21分]"
         }
       ]
     },
@@ -709,6 +754,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "据The Information：谷歌(GOOG.O)称其AI可完成前线部署工程师的部分工作。",
+          "url": "https://flash.jin10.com/detail/20260819053144316800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
+        },
+        {
+          "title": "谷歌称其AI可承担前沿部署工程师的工作",
+          "url": "https://wallstreetcn.com/livenews/3151344",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时21分"
         }
       ]
     },
