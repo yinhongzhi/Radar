@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T06:21:46.241714+08:00",
-  "total_titles_processed": 516,
+  "generated_at": "2026-08-19T07:21:13.679885+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 26,
+      "match_count": 28,
       "titles": [
         {
           "title": "伊朗将重拳出击，霍尔木兹海峡上演猫鼠游戏",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 07时21分]"
         },
         {
           "title": "伊朗称「美军比想象中更弱」，这一判断基于哪些事实，反映出美军的何种现状？",
@@ -26,11 +26,25 @@
             9,
             6,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 07时21分]"
+        },
+        {
+          "title": "伊朗最高领袖将主持活动",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%B0%86%E4%B8%BB%E6%8C%81%E6%B4%BB%E5%8A%A8",
+          "source": "百度热搜",
+          "ranks": [
+            26,
+            27,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 07时21分]"
         },
         {
           "title": "伊媒：伊朗最高领袖将主持宗教活动",
@@ -77,6 +91,32 @@
           "time_info": "01时43分"
         },
         {
+          "title": "伊朗最高领袖将主持活动",
+          "url": "https://www.toutiao.com/trending/7675368001662619182/",
+          "source": "今日头条",
+          "ranks": [
+            20,
+            30,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时43分 ~ 07时21分]"
+        },
+        {
+          "title": "法国外长称将驱逐两名伊朗驻法外交人员",
+          "url": "https://wallstreetcn.com/livenews/3151337",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            10,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时23分 ~ 07时21分]"
+        },
+        {
           "title": "伊朗最高国家安全委员会秘书雷扎伊：美国在霍尔木兹海峡的失利，标志波斯湾进入“后美国时代秩序”。",
           "url": "https://wallstreetcn.com/livenews/3151304",
           "source": "华尔街见闻-快讯",
@@ -88,18 +128,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[03时34分 ~ 05时23分]"
-        },
-        {
-          "title": "法国外长称将驱逐两名伊朗驻法外交人员",
-          "url": "https://wallstreetcn.com/livenews/3151337",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时23分 ~ 06时21分]"
         },
         {
           "title": "伊朗宣布两名法国外交人员为“不受欢迎的人”",
@@ -125,30 +153,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时21分]"
-        },
-        {
-          "title": "伊朗最高领袖将主持活动",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%B0%86%E4%B8%BB%E6%8C%81%E6%B4%BB%E5%8A%A8",
-          "source": "百度热搜",
-          "ranks": [
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 04时22分]"
-        },
-        {
-          "title": "伊朗最高领袖将主持活动",
-          "url": "https://www.toutiao.com/trending/7675368001662619182/",
-          "source": "今日头条",
-          "ranks": [
-            20,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 03时34分]"
         },
         {
           "title": "法国外长称将驱逐两名伊朗驻法外交人员",
@@ -185,6 +189,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时23分 ~ 06时21分]"
+        },
+        {
+          "title": "阿官员称阿联酋已暂停与伊朗贸易往来",
+          "url": "https://wallstreetcn.com/livenews/3151338",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时21分]"
         },
         {
           "title": "阿联酋称伊朗向该国发射两枚导弹，为5月以来首次袭击",
@@ -244,15 +260,26 @@
           "time_info": "01时43分"
         },
         {
-          "title": "阿官员称阿联酋已暂停与伊朗贸易往来",
-          "url": "https://wallstreetcn.com/livenews/3151338",
-          "source": "华尔街见闻-快讯",
+          "title": "阿联酋暂停与伊朗全部贸易金融往来，伊朗否认向阿发射导弹",
+          "url": "https://flash.jin10.com/detail/20260819065401081800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时21分"
+          "time_info": "07时21分"
+        },
+        {
+          "title": "伊朗副外长加里巴巴迪：伊朗掌握自身命运，不会在压力面前后退，本国人民将坚定反抗“胁迫与威胁”。",
+          "url": "https://wallstreetcn.com/livenews/3151360",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "阿联酋国防部：探测到两枚从伊朗发射的弹道导弹。 一枚导弹落入领海以外海域，另一枚则坠入领海范围内。",
@@ -313,7 +340,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普发布地图，将霍尔木兹海峡划为“美国新领土”",
@@ -323,8 +350,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 07时21分]"
         },
         {
           "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
@@ -334,8 +361,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 07时21分]"
         },
         {
           "title": "罕见公开说“不”！内塔尼亚胡为何硬刚特朗普？",
@@ -345,8 +372,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 07时21分]"
         },
         {
           "title": "特朗普的“相扑手”，会走上白宫讲台吗？",
@@ -356,8 +383,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 07时21分]"
         },
         {
           "title": "特朗普反复要求CNN记者别吵：“假新闻，你闭嘴”",
@@ -370,17 +397,6 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时43分 ~ 06时21分]"
-        },
-        {
-          "title": "加拿大总理办公室：总理卡尼周二下午与美国总统特朗普通电话，讨论贸易磋商事宜。",
-          "url": "https://wallstreetcn.com/livenews/3151345",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
         },
         {
           "title": "据Politico：美国总统特朗普正在权衡是否暂缓对加拿大征收关税。",
@@ -403,6 +419,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "应特朗普要求 韩美联合军演提前结束 训练日程缩短约一半",
+          "url": "https://flash.jin10.com/detail/20260819071141356800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "加拿大总理办公室：总理卡尼周二下午与美国总统特朗普通电话，讨论贸易磋商事宜。",
+          "url": "https://wallstreetcn.com/livenews/3151345",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时21分]"
         },
         {
           "title": "特朗普还对人民大会堂念念不忘",
@@ -431,6 +470,17 @@
           "time_info": "[01时43分 ~ 05时23分]"
         },
         {
+          "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
+          "url": "https://wallstreetcn.com/articles/3779720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
+        },
+        {
           "title": "据知情人士透露，美国总统特朗普考虑给予加拿大关税豁免。（Politico）",
           "url": "https://wallstreetcn.com/livenews/3151293",
           "source": "华尔街见闻-快讯",
@@ -449,9 +499,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
+        },
+        {
+          "title": "美官员：特朗普要求谈判团队暂停与伊朗接触",
+          "url": "https://wallstreetcn.com/livenews/3151364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
         },
         {
           "title": "地区官员透露特朗普不满霍尔木兹海峡协议 以至于威胁阿曼",
@@ -512,7 +573,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股",
@@ -525,8 +586,19 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 07时21分]"
+        },
+        {
+          "title": "AI债务化担忧发酵，美股指三连跌，芯片指数重挫6%，美长债走V",
+          "url": "https://wallstreetcn.com/articles/3779677",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
         },
         {
           "title": "美股存储芯片指数初步收跌7.5%，费城半导体指数跌5.1%。 标普500指数初步收跌0.6%，科技板块跌2%，工业板块跌1.4%，能源板块涨1.7%。 纳斯达克100指数初步收跌1.6%，成分股中，CoreWeave初步收跌11.8%，Lumentum跌10%，泰瑞达跌9.8%，闪迪跌9.7%，迈威尔科技、希捷科技、Nebius Group NV、西部数据至少跌6.7%，吉利德科学涨3.3%，Adobe涨3.6%，财季Intuit涨4.3%。",
@@ -538,6 +610,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "美股收盘：AI牛股集体重挫 医药、红利、软件板块轮动走强",
+          "url": "https://www.cls.cn/detail/2457697",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，新兴市场ETF跌超2.9%，黄金ETF跌1.7%",
@@ -660,17 +743,6 @@
       "match_count": 5,
       "titles": [
         {
-          "title": "全球股债齐挫！美股低开、存储芯片股普跌，30年期美债收益率创07年以来新高，油价上行、金银走弱",
-          "url": "https://wallstreetcn.com/articles/3779677",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时21分]"
-        },
-        {
           "title": "美债抛售潮恐持续！华尔街齐拉警报 一文读懂背后推手",
           "url": "https://www.cls.cn/detail/2457199",
           "source": "财联社热门",
@@ -678,8 +750,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 07时21分]"
         },
         {
           "title": "中东风险推高油价，美股美债齐跌，存储芯片、光通信逆势大涨，黄金涨回4400",
@@ -687,6 +759,17 @@
           "source": "华尔街见闻",
           "ranks": [
             4
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 07时21分]"
+        },
+        {
+          "title": "全球股债齐挫！美股低开、存储芯片股普跌，30年期美债收益率创07年以来新高，油价上行、金银走弱",
+          "url": "https://wallstreetcn.com/articles/3779677",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
           ],
           "is_new": false,
           "appearance_count": 7,
@@ -700,8 +783,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 07时21分]"
         },
         {
           "title": "油价与通胀担忧推升美债收益率 美股三大期指集体走低 芯片股回调 | 今夜看点",
@@ -712,8 +795,58 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时21分]"
+          "appearance_count": 9,
+          "time_info": "[01时43分 ~ 07时21分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "据悉OpenAI营收环比增长18%，但亏损扩大",
+          "url": "https://flash.jin10.com/detail/20260819063706290800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "据华尔街日报：OpenAI表示，截至6月的三个月内，其营收增长至67亿美元。",
+          "url": "https://flash.jin10.com/detail/20260819063142487800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时21分"
+        },
+        {
+          "title": "OpenAI：我们已暂停部分前沿模型强化学习训练",
+          "url": "https://wallstreetcn.com/livenews/3151282",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时34分"
+        },
+        {
+          "title": "OpenAI在Hugging Face数据泄露事件后调整人工智能安全机制。",
+          "url": "https://wallstreetcn.com/livenews/3151272",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时34分"
         }
       ]
     },
@@ -768,7 +901,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时21分"
         },
@@ -777,39 +910,29 @@
           "url": "https://wallstreetcn.com/livenews/3151344",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时21分 ~ 07时21分]"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI：我们已暂停部分前沿模型强化学习训练",
-          "url": "https://wallstreetcn.com/livenews/3151282",
-          "source": "华尔街见闻-快讯",
+          "title": "免费的 deepseek 能比得上 200 美元 / 月的 ChatGPT 吗？",
+          "url": "https://www.zhihu.com/question/14194805205",
+          "source": "知乎",
           "ranks": [
-            21
+            19
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时34分"
-        },
-        {
-          "title": "OpenAI在Hugging Face数据泄露事件后调整人工智能安全机制。",
-          "url": "https://wallstreetcn.com/livenews/3151272",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时34分"
+          "appearance_count": 2,
+          "time_info": "[07时20分 ~ 07时21分]"
         }
       ]
     }
