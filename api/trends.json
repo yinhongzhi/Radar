@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T19:24:35.542662+08:00",
-  "total_titles_processed": 1718,
+  "generated_at": "2026-08-18T20:42:09.516201+08:00",
+  "total_titles_processed": 1830,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 70,
+      "match_count": 73,
       "titles": [
         {
           "title": "特朗普最新支持率公布",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时55分 ~ 19时24分]"
+          "appearance_count": 14,
+          "time_info": "[10时55分 ~ 20时42分]"
         },
         {
           "title": "特朗普要求伊朗举白旗投降",
@@ -50,8 +50,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时55分 ~ 19时24分]"
+          "appearance_count": 14,
+          "time_info": "[10时55分 ~ 20时42分]"
         },
         {
           "title": "特朗普向朝韩发出强烈信号，信息量很大",
@@ -72,8 +72,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[15时19分 ~ 19时24分]"
+          "appearance_count": 10,
+          "time_info": "[15时19分 ~ 20时42分]"
         },
         {
           "title": "特朗普：金正恩已回应其对话请求",
@@ -85,8 +85,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时55分 ~ 19时24分]"
+          "appearance_count": 14,
+          "time_info": "[10时55分 ~ 20时42分]"
         },
         {
           "title": "特朗普将宣布霍尔木兹为美国领土",
@@ -131,6 +131,44 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[12时57分 ~ 15时36分]"
+        },
+        {
+          "title": "特朗普支持率创下其第二任期内新低",
+          "url": "https://www.toutiao.com/trending/7674808450081115711/",
+          "source": "今日头条",
+          "ranks": [
+            7,
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时34分 ~ 20时42分]"
+        },
+        {
+          "title": "特朗普还对人民大会堂念念不忘",
+          "url": "https://www.toutiao.com/trending/7674416539562590254/",
+          "source": "今日头条",
+          "ranks": [
+            13,
+            12,
+            6,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[16时34分 ~ 20时42分]"
+        },
+        {
+          "title": "罕见公开说“不”！内塔尼亚胡为何硬刚特朗普？",
+          "url": "https://news.ifeng.com/c/8vhArHdu44B",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 20时42分]"
         },
         {
           "title": "美以盟友关系现裂痕 特朗普称以色列应停止对加沙的袭击",
@@ -199,18 +237,6 @@
           "time_info": "03时27分"
         },
         {
-          "title": "特朗普支持率创下其第二任期内新低",
-          "url": "https://www.toutiao.com/trending/7674808450081115711/",
-          "source": "今日头条",
-          "ranks": [
-            7,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时34分 ~ 19时24分]"
-        },
-        {
           "title": "60天期限已到，特朗普威胁阿曼，伊朗称将“全面进攻”",
           "url": "https://news.ifeng.com/c/8vgLjEXesPE",
           "source": "凤凰网",
@@ -242,19 +268,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
-        },
-        {
-          "title": "特朗普还对人民大会堂念念不忘",
-          "url": "https://www.toutiao.com/trending/7674416539562590254/",
-          "source": "今日头条",
-          "ranks": [
-            13,
-            12,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时34分 ~ 19时24分]"
         },
         {
           "title": "特朗普：美国不寻求延长与伊朗的谅解备忘录",
@@ -346,6 +359,18 @@
           "time_info": "[17时32分 ~ 19时24分]"
         },
         {
+          "title": "特朗普还对人民大会堂念念不忘",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%98%E5%AF%B9%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 20时42分]"
+        },
+        {
           "title": "特朗普推文揭穿美韩同盟的价码",
           "url": "https://www.toutiao.com/trending/7675000036710682154/",
           "source": "今日头条",
@@ -356,6 +381,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时37分 ~ 03时27分]"
+        },
+        {
+          "title": "特朗普削减联合军演后，李在明表态",
+          "url": "https://news.ifeng.com/c/8vh0zqV3mqh",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时41分 ~ 20时42分]"
         },
         {
           "title": "土耳其总统埃尔多安告诉美国总统特朗普，以色列正在加沙袭击巴勒斯坦人，而和平计划第二阶段本应在此时生效。",
@@ -724,6 +760,17 @@
           "time_info": "02时37分"
         },
         {
+          "title": "据Politico：美国第四巡回上诉法院维持下级法院针对特朗普政府某些礼拜场所移民执法政策发布的禁令。",
+          "url": "https://flash.jin10.com/detail/20260818202741293800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "美国特使库什纳：与某些伊朗人的沟通比以往任何时候都更深入。 对话积极且富有成效。 我们尚未达成共识。 总统特朗普会在伊朗相关协议问题上保持耐心。（福克斯新闻）",
           "url": "https://wallstreetcn.com/livenews/3150659",
           "source": "华尔街见闻-快讯",
@@ -810,23 +857,12 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
-        },
-        {
-          "title": "特朗普还对人民大会堂念念不忘",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E8%BF%98%E5%AF%B9%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E5%BF%B5%E5%BF%B5%E4%B8%8D%E5%BF%98",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 48,
+      "match_count": 49,
       "titles": [
         {
           "title": "强撑颜面：美国派出第三艘航母，伊朗威胁升级冲突",
@@ -847,8 +883,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时55分 ~ 19时24分]"
+          "appearance_count": 14,
+          "time_info": "[10时55分 ~ 20时42分]"
         },
         {
           "title": "美伊60天谈判期届满，伊朗：已决定从防御转向全面进攻",
@@ -858,8 +894,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时47分 ~ 19时24分]"
+          "appearance_count": 13,
+          "time_info": "[11时47分 ~ 20时42分]"
         },
         {
           "title": "美国屡次“违约”，伊朗强硬派放弃对美幻想，被曝秘密扩军备战“新一轮对抗”",
@@ -893,8 +929,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时47分 ~ 19时24分]"
+          "appearance_count": 13,
+          "time_info": "[11时47分 ~ 20时42分]"
         },
         {
           "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
@@ -1308,6 +1344,17 @@
           "time_info": "18时26分"
         },
         {
+          "title": "伊朗强调美国不守约海峡就不重开",
+          "url": "https://wallstreetcn.com/livenews/3151102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时42分"
+        },
+        {
           "title": "伊朗官员：已为美国履行谅解备忘录设定最后期限",
           "url": "https://wallstreetcn.com/livenews/3150580",
           "source": "华尔街见闻-快讯",
@@ -1388,8 +1435,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[07时21分 ~ 19时24分]"
+          "appearance_count": 15,
+          "time_info": "[07时21分 ~ 20时42分]"
         },
         {
           "title": "美债逼近40万亿，美银Hartnett：做多黄金是当下最优解",
@@ -1415,8 +1462,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时55分 ~ 19时24分]"
+          "appearance_count": 14,
+          "time_info": "[10时55分 ~ 20时42分]"
         },
         {
           "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
@@ -1445,6 +1492,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[07时21分 ~ 15时20分]"
+        },
+        {
+          "title": "美债抛售潮恐持续！华尔街齐拉警报 一文读懂背后推手",
+          "url": "https://www.cls.cn/detail/2457199",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时26分 ~ 20时42分]"
         },
         {
           "title": "分析师：美债收益率飙升或冲击亚洲AI驱动的股市涨势",
@@ -1480,16 +1540,16 @@
           "time_info": "11时47分"
         },
         {
-          "title": "美债抛售潮恐持续！华尔街齐拉警报 一文读懂背后推手",
-          "url": "https://www.cls.cn/detail/2457199",
-          "source": "财联社热门",
+          "title": "全球股债齐挫！30年期美债收益率创07年以来新高，美股盘前科技股普跌，闪迪跌约4%，油价上行、金银走弱",
+          "url": "https://wallstreetcn.com/articles/3779677",
+          "source": "华尔街见闻",
           "ranks": [
             8,
-            5
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时26分 ~ 19时24分]"
+          "appearance_count": 3,
+          "time_info": "[19时24分 ~ 20时42分]"
         },
         {
           "title": "城堡证券：美债收益率飙升反映美联储政策风险，下次利率会议结果难料",
@@ -1540,17 +1600,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时26分 ~ 06时22分]"
-        },
-        {
-          "title": "全球股债齐挫！30年期美债收益率创07年以来新高，美股盘前科技股普跌，闪迪跌约4%，油价上行、金银走弱",
-          "url": "https://wallstreetcn.com/articles/3779677",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时24分"
         },
         {
           "title": "美债抛售中，交易员转向一个冷门套利策略",
@@ -1969,7 +2018,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -1980,7 +2029,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         },
@@ -1991,7 +2040,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
         }
@@ -2020,6 +2069,19 @@
           "time_info": "[00时26分 ~ 11时47分]"
         },
         {
+          "title": "DeepSeek招聘土木人才释放一个信号",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%8B%9B%E8%81%98%E5%9C%9F%E6%9C%A8%E4%BA%BA%E6%89%8D%E9%87%8A%E6%94%BE%E4%B8%80%E4%B8%AA%E4%BF%A1%E5%8F%B7",
+          "source": "百度热搜",
+          "ranks": [
+            5,
+            22,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[17时32分 ~ 20时42分]"
+        },
+        {
           "title": "DeepSeek Harness满血版解锁",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%BB%A1%E8%A1%80%E7%89%88",
           "source": "bilibili 热搜",
@@ -2030,18 +2092,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[15时36分 ~ 16时35分]"
-        },
-        {
-          "title": "DeepSeek招聘土木人才释放一个信号",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%8B%9B%E8%81%98%E5%9C%9F%E6%9C%A8%E4%BA%BA%E6%89%8D%E9%87%8A%E6%94%BE%E4%B8%80%E4%B8%AA%E4%BF%A1%E5%8F%B7",
-          "source": "百度热搜",
-          "ranks": [
-            5,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时32分 ~ 19时24分]"
         }
       ]
     },
