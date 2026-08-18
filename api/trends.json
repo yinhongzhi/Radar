@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-18T11:47:35.858859+08:00",
-  "total_titles_processed": 925,
+  "generated_at": "2026-08-18T12:57:40.994115+08:00",
+  "total_titles_processed": 1037,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 58,
+      "match_count": 59,
       "titles": [
         {
           "title": "特朗普要求伊朗举白旗投降",
@@ -66,8 +66,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 11时47分]"
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 12时57分]"
         },
         {
           "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
@@ -77,8 +77,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 11时47分]"
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 12时57分]"
         },
         {
           "title": "美以盟友关系现裂痕 特朗普称以色列应停止对加沙的袭击",
@@ -136,6 +136,17 @@
           "time_info": "03时27分"
         },
         {
+          "title": "美国议员：特朗普把欺骗到底当美德",
+          "url": "https://www.toutiao.com/trending/7674814398469947401/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
           "title": "60天期限已到，特朗普威胁阿曼，伊朗称将“全面进攻”",
           "url": "https://news.ifeng.com/c/8vgLjEXesPE",
           "source": "凤凰网",
@@ -167,6 +178,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
+        },
+        {
+          "title": "特朗普：金正恩已回应其对话请求",
+          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
+          "source": "凤凰网",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 12时57分]"
         },
         {
           "title": "特朗普：美国不寻求延长与伊朗的谅解备忘录",
@@ -281,6 +304,18 @@
           "time_info": "[06时22分 ~ 07时21分]"
         },
         {
+          "title": "特朗普被曝自己也通过邮寄选票投票",
+          "url": "https://www.toutiao.com/trending/7675157131825905718/",
+          "source": "今日头条",
+          "ranks": [
+            9,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 12时57分]"
+        },
+        {
           "title": "特朗普该如何应对弹药短缺",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%AF%A5%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E5%BC%B9%E8%8D%AF%E7%9F%AD%E7%BC%BA",
           "source": "bilibili 热搜",
@@ -315,17 +350,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时21分]"
-        },
-        {
-          "title": "特朗普：金正恩已回应其对话请求",
-          "url": "https://news.ifeng.com/c/8vgIS66EJvG",
-          "source": "凤凰网",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 11时47分]"
         },
         {
           "title": "特朗普称金正恩已回应其“对话”请求",
@@ -488,17 +512,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时27分"
-        },
-        {
-          "title": "特朗普被曝自己也通过邮寄选票投票",
-          "url": "https://www.toutiao.com/trending/7675157131825905718/",
-          "source": "今日头条",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时47分"
         },
         {
           "title": "美国总统特朗普：（关于英国首相）他面临移民和能源问题。",
@@ -680,7 +693,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 29,
       "titles": [
         {
           "title": "强撑颜面：美国派出第三艘航母，伊朗威胁升级冲突",
@@ -702,8 +715,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时26分 ~ 11时47分]"
+          "appearance_count": 14,
+          "time_info": "[00时26分 ~ 12时57分]"
         },
         {
           "title": "伊朗称美国被驱逐已成事实，今后不得进入波斯湾、阿曼湾和霍尔木兹海峡，如何看待这一表态？",
@@ -725,8 +738,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 11时47分]"
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 12时57分]"
         },
         {
           "title": "为向伊朗革命卫队传话，美国找了谁？",
@@ -736,8 +749,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 11时47分]"
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 12时57分]"
         },
         {
           "title": "美伊60天谈判期届满，伊朗：已决定从防御转向全面进攻",
@@ -746,20 +759,31 @@
           "ranks": [
             3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 12时57分]"
         },
         {
-          "title": "“美防长要丢工作了，可能要为伊朗战争背锅”",
-          "url": "https://news.ifeng.com/c/8vgcNfOmDFJ",
-          "source": "凤凰网",
+          "title": "伊朗细数美方四连败：战场未胜、换权未果、分裂未遂、武装未成",
+          "url": "https://flash.jin10.com/detail/20260818123922267800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "伊朗：多国外长私下坦言 伊朗战争外交均取得胜利",
+          "url": "https://flash.jin10.com/detail/20260818123637038800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时47分"
+          "time_info": "12时57分"
         },
         {
           "title": "伊朗最高领袖顾问：美国的未来将由“家庭餐桌”而非“作战室”决定",
@@ -810,6 +834,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时22分 ~ 07时21分]"
+        },
+        {
+          "title": "“美防长要丢工作了，可能要为伊朗战争背锅”",
+          "url": "https://news.ifeng.com/c/8vgcNfOmDFJ",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 12时57分]"
         },
         {
           "title": "伊朗最高领袖高级顾问批评了美国政府对伊朗的威胁性言辞，称美国家庭最终将承受华盛顿敌对政策带来的后果。",
@@ -869,6 +905,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时26分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：这场战争是一次难以忘怀的战争，敌人未能实现任何目标。",
+          "url": "https://flash.jin10.com/detail/20260818123233326800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐：伊朗在外交和战场上都取得了成功和胜利。",
+          "url": "https://flash.jin10.com/detail/20260818123000564800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
         },
         {
           "title": "市场消息：伊朗高级官员否认伊朗参与了针对伊拉克库尔德自治区总理位于埃尔比勒办公室的无人机袭击。该官员表示，这一事件是又一次假旗行动，与伊朗无关。",
@@ -996,8 +1054,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时21分 ~ 11时47分]"
+          "appearance_count": 4,
+          "time_info": "[07时21分 ~ 12时57分]"
+        },
+        {
+          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
+          "url": "https://www.cls.cn/detail/2456558",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时21分 ~ 12时57分]"
         },
         {
           "title": "6月日本大幅减持美债，策略师：料不会再减持",
@@ -1011,27 +1081,27 @@
           "time_info": "07时21分"
         },
         {
-          "title": "美股收盘：美债抛售拖累大盘 三大利好推动AI板块逆势走强",
-          "url": "https://www.cls.cn/detail/2456558",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时21分 ~ 11时47分]"
-        },
-        {
           "title": "荷兰国际银行：美伊停火协议到期，美债市场“偏空基调”还将延续",
           "url": "https://flash.jin10.com/detail/20260818113355527800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
+        },
+        {
+          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
+          "url": "https://wallstreetcn.com/articles/3779638",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 12时57分]"
         },
         {
           "title": "城堡证券：美债收益率飙升反映美联储政策风险，下次利率会议结果难料",
@@ -1047,6 +1117,19 @@
           "time_info": "[02时37分 ~ 04时25分]"
         },
         {
+          "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
+          "url": "https://www.cls.cn/detail/2456636",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 12时57分]"
+        },
+        {
           "title": "中英日在6月均减持美债",
           "url": "https://flash.jin10.com/detail/20260818041001621800",
           "source": "金十数据",
@@ -1058,29 +1141,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时25分 ~ 06时22分]"
-        },
-        {
-          "title": "美债抛售潮加剧！30年期美债收益率创2007年以来最高",
-          "url": "https://www.cls.cn/detail/2456636",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 11时47分]"
-        },
-        {
-          "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
-          "url": "https://wallstreetcn.com/articles/3779638",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 11时47分]"
         },
         {
           "title": "地产ETF、长端美债ETF收跌超0.8%，领跌美股大类资产类ETF",
@@ -1113,7 +1173,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
         },
@@ -1335,7 +1395,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
         },
@@ -1371,7 +1431,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
         }
@@ -1420,6 +1480,35 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "ChatGPT将变“购物车”？零售商专属信用卡发行商携手OpenAI推进AI内购",
+          "url": "https://www.cls.cn/detail/2456537",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 12时57分]"
+        },
+        {
+          "title": "OpenAI锁定4.25GW数据中心容量",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%94%81%E5%AE%9A4.25GW%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%E5%AE%B9%E9%87%8F",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -1461,24 +1550,6 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "ChatGPT将变“购物车”？零售商专属信用卡发行商携手OpenAI推进AI内购",
-          "url": "https://www.cls.cn/detail/2456537",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 11时47分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
@@ -1490,8 +1561,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 11时47分]"
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 12时57分]"
         }
       ]
     }
