@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T17:37:17.526785+08:00",
-  "total_titles_processed": 1311,
+  "generated_at": "2026-08-19T18:27:26.807254+08:00",
+  "total_titles_processed": 1405,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 36,
       "titles": [
         {
           "title": "特朗普发布地图，将霍尔木兹海峡划为“美国新领土”",
@@ -63,8 +63,21 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时57分 ~ 17时37分]"
+          "appearance_count": 6,
+          "time_info": "[10时57分 ~ 18时27分]"
+        },
+        {
+          "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
+          "url": "https://wallstreetcn.com/articles/3779720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[07时20分 ~ 18时27分]"
         },
         {
           "title": "特朗普反复要求CNN记者别吵：“假新闻，你闭嘴”",
@@ -80,17 +93,16 @@
           "time_info": "[01时43分 ~ 10时57分]"
         },
         {
-          "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
-          "url": "https://wallstreetcn.com/articles/3779720",
-          "source": "华尔街见闻",
+          "title": "特朗普宣布：推迟3天加征关税",
+          "url": "https://news.ifeng.com/c/8viES1IRwn8",
+          "source": "凤凰网",
           "ranks": [
-            9,
-            7,
-            8
+            4,
+            1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[07时20分 ~ 17时37分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 18时27分]"
         },
         {
           "title": "施压韩国，示好朝鲜，特朗普到底想干啥？",
@@ -102,18 +114,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时45分 ~ 11时46分]"
-        },
-        {
-          "title": "特朗普宣布：推迟3天加征关税",
-          "url": "https://news.ifeng.com/c/8viES1IRwn8",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 17时37分]"
         },
         {
           "title": "美官员：特朗普要求谈判团队暂停与伊朗接触",
@@ -158,6 +158,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "路透社/益普索民调：63%的美国人表示，特朗普及其家族去年通过加密货币项目获利超过10亿美元的行为“不恰当”。48%的特朗普共和党支持者认为，特朗普的商业交易会影响官方政策。",
+          "url": "https://flash.jin10.com/detail/20260819180046231800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "加拿大总理办公室：总理卡尼周二下午与美国总统特朗普通电话，讨论贸易磋商事宜。",
@@ -254,6 +265,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "路透社/益普索民调：69%的美国人认为，特朗普的私人商业利益会影响其作为总统作出的决策。",
+          "url": "https://flash.jin10.com/detail/20260819180032351800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
         },
         {
           "title": "特朗普称美加已达成协议 暂停对加拿大50%关税",
@@ -775,7 +797,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         },
@@ -805,7 +827,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "债市风暴持续，美股指三连跌，泛欧股指五连跌，美芯片指数重挫5%，原油三连涨",
@@ -815,8 +837,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时10分 ~ 17时37分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 18时27分]"
         },
         {
           "title": "美股收盘：AI牛股集体重挫 医药、红利、软件板块轮动走强",
@@ -869,17 +891,6 @@
           "time_info": "[07时20分 ~ 07时21分]"
         },
         {
-          "title": "李大霄提醒严防美股泡沫爆破冲击",
-          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E6%8F%90%E9%86%92%E4%B8%A5%E9%98%B2%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4%E5%86%B2%E5%87%BB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时31分"
-        },
-        {
           "title": "美股存储芯片指数初步收跌7.5%，费城半导体指数跌5.1%。 标普500指数初步收跌0.6%，科技板块跌2%，工业板块跌1.4%，能源板块涨1.7%。 纳斯达克100指数初步收跌1.6%，成分股中，CoreWeave初步收跌11.8%，Lumentum跌10%，泰瑞达跌9.8%，闪迪跌9.7%，迈威尔科技、希捷科技、Nebius Group NV、西部数据至少跌6.7%，吉利德科学涨3.3%，Adobe涨3.6%，财季Intuit涨4.3%。",
           "url": "https://wallstreetcn.com/livenews/3151321",
           "source": "华尔街见闻-快讯",
@@ -889,6 +900,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "雅诗兰黛第四季度净销售额36.3亿美元，预期35.5亿美元。 第四季度调整后每股收益39美分，预期32美分。 雅诗兰黛预计2027年净销售额增长3%至5%。 雅诗兰黛预计2027年调整后每股收益为3.10至3.35美元，市场预期3.19美元。 雅诗兰黛美股盘前一度涨8.5%。",
+          "url": "https://wallstreetcn.com/livenews/3151700",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时27分"
+        },
+        {
+          "title": "李大霄提醒严防美股泡沫爆破冲击",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E6%8F%90%E9%86%92%E4%B8%A5%E9%98%B2%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4%E5%86%B2%E5%87%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时31分 ~ 18时27分]"
         },
         {
           "title": "中东停火前景黯淡 美股能源板块再度冲向历史高位",
@@ -901,6 +935,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[10时57分 ~ 13时31分]"
+        },
+        {
+          "title": "微博第二季度净营收4.538亿美元，预估4.411亿美元。 第二季度调整后每股收益0.38美元，预估0.35美元。 第二季度调整后息税折旧及摊销前利润1.332亿美元，预估1.23亿美元。 第二季度月活跃用户5.6亿，预估5.7亿。 第二季度日活跃用户2.5亿，预估2.6亿。 微博美股盘前涨超2%。",
+          "url": "https://wallstreetcn.com/livenews/3151649",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 18时27分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，新兴市场ETF跌超2.9%，黄金ETF跌1.7%",
@@ -971,17 +1017,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
-        },
-        {
-          "title": "微博第二季度净营收4.538亿美元，预估4.411亿美元。 第二季度调整后每股收益0.38美元，预估0.35美元。 第二季度调整后息税折旧及摊销前利润1.332亿美元，预估1.23亿美元。 第二季度月活跃用户5.6亿，预估5.7亿。 第二季度日活跃用户2.5亿，预估2.6亿。 微博美股盘前涨超2%。",
-          "url": "https://wallstreetcn.com/livenews/3151649",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
         },
         {
           "title": "金十图示：2026年08月18日（周二）热门中概股行情一览（美股收盘）",
@@ -1122,8 +1157,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时45分 ~ 17时37分]"
+          "appearance_count": 5,
+          "time_info": "[11时45分 ~ 18时27分]"
+        },
+        {
+          "title": "全球瞩目！美联储会议纪要今夜来袭 能否抑制“美债风暴”？",
+          "url": "https://www.cls.cn/detail/2458004",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 18时27分]"
         },
         {
           "title": "美债抛售恐慌开始外溢？AI牛股齐跌 华尔街成惊弓之鸟……",
@@ -1137,17 +1183,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[10时57分 ~ 17时37分]"
-        },
-        {
-          "title": "全球瞩目！美联储会议纪要今夜来袭 能否抑制“美债风暴”？",
-          "url": "https://www.cls.cn/detail/2458004",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
         },
         {
           "title": "周三160亿美元20年期美债拍卖，收益率会否再创新高？",
@@ -1169,8 +1204,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时31分 ~ 17时37分]"
+          "appearance_count": 3,
+          "time_info": "[13时31分 ~ 18时27分]"
         },
         {
           "title": "25 年来最贵美债横空出世，美联储没加息，市场却完成一轮「被动加息」，有何影响？美债收益率为何飙升？",
@@ -1190,7 +1225,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时37分"
         }
@@ -1210,8 +1245,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[10时57分 ~ 17时37分]"
+          "appearance_count": 6,
+          "time_info": "[10时57分 ~ 18时27分]"
         },
         {
           "title": "OpenAI：下周起，ChatGPT广告将拓展至31个欧洲国家。",
@@ -1298,6 +1333,42 @@
           "time_info": "[10时57分 ~ 11时46分]"
         },
         {
+          "title": "梁文锋打新宇树科技浮盈11亿，雷军赚152亿，美团系浮盈333亿，大疆痛失超250亿",
+          "url": "https://wallstreetcn.com/articles/3779762",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 18时27分]"
+        },
+        {
+          "title": "宇树上市首日造富：天使投资人账面回报超800倍 DeepSeek配售浮盈近7亿元",
+          "url": "https://www.cls.cn/detail/2458007",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 18时27分]"
+        },
+        {
+          "title": "DeepSeek Harness 轻松破了 GitHub 记录，它能引发一场什么革命？",
+          "url": "https://www.zhihu.com/question/2072997638685864311",
+          "source": "知乎",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时37分 ~ 18时27分]"
+        },
+        {
           "title": "免费的 deepseek 能比得上 200 美元 / 月的 ChatGPT 吗？",
           "url": "https://www.zhihu.com/question/14194805205",
           "source": "知乎",
@@ -1307,39 +1378,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 07时21分]"
-        },
-        {
-          "title": "宇树上市首日造富：天使投资人账面回报超800倍 DeepSeek配售浮盈近7亿元",
-          "url": "https://www.cls.cn/detail/2458007",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "梁文锋打新宇树科技浮盈11亿，雷军赚152亿，美团系浮盈333亿，大疆痛失超250亿",
-          "url": "https://wallstreetcn.com/articles/3779762",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
-        },
-        {
-          "title": "DeepSeek Harness 轻松破了 GitHub 记录，它能引发一场什么革命？",
-          "url": "https://www.zhihu.com/question/2072997638685864311",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时37分"
         }
       ]
     },
