@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T11:46:04.490212+08:00",
-  "total_titles_processed": 981,
+  "generated_at": "2026-08-19T13:31:39.175072+08:00",
+  "total_titles_processed": 1105,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
         {
           "title": "特朗普发布地图，将霍尔木兹海峡划为“美国新领土”",
@@ -76,8 +76,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时57分 ~ 11时46分]"
+          "appearance_count": 4,
+          "time_info": "[10时57分 ~ 13时31分]"
+        },
+        {
+          "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
+          "url": "https://wallstreetcn.com/articles/3779720",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 13时31分]"
         },
         {
           "title": "施压韩国，示好朝鲜，特朗普到底想干啥？",
@@ -91,18 +103,6 @@
           "time_info": "[11时45分 ~ 11时46分]"
         },
         {
-          "title": "特朗普声称目前和未来不会与伊朗会谈，秀地图标注霍尔木兹为“美国新领土”",
-          "url": "https://wallstreetcn.com/articles/3779720",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 11时46分]"
-        },
-        {
           "title": "美官员：特朗普要求谈判团队暂停与伊朗接触",
           "url": "https://news.ifeng.com/c/8vhxQgiryUq",
           "source": "凤凰网",
@@ -112,6 +112,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "特朗普宣布：推迟3天加征关税",
+          "url": "https://news.ifeng.com/c/8viES1IRwn8",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "据Politico：美国总统特朗普正在权衡是否暂缓对加拿大征收关税。",
@@ -276,6 +287,17 @@
           "time_info": "09时10分"
         },
         {
+          "title": "据英国金融时报，伊朗军方内部人士透露，如果美国总统特朗普进一步升级美伊战争，伊朗已评估并将目标瞄准位于欧洲的美国及西方军事资产。",
+          "url": "https://wallstreetcn.com/livenews/3151483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
           "title": "据Axios：据白宫消息人士透露，白宫计划明天与特朗普共同举办一场活动，届时将有多位科技界领袖出席，但预测市场公司并未受邀，也不会参加。",
           "url": "https://flash.jin10.com/detail/20260819004821037800",
           "source": "金十数据",
@@ -378,7 +400,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 33,
       "titles": [
         {
           "title": "伊朗将重拳出击，霍尔木兹海峡上演猫鼠游戏",
@@ -624,6 +646,17 @@
           "time_info": "01时43分"
         },
         {
+          "title": "伊朗议会议长率团访问伊拉克 旨在加强两国战略合作",
+          "url": "https://wallstreetcn.com/livenews/3151487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
+        },
+        {
           "title": "持续遭到伊朗打击，“五角大楼考虑战后减少海湾军事存在”",
           "url": "https://news.ifeng.com/c/8vi4aHXkEbh",
           "source": "凤凰网",
@@ -743,13 +776,59 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时22分"
+        },
+        {
+          "title": "伊朗：没有美军基地的国家更安全",
+          "url": "https://flash.jin10.com/detail/20260819125544077800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
+        {
+          "title": "美股收盘：AI牛股集体重挫 医药、红利、软件板块轮动走强",
+          "url": "https://www.cls.cn/detail/2457697",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[07时20分 ~ 13时31分]"
+        },
+        {
+          "title": "债市风暴持续，美股指三连跌，泛欧股指五连跌，美芯片指数重挫5%，原油三连涨",
+          "url": "https://wallstreetcn.com/articles/3779677",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时10分 ~ 13时31分]"
+        },
+        {
+          "title": "【早报】美股存储、光通信板块大幅回落；原油上涨、黄金走低；宇树科技今日上市",
+          "url": "https://www.cls.cn/detail/2457709",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时10分 ~ 13时31分]"
+        },
         {
           "title": "美股",
           "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=14&Refer=top",
@@ -766,41 +845,6 @@
           "time_info": "[01时43分 ~ 09时10分]"
         },
         {
-          "title": "美股收盘：AI牛股集体重挫 医药、红利、软件板块轮动走强",
-          "url": "https://www.cls.cn/detail/2457697",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时20分 ~ 11时46分]"
-        },
-        {
-          "title": "债市风暴持续，美股指三连跌，泛欧股指五连跌，美芯片指数重挫5%，原油三连涨",
-          "url": "https://wallstreetcn.com/articles/3779677",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 11时46分]"
-        },
-        {
-          "title": "【早报】美股存储、光通信板块大幅回落；原油上涨、黄金走低；宇树科技今日上市",
-          "url": "https://www.cls.cn/detail/2457709",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时10分 ~ 11时46分]"
-        },
-        {
           "title": "AI债务化担忧发酵，美股指三连跌，芯片指数重挫6%，美长债走V",
           "url": "https://wallstreetcn.com/articles/3779677",
           "source": "华尔街见闻",
@@ -810,6 +854,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 07时21分]"
+        },
+        {
+          "title": "李大霄提醒严防美股泡沫爆破冲击",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E6%8F%90%E9%86%92%E4%B8%A5%E9%98%B2%E7%BE%8E%E8%82%A1%E6%B3%A1%E6%B2%AB%E7%88%86%E7%A0%B4%E5%86%B2%E5%87%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "美股存储芯片指数初步收跌7.5%，费城半导体指数跌5.1%。 标普500指数初步收跌0.6%，科技板块跌2%，工业板块跌1.4%，能源板块涨1.7%。 纳斯达克100指数初步收跌1.6%，成分股中，CoreWeave初步收跌11.8%，Lumentum跌10%，泰瑞达跌9.8%，闪迪跌9.7%，迈威尔科技、希捷科技、Nebius Group NV、西部数据至少跌6.7%，吉利德科学涨3.3%，Adobe涨3.6%，财季Intuit涨4.3%。",
@@ -831,8 +886,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时57分 ~ 11时46分]"
+          "appearance_count": 4,
+          "time_info": "[10时57分 ~ 13时31分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，新兴市场ETF跌超2.9%，黄金ETF跌1.7%",
@@ -974,7 +1029,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 10,
       "titles": [
         {
           "title": "美债抛售潮恐持续！华尔街齐拉警报 一文读懂背后推手",
@@ -1034,26 +1089,39 @@
           "time_info": "[01时43分 ~ 07时21分]"
         },
         {
-          "title": "美债抛售恐慌开始外溢？AI牛股齐跌 华尔街成惊弓之鸟……",
-          "url": "https://www.cls.cn/detail/2457780",
-          "source": "财联社热门",
+          "title": "周三160亿美元20年期美债拍卖，收益率会否再创新高？",
+          "url": "https://flash.jin10.com/detail/20260819131552974800",
+          "source": "金十数据",
           "ranks": [
-            6
+            1
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时57分 ~ 11时46分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "就在今晚！美债又将迎“大考”……",
           "url": "https://www.cls.cn/detail/2457871",
           "source": "财联社热门",
           "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时45分 ~ 13时31分]"
+        },
+        {
+          "title": "美债抛售恐慌开始外溢？AI牛股齐跌 华尔街成惊弓之鸟……",
+          "url": "https://www.cls.cn/detail/2457780",
+          "source": "财联社热门",
+          "ranks": [
+            6,
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时45分 ~ 11时46分]"
+          "appearance_count": 4,
+          "time_info": "[10时57分 ~ 13时31分]"
         },
         {
           "title": "25 年来最贵美债横空出世，美联储没加息，市场却完成一轮「被动加息」，有何影响？美债收益率为何飙升？",
@@ -1065,12 +1133,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "这是当前美股最大风险？华尔街策略师：一旦美债“破6”……",
+          "url": "https://www.cls.cn/detail/2457916",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "二季度收入仅增18%！OpenAI“暴雷”，远低于Anthropic",
@@ -1081,8 +1160,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时57分 ~ 11时46分]"
+          "appearance_count": 4,
+          "time_info": "[10时57分 ~ 13时31分]"
+        },
+        {
+          "title": "OpenAI：下周起，ChatGPT广告将拓展至31个欧洲国家。",
+          "url": "https://flash.jin10.com/detail/20260819130720644800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "据悉OpenAI营收环比增长18%，但亏损扩大",
