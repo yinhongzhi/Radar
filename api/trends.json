@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-19T07:21:13.679885+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-08-19T09:10:26.889250+08:00",
+  "total_titles_processed": 726,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 31,
       "titles": [
         {
           "title": "伊朗将重拳出击，霍尔木兹海峡上演猫鼠游戏",
@@ -27,11 +27,12 @@
             6,
             5,
             4,
-            3
+            3,
+            12
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时43分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[01时43分 ~ 09时10分]"
         },
         {
           "title": "伊朗最高领袖将主持活动",
@@ -249,6 +250,17 @@
           "time_info": "01时43分"
         },
         {
+          "title": "持续遭到伊朗打击，“五角大楼考虑战后减少海湾军事存在”",
+          "url": "https://news.ifeng.com/c/8vi4aHXkEbh",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫：美国人认为，对伊朗施加更大压力会换来让步，而这些让步从来就不在协议之中。美国财长贝森特和美国国防部长赫格塞思根本力不从心。",
           "url": "https://flash.jin10.com/detail/20260819010153494800",
           "source": "金十数据",
@@ -266,7 +278,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -277,7 +289,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -291,6 +303,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "伊朗举行哈梅内伊下葬四十日纪念仪式",
+          "url": "https://www.toutiao.com/trending/7675387852662226998/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "美国考虑减少在中东的军事布局，苦守数十年后因伊朗战争动摇",
+          "url": "https://flash.jin10.com/detail/20260819082730641800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         },
         {
           "title": "伊朗媒体调查称伊朗向阿联酋发射导弹报道缺乏依据",
@@ -340,18 +374,31 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普发布地图，将霍尔木兹海峡划为“美国新领土”",
           "url": "https://news.ifeng.com/c/8vhHYZ5eOge",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时43分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[01时43分 ~ 09时10分]"
+        },
+        {
+          "title": "罕见公开说“不”！内塔尼亚胡为何硬刚特朗普？",
+          "url": "https://news.ifeng.com/c/8vhArHdu44B",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时43分 ~ 09时10分]"
         },
         {
           "title": "特朗普：不着急结束伊朗战争，若阿曼阻碍谈判、将“狠狠轰炸”，伊朗警告转向全面进攻",
@@ -365,26 +412,16 @@
           "time_info": "[01时43分 ~ 07时21分]"
         },
         {
-          "title": "罕见公开说“不”！内塔尼亚胡为何硬刚特朗普？",
-          "url": "https://news.ifeng.com/c/8vhArHdu44B",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时43分 ~ 07时21分]"
-        },
-        {
           "title": "特朗普的“相扑手”，会走上白宫讲台吗？",
           "url": "https://news.ifeng.com/c/8vhELdiMK92",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            11
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时43分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[01时43分 ~ 09时10分]"
         },
         {
           "title": "特朗普反复要求CNN记者别吵：“假新闻，你闭嘴”",
@@ -392,11 +429,23 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            18
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时43分 ~ 06时21分]"
+          "appearance_count": 8,
+          "time_info": "[01时43分 ~ 09时10分]"
+        },
+        {
+          "title": "美官员：特朗普要求谈判团队暂停与伊朗接触",
+          "url": "https://news.ifeng.com/c/8vhxQgiryUq",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         },
         {
           "title": "据Politico：美国总统特朗普正在权衡是否暂缓对加拿大征收关税。",
@@ -427,7 +476,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -474,11 +523,24 @@
           "url": "https://wallstreetcn.com/articles/3779720",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 09时10分]"
+        },
+        {
+          "title": "美官员：特朗普要求谈判团队暂停与伊朗接触",
+          "url": "https://wallstreetcn.com/livenews/3151364",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            30
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
+          "time_info": "[07时21分 ~ 09时10分]"
         },
         {
           "title": "据知情人士透露，美国总统特朗普考虑给予加拿大关税豁免。（Politico）",
@@ -504,17 +566,6 @@
           "time_info": "06时21分"
         },
         {
-          "title": "美官员：特朗普要求谈判团队暂停与伊朗接触",
-          "url": "https://wallstreetcn.com/livenews/3151364",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时21分"
-        },
-        {
           "title": "地区官员透露特朗普不满霍尔木兹海峡协议 以至于威胁阿曼",
           "url": "https://flash.jin10.com/detail/20260819031133384800",
           "source": "金十数据",
@@ -535,6 +586,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时43分"
+        },
+        {
+          "title": "专家：特朗普示好朝鲜施压韩国",
+          "url": "https://www.toutiao.com/trending/7675308515237707819/",
+          "source": "今日头条",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         },
         {
           "title": "据Axios：据白宫消息人士透露，白宫计划明天与特朗普共同举办一场活动，届时将有多位科技界领袖出席，但预测市场公司并未受邀，也不会参加。",
@@ -559,6 +621,17 @@
           "time_info": "03时34分"
         },
         {
+          "title": "特朗普要求谈判团队暂停与伊朗接触",
+          "url": "https://www.toutiao.com/trending/7675509930534637119/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
           "title": "据知情人士透露，美国刻意弱化关于周二与加拿大达成贸易协议的希望。 美国总统特朗普与加拿大总理卡尼料将在周二再次对话。（彭博）",
           "url": "https://wallstreetcn.com/livenews/3151279",
           "source": "华尔街见闻-快讯",
@@ -568,12 +641,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "特朗普与万斯分歧藏不住了吗",
+          "url": "https://www.toutiao.com/trending/7675398229365624330/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "美股",
@@ -583,11 +667,12 @@
             14,
             17,
             19,
-            15
+            15,
+            27
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时43分 ~ 07时21分]"
+          "appearance_count": 10,
+          "time_info": "[01时43分 ~ 09时10分]"
         },
         {
           "title": "AI债务化担忧发酵，美股指三连跌，芯片指数重挫6%，美长债走V",
@@ -599,6 +684,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 07时21分]"
+        },
+        {
+          "title": "债市风暴持续，美股指三连跌，泛欧股指五连跌，美芯片指数重挫5%，原油三连涨",
+          "url": "https://wallstreetcn.com/articles/3779677",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
+          "title": "【早报】美股存储、光通信板块大幅回落；原油上涨、黄金走低；宇树科技今日上市",
+          "url": "https://www.cls.cn/detail/2457709",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         },
         {
           "title": "美股存储芯片指数初步收跌7.5%，费城半导体指数跌5.1%。 标普500指数初步收跌0.6%，科技板块跌2%，工业板块跌1.4%，能源板块涨1.7%。 纳斯达克100指数初步收跌1.6%，成分股中，CoreWeave初步收跌11.8%，Lumentum跌10%，泰瑞达跌9.8%，闪迪跌9.7%，迈威尔科技、希捷科技、Nebius Group NV、西部数据至少跌6.7%，吉利德科学涨3.3%，Adobe涨3.6%，财季Intuit涨4.3%。",
@@ -616,11 +723,12 @@
           "url": "https://www.cls.cn/detail/2457697",
           "source": "财联社热门",
           "ranks": [
-            6
+            6,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时20分 ~ 07时21分]"
+          "appearance_count": 3,
+          "time_info": "[07时20分 ~ 09时10分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，新兴市场ETF跌超2.9%，黄金ETF跌1.7%",
@@ -682,6 +790,17 @@
           "time_info": "04时22分"
         },
         {
+          "title": "美股三大股指全线收跌",
+          "url": "https://www.douyin.com/hot/2614994",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
+        },
+        {
           "title": "金十图示：2026年08月18日（周二）热门中概股行情一览（美股收盘）",
           "url": "https://flash.jin10.com/detail/20260819040537714800",
           "source": "金十数据",
@@ -740,7 +859,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "美债抛售潮恐持续！华尔街齐拉警报 一文读懂背后推手",
@@ -776,6 +895,18 @@
           "time_info": "[01时43分 ~ 06时21分]"
         },
         {
+          "title": "油价与通胀担忧推升美债收益率 美股三大期指集体走低 芯片股回调 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2457477",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[01时43分 ~ 09时10分]"
+        },
+        {
           "title": "30年期美债收益率创2007年以来新高：油价、财政赤字与AI发债共推长端利率上行",
           "url": "https://wallstreetcn.com/articles/3779638",
           "source": "华尔街见闻",
@@ -787,16 +918,15 @@
           "time_info": "[01时43分 ~ 07时21分]"
         },
         {
-          "title": "油价与通胀担忧推升美债收益率 美股三大期指集体走低 芯片股回调 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2457477",
-          "source": "财联社热门",
+          "title": "25 年来最贵美债横空出世，美联储没加息，市场却完成一轮「被动加息」，有何影响？美债收益率为何飙升？",
+          "url": "https://www.zhihu.com/question/2072027645802452564",
+          "source": "知乎",
           "ranks": [
-            11,
-            12
+            7
           ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时43分 ~ 07时21分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时10分"
         }
       ]
     },
@@ -811,7 +941,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
@@ -822,7 +952,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
         },
