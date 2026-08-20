@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-20T17:33:10.506346+08:00",
-  "total_titles_processed": 1613,
+  "generated_at": "2026-08-20T18:29:05.109782+08:00",
+  "total_titles_processed": 1720,
   "failed_sources": [],
   "trends": [
     {
@@ -27,8 +27,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时55分 ~ 17时33分]"
+          "appearance_count": 12,
+          "time_info": "[10时55分 ~ 18时29分]"
         },
         {
           "title": "警报拉响！美国联邦政府债务首破40万亿美元 特朗普淡化担忧",
@@ -53,11 +53,12 @@
             16,
             15,
             13,
-            11
+            11,
+            10
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[10时55分 ~ 17时33分]"
+          "appearance_count": 12,
+          "time_info": "[10时55分 ~ 18时29分]"
         },
         {
           "title": "特朗普宣布对伊朗发起空前经济战",
@@ -83,8 +84,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 17时33分]"
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 18时29分]"
         },
         {
           "title": "特朗普：金正恩不喜欢奥巴马，不喜欢拜登，只喜欢我",
@@ -95,8 +96,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时36分 ~ 17时33分]"
+          "appearance_count": 9,
+          "time_info": "[12时36分 ~ 18时29分]"
         },
         {
           "title": "特朗普宣布：对伊朗采取“史上最严厉经济行动”！",
@@ -190,6 +191,19 @@
           "time_info": "15时40分"
         },
         {
+          "title": "中方回应“特朗普称将同金正恩会晤”",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%90%8C%E9%87%91%E6%AD%A3%E6%81%A9%E4%BC%9A%E6%99%A4%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29,
+            28,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 18时29分]"
+        },
+        {
           "title": "美国总统特朗普：提名海蒂·奥弗顿博士担任下一任美国食品药品监督管理局（FDA）局长。",
           "url": "https://wallstreetcn.com/livenews/3151874",
           "source": "华尔街见闻-快讯",
@@ -251,18 +265,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时32分 ~ 02时39分]"
-        },
-        {
-          "title": "中方回应“特朗普称将同金正恩会晤”",
-          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E2%80%9C%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%B0%86%E5%90%8C%E9%87%91%E6%AD%A3%E6%81%A9%E4%BC%9A%E6%99%A4%E2%80%9D",
-          "source": "百度热搜",
-          "ranks": [
-            29,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 17时33分]"
         },
         {
           "title": "特朗普：预计年内会见金正恩，时间可能选在11月",
@@ -702,7 +704,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 32,
       "titles": [
         {
           "title": "伊朗伊斯兰革命卫队：若爆发新战争将使用破坏力更强武器",
@@ -714,17 +716,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时40分"
-        },
-        {
-          "title": "伊朗汽油日产能恢复至约1.3亿升",
-          "url": "https://wallstreetcn.com/livenews/3152239",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时33分"
         },
         {
           "title": "美联储会议纪要：伊朗战争升级给通胀前景“蒙上阴影”",
@@ -771,6 +762,18 @@
           "time_info": "02时39分"
         },
         {
+          "title": "伊朗汽油日产能恢复至约1.3亿升",
+          "url": "https://wallstreetcn.com/livenews/3152239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时33分 ~ 18时29分]"
+        },
+        {
           "title": "伊朗央行行长：目前尚未有任何被冻结的资金解冻",
           "url": "https://wallstreetcn.com/livenews/3151904",
           "source": "华尔街见闻-快讯",
@@ -795,6 +798,18 @@
           "time_info": "[14时45分 ~ 15时40分]"
         },
         {
+          "title": "伊朗：若爆发新战争将使用更强武器",
+          "url": "https://www.toutiao.com/trending/7675635736007770122/",
+          "source": "今日头条",
+          "ranks": [
+            10,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 18时29分]"
+        },
+        {
           "title": "伊拉克领导人会见伊朗议长，聚焦双边关系和地区局势",
           "url": "https://wallstreetcn.com/livenews/3151888",
           "source": "华尔街见闻-快讯",
@@ -805,17 +820,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 03时26分]"
-        },
-        {
-          "title": "伊朗：若爆发新战争将使用更强武器",
-          "url": "https://www.toutiao.com/trending/7675635736007770122/",
-          "source": "今日头条",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
         },
         {
           "title": "外交部回应美国宣布对伊朗实施“毁灭性经济行动”",
@@ -835,7 +839,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -1000,7 +1004,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -1038,6 +1042,17 @@
           "time_info": "13时29分"
         },
         {
+          "title": "德国央行：预计伊朗战争不会通过工资产生二次影响。",
+          "url": "https://flash.jin10.com/detail/20260820180350092800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "伊朗与阿曼就霍尔木兹海峡船舶通行机制谈判接近尾声",
           "url": "https://wallstreetcn.com/livenews/3152180",
           "source": "华尔街见闻-快讯",
@@ -1052,7 +1067,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 24,
       "titles": [
         {
           "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，黄金、加密货币大涨",
@@ -1062,8 +1077,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[09时07分 ~ 17时33分]"
+          "appearance_count": 14,
+          "time_info": "[09时07分 ~ 18时29分]"
         },
         {
           "title": "美国财政部出手！美国长债收益率下行，美股高开，存储芯片股、黄金股普涨，美元下跌",
@@ -1156,6 +1171,17 @@
           "time_info": "[01时26分 ~ 07时21分]"
         },
         {
+          "title": "阿里巴巴(BABA.N)美股盘前扭转跌势，上涨0.5%。",
+          "url": "https://flash.jin10.com/detail/20260820181333082800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "高盛：短期赢家和长期赢家正在分家，美股领导权开始切换",
           "url": "https://flash.jin10.com/detail/20260820103424340800",
           "source": "金十数据",
@@ -1184,7 +1210,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
         },
@@ -1259,15 +1285,37 @@
           "time_info": "04时27分"
         },
         {
+          "title": "富途控股美股盘前上涨10%，公司2026年Q2营收72亿港元，上年同期53.11亿港元，同比增35.6%。",
+          "url": "https://wallstreetcn.com/livenews/3152260",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
+        },
+        {
           "title": "网易有道(DAO.N)美股盘前上涨3.3%。",
           "url": "https://flash.jin10.com/detail/20260820171727597800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时33分"
+        },
+        {
+          "title": "阿里巴巴美股盘前跌约3%。",
+          "url": "https://wallstreetcn.com/livenews/3152256",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时29分"
         },
         {
           "title": "金十图示：2026年08月19日（周三）美股热门股票行情一览（美股盘中）",
@@ -1333,8 +1381,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时32分 ~ 17时33分]"
+          "appearance_count": 23,
+          "time_info": "[00时32分 ~ 18时29分]"
         },
         {
           "title": "美债最敏感时刻：160亿美元长债拍卖+美联储纪要，明日凌晨考验市场",
@@ -1373,8 +1421,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时36分 ~ 17时33分]"
+          "appearance_count": 8,
+          "time_info": "[12时36分 ~ 18时29分]"
         },
         {
           "title": "李大霄解读美债背后的逻辑",
@@ -1386,6 +1434,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "当“索罗斯门徒”铁了心稳美债：贝森特正化身美国首席债券交易员？",
+          "url": "https://www.cls.cn/detail/2459142",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时36分 ~ 18时29分]"
         },
         {
           "title": "破40万亿 狂飙美债对全球意味什么",
@@ -1402,16 +1462,16 @@
           "time_info": "[14时45分 ~ 17时33分]"
         },
         {
-          "title": "当“索罗斯门徒”铁了心稳美债：贝森特正化身美国首席债券交易员？",
-          "url": "https://www.cls.cn/detail/2459142",
-          "source": "财联社热门",
+          "title": "贝森特“救美债”就是“放弃美元”，花旗：强烈看多黄金！",
+          "url": "https://wallstreetcn.com/articles/3779856",
+          "source": "华尔街见闻",
           "ranks": [
-            12,
-            7
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时36分 ~ 17时33分]"
+          "appearance_count": 4,
+          "time_info": "[17时32分 ~ 18时29分]"
         },
         {
           "title": "欧洲国债追随美债上涨 德债止住连跌",
@@ -1437,17 +1497,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[10时55分 ~ 11时45分]"
-        },
-        {
-          "title": "贝森特“救美债”就是“放弃美元”，花旗：强烈看多黄金！",
-          "url": "https://wallstreetcn.com/articles/3779856",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时32分 ~ 17时33分]"
         },
         {
           "title": "美国财政部20年期国债拍卖得标利率5.204%，高于前次的5.163%，间接投标者获配比例62.9%，低于前次比例69.1%。 拍卖结束后，20年期美债收益率几乎没有变化。",
@@ -1639,6 +1688,72 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "DeepSeek Harness 轻松破了 GitHub 记录，它能引发一场什么革命？",
+          "url": "https://www.zhihu.com/question/2072997638685864311",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时32分 ~ 04时27分]"
+        },
+        {
+          "title": "梁文锋打新宇树科技浮盈11亿，雷军赚152亿，美团系浮盈333亿，大疆痛失超250亿",
+          "url": "https://wallstreetcn.com/articles/3779762",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时32分 ~ 09时08分]"
+        },
+        {
+          "title": "四月时，说预计下半年昇腾 950 超节点批量上市后，DeepSeek 的价格会大幅下调，这个预计还算数吗？",
+          "url": "https://www.zhihu.com/question/2071697998657106125",
+          "source": "知乎",
+          "ranks": [
+            18,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 06时23分]"
+        },
+        {
+          "title": "DeepSeek Harness 五天超越 151k star，它能引发一场什么革命？",
+          "url": "https://www.zhihu.com/question/2072997638685864311",
+          "source": "知乎",
+          "ranks": [
+            6,
+            11,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时22分 ~ 09时08分]"
+        },
+        {
+          "title": "DeepSeek Harness更新多模态",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%9B%B4%E6%96%B0",
+          "source": "bilibili 热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时28分 ~ 18时29分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "金价",
       "match_count": 5,
       "titles": [
@@ -1703,61 +1818,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "DeepSeek Harness 轻松破了 GitHub 记录，它能引发一场什么革命？",
-          "url": "https://www.zhihu.com/question/2072997638685864311",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时27分]"
-        },
-        {
-          "title": "梁文锋打新宇树科技浮盈11亿，雷军赚152亿，美团系浮盈333亿，大疆痛失超250亿",
-          "url": "https://wallstreetcn.com/articles/3779762",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时32分 ~ 09时08分]"
-        },
-        {
-          "title": "四月时，说预计下半年昇腾 950 超节点批量上市后，DeepSeek 的价格会大幅下调，这个预计还算数吗？",
-          "url": "https://www.zhihu.com/question/2071697998657106125",
-          "source": "知乎",
-          "ranks": [
-            18,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[00时32分 ~ 06时23分]"
-        },
-        {
-          "title": "DeepSeek Harness 五天超越 151k star，它能引发一场什么革命？",
-          "url": "https://www.zhihu.com/question/2072997638685864311",
-          "source": "知乎",
-          "ranks": [
-            6,
-            11,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时22分 ~ 09时08分]"
         }
       ]
     },
