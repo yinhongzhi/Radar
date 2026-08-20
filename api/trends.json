@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-20T11:45:33.918403+08:00",
-  "total_titles_processed": 1020,
+  "generated_at": "2026-08-20T12:36:18.244987+08:00",
+  "total_titles_processed": 1114,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 52,
+      "match_count": 53,
       "titles": [
         {
           "title": "特朗普宣布：推迟3天加征关税",
@@ -24,11 +24,12 @@
           "source": "今日头条",
           "ranks": [
             2,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 11时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时07分 ~ 12时36分]"
         },
         {
           "title": "特朗普宣布对伊朗采取史上最严厉的经济制裁措施",
@@ -51,6 +52,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "警报拉响！美国联邦政府债务首破40万亿美元 特朗普淡化担忧",
+          "url": "https://www.cls.cn/detail/2458963",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时07分 ~ 12时36分]"
         },
         {
           "title": "美国总统特朗普：非常希望利率能够下降。",
@@ -97,18 +110,6 @@
           "time_info": "07时21分"
         },
         {
-          "title": "警报拉响！美国联邦政府债务首破40万亿美元 特朗普淡化担忧",
-          "url": "https://www.cls.cn/detail/2458963",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 11时45分]"
-        },
-        {
           "title": "美国总统特朗普：提名海蒂·奥弗顿博士担任下一任美国食品药品监督管理局（FDA）局长。",
           "url": "https://wallstreetcn.com/livenews/3151874",
           "source": "华尔街见闻-快讯",
@@ -153,8 +154,34 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 11时45分]"
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 12时36分]"
+        },
+        {
+          "title": "特朗普宣布：对伊朗采取“史上最严厉经济行动”！",
+          "url": "https://www.cls.cn/detail/2458955",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 12时36分]"
+        },
+        {
+          "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33815315",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[10时55分 ~ 12时36分]"
         },
         {
           "title": "特朗普：与伊朗谈判或适时进行",
@@ -170,18 +197,6 @@
           "time_info": "[00时32分 ~ 02时39分]"
         },
         {
-          "title": "特朗普宣布：对伊朗采取“史上最严厉经济行动”！",
-          "url": "https://www.cls.cn/detail/2458955",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 11时45分]"
-        },
-        {
           "title": "特朗普说及重启伊朗谈判时表示：也许在某个时候。",
           "url": "https://wallstreetcn.com/livenews/3151866",
           "source": "华尔街见闻-快讯",
@@ -193,18 +208,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时32分 ~ 02时39分]"
-        },
-        {
-          "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33815315",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时55分 ~ 11时45分]"
         },
         {
           "title": "特朗普称可能在“某个时候”恢复与伊朗谈判",
@@ -253,6 +256,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时26分]"
+        },
+        {
+          "title": "特朗普：金正恩不喜欢奥巴马，不喜欢拜登，只喜欢我",
+          "url": "https://v.ifeng.com/c/8vjvzoGPbiN",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         },
         {
           "title": "美国未偿公共债务自2017年以来已翻倍增长。其中，特朗普两届总统任期内新增债务11.6万亿美元，前总统拜登任期内新增债务8.4万亿美元。",
@@ -470,7 +484,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         },
@@ -644,8 +658,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 11时45分]"
+          "appearance_count": 6,
+          "time_info": "[09时07分 ~ 12时36分]"
         },
         {
           "title": "美股收盘：贝森特“救市”止住连跌 癌症疫苗引爆医药板块行情",
@@ -657,8 +671,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时21分 ~ 11时45分]"
+          "appearance_count": 7,
+          "time_info": "[07时21分 ~ 12时36分]"
         },
         {
           "title": "【早报】美国出手稳债市，美元大幅跳水；美股存储、光通信板块下挫；原油收涨、黄金飙升；",
@@ -669,8 +683,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时21分 ~ 11时45分]"
+          "appearance_count": 7,
+          "time_info": "[07时21分 ~ 12时36分]"
         },
         {
           "title": "一款抗癌疫苗引爆美股医药股",
@@ -686,6 +700,19 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[01时26分 ~ 07时21分]"
+        },
+        {
+          "title": "8月20日投资避雷针：美股存储、光通信板块继续下挫 闪迪跌3.5%",
+          "url": "https://www.cls.cn/detail/2458966",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时07分 ~ 12时36分]"
         },
         {
           "title": "高盛：短期赢家和长期赢家正在分家，美股领导权开始切换",
@@ -708,19 +735,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
-        },
-        {
-          "title": "8月20日投资避雷针：美股存储、光通信板块继续下挫 闪迪跌3.5%",
-          "url": "https://www.cls.cn/detail/2458966",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时07分 ~ 11时45分]"
         },
         {
           "title": "美股存储、光通信板块下挫，希捷科技跌超7%，西部数据跌超6%，闪迪跌3.5%。Lumentum跌超5%，Coherent跌超6%，康宁跌超5%。",
@@ -968,7 +982,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美国财政部宣布扩大国债回购规模 美债收益率应声回落",
@@ -994,8 +1008,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 11时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时32分 ~ 12时36分]"
         },
         {
           "title": "美债最敏感时刻：160亿美元长债拍卖+美联储纪要，明日凌晨考验市场",
@@ -1008,8 +1022,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 11时45分]"
+          "appearance_count": 15,
+          "time_info": "[00时32分 ~ 12时36分]"
         },
         {
           "title": "全球长债遭抛售，30 年期美债收益率升破 5.3%，创 2007 年以来新高，将如何影响全球经济？",
@@ -1060,6 +1074,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 03时26分]"
+        },
+        {
+          "title": "以“索罗斯风格”来救美债！从汇率管到利率，贝森特能赢市场吗？",
+          "url": "https://wallstreetcn.com/articles/3779843",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时36分"
         },
         {
           "title": "美国“救美债”注入“强心针”，周四亚洲股市有望反弹",
@@ -1116,11 +1141,12 @@
           "url": "https://wallstreetcn.com/livenews/3152065",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            2,
+            18
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时36分]"
         },
         {
           "title": "OpenAI：我们将继续为前沿模型提供零数据留存服务。随着人工智能承担更长、自主性更强的工作，并为企业创造更高价值，安全系统也需要识别各类关联交互中存在的风险。为应对上述风险，我们推出私有安全处理预览版，该技术旨在提升安全防护水平，同时不让 OpenAI 工作人员接触底层原始内容。",
@@ -1153,7 +1179,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时45分"
         },
@@ -1201,17 +1227,6 @@
           "time_info": "[00时32分 ~ 09时08分]"
         },
         {
-          "title": "美国长债回购上限翻倍，金价4500之上在提前交易什么？",
-          "url": "https://flash.jin10.com/detail/20260820113216686800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时45分"
-        },
-        {
           "title": "现货黄金价格涨3.72%，报4495.29美元/盎司；现货白银价格涨4.15%，报65.93美元/盎司。",
           "url": "https://wallstreetcn.com/livenews/3151873",
           "source": "华尔街见闻-快讯",
@@ -1223,6 +1238,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[00时32分 ~ 02时39分]"
+        },
+        {
+          "title": "美国长债回购上限翻倍，金价4500之上在提前交易什么？",
+          "url": "https://flash.jin10.com/detail/20260820113216686800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时45分 ~ 12时36分]"
         },
         {
           "title": "金价创近三个月新高",
