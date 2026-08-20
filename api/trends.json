@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-20T22:35:05.434514+08:00",
-  "total_titles_processed": 2155,
+  "generated_at": "2026-08-20T23:33:17.157589+08:00",
+  "total_titles_processed": 2244,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 66,
+      "match_count": 68,
       "titles": [
         {
           "title": "特朗普称将于11月同金正恩会晤，外交部回应",
@@ -15,8 +15,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[16时36分 ~ 22时35分]"
+          "appearance_count": 12,
+          "time_info": "[16时36分 ~ 23时33分]"
         },
         {
           "title": "特朗普宣布：推迟3天加征关税",
@@ -45,8 +45,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时55分 ~ 22时35分]"
+          "appearance_count": 19,
+          "time_info": "[10时55分 ~ 23时33分]"
         },
         {
           "title": "特朗普：金正恩不喜欢奥巴马，不喜欢拜登，只喜欢我",
@@ -57,8 +57,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[12时36分 ~ 22时35分]"
+          "appearance_count": 16,
+          "time_info": "[12时36分 ~ 23时33分]"
         },
         {
           "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
@@ -69,8 +69,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[10时55分 ~ 22时35分]"
+          "appearance_count": 19,
+          "time_info": "[10时55分 ~ 23时33分]"
         },
         {
           "title": "警报拉响！美国联邦政府债务首破40万亿美元 特朗普淡化担忧",
@@ -103,6 +103,17 @@
           "time_info": "[09时07分 ~ 15时40分]"
         },
         {
+          "title": "特朗普威胁对伊朗实施“毁灭性经济行动”，伊外长回应",
+          "url": "https://news.ifeng.com/c/8vkaNEUn4sR",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[22时34分 ~ 23时33分]"
+        },
+        {
           "title": "特朗普宣布：对伊朗采取“史上最严厉经济行动”！",
           "url": "https://www.cls.cn/detail/2458955",
           "source": "财联社热门",
@@ -117,15 +128,16 @@
           "time_info": "[10时55分 ~ 16时36分]"
         },
         {
-          "title": "特朗普威胁对伊朗实施“毁灭性经济行动”，伊外长回应",
-          "url": "https://news.ifeng.com/c/8vkaNEUn4sR",
-          "source": "凤凰网",
+          "title": "新闻蒸馏器｜特朗普宣布经济战孤立伊朗，警告任何国家不得提供“生命线”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33815972",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            18,
+            16
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时34分 ~ 22时35分]"
+          "appearance_count": 7,
+          "time_info": "[19时24分 ~ 23时33分]"
         },
         {
           "title": "特朗普宣布对伊朗采取史上最严厉的经济制裁措施",
@@ -148,18 +160,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
-        },
-        {
-          "title": "新闻蒸馏器｜特朗普宣布经济战孤立伊朗，警告任何国家不得提供“生命线”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33815972",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[19时24分 ~ 22时35分]"
         },
         {
           "title": "美国总统特朗普：非常希望利率能够下降。",
@@ -474,6 +474,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "美国财政部禁止特朗普账户持有ESG基金。（福克斯商业新闻）",
+          "url": "https://wallstreetcn.com/livenews/3152457",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
           "title": "美国总统特朗普：利率水平太荒谬了。",
           "url": "https://flash.jin10.com/detail/20260820034236382800",
           "source": "金十数据",
@@ -769,12 +780,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时29分"
+        },
+        {
+          "title": "特朗普砸30亿美元能复兴美国矿产业吗",
+          "url": "https://www.toutiao.com/trending/7676091719460326921/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "伊朗伊斯兰革命卫队：若爆发新战争将使用破坏力更强武器",
@@ -845,6 +867,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时26分"
+        },
+        {
+          "title": "美军瞒天过海运石油，伊朗的“王牌”废了？",
+          "url": "https://v.ifeng.com/c/8vkj42fNrYG",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "伊朗外交部长：与巴基斯坦陆军司令通话。双方讨论地区局势、最新外交动态，以及推动政治和外交解决方案的努力，并强调加强沟通与合作。",
@@ -1111,7 +1144,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时35分"
         },
@@ -1149,6 +1182,28 @@
           "time_info": "13时29分"
         },
         {
+          "title": "美国财长贝森特：（关于伊朗）盟友们是时候做出决定了。",
+          "url": "https://flash.jin10.com/detail/20260820231745359800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
+          "title": "埃及央行连续第四次维持基准利率在19%不变，符合预期，伊朗战争还看不到结束的希望。",
+          "url": "https://wallstreetcn.com/livenews/3152450",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
+        },
+        {
           "title": "德国央行：预计伊朗战争不会通过工资产生二次影响。",
           "url": "https://flash.jin10.com/detail/20260820180350092800",
           "source": "金十数据",
@@ -1184,8 +1239,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[09时07分 ~ 22时35分]"
+          "appearance_count": 21,
+          "time_info": "[09时07分 ~ 23时33分]"
         },
         {
           "title": "美国财政部出手！美国长债收益率下行，美股高开，存储芯片股、黄金股普涨，美元下跌",
@@ -1352,11 +1407,12 @@
           "source": "财联社热门",
           "ranks": [
             13,
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时45分 ~ 22时35分]"
+          "appearance_count": 4,
+          "time_info": "[21时45分 ~ 23时33分]"
         },
         {
           "title": "美股收盘：三大股指集体收涨",
@@ -1435,7 +1491,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时35分"
         },
@@ -1542,7 +1598,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 24,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国财政部宣布扩大国债回购规模 美债收益率应声回落",
@@ -1597,8 +1653,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时36分 ~ 22时35分]"
+          "appearance_count": 15,
+          "time_info": "[12时36分 ~ 23时33分]"
+        },
+        {
+          "title": "贝森特“救美债”就是“放弃美元”，花旗：强烈看多黄金！",
+          "url": "https://wallstreetcn.com/articles/3779856",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[17时32分 ~ 23时33分]"
         },
         {
           "title": "全球长债遭抛售，30 年期美债收益率升破 5.3%，创 2007 年以来新高，将如何影响全球经济？",
@@ -1614,18 +1682,6 @@
           "time_info": "[00时32分 ~ 09时08分]"
         },
         {
-          "title": "贝森特“救美债”就是“放弃美元”，花旗：强烈看多黄金！",
-          "url": "https://wallstreetcn.com/articles/3779856",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[17时32分 ~ 22时35分]"
-        },
-        {
           "title": "美财政部回购效应消退 美债收益率回升 美股期指走低 | 今夜看点",
           "url": "https://www.cls.cn/detail/2459896",
           "source": "财联社热门",
@@ -1634,19 +1690,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[21时45分 ~ 22时35分]"
+          "appearance_count": 4,
+          "time_info": "[21时45分 ~ 23时33分]"
         },
         {
           "title": "股债汇三杀！美股低开，沃尔玛暴跌8.7%，回购提振效应消退，长期美债跌幅扩大，美元指数走弱，油涨金跌",
           "url": "https://wallstreetcn.com/articles/3779853",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[22时34分 ~ 22时35分]"
+          "appearance_count": 3,
+          "time_info": "[22时34分 ~ 23时33分]"
         },
         {
           "title": "李大霄解读美债背后的逻辑",
@@ -1658,6 +1715,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "14时45分"
+        },
+        {
+          "title": "美国财长贝森特谈美债回购，称：这（仅仅是）市场上一个微不足道的交易而已。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3152475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "当“索罗斯门徒”铁了心稳美债：贝森特正化身美国首席债券交易员？",
@@ -1789,6 +1857,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时21分"
+        },
+        {
+          "title": "美国财长贝森特：（关于美债）将观察情况以及是否需要更多行动。需要关注基本面，我们正在努力保持市场平衡。",
+          "url": "https://flash.jin10.com/detail/20260820231954952800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         },
         {
           "title": "摩根大通警告美国增加美债回购治标不治本 或反推升期限溢价与收益率",
@@ -1984,8 +2063,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[20时45分 ~ 22时35分]"
+          "appearance_count": 5,
+          "time_info": "[20时45分 ~ 23时33分]"
         },
         {
           "title": "DeepSeek Harness更新多模态",
@@ -1997,6 +2076,70 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[18时28分 ~ 18时29分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "谷歌旗下Waymo为其无人出租车自研定制芯片，已经量产",
+          "url": "https://wallstreetcn.com/livenews/3152437",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "22时35分"
+        },
+        {
+          "title": "科技七巨头中特斯拉收涨4.23%，亚马逊涨2.46%，苹果涨2.12%，微软涨0.55%，Meta Platforms涨0.46%，谷歌涨0.11%，英伟达跌1.08%。",
+          "url": "https://wallstreetcn.com/livenews/3151929",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 06时23分]"
+        },
+        {
+          "title": "谷歌表示，Waymo将Gemini集成到定制无人驾驶出租车Ojai中。",
+          "url": "https://wallstreetcn.com/livenews/3151946",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时23分 ~ 07时21分]"
+        },
+        {
+          "title": "Marvell因AI芯片交易协议大涨8%，该协议允许谷歌购买至多122亿美元股份",
+          "url": "https://wallstreetcn.com/livenews/3151920",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 06时23分]"
+        },
+        {
+          "title": "卫星初创公司Muon Space Inc.完成2.5亿美元融资，投资者包括Alphabet旗下谷歌公司和Salesforce。 该公司准备最快在2027年IPO。",
+          "url": "https://wallstreetcn.com/livenews/3152466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时33分"
         }
       ]
     },
@@ -2065,59 +2208,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "谷歌旗下Waymo为其无人出租车自研定制芯片，已经量产",
-          "url": "https://wallstreetcn.com/livenews/3152437",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时35分"
-        },
-        {
-          "title": "科技七巨头中特斯拉收涨4.23%，亚马逊涨2.46%，苹果涨2.12%，微软涨0.55%，Meta Platforms涨0.46%，谷歌涨0.11%，英伟达跌1.08%。",
-          "url": "https://wallstreetcn.com/livenews/3151929",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 06时23分]"
-        },
-        {
-          "title": "谷歌表示，Waymo将Gemini集成到定制无人驾驶出租车Ojai中。",
-          "url": "https://wallstreetcn.com/livenews/3151946",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时23分 ~ 07时21分]"
-        },
-        {
-          "title": "Marvell因AI芯片交易协议大涨8%，该协议允许谷歌购买至多122亿美元股份",
-          "url": "https://wallstreetcn.com/livenews/3151920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 06时23分]"
         }
       ]
     },
