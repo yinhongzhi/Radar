@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-20T10:56:07.644828+08:00",
-  "total_titles_processed": 929,
+  "generated_at": "2026-08-20T11:45:33.918403+08:00",
+  "total_titles_processed": 1020,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 51,
+      "match_count": 52,
       "titles": [
         {
           "title": "特朗普宣布：推迟3天加征关税",
@@ -15,19 +15,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 10时56分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 11时45分]"
         },
         {
           "title": "特朗普宣布对伊朗发起空前经济战",
           "url": "https://www.toutiao.com/trending/7675885516922818089/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 10时56分]"
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 11时45分]"
         },
         {
           "title": "特朗普宣布对伊朗采取史上最严厉的经济制裁措施",
@@ -96,6 +97,18 @@
           "time_info": "07时21分"
         },
         {
+          "title": "警报拉响！美国联邦政府债务首破40万亿美元 特朗普淡化担忧",
+          "url": "https://www.cls.cn/detail/2458963",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 11时45分]"
+        },
+        {
           "title": "美国总统特朗普：提名海蒂·奥弗顿博士担任下一任美国食品药品监督管理局（FDA）局长。",
           "url": "https://wallstreetcn.com/livenews/3151874",
           "source": "华尔街见闻-快讯",
@@ -133,15 +146,15 @@
           "time_info": "[06时23分 ~ 07时21分]"
         },
         {
-          "title": "警报拉响！美国联邦政府债务首破40万亿美元 特朗普淡化担忧",
-          "url": "https://www.cls.cn/detail/2458963",
-          "source": "财联社热门",
+          "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
+          "url": "https://wallstreetcn.com/articles/3779827",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            9
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 10时56分]"
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 11时45分]"
         },
         {
           "title": "特朗普：与伊朗谈判或适时进行",
@@ -157,6 +170,18 @@
           "time_info": "[00时32分 ~ 02时39分]"
         },
         {
+          "title": "特朗普宣布：对伊朗采取“史上最严厉经济行动”！",
+          "url": "https://www.cls.cn/detail/2458955",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 11时45分]"
+        },
+        {
           "title": "特朗普说及重启伊朗谈判时表示：也许在某个时候。",
           "url": "https://wallstreetcn.com/livenews/3151866",
           "source": "华尔街见闻-快讯",
@@ -170,6 +195,18 @@
           "time_info": "[00时32分 ~ 02时39分]"
         },
         {
+          "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33815315",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 11时45分]"
+        },
+        {
           "title": "特朗普称可能在“某个时候”恢复与伊朗谈判",
           "url": "https://wallstreetcn.com/livenews/3151887",
           "source": "华尔街见闻-快讯",
@@ -180,28 +217,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 03时26分]"
-        },
-        {
-          "title": "华尔街怎么看美财政部意外出手？变种QT来了，又一次“特朗普看跌期权”，沃什控通胀麻烦了",
-          "url": "https://wallstreetcn.com/articles/3779827",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        },
-        {
-          "title": "特朗普宣布：对伊朗采取“史上最严厉经济行动”！",
-          "url": "https://www.cls.cn/detail/2458955",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
         },
         {
           "title": "特朗普谈及债券市场：美国人无需担忧市场波动。",
@@ -226,17 +241,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时32分 ~ 01时26分]"
-        },
-        {
-          "title": "特朗普宣布对伊朗采取“史上最严厉经济行动”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33815315",
-          "source": "澎湃新闻",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
         },
         {
           "title": "Scotts Miracle-Gro涨超6%，特朗普称Scotts Miracle-Gro公司是一家伟大的公司。Scotts Miracle-Gro公司免费提供了草坪。",
@@ -460,6 +464,17 @@
           "time_info": "06时23分"
         },
         {
+          "title": "特朗普展示白宫新建直升机停机坪",
+          "url": "https://www.toutiao.com/trending/7675764522792189995/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
           "title": "美国总统特朗普：目前有很多船只正在通过霍尔木兹海峡，但未来某个时候这一速度可能会有所放缓。",
           "url": "https://flash.jin10.com/detail/20260820033658284800",
           "source": "金十数据",
@@ -629,8 +644,33 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 10时56分]"
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 11时45分]"
+        },
+        {
+          "title": "美股收盘：贝森特“救市”止住连跌 癌症疫苗引爆医药板块行情",
+          "url": "https://www.cls.cn/detail/2458911",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 11时45分]"
+        },
+        {
+          "title": "【早报】美国出手稳债市，美元大幅跳水；美股存储、光通信板块下挫；原油收涨、黄金飙升；",
+          "url": "https://www.cls.cn/detail/2458921",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时21分 ~ 11时45分]"
         },
         {
           "title": "一款抗癌疫苗引爆美股医药股",
@@ -648,37 +688,13 @@
           "time_info": "[01时26分 ~ 07时21分]"
         },
         {
-          "title": "美股收盘：贝森特“救市”止住连跌 癌症疫苗引爆医药板块行情",
-          "url": "https://www.cls.cn/detail/2458911",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时21分 ~ 10时56分]"
-        },
-        {
-          "title": "【早报】美国出手稳债市，美元大幅跳水；美股存储、光通信板块下挫；原油收涨、黄金飙升；",
-          "url": "https://www.cls.cn/detail/2458921",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时21分 ~ 10时56分]"
-        },
-        {
           "title": "高盛：短期赢家和长期赢家正在分家，美股领导权开始切换",
           "url": "https://flash.jin10.com/detail/20260820103424340800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -694,6 +710,19 @@
           "time_info": "04时27分"
         },
         {
+          "title": "8月20日投资避雷针：美股存储、光通信板块继续下挫 闪迪跌3.5%",
+          "url": "https://www.cls.cn/detail/2458966",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时07分 ~ 11时45分]"
+        },
+        {
           "title": "美股存储、光通信板块下挫，希捷科技跌超7%，西部数据跌超6%，闪迪跌3.5%。Lumentum跌超5%，Coherent跌超6%，康宁跌超5%。",
           "url": "https://wallstreetcn.com/livenews/3151930",
           "source": "华尔街见闻-快讯",
@@ -705,18 +734,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时27分 ~ 07时21分]"
-        },
-        {
-          "title": "8月20日投资避雷针：美股存储、光通信板块继续下挫 闪迪跌3.5%",
-          "url": "https://www.cls.cn/detail/2458966",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时07分 ~ 10时56分]"
         },
         {
           "title": "美股收盘：三大股指集体收涨",
@@ -792,7 +809,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         }
@@ -866,7 +883,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         },
@@ -977,8 +994,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 10时56分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 11时45分]"
         },
         {
           "title": "美债最敏感时刻：160亿美元长债拍卖+美联储纪要，明日凌晨考验市场",
@@ -991,8 +1008,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时32分 ~ 10时56分]"
+          "appearance_count": 14,
+          "time_info": "[00时32分 ~ 11时45分]"
         },
         {
           "title": "全球长债遭抛售，30 年期美债收益率升破 5.3%，创 2007 年以来新高，将如何影响全球经济？",
@@ -1021,6 +1038,18 @@
           "time_info": "[00时32分 ~ 02时39分]"
         },
         {
+          "title": "美债风暴来袭 全球资产面临重新定价",
+          "url": "https://www.toutiao.com/trending/7675905967950663177/",
+          "source": "今日头条",
+          "ranks": [
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时55分 ~ 11时45分]"
+        },
+        {
           "title": "美国财政部20年期国债拍卖得标利率5.204%，高于前次的5.163%，间接投标者获配比例62.9%，低于前次比例69.1%。 拍卖结束后，20年期美债收益率几乎没有变化。",
           "url": "https://wallstreetcn.com/livenews/3151884",
           "source": "华尔街见闻-快讯",
@@ -1031,17 +1060,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时39分 ~ 03时26分]"
-        },
-        {
-          "title": "美债风暴来袭 全球资产面临重新定价",
-          "url": "https://www.toutiao.com/trending/7675905967950663177/",
-          "source": "今日头条",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
         },
         {
           "title": "美国“救美债”注入“强心针”，周四亚洲股市有望反弹",
@@ -1072,7 +1090,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         }
@@ -1080,7 +1098,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "二季度收入仅增18%！OpenAI“暴雷”，远低于Anthropic",
@@ -1092,6 +1110,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时32分 ~ 07时21分]"
+        },
+        {
+          "title": "王兴兴：具身智能的“ChatGPT时刻”最快2到3年，最慢5到10年到来",
+          "url": "https://wallstreetcn.com/livenews/3152065",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
         },
         {
           "title": "OpenAI：我们将继续为前沿模型提供零数据留存服务。随着人工智能承担更长、自主性更强的工作，并为企业创造更高价值，安全系统也需要识别各类关联交互中存在的风险。为应对上述风险，我们推出私有安全处理预览版，该技术旨在提升安全防护水平，同时不让 OpenAI 工作人员接触底层原始内容。",
@@ -1118,6 +1147,17 @@
           "time_info": "[02时39分 ~ 03时26分]"
         },
         {
+          "title": "OpenAI内部大会释放失落信号：今年IPO可能性愈发渺茫",
+          "url": "https://www.cls.cn/detail/2458892",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
           "title": "OpenAI首席财务官：公司“将在2027年上市”或更早",
           "url": "https://wallstreetcn.com/livenews/3151918",
           "source": "华尔街见闻-快讯",
@@ -1135,7 +1175,74 @@
           "ranks": [
             24
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时56分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "金价彻底反弹了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E5%8F%8D%E5%BC%B9%E4%BA%86%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29,
+            21,
+            22,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时32分 ~ 09时08分]"
+        },
+        {
+          "title": "美国长债回购上限翻倍，金价4500之上在提前交易什么？",
+          "url": "https://flash.jin10.com/detail/20260820113216686800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时45分"
+        },
+        {
+          "title": "现货黄金价格涨3.72%，报4495.29美元/盎司；现货白银价格涨4.15%，报65.93美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3151873",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            11,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[00时32分 ~ 02时39分]"
+        },
+        {
+          "title": "金价创近三个月新高",
+          "url": "https://www.toutiao.com/trending/7675880209714954276/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时55分 ~ 10时56分]"
+        },
+        {
+          "title": "金十图示：2026年08月20日（周四）上海金早盘价为970.5元/克，较国际金价(971.24元/克)，低0.74元/克",
+          "url": "https://flash.jin10.com/detail/20260820102731277800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时56分"
         }
@@ -1193,62 +1300,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[06时22分 ~ 09时08分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "金价彻底反弹了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%BD%BB%E5%BA%95%E5%8F%8D%E5%BC%B9%E4%BA%86%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29,
-            21,
-            22,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时32分 ~ 09时08分]"
-        },
-        {
-          "title": "现货黄金价格涨3.72%，报4495.29美元/盎司；现货白银价格涨4.15%，报65.93美元/盎司。",
-          "url": "https://wallstreetcn.com/livenews/3151873",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时32分 ~ 02时39分]"
-        },
-        {
-          "title": "金价创近三个月新高",
-          "url": "https://www.toutiao.com/trending/7675880209714954276/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时55分 ~ 10时56分]"
-        },
-        {
-          "title": "金十图示：2026年08月20日（周四）上海金早盘价为970.5元/克，较国际金价(971.24元/克)，低0.74元/克",
-          "url": "https://flash.jin10.com/detail/20260820102731277800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时56分"
         }
       ]
     },
