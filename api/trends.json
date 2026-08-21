@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-21T21:43:58.727714+08:00",
-  "total_titles_processed": 2119,
+  "generated_at": "2026-08-21T22:33:53.804100+08:00",
+  "total_titles_processed": 2213,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 37,
       "titles": [
         {
           "title": "特朗普称将于11月同金正恩会晤，外交部回应",
@@ -128,11 +128,24 @@
           "url": "https://v.ifeng.com/c/8vlFqYJqoVW",
           "source": "凤凰网",
           "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 22时33分]"
+        },
+        {
+          "title": "特朗普如何靠经济施压逼伊朗低头？",
+          "url": "https://v.ifeng.com/c/8vm757az9xy",
+          "source": "凤凰网",
+          "ranks": [
+            7,
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 22时33分]"
         },
         {
           "title": "特朗普签署备忘录以促进美航天发射，探索商业机器人登陆火星",
@@ -159,17 +172,6 @@
           "time_info": "[00时39分 ~ 01时27分]"
         },
         {
-          "title": "特朗普如何靠经济施压逼伊朗低头？",
-          "url": "https://v.ifeng.com/c/8vm757az9xy",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 21时43分]"
-        },
-        {
           "title": "特朗普称白宫立法事务主任布雷德将离职",
           "url": "https://wallstreetcn.com/livenews/3152497",
           "source": "华尔街见闻-快讯",
@@ -194,13 +196,46 @@
           "time_info": "[04时26分 ~ 07时24分]"
         },
         {
+          "title": "据报道，阿曼官员表示，他们并不认真对待特朗普的威胁。",
+          "url": "https://flash.jin10.com/detail/20260821221427911800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "卡塔尔智库研究员：特朗普“经济D日”威胁剑指伊朗，美国市场却先承压",
+          "url": "https://flash.jin10.com/detail/20260821221353215800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "特朗普宣布暂时豁免碎牛肉进口关税",
+          "url": "https://wallstreetcn.com/livenews/3153107",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "VIP·特朗普发言追踪上线！",
           "url": "https://flash.jin10.com/detail/20260821213239462800",
           "source": "金十数据",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -269,6 +304,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "19时24分"
+        },
+        {
+          "title": "美媒：油价已在逐渐忽略特朗普发帖的影响",
+          "url": "https://flash.jin10.com/detail/20260821220855277800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "美国总统特朗普：经济从未像现在这般强劲。 倘若我再度参选，我将以25个百分点的优势获胜。",
@@ -370,6 +416,17 @@
           "time_info": "19时24分"
         },
         {
+          "title": "据CNBC：特朗普政府任命前摩根大通高管马特·扎梅斯担任社会保障局顾问。",
+          "url": "https://flash.jin10.com/detail/20260821215507852800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-21）",
           "url": "https://flash.jin10.com/detail/20260821180616784800",
           "source": "金十数据",
@@ -384,7 +441,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 26,
+      "match_count": 27,
       "titles": [
         {
           "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，黄金突破200日均线，数字货币再猛涨",
@@ -394,8 +451,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时12分 ~ 21时43分]"
+          "appearance_count": 16,
+          "time_info": "[09时12分 ~ 22时33分]"
         },
         {
           "title": "美财政部回购效应消退 美债收益率回升 美股期指走低 | 今夜看点",
@@ -422,8 +479,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时01分 ~ 21时43分]"
+          "appearance_count": 15,
+          "time_info": "[11时01分 ~ 22时33分]"
         },
         {
           "title": "股债汇三杀！美股低开，沃尔玛暴跌8.7%，回购提振效应消退，长期美债跌幅扩大，美元指数走弱，油涨金跌",
@@ -533,6 +590,18 @@
           "time_info": "[11时01分 ~ 11时57分]"
         },
         {
+          "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2461060",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 22时33分]"
+        },
+        {
           "title": "中长期美债收益率涨约4个基点",
           "url": "https://wallstreetcn.com/livenews/3152571",
           "source": "华尔街见闻-快讯",
@@ -543,6 +612,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时26分]"
+        },
+        {
+          "title": "贝森特扩大美债回购被指“玩火” 美国或重演日本式货币贬值",
+          "url": "https://wallstreetcn.com/livenews/3153086",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 22时33分]"
         },
         {
           "title": "美债回购“信号意义”重于“实际效果”！野村：如果市场继续恶化，美联储会下场“YCC或QE”",
@@ -557,26 +638,15 @@
           "time_info": "[20时43分 ~ 21时43分]"
         },
         {
-          "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2461060",
-          "source": "财联社热门",
+          "title": "贝森特回购难消市场疑虑，30年期美债升至5.26%，美股高开，区块链概念股普涨，金油齐涨",
+          "url": "https://wallstreetcn.com/articles/3779986",
+          "source": "华尔街见闻",
           "ranks": [
-            6
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时43分"
-        },
-        {
-          "title": "贝森特扩大美债回购被指“玩火” 美国或重演日本式货币贬值",
-          "url": "https://wallstreetcn.com/livenews/3153086",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
+          "time_info": "22时33分"
         },
         {
           "title": "美财政部欲砸钱救美债，摩根大通怒批饮鸩止渴，高盛开出“药方”",
@@ -629,7 +699,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -703,7 +773,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "伊朗真要“由守转攻”吗？",
@@ -733,11 +803,12 @@
           "url": "https://news.ifeng.com/c/8vmE3dZz2HS",
           "source": "凤凰网",
           "ranks": [
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 21时43分]"
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 22时33分]"
         },
         {
           "title": "美财长：24日举行新闻发布会阐述针对伊朗的行动",
@@ -926,6 +997,17 @@
           "time_info": "01时27分"
         },
         {
+          "title": "贝森特：美国将对伊朗实施史上最严厉制裁 或无需重启大规模军事行动",
+          "url": "https://www.cls.cn/detail/2460827",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "伊朗谴责美国新制裁 称将维护国家利益",
           "url": "https://flash.jin10.com/detail/20260821022738382800",
           "source": "金十数据",
@@ -957,6 +1039,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        },
+        {
+          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗海军指挥官称，敌人将不被允许接近伊朗领土。",
+          "url": "https://flash.jin10.com/detail/20260821220047723800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "伊朗：若爆发新战争将使用更强武器",
@@ -995,7 +1088,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 21,
       "titles": [
         {
           "title": "美国财政部出手救长债！美股终结三连跌，Moderna暴涨177%，黄金、加密货币大涨",
@@ -1140,13 +1233,35 @@
           "time_info": "14时43分"
         },
         {
+          "title": "美股三大指数高开 SK海力士涨超2%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E6%8C%87%E6%95%B0%E9%AB%98%E5%BC%80+SK%E6%B5%B7%E5%8A%9B%E5%A3%AB%E6%B6%A8%E8%B6%852%25",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "美股区块链概念股大涨，嘉楠科技涨超26%，第九城市涨超11%，MARA Holdings涨近10%，Coinbase Global涨超9%。",
+          "url": "https://wallstreetcn.com/livenews/3153104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
           "title": "周五美股盘前你需要了解的全球要闻",
           "url": "https://wallstreetcn.com/livenews/3153076",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -1157,7 +1272,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "21时43分"
         },
@@ -1171,6 +1286,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时12分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF普涨，全球航空业ETF涨超1%，区域银行业ETF、半导体ETF涨近1%。",
+          "url": "https://wallstreetcn.com/livenews/3153096",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
+        },
+        {
+          "title": "美股盘初：纳指涨0.5%，区块链概念股多数上涨",
+          "url": "https://wallstreetcn.com/livenews/3153094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时33分"
         },
         {
           "title": "美股三大指数进一步下跌，道指数跌超1%，标普500指数跌0.58%，纳指跌0.95%。",
@@ -1201,6 +1338,20 @@
       "match_count": 8,
       "titles": [
         {
+          "title": "怎么评价 DeepSeek-V4-Flash-Vision-Exp 发布，多模态能力表现如何？",
+          "url": "https://www.zhihu.com/question/2074181821978376015",
+          "source": "知乎",
+          "ranks": [
+            5,
+            4,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 22时33分]"
+        },
+        {
           "title": "Deepseek 涨价了，有哪些便宜的替代方案？",
           "url": "https://www.zhihu.com/question/2072733800774354696",
           "source": "知乎",
@@ -1218,6 +1369,18 @@
           "time_info": "[02时37分 ~ 09时12分]"
         },
         {
+          "title": "DeepSeek多模态模型来了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[20时43分 ~ 22时33分]"
+        },
+        {
           "title": "如何看待 8 月 19 日下午 DeepSeek 被曝再次开始灰度测试，能力超过上次灰测？",
           "url": "https://www.zhihu.com/question/2073476043097359622",
           "source": "知乎",
@@ -1230,31 +1393,6 @@
           "time_info": "[01时27分 ~ 07时24分]"
         },
         {
-          "title": "怎么评价 DeepSeek-V4-Flash-Vision-Exp 发布，多模态能力表现如何？",
-          "url": "https://www.zhihu.com/question/2074181821978376015",
-          "source": "知乎",
-          "ranks": [
-            5,
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 21时43分]"
-        },
-        {
-          "title": "DeepSeek多模态模型来了",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%A4%9A%E6%A8%A1%E6%80%81%E6%A8%A1%E5%9E%8B%E6%9D%A5%E4%BA%86",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[20时43分 ~ 21时43分]"
-        },
-        {
           "title": "DeepSeekV4视觉模型上线",
           "url": "https://www.baidu.com/s?wd=DeepSeekV4%E8%A7%86%E8%A7%89%E6%A8%A1%E5%9E%8B%E4%B8%8A%E7%BA%BF",
           "source": "百度热搜",
@@ -1264,8 +1402,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[19时24分 ~ 21时43分]"
+          "appearance_count": 4,
+          "time_info": "[19时24分 ~ 22时33分]"
         },
         {
           "title": "如何看待8月19日下午DeepSeek被曝再次开始灰度测试，能力超过上次灰测？",
@@ -1378,8 +1516,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[17时34分 ~ 21时43分]"
+          "appearance_count": 7,
+          "time_info": "[17时34分 ~ 22时33分]"
         },
         {
           "title": "OpenAI：Mac桌面应用中的“电脑历史记录”功能现已向欧洲经济区、英国和瑞士的Pro、Business及Enterprise用户开放。",
@@ -1421,8 +1559,20 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[18时28分 ~ 21时43分]"
+          "appearance_count": 5,
+          "time_info": "[18时28分 ~ 22时33分]"
+        },
+        {
+          "title": "金价涨嗨了",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%B6%A8%E5%97%A8%E4%BA%86%23&t=31&band_rank=28&Refer=top",
+          "source": "微博",
+          "ranks": [
+            28,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时43分 ~ 22时33分]"
         },
         {
           "title": "长债一松一紧，金价4500后还要等信号！",
@@ -1434,17 +1584,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时38分"
-        },
-        {
-          "title": "金价涨嗨了",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E6%B6%A8%E5%97%A8%E4%BA%86%23&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时43分"
         }
       ]
     },
