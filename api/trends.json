@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-21T11:57:16.198520+08:00",
-  "total_titles_processed": 1068,
+  "generated_at": "2026-08-21T12:38:39.564459+08:00",
+  "total_titles_processed": 1125,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "特朗普称将于11月同金正恩会晤，外交部回应",
@@ -100,11 +100,12 @@
             12,
             8,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时24分 ~ 11时57分]"
+          "appearance_count": 6,
+          "time_info": "[07时24分 ~ 12时38分]"
         },
         {
           "title": "特朗普签署备忘录以促进美航天发射，探索商业机器人登陆火星",
@@ -136,11 +137,12 @@
           "source": "财联社热门",
           "ranks": [
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 11时57分]"
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 12时38分]"
         },
         {
           "title": "特朗普称白宫立法事务主任布雷德将离职",
@@ -187,6 +189,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时25分"
+        },
+        {
+          "title": "美国汽油“提前入冬”！特朗普政府希望用更便宜燃料压低油价",
+          "url": "https://flash.jin10.com/detail/20260821115539290800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "美国总统特朗普：经济从未像现在这般强劲。 倘若我再度参选，我将以25个百分点的优势获胜。",
@@ -258,7 +271,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 18,
+      "match_count": 19,
       "titles": [
         {
           "title": "美财政部回购效应消退 美债收益率回升 美股期指走低 | 今夜看点",
@@ -306,8 +319,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 11时57分]"
+          "appearance_count": 5,
+          "time_info": "[09时12分 ~ 12时38分]"
         },
         {
           "title": "美债冲破40万亿美元 烂摊子谁来收拾",
@@ -353,6 +366,19 @@
           "time_info": "[06时25分 ~ 07时24分]"
         },
         {
+          "title": "美债、伊朗两头忙！贝森特放话：回购还能加码 制裁下周披露",
+          "url": "https://www.cls.cn/detail/2460072",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时12分 ~ 12时38分]"
+        },
+        {
           "title": "各国如何应对40万亿美债",
           "url": "https://search.bilibili.com/all?keyword=%E5%90%84%E5%9B%BD%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B940%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%80%BA",
           "source": "bilibili 热搜",
@@ -365,16 +391,29 @@
           "time_info": "[11时01分 ~ 11时57分]"
         },
         {
-          "title": "美债、伊朗两头忙！贝森特放话：回购还能加码 制裁下周披露",
-          "url": "https://www.cls.cn/detail/2460072",
-          "source": "财联社热门",
+          "title": "回购提振效果仅维持一日，美债30年期收益率重回5.26%",
+          "url": "https://wallstreetcn.com/articles/3779920",
+          "source": "华尔街见闻",
           "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时12分 ~ 12时38分]"
+        },
+        {
+          "title": "回购美债影响力只有24小时？贝森特：我们有很多工具，拭目以待",
+          "url": "https://wallstreetcn.com/articles/3779933",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
             7,
             6
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时12分 ~ 11时57分]"
+          "time_info": "[11时01分 ~ 12时38分]"
         },
         {
           "title": "中长期美债收益率涨约4个基点",
@@ -387,30 +426,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时26分 ~ 05时26分]"
-        },
-        {
-          "title": "回购提振效果仅维持一日，美债30年期收益率重回5.26%",
-          "url": "https://wallstreetcn.com/articles/3779920",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 11时57分]"
-        },
-        {
-          "title": "回购美债影响力只有24小时？贝森特：我们有很多工具，拭目以待",
-          "url": "https://wallstreetcn.com/articles/3779933",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 11时57分]"
         },
         {
           "title": "贝森特放话：美债回购规模或超40亿美元，还有“大型工具箱”稳定市场",
@@ -430,7 +445,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         },
@@ -477,6 +492,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时37分"
+        },
+        {
+          "title": "美债市场正在上演金融“三国演义”",
+          "url": "https://www.toutiao.com/trending/7676307698534583827/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         }
       ]
     },
@@ -503,8 +529,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时01分 ~ 11时57分]"
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 12时38分]"
         },
         {
           "title": "美财长：24日举行新闻发布会阐述针对伊朗的行动",
@@ -541,6 +567,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时37分 ~ 03时30分]"
+        },
+        {
+          "title": "美将公布对伊经济孤立措施，伊朗：徒劳无功，误判将付出代价",
+          "url": "https://news.ifeng.com/c/8vlKowYU0MT",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时56分 ~ 12时38分]"
         },
         {
           "title": "美财长威胁对伊朗实施“前所未有的经济孤立”",
@@ -590,17 +627,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时12分 ~ 11时01分]"
-        },
-        {
-          "title": "美将公布对伊经济孤立措施，伊朗：徒劳无功，误判将付出代价",
-          "url": "https://news.ifeng.com/c/8vlKowYU0MT",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时56分 ~ 11时57分]"
         },
         {
           "title": "伊朗回应“美将公布经济孤立措施”",
@@ -698,17 +724,6 @@
           "time_info": "[00时39分 ~ 07时24分]"
         },
         {
-          "title": "美股年内恐回调10%-20%？资深策略师捕捉到“五大逆风”……",
-          "url": "https://www.cls.cn/detail/2459378",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时39分 ~ 07时24分]"
-        },
-        {
           "title": "【早报】美股存储、光通信板块走强；医药牛股莫德纳暴跌23%；原油大涨、黄金微跌；泡泡玛特、阿里巴巴、中信证券最新业绩公布",
           "url": "https://www.cls.cn/detail/2460127",
           "source": "财联社热门",
@@ -716,8 +731,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时12分 ~ 11时57分]"
+          "appearance_count": 5,
+          "time_info": "[09时12分 ~ 12时38分]"
         },
         {
           "title": "美股收盘：贝森特“救市”有效期仅持续一天 阿里巴巴绩后低开高走",
@@ -729,8 +744,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[06时25分 ~ 11时57分]"
+          "appearance_count": 7,
+          "time_info": "[06时25分 ~ 12时38分]"
+        },
+        {
+          "title": "美股年内恐回调10%-20%？资深策略师捕捉到“五大逆风”……",
+          "url": "https://www.cls.cn/detail/2459378",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[00时39分 ~ 07时24分]"
         },
         {
           "title": "美股大类资产类ETF多数收跌，小盘股指ETF、道指ETF跌约1.3%",
@@ -957,6 +983,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "长债一松一紧，金价4500后还要等信号！",
+          "url": "https://flash.jin10.com/detail/20260821115544413800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         }
       ]
     }
