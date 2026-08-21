@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22T04:24:09.595507+08:00",
-  "total_titles_processed": 556,
+  "generated_at": "2026-08-22T05:23:00.070312+08:00",
+  "total_titles_processed": 589,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 22,
       "titles": [
         {
           "title": "伊朗总统：现在结束战争是更好的选择",
@@ -15,8 +15,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 05时23分]"
+        },
+        {
+          "title": "贝森特：美国将对伊朗实施史上最严厉制裁 或无需重启大规模军事行动",
+          "url": "https://www.cls.cn/detail/2460827",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            11,
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 05时23分]"
         },
         {
           "title": "阿曼国家通讯社：阿曼与伊朗两国外交部长就重启谈判的相关条件展开磋商，谈判旨在恢复霍尔木兹海峡通航。",
@@ -30,17 +44,15 @@
           "time_info": "00时32分"
         },
         {
-          "title": "贝森特：美国将对伊朗实施史上最严厉制裁 或无需重启大规模军事行动",
-          "url": "https://www.cls.cn/detail/2460827",
-          "source": "财联社热门",
+          "title": "惠誉：预计坦桑尼亚经济将对伊朗战争的冲击表现出韧性，2026年实际GDP增长率为5.8%。",
+          "url": "https://flash.jin10.com/detail/20260822050540574800",
+          "source": "金十数据",
           "ranks": [
-            13,
-            11,
-            10
+            2
           ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时24分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         },
         {
           "title": "伊朗议会议长卡利巴夫表示，伊朗 “从不干涉伊拉克内政”。 德黑兰方面愿同地区国家开展合作，通过区域协作构建可持续安全格局。 卡利巴夫结束对伊拉克为期三天的访问，于周五返回德黑兰。（伊朗学生通讯社ISNA）",
@@ -255,7 +267,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 21,
       "titles": [
         {
           "title": "特朗普称打击伊朗贸易伙伴，美媒问如何制裁中国，美财长答非所问",
@@ -265,8 +277,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 05时23分]"
         },
         {
           "title": "伊朗谋划反攻，精准打击特朗普“软肋”",
@@ -277,8 +289,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 05时23分]"
         },
         {
           "title": "据巴西政府声明：巴西总统卢拉与美国总统特朗普于当地时间周五进行了电话会谈。",
@@ -290,6 +302,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "新闻蒸馏器｜特朗普“守门人”惹争议：了解机密却未办理安全许可，已工作一年",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33823287",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时25分 ~ 05时23分]"
         },
         {
           "title": "巴西政府：总统卢拉周五与美国总统特朗普通电话。 卢拉告诉特朗普，两国应当继续磋商（特朗普挑起的）关税。",
@@ -317,17 +340,6 @@
           "time_info": "[02时34分 ~ 03时25分]"
         },
         {
-          "title": "新闻蒸馏器｜特朗普“守门人”惹争议：了解机密却未办理安全许可，已工作一年",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33823287",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时25分 ~ 04时24分]"
-        },
-        {
           "title": "有理儿有面：特朗普经济诺曼底搁浅了",
           "url": "https://www.toutiao.com/trending/7676299412763639871/",
           "source": "今日头条",
@@ -339,6 +351,39 @@
           "time_info": "[04时23分 ~ 04时24分]"
         },
         {
+          "title": "美国总统特朗普表示对伊朗转向经济战并不意味着美国军事选项受限。",
+          "url": "https://flash.jin10.com/detail/20260822045954949800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）我们完全控制了整个地区。",
+          "url": "https://flash.jin10.com/detail/20260822045853060800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国总统特朗普：我们应该能够与加拿大达成协议。",
+          "url": "https://flash.jin10.com/detail/20260822045829111800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
           "title": "美国航空航天局（NASA）：美国总统特朗普将于当地时间8月28日向阿尔忒弥斯号宇航员颁发荣誉勋章。",
           "url": "https://flash.jin10.com/detail/20260822014734392800",
           "source": "金十数据",
@@ -348,6 +393,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "美国总统特朗普：将与墨西哥达成协议。",
+          "url": "https://flash.jin10.com/detail/20260822045818335800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国总统特朗普：（关于伊朗）他们很想达成协议，但还没有准备好达成正确的协议。",
+          "url": "https://flash.jin10.com/detail/20260822045803996800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国总统特朗普：我没有指示美国财长贝森特干预债券市场。",
+          "url": "https://flash.jin10.com/detail/20260822045517039800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美国总统特朗普：经济增长将解决国家债务问题。",
+          "url": "https://flash.jin10.com/detail/20260822045456515800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         },
         {
           "title": "特朗普盯上格陵兰稀土，美企矿山项目冲刺投产",
@@ -403,6 +492,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时25分"
+        },
+        {
+          "title": "美国总统特朗普：感谢美国最高法院的决定。正在白宫的神圣土地上建设宴会厅。",
+          "url": "https://flash.jin10.com/detail/20260822042414566800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
         }
       ]
     },
@@ -415,22 +515,24 @@
           "url": "https://wallstreetcn.com/livenews/3153212",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            4,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 05时23分]"
         },
         {
           "title": "生物科技指数ETF收涨约1.3%，领跑美股行业ETF",
           "url": "https://wallstreetcn.com/livenews/3153211",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时24分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 05时23分]"
         },
         {
           "title": "金十图示：2026年08月21日（周五）热门中概股行情一览（美股收盘）",
@@ -439,7 +541,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -450,7 +552,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -461,7 +563,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -490,143 +592,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "大手笔！OpenAI全面开源Codex Harness",
-          "url": "https://wallstreetcn.com/articles/3779961",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时24分]"
-        },
-        {
-          "title": "OpenAI：未来三个月将把GPT-5.6Sol API及积分价格下调超过20%",
-          "url": "https://wallstreetcn.com/livenews/3153197",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        },
-        {
-          "title": "OpenAI：GPT-5.6 Sol已上线API，并将向符合条件的ChatGPT Work和Codex积分计划开放，Pro、Plus及Business订阅使用不受影响。",
-          "url": "https://flash.jin10.com/detail/20260822034409844800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        },
-        {
-          "title": "OpenAI：未来三个月将把GPT-5.6Sol API及积分价格下调超过20%。",
-          "url": "https://flash.jin10.com/detail/20260822033944152800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        },
-        {
-          "title": "OpenAI关键销售高管凯琳·沃斯辞职。（The Information）",
-          "url": "https://wallstreetcn.com/livenews/3153190",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        },
-        {
-          "title": "据The Information：OpenAI关键销售高管凯琳·沃斯辞职。",
-          "url": "https://flash.jin10.com/detail/20260822032233474800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，黄金突破200日均线，数字货币再猛涨",
-          "url": "https://wallstreetcn.com/articles/3779853",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时24分]"
-        },
-        {
-          "title": "回购美债影响力只有24小时？贝森特：我们有很多工具，拭目以待",
-          "url": "https://wallstreetcn.com/articles/3779933",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时24分]"
-        },
-        {
-          "title": "贝森特回购难消市场疑虑，30年期美债升至5.26%，美股高开，区块链概念股普涨，金油齐涨",
-          "url": "https://wallstreetcn.com/articles/3779986",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时24分]"
-        },
-        {
-          "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2461060",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时24分]"
-        },
-        {
-          "title": "美债回购叠加政策利好 比特币本周飙升近25% 重返8万美元附近",
-          "url": "https://www.cls.cn/detail/2461169",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时23分 ~ 04时24分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
         {
           "title": "SpaceXAI在谷歌云Vertex AI上推出Grok 4.6。",
@@ -657,7 +624,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         },
@@ -668,9 +635,179 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
+        },
+        {
+          "title": "Anthropic聘请谷歌芯片老将，加速推进自研硬件业务",
+          "url": "https://wallstreetcn.com/livenews/3153207",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "Anthropic聘请谷歌芯片业务高管，加速布局自研芯片",
+          "url": "https://flash.jin10.com/detail/20260822041814849800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "大手笔！OpenAI全面开源Codex Harness",
+          "url": "https://wallstreetcn.com/articles/3779961",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 05时23分]"
+        },
+        {
+          "title": "OpenAI：未来三个月将把GPT-5.6Sol API及积分价格下调超过20%",
+          "url": "https://wallstreetcn.com/livenews/3153197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 05时23分]"
+        },
+        {
+          "title": "OpenAI关键销售高管凯琳·沃斯辞职。（The Information）",
+          "url": "https://wallstreetcn.com/livenews/3153190",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时24分 ~ 05时23分]"
+        },
+        {
+          "title": "OpenAI：GPT-5.6 Sol已上线API，并将向符合条件的ChatGPT Work和Codex积分计划开放，Pro、Plus及Business订阅使用不受影响。",
+          "url": "https://flash.jin10.com/detail/20260822034409844800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "OpenAI：未来三个月将把GPT-5.6Sol API及积分价格下调超过20%。",
+          "url": "https://flash.jin10.com/detail/20260822033944152800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        },
+        {
+          "title": "据The Information：OpenAI关键销售高管凯琳·沃斯辞职。",
+          "url": "https://flash.jin10.com/detail/20260822032233474800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时24分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，黄金突破200日均线，数字货币再猛涨",
+          "url": "https://wallstreetcn.com/articles/3779853",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 05时23分]"
+        },
+        {
+          "title": "回购美债影响力只有24小时？贝森特：我们有很多工具，拭目以待",
+          "url": "https://wallstreetcn.com/articles/3779933",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 05时23分]"
+        },
+        {
+          "title": "贝森特回购难消市场疑虑，30年期美债升至5.26%，美股高开，区块链概念股普涨，金油齐涨",
+          "url": "https://wallstreetcn.com/articles/3779986",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 05时23分]"
+        },
+        {
+          "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2461060",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 05时23分]"
+        },
+        {
+          "title": "美国CFTC：资产管理公司在贝森特意外回购宣布前增持美债敞口",
+          "url": "https://wallstreetcn.com/livenews/3153216",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
+        {
+          "title": "美债回购叠加政策利好 比特币本周飙升近25% 重返8万美元附近",
+          "url": "https://www.cls.cn/detail/2461169",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时23分 ~ 05时23分]"
         }
       ]
     },
@@ -686,11 +823,12 @@
             2,
             5,
             8,
-            7
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 05时23分]"
         },
         {
           "title": "高盛：黄金看涨期权需求激增，或放大金价波动",
@@ -728,11 +866,12 @@
           "source": "知乎",
           "ranks": [
             2,
-            3
+            3,
+            9
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时32分 ~ 04时24分]"
+          "appearance_count": 8,
+          "time_info": "[00时32分 ~ 05时23分]"
         },
         {
           "title": "DeepSeek多模态模型来了",
@@ -751,8 +890,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "北美科技软件股指数ETF涨1.43%，报103.37美元，本周累跌0.68%，结束之前连续三周上涨的趋势（先后涨7.5%、8.57%、1.35%）。",
+          "url": "https://wallstreetcn.com/livenews/3153218",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时23分"
+        },
         {
           "title": "美元指数21日下跌",
           "url": "https://flash.jin10.com/detail/20260822031829892800",
@@ -760,7 +910,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时24分"
         }
