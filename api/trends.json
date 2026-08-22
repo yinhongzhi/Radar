@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22T10:53:00.005270+08:00",
-  "total_titles_processed": 880,
+  "generated_at": "2026-08-22T11:41:01.435931+08:00",
+  "total_titles_processed": 940,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 42,
+      "match_count": 44,
       "titles": [
         {
           "title": "特朗普称打击伊朗贸易伙伴，美媒问如何制裁中国，美财长答非所问",
@@ -40,8 +40,8 @@
             15
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[03时25分 ~ 10时52分]"
+          "appearance_count": 13,
+          "time_info": "[03时25分 ~ 11时41分]"
         },
         {
           "title": "特朗普，打光了弹药？",
@@ -51,8 +51,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 10时52分]"
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 11时41分]"
         },
         {
           "title": "特朗普敲打韩国，李在明为何反而叫好？",
@@ -77,15 +77,15 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
-          "title": "美国总统特朗普：我们永远不会让美国人落后，因为我们是美国优先。",
-          "url": "https://flash.jin10.com/detail/20260822101749124800",
+          "title": "特朗普吐槽伊朗：总统都没人愿意当 我到底该找谁谈？",
+          "url": "https://flash.jin10.com/detail/20260822112456871800",
           "source": "金十数据",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时52分"
+          "time_info": "11时41分"
         },
         {
           "title": "据巴西政府声明：巴西总统卢拉与美国总统特朗普于当地时间周五进行了电话会谈。",
@@ -99,26 +99,15 @@
           "time_info": "00时32分"
         },
         {
-          "title": "美法官推翻特朗普政府暂停向75国发放移民签证的政策",
-          "url": "https://flash.jin10.com/detail/20260822100948753800",
-          "source": "金十数据",
+          "title": "顶不住了？特朗普宣布暂时豁免碎牛肉进口关税",
+          "url": "https://news.ifeng.com/c/8vmz8HPxLdH",
+          "source": "凤凰网",
           "ranks": [
-            4
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "美法官推翻特朗普政府暂停向75国发放移民签证的政策",
-          "url": "https://wallstreetcn.com/livenews/3153298",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 11时41分]"
         },
         {
           "title": "巴西政府：总统卢拉周五与美国总统特朗普通电话。 卢拉告诉特朗普，两国应当继续磋商（特朗普挑起的）关税。",
@@ -146,6 +135,18 @@
           "time_info": "[02时34分 ~ 03时25分]"
         },
         {
+          "title": "美国总统特朗普：我们永远不会让美国人落后，因为我们是美国优先。",
+          "url": "https://flash.jin10.com/detail/20260822101749124800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 11时41分]"
+        },
+        {
           "title": "有理儿有面：特朗普经济诺曼底搁浅了",
           "url": "https://www.toutiao.com/trending/7676299412763639871/",
           "source": "今日头条",
@@ -158,6 +159,30 @@
           "time_info": "[04时23分 ~ 06时23分]"
         },
         {
+          "title": "美法官推翻特朗普政府暂停向75国发放移民签证的政策",
+          "url": "https://flash.jin10.com/detail/20260822100948753800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 11时41分]"
+        },
+        {
+          "title": "美法官推翻特朗普政府暂停向75国发放移民签证的政策",
+          "url": "https://wallstreetcn.com/livenews/3153298",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 11时41分]"
+        },
+        {
           "title": "美国总统特朗普表示对伊朗转向经济战并不意味着美国军事选项受限。",
           "url": "https://flash.jin10.com/detail/20260822045954949800",
           "source": "金十数据",
@@ -168,17 +193,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时22分]"
-        },
-        {
-          "title": "顶不住了？特朗普宣布暂时豁免碎牛肉进口关税",
-          "url": "https://news.ifeng.com/c/8vmz8HPxLdH",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 10时52分]"
         },
         {
           "title": "美国总统特朗普：（关于伊朗）我们完全控制了整个地区。",
@@ -325,6 +339,18 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
+          "title": "VIP・9折看懂特朗普信号！",
+          "url": "https://flash.jin10.com/detail/20260822090617214800",
+          "source": "金十数据",
+          "ranks": [
+            14,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 11时41分]"
+        },
+        {
           "title": "美国总统特朗普称即将卸任的莱维特让白宫新闻秘书一职“非常有吸引力”，并表示已收到大量相关职位申请。",
           "url": "https://flash.jin10.com/detail/20260822053712380800",
           "source": "金十数据",
@@ -334,6 +360,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
+        },
+        {
+          "title": "特朗普：美国40年没有新建汽车工厂 最喜欢的词是关税",
+          "url": "https://flash.jin10.com/detail/20260822103023428800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "美国航空航天局（NASA）：美国总统特朗普将于当地时间8月28日向阿尔忒弥斯号宇航员颁发荣誉勋章。",
@@ -389,17 +426,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
-        },
-        {
-          "title": "VIP・9折看懂特朗普信号！",
-          "url": "https://flash.jin10.com/detail/20260822090617214800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
         },
         {
           "title": "据Axios：美国国务院发言人就E1地区建设计划回应称，正如美国总统特朗普明确指出的，美国不支持以色列吞并西岸。西岸的稳定有助于以色列安全，也符合美国政府推动该地区实现和平的目标。",
@@ -493,7 +519,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗总统：现在结束战争是更好的选择",
@@ -514,8 +540,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 10时52分]"
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 11时41分]"
         },
         {
           "title": "贝森特：美国将对伊朗实施史上最严厉制裁 或无需重启大规模军事行动",
@@ -554,6 +580,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时23分 ~ 09时09分]"
+        },
+        {
+          "title": "伊朗外交部：美国对伊朗实施新制裁毫无国际法依据",
+          "url": "https://wallstreetcn.com/livenews/3153305",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
         },
         {
           "title": "伊朗议会议长卡利巴夫表示，伊朗 “从不干涉伊拉克内政”。 德黑兰方面愿同地区国家开展合作，通过区域协作构建可持续安全格局。 卡利巴夫结束对伊拉克为期三天的访问，于周五返回德黑兰。（伊朗学生通讯社ISNA）",
@@ -679,6 +716,18 @@
           "time_info": "[09时09分 ~ 10时52分]"
         },
         {
+          "title": "环球时报社评：中国不会陪美国在伊朗问题上“胡闹”",
+          "url": "https://wallstreetcn.com/livenews/3153293",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 11时41分]"
+        },
+        {
           "title": "伊朗外长称美国经济施压注定失败",
           "url": "https://wallstreetcn.com/livenews/3153140",
           "source": "华尔街见闻-快讯",
@@ -702,6 +751,17 @@
           "time_info": "02时34分"
         },
         {
+          "title": "伊朗外交部：美国对伊朗实施新制裁毫无国际法依据",
+          "url": "https://flash.jin10.com/detail/20260822104831510800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时41分"
+        },
+        {
           "title": "据伊朗国家电视台：伊朗与伊拉克签署全面安全协议。",
           "url": "https://flash.jin10.com/detail/20260822015353238800",
           "source": "金十数据",
@@ -711,17 +771,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
-        },
-        {
-          "title": "环球时报社评：中国不会陪美国在伊朗问题上“胡闹”",
-          "url": "https://wallstreetcn.com/livenews/3153293",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
         },
         {
           "title": "伊朗官员称美国已证明其“不懂外交语言”",
@@ -815,7 +864,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 14,
+      "match_count": 15,
       "titles": [
         {
           "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，黄金突破200日均线，数字货币再猛涨",
@@ -858,11 +907,24 @@
           "ranks": [
             7,
             6,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[00时32分 ~ 10时52分]"
+          "appearance_count": 16,
+          "time_info": "[00时32分 ~ 11时41分]"
+        },
+        {
+          "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
+          "url": "https://www.cls.cn/detail/2461262",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时22分 ~ 11时41分]"
         },
         {
           "title": "美债回购叠加政策利好 比特币本周飙升近25% 重返8万美元附近",
@@ -888,6 +950,31 @@
           "time_info": "06时23分"
         },
         {
+          "title": "美银Hartnett：贝森特正通过“变相QE”，守住5%的30年期美债收益率“马奇诺防线\"",
+          "url": "https://wallstreetcn.com/articles/3780012",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 11时41分]"
+        },
+        {
+          "title": "18年翻了4倍！不到一代人的时间，美国40万亿美债是如何炼成的？",
+          "url": "https://wallstreetcn.com/articles/3779987",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 11时41分]"
+        },
+        {
           "title": "美国CFTC：资产管理公司在贝森特意外回购宣布前增持美债敞口",
           "url": "https://wallstreetcn.com/livenews/3153216",
           "source": "华尔街见闻-快讯",
@@ -899,42 +986,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时22分]"
-        },
-        {
-          "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
-          "url": "https://www.cls.cn/detail/2461262",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 10时52分]"
-        },
-        {
-          "title": "美银Hartnett：贝森特正通过“变相QE”，守住5%的30年期美债收益率“马奇诺防线\"",
-          "url": "https://wallstreetcn.com/articles/3780012",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 10时52分]"
-        },
-        {
-          "title": "18年翻了4倍！不到一代人的时间，美国40万亿美债是如何炼成的？",
-          "url": "https://wallstreetcn.com/articles/3779987",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 10时52分]"
         },
         {
           "title": "特朗普称解决40万亿美债问题要靠增长 否认指示贝森特干预债市",
@@ -949,6 +1000,41 @@
           "time_info": "[06时23分 ~ 09时09分]"
         },
         {
+          "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
+          "url": "https://www.cls.cn/detail/2461311",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时52分 ~ 11时41分]"
+        },
+        {
+          "title": "一周热榜精选：回购计划救不了美债？经济绞杀将成美伊新战场",
+          "url": "https://flash.jin10.com/detail/20260822095807900800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时52分 ~ 11时41分]"
+        },
+        {
+          "title": "贝森特没救成美债却点燃“美元贬值交易”！黄金创三个月新高，比特币单周暴涨超25%",
+          "url": "https://wallstreetcn.com/articles/3780041",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
+        },
+        {
           "title": "美债回购“信号意义”重于“实际效果”！野村：如果市场继续恶化，美联储会下场“YCC或QE”",
           "url": "https://wallstreetcn.com/articles/3779959",
           "source": "华尔街见闻",
@@ -958,34 +1044,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时08分 ~ 09时09分]"
-        },
-        {
-          "title": "一周热榜精选：回购计划救不了美债？经济绞杀将成美伊新战场",
-          "url": "https://flash.jin10.com/detail/20260822095807900800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
-        },
-        {
-          "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
-          "url": "https://www.cls.cn/detail/2461311",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股止跌反弹，道指涨近1%，数字货币再猛涨，黄金升破4600",
@@ -995,8 +1059,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 10时52分]"
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 11时41分]"
+        },
+        {
+          "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
+          "url": "https://www.cls.cn/detail/2461289",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[07时22分 ~ 11时41分]"
         },
         {
           "title": "美股止跌反弹，道指涨近1%，区块链概念股普涨，金油齐涨",
@@ -1024,18 +1100,6 @@
           "time_info": "[04时24分 ~ 07时22分]"
         },
         {
-          "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
-          "url": "https://www.cls.cn/detail/2461289",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时22分 ~ 10时52分]"
-        },
-        {
           "title": "周五（8月21日），美股存储芯片与硬件供应链指数跌0.46%，报201.66点，本周累计下跌5.34%。 成分股中，西部数据收跌2.05%，泰瑞达跌1.93%，Rambus、应用材料、美光科技至少跌0.77%，闪迪跌0.28%，希捷科技跌0.03%，SK海力士ADR涨0.2%，拉姆研究涨1.12%。",
           "url": "https://wallstreetcn.com/livenews/3153251",
           "source": "华尔街见闻-快讯",
@@ -1059,6 +1123,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时24分 ~ 06时23分]"
+        },
+        {
+          "title": "美股三大指数集体收涨 道指涨超500点",
+          "url": "https://www.toutiao.com/trending/7676604224507052594/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时40分 ~ 11时41分]"
         },
         {
           "title": "金十图示：2026年08月21日（周五）热门中概股行情一览（美股收盘）",
@@ -1310,6 +1385,18 @@
           "time_info": "[01时27分 ~ 03时25分]"
         },
         {
+          "title": "国际金价创三个月新高",
+          "url": "https://www.toutiao.com/trending/7676650338958446086/",
+          "source": "今日头条",
+          "ranks": [
+            16,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时52分 ~ 11时41分]"
+        },
+        {
           "title": "市场博弈加剧，金价长短周期走势或分化",
           "url": "https://wallstreetcn.com/livenews/3153272",
           "source": "华尔街见闻-快讯",
@@ -1332,17 +1419,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
-        },
-        {
-          "title": "国际金价创三个月新高",
-          "url": "https://www.toutiao.com/trending/7676650338958446086/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时52分"
         },
         {
           "title": "金价涨嗨了",
@@ -1392,11 +1468,12 @@
           "url": "https://www.zhihu.com/question/2038382808817774665",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时08分 ~ 10时52分]"
+          "appearance_count": 5,
+          "time_info": "[09时08分 ~ 11时41分]"
         }
       ]
     },
