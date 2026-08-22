@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-22T14:37:27.734783+08:00",
-  "total_titles_processed": 1160,
+  "generated_at": "2026-08-22T15:31:27.270368+08:00",
+  "total_titles_processed": 1230,
   "failed_sources": [],
   "trends": [
     {
@@ -19,6 +19,17 @@
           "time_info": "[00时32分 ~ 07时22分]"
         },
         {
+          "title": "特朗普，打光了弹药？",
+          "url": "https://news.ifeng.com/c/8vmO4NLET3C",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时08分 ~ 15时31分]"
+        },
+        {
           "title": "伊朗谋划反攻，精准打击特朗普“软肋”",
           "url": "https://news.ifeng.com/c/8vmLgZeIk2c",
           "source": "凤凰网",
@@ -31,15 +42,15 @@
           "time_info": "[00时32分 ~ 07时22分]"
         },
         {
-          "title": "特朗普，打光了弹药？",
-          "url": "https://news.ifeng.com/c/8vmO4NLET3C",
+          "title": "顶不住了？特朗普宣布暂时豁免碎牛肉进口关税",
+          "url": "https://news.ifeng.com/c/8vmz8HPxLdH",
           "source": "凤凰网",
           "ranks": [
-            2
+            8
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时08分 ~ 14时37分]"
+          "appearance_count": 10,
+          "time_info": "[09时08分 ~ 15时31分]"
         },
         {
           "title": "新闻蒸馏器｜特朗普“守门人”惹争议：了解机密却未办理安全许可，已工作一年",
@@ -54,17 +65,6 @@
           "is_new": false,
           "appearance_count": 16,
           "time_info": "[03时25分 ~ 14时37分]"
-        },
-        {
-          "title": "顶不住了？特朗普宣布暂时豁免碎牛肉进口关税",
-          "url": "https://news.ifeng.com/c/8vmz8HPxLdH",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时08分 ~ 14时37分]"
         },
         {
           "title": "特朗普敲打韩国，李在明为何反而叫好？",
@@ -100,15 +100,17 @@
           "time_info": "00时32分"
         },
         {
-          "title": "美国民主党参议员沃伦：特朗普对伊朗发动的战争推高了美国人的生活成本。特朗普曾承诺让生活变得更加负担得起。但他的经济议程却把工薪家庭放在了最后。",
-          "url": "https://flash.jin10.com/detail/20260822141400644800",
-          "source": "金十数据",
+          "title": "特朗普敲打韩国却被李在明反将一军",
+          "url": "https://www.toutiao.com/trending/7676039913854418950/",
+          "source": "今日头条",
           "ranks": [
-            4
+            29,
+            19,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 15时31分]"
         },
         {
           "title": "美国总统特朗普：我们永远不会让美国人落后，因为我们是美国优先。",
@@ -199,6 +201,18 @@
           "time_info": "[10时52分 ~ 11时41分]"
         },
         {
+          "title": "美国民主党参议员沃伦：特朗普对伊朗发动的战争推高了美国人的生活成本。特朗普曾承诺让生活变得更加负担得起。但他的经济议程却把工薪家庭放在了最后。",
+          "url": "https://flash.jin10.com/detail/20260822141400644800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时31分]"
+        },
+        {
           "title": "美国总统特朗普表示对伊朗转向经济战并不意味着美国军事选项受限。",
           "url": "https://flash.jin10.com/detail/20260822045954949800",
           "source": "金十数据",
@@ -259,19 +273,6 @@
           "time_info": "[06时23分 ~ 09时09分]"
         },
         {
-          "title": "特朗普敲打韩国却被李在明反将一军",
-          "url": "https://www.toutiao.com/trending/7676039913854418950/",
-          "source": "今日头条",
-          "ranks": [
-            29,
-            19,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 14时37分]"
-        },
-        {
           "title": "美国总统特朗普：（关于伊朗）他们很想达成协议，但还没有准备好达成正确的协议。",
           "url": "https://flash.jin10.com/detail/20260822045803996800",
           "source": "金十数据",
@@ -306,6 +307,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时23分 ~ 07时22分]"
+        },
+        {
+          "title": "美媒称美军考虑将一在建航母改以特朗普命名",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33824405",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时37分 ~ 15时31分]"
         },
         {
           "title": "特朗普谈伊朗：我们正在观察事态发展。 他们（伊朗）没有钱。 他们没有海军。他们没有空军。 他们没有支付士兵薪水。他们没有支付警察薪水。 他们有350%的通货膨胀。",
@@ -491,17 +504,6 @@
           "time_info": "09时09分"
         },
         {
-          "title": "美媒称美军考虑将一在建航母改以特朗普命名",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33824405",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
-        },
-        {
           "title": "特朗普称若输掉中期选举他将被弹劾",
           "url": "https://wallstreetcn.com/livenews/3153263",
           "source": "华尔街见闻-快讯",
@@ -571,7 +573,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 43,
       "titles": [
         {
           "title": "伊朗总统：现在结束战争是更好的选择",
@@ -619,6 +621,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "伊朗第一副总统阿雷夫：伊朗最富裕家庭的汽油消费量约为最贫困家庭的23至24倍。与此同时，伊朗政府正面临燃料消费、产量和价格方面日益加大的压力。",
+          "url": "https://flash.jin10.com/detail/20260822151500621800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
         },
         {
           "title": "惠誉：预计坦桑尼亚经济将对伊朗战争的冲击表现出韧性，2026年实际GDP增长率为5.8%。",
@@ -710,6 +723,19 @@
           "time_info": "[11时41分 ~ 13时25分]"
         },
         {
+          "title": "阿曼与伊朗外长讨论恢复霍尔木兹海峡自由航行",
+          "url": "https://wallstreetcn.com/livenews/3153324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            10,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时25分 ~ 15时31分]"
+        },
+        {
           "title": "伊朗官员称美国已证明其“不懂外交语言”",
           "url": "https://wallstreetcn.com/livenews/3153159",
           "source": "华尔街见闻-快讯",
@@ -773,18 +799,6 @@
           "time_info": "[09时09分 ~ 10时52分]"
         },
         {
-          "title": "阿曼与伊朗外长讨论恢复霍尔木兹海峡自由航行",
-          "url": "https://wallstreetcn.com/livenews/3153324",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时25分 ~ 14时37分]"
-        },
-        {
           "title": "伊朗外交部发言人巴加埃：任何国家都无权合法强迫外国银行、企业或机场放弃与第三国开展合法贸易。",
           "url": "https://flash.jin10.com/detail/20260822081942533800",
           "source": "金十数据",
@@ -807,6 +821,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时09分 ~ 10时52分]"
+        },
+        {
+          "title": "日本外务大臣：围绕伊朗问题，目前仍存在诸多挑战。我与沙特大臣就推动美伊尽早恢复谈判、为达成最终协议营造有利环境，以及确保霍尔木兹海峡和曼德海峡实现自由、安全航行等一系列问题进行了深入讨论，并将进一步深化今后的合作。",
+          "url": "https://flash.jin10.com/detail/20260822140141375800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时37分 ~ 15时31分]"
         },
         {
           "title": "伊朗外长称美国经济施压注定失败",
@@ -832,6 +858,17 @@
           "time_info": "02时34分"
         },
         {
+          "title": "伊通社（IRNA）发布伊朗议会议长卡利巴夫访问伊拉克期间的现场图片。",
+          "url": "https://flash.jin10.com/detail/20260822145341231800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
           "title": "据伊朗国家电视台：伊朗与伊拉克签署全面安全协议。",
           "url": "https://flash.jin10.com/detail/20260822015353238800",
           "source": "金十数据",
@@ -843,15 +880,15 @@
           "time_info": "02时34分"
         },
         {
-          "title": "日本外务大臣：围绕伊朗问题，目前仍存在诸多挑战。我与沙特大臣就推动美伊尽早恢复谈判、为达成最终协议营造有利环境，以及确保霍尔木兹海峡和曼德海峡实现自由、安全航行等一系列问题进行了深入讨论，并将进一步深化今后的合作。",
-          "url": "https://flash.jin10.com/detail/20260822140141375800",
+          "title": "伊媒：伊朗决定允许伊拉克部分油轮通过霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20260822143639028800",
           "source": "金十数据",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时37分"
+          "time_info": "15时31分"
         },
         {
           "title": "伊朗官员称美国已证明其“不懂外交语言”",
@@ -876,13 +913,35 @@
           "time_info": "00时32分"
         },
         {
+          "title": "伊朗革命卫队少将萨法维：我们必须严肃应对国家面临的可预见和非常规威胁，设计并生产智能、动态、全面的威慑力量。",
+          "url": "https://flash.jin10.com/detail/20260822143336719800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
+          "title": "伊朗革命卫队少将萨法维：美国正对伊朗社会各个领域发动“联合且复杂的敌对行动”。",
+          "url": "https://flash.jin10.com/detail/20260822143309000800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时31分"
+        },
+        {
           "title": "伊朗：美国已然衰败 不再具有国际威望",
           "url": "https://flash.jin10.com/detail/20260822131227792800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -904,7 +963,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -915,7 +974,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -937,7 +996,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -948,7 +1007,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -981,7 +1040,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -992,7 +1051,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时37分"
         },
@@ -1059,6 +1118,19 @@
           "time_info": "[00时32分 ~ 06时23分]"
         },
         {
+          "title": "美银Hartnett：贝森特正通过“变相QE”，守住5%的30年期美债收益率“马奇诺防线\"",
+          "url": "https://wallstreetcn.com/articles/3780012",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[09时08分 ~ 15时31分]"
+        },
+        {
           "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
           "url": "https://www.cls.cn/detail/2461060",
           "source": "财联社热门",
@@ -1070,8 +1142,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 19,
-          "time_info": "[00时32分 ~ 14时37分]"
+          "appearance_count": 21,
+          "time_info": "[00时32分 ~ 15时31分]"
         },
         {
           "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
@@ -1084,21 +1156,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时22分 ~ 14时37分]"
-        },
-        {
-          "title": "美银Hartnett：贝森特正通过“变相QE”，守住5%的30年期美债收益率“马奇诺防线\"",
-          "url": "https://wallstreetcn.com/articles/3780012",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时08分 ~ 14时37分]"
+          "appearance_count": 11,
+          "time_info": "[07时22分 ~ 15时31分]"
         },
         {
           "title": "18年翻了4倍！不到一代人的时间，美国40万亿美债是如何炼成的？",
@@ -1110,8 +1169,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时08分 ~ 14时37分]"
+          "appearance_count": 10,
+          "time_info": "[09时08分 ~ 15时31分]"
         },
         {
           "title": "贝森特没救成美债却点燃“美元贬值交易”！黄金创三个月新高，比特币单周暴涨超25%",
@@ -1123,8 +1182,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时40分 ~ 14时37分]"
+          "appearance_count": 7,
+          "time_info": "[11时40分 ~ 15时31分]"
         },
         {
           "title": "30年美债收益率再次逼近5.3% 贝森特大举干市只管用两天？",
@@ -1138,8 +1197,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[10时52分 ~ 14时37分]"
+          "appearance_count": 8,
+          "time_info": "[10时52分 ~ 15时31分]"
         },
         {
           "title": "美债回购叠加政策利好 比特币本周飙升近25% 重返8万美元附近",
@@ -1165,6 +1224,19 @@
           "time_info": "06时23分"
         },
         {
+          "title": "贝森特扩大美债回购是做“玩火”！布鲁金斯学会：美国或重演日本式货币贬值",
+          "url": "https://wallstreetcn.com/articles/3780021",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[12时31分 ~ 15时31分]"
+        },
+        {
           "title": "美国CFTC：资产管理公司在贝森特意外回购宣布前增持美债敞口",
           "url": "https://wallstreetcn.com/livenews/3153216",
           "source": "华尔街见闻-快讯",
@@ -1188,18 +1260,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时23分 ~ 09时09分]"
-        },
-        {
-          "title": "贝森特扩大美债回购是做“玩火”！布鲁金斯学会：美国或重演日本式货币贬值",
-          "url": "https://wallstreetcn.com/articles/3780021",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时31分 ~ 14时37分]"
         },
         {
           "title": "一周热榜精选：回购计划救不了美债？经济绞杀将成美伊新战场",
@@ -1238,8 +1298,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时08分 ~ 14时37分]"
+          "appearance_count": 10,
+          "time_info": "[09时08分 ~ 15时31分]"
         },
         {
           "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
@@ -1251,8 +1311,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[07时22分 ~ 14时37分]"
+          "appearance_count": 11,
+          "time_info": "[07时22分 ~ 15时31分]"
         },
         {
           "title": "美股止跌反弹，道指涨近1%，区块链概念股普涨，金油齐涨",
@@ -1429,6 +1489,18 @@
           "time_info": "[10时52分 ~ 11时41分]"
         },
         {
+          "title": "金价银价油价集体上涨",
+          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%B2%B9%E4%BB%B7%E9%9B%86%E4%BD%93%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            22,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[14时37分 ~ 15时31分]"
+        },
+        {
           "title": "市场博弈加剧，金价长短周期走势或分化",
           "url": "https://wallstreetcn.com/livenews/3153272",
           "source": "华尔街见闻-快讯",
@@ -1451,17 +1523,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时23分 ~ 07时22分]"
-        },
-        {
-          "title": "金价银价油价集体上涨",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%B2%B9%E4%BB%B7%E9%9B%86%E4%BD%93%E4%B8%8A%E6%B6%A8",
-          "source": "百度热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时37分"
         },
         {
           "title": "金价涨嗨了",
