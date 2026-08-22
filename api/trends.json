@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-22T19:20:47.735516+08:00",
-  "total_titles_processed": 1478,
+  "generated_at": "2026-08-22T20:36:27.127418+08:00",
+  "total_titles_processed": 1582,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 54,
+      "match_count": 62,
       "titles": [
         {
           "title": "伊朗总统：现在结束战争是更好的选择",
@@ -50,11 +50,12 @@
           "ranks": [
             1,
             5,
-            12
+            12,
+            25
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 19时20分]"
+          "appearance_count": 4,
+          "time_info": "[17时25分 ~ 20时36分]"
         },
         {
           "title": "阿曼国家通讯社：阿曼与伊朗两国外交部长就重启谈判的相关条件展开磋商，谈判旨在恢复霍尔木兹海峡通航。",
@@ -68,15 +69,26 @@
           "time_info": "00时32分"
         },
         {
-          "title": "伊朗议会议长卡利巴夫：伊朗收到邻国关于建立“新安全安排和经济合作”的信息。",
-          "url": "https://flash.jin10.com/detail/20260822182853050800",
+          "title": "伊朗敦促卡塔尔转移被扣飞行员 卡方重申欢迎调查",
+          "url": "https://wallstreetcn.com/livenews/3153394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "伊朗议长谴责美方霸凌行径 呼吁建立地区本土安全秩序",
+          "url": "https://flash.jin10.com/detail/20260822194922787800",
           "source": "金十数据",
           "ranks": [
             3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时20分"
+          "time_info": "20时36分"
         },
         {
           "title": "惠誉：预计坦桑尼亚经济将对伊朗战争的冲击表现出韧性，2026年实际GDP增长率为5.8%。",
@@ -92,15 +104,15 @@
           "time_info": "[05时23分 ~ 09时09分]"
         },
         {
-          "title": "据伊朗石油部官方网站Shana：伊朗帕尔斯石油和天然气公司表示，南帕尔斯14期炼油厂的恢复工作已完成70%。",
-          "url": "https://flash.jin10.com/detail/20260822181513886800",
-          "source": "金十数据",
+          "title": "伊朗South Pars天然气加工厂完工70%。（IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3153391",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时20分"
+          "time_info": "20时36分"
         },
         {
           "title": "伊朗工业部长：伊朗工业企业已积极参与太阳能发电站建设，并推进从阿曼湾和波斯湾获取所需水源，以在保持生产持续性的同时，减轻对国内生态和水资源的压力。",
@@ -209,6 +221,18 @@
           "time_info": "[02时34分 ~ 03时25分]"
         },
         {
+          "title": "伊朗议会议长卡利巴夫：伊朗收到邻国关于建立“新安全安排和经济合作”的信息。",
+          "url": "https://flash.jin10.com/detail/20260822182853050800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时36分]"
+        },
+        {
           "title": "据半岛电视台：伊朗议会将对已敲定的伊朗与阿曼优惠贸易协议进行审议。",
           "url": "https://flash.jin10.com/detail/20260822020252544800",
           "source": "金十数据",
@@ -233,6 +257,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[13时25分 ~ 16时27分]"
+        },
+        {
+          "title": "据伊朗石油部官方网站Shana：伊朗帕尔斯石油和天然气公司表示，南帕尔斯14期炼油厂的恢复工作已完成70%。",
+          "url": "https://flash.jin10.com/detail/20260822181513886800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时36分]"
         },
         {
           "title": "伊朗外交部：美国对伊朗实施新制裁毫无国际法依据",
@@ -485,6 +521,17 @@
           "time_info": "02时34分"
         },
         {
+          "title": "据沙特卫星电视台：伊朗议会副议长表示，海湾国家新建石油管道的目的是“削弱”霍尔木兹海峡的战略重要性。任何压低油价的企图都是对伊朗的敌对行为；伊朗应阻止旨在运输石油的新管道建设。",
+          "url": "https://flash.jin10.com/detail/20260822193816566800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "据伊朗国家电视台：伊朗与伊拉克签署全面安全协议。",
           "url": "https://flash.jin10.com/detail/20260822015353238800",
           "source": "金十数据",
@@ -494,6 +541,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时34分"
+        },
+        {
+          "title": "伊朗议长谴责美方霸凌行径，呼吁建立地区本土安全秩序",
+          "url": "https://wallstreetcn.com/livenews/3153384",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "环球时报社评：中国不会陪美国在伊朗问题上“胡闹”",
+          "url": "https://wallstreetcn.com/articles/3780046",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "伊朗官员称美国已证明其“不懂外交语言”",
@@ -518,6 +587,17 @@
           "time_info": "00时32分"
         },
         {
+          "title": "伊朗武装部队总参谋长视察地下基地",
+          "url": "https://flash.jin10.com/detail/20260822191555049800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "伊朗：美国已然衰败 不再具有国际威望",
           "url": "https://flash.jin10.com/detail/20260822131227792800",
           "source": "金十数据",
@@ -538,6 +618,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时32分"
+        },
+        {
+          "title": "伊朗武装部队总参谋长视察地下基地",
+          "url": "https://wallstreetcn.com/livenews/3153376",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "伊朗武装部队发言人：美国在国际上已经不再具有威望。",
@@ -664,7 +755,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 50,
+      "match_count": 54,
       "titles": [
         {
           "title": "特朗普，打光了弹药？",
@@ -674,8 +765,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时08分 ~ 19时20分]"
+          "appearance_count": 15,
+          "time_info": "[09时08分 ~ 20时36分]"
         },
         {
           "title": "特朗普称打击伊朗贸易伙伴，美媒问如何制裁中国，美财长答非所问",
@@ -708,8 +799,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时08分 ~ 19时20分]"
+          "appearance_count": 15,
+          "time_info": "[09时08分 ~ 20时36分]"
         },
         {
           "title": "新闻蒸馏器｜特朗普“守门人”惹争议：了解机密却未办理安全许可，已工作一年",
@@ -898,6 +989,19 @@
           "time_info": "[05时23分 ~ 07时22分]"
         },
         {
+          "title": "特朗普：可出动美军干预债市",
+          "url": "https://www.cls.cn/detail/2461395",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 20时36分]"
+        },
+        {
           "title": "美国总统特朗普：我们应该能够与加拿大达成协议。",
           "url": "https://flash.jin10.com/detail/20260822045829111800",
           "source": "金十数据",
@@ -1043,18 +1147,6 @@
           "time_info": "[11时41分 ~ 12时31分]"
         },
         {
-          "title": "特朗普：可出动美军干预债市",
-          "url": "https://www.cls.cn/detail/2461395",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时20分]"
-        },
-        {
           "title": "特朗普再称霍尔木兹海峡为美国领土",
           "url": "https://flash.jin10.com/detail/20260822081712380800",
           "source": "金十数据",
@@ -1102,6 +1194,28 @@
           "time_info": "[06时23分 ~ 07时22分]"
         },
         {
+          "title": "巴勒斯坦副总统：哈马斯不会以其名义参加选举，并且不会成为政府的一部分，这就是它在美国总统特朗普计划中签署的内容。",
+          "url": "https://flash.jin10.com/detail/20260822192220953800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题",
+          "url": "https://wallstreetcn.com/articles/3780037",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "美国航空航天局（NASA）：美国总统特朗普将于当地时间8月28日向阿尔忒弥斯号宇航员颁发荣誉勋章。",
           "url": "https://flash.jin10.com/detail/20260822014734392800",
           "source": "金十数据",
@@ -1133,6 +1247,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时09分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-22）",
+          "url": "https://flash.jin10.com/detail/20260822185310302800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "特朗普盯上格陵兰稀土，美企矿山项目冲刺投产",
@@ -1223,6 +1348,17 @@
           "time_info": "05时23分"
         },
         {
+          "title": "释疑｜一天只过几艘船，特朗普却说海峡畅通，哪个是霍尔木兹的“真相”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33825790",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
           "title": "特朗普再称霍尔木兹海峡为美国领土",
           "url": "https://wallstreetcn.com/livenews/3153258",
           "source": "华尔街见闻-快讯",
@@ -1259,7 +1395,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "贝森特干预影响消退，美债美股齐跌，沃尔玛暴跌9%，黄金突破200日均线，数字货币再猛涨",
@@ -1290,11 +1426,12 @@
           "ranks": [
             8,
             5,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时40分 ~ 19时20分]"
+          "appearance_count": 12,
+          "time_info": "[11时40分 ~ 20时36分]"
         },
         {
           "title": "贝森特回购难消市场疑虑，30年期美债升至5.26%，美股高开，区块链概念股普涨，金油齐涨",
@@ -1321,8 +1458,23 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[10时52分 ~ 19时20分]"
+          "appearance_count": 13,
+          "time_info": "[10时52分 ~ 20时36分]"
+        },
+        {
+          "title": "贝森特扩大美债回购是做“玩火”！布鲁金斯学会：美国或重演日本式货币贬值",
+          "url": "https://wallstreetcn.com/articles/3780021",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时31分 ~ 20时36分]"
         },
         {
           "title": "美银Hartnett：贝森特正通过“变相QE”，守住5%的30年期美债收益率“马奇诺防线\"",
@@ -1349,8 +1501,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时22分 ~ 19时20分]"
+          "appearance_count": 16,
+          "time_info": "[07时22分 ~ 20时36分]"
         },
         {
           "title": "美股期指反弹 美债收益率仍居高位 比特币走强逼近8万美元 | 今夜看点",
@@ -1380,20 +1532,6 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[09时08分 ~ 15时31分]"
-        },
-        {
-          "title": "贝森特扩大美债回购是做“玩火”！布鲁金斯学会：美国或重演日本式货币贬值",
-          "url": "https://wallstreetcn.com/articles/3780021",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时31分 ~ 19时20分]"
         },
         {
           "title": "美债回购叠加政策利好 比特币本周飙升近25% 重返8万美元附近",
@@ -1465,6 +1603,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时08分 ~ 09时09分]"
+        },
+        {
+          "title": "达利欧称美债危机或三年内爆发",
+          "url": "https://www.douyin.com/hot/2619353",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         }
       ]
     },
@@ -1481,8 +1630,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[09时08分 ~ 19时20分]"
+          "appearance_count": 15,
+          "time_info": "[09时08分 ~ 20时36分]"
         },
         {
           "title": "美股收盘：三大指数周线齐跌 有色板块上演普涨浪潮",
@@ -1494,8 +1643,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[07时22分 ~ 19时20分]"
+          "appearance_count": 16,
+          "time_info": "[07时22分 ~ 20时36分]"
         },
         {
           "title": "美股止跌反弹，道指涨近1%，区块链概念股普涨，金油齐涨",
@@ -1643,6 +1792,19 @@
           "time_info": "[00时32分 ~ 09时09分]"
         },
         {
+          "title": "观察丨具身智能还在等待“ChatGPT时刻”，产业链与生态成竞争关键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33825848",
+          "source": "澎湃新闻",
+          "ranks": [
+            18,
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时21分 ~ 20时36分]"
+        },
+        {
           "title": "OpenAI：未来三个月将把GPT-5.6Sol API及积分价格下调超过20%",
           "url": "https://wallstreetcn.com/livenews/3153197",
           "source": "华尔街见闻-快讯",
@@ -1653,18 +1815,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时24分 ~ 05时23分]"
-        },
-        {
-          "title": "观察丨具身智能还在等待“ChatGPT时刻”，产业链与生态成竞争关键",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33825848",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时21分 ~ 19时20分]"
         },
         {
           "title": "OpenAI关键销售高管凯琳·沃斯辞职。（The Information）",
@@ -1931,22 +2081,24 @@
           "ranks": [
             18,
             12,
-            8
+            8,
+            19
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时25分 ~ 19时20分]"
+          "appearance_count": 4,
+          "time_info": "[17时25分 ~ 20时36分]"
         },
         {
           "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
           "url": "https://www.zhihu.com/question/2074077084964733784",
           "source": "知乎",
           "ranks": [
-            15
+            15,
+            13
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时36分]"
         }
       ]
     },
