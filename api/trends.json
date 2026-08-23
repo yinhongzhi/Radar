@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-23T13:28:10.118564+08:00",
-  "total_titles_processed": 821,
+  "generated_at": "2026-08-23T14:38:49.921538+08:00",
+  "total_titles_processed": 886,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 29,
+      "match_count": 34,
       "titles": [
         {
           "title": "很高调！伊朗首次公开地下军工生产线",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[06时20分 ~ 13时28分]"
+          "appearance_count": 10,
+          "time_info": "[06时20分 ~ 14时38分]"
         },
         {
           "title": "环球时报社评：中国不会陪美国在伊朗问题上“胡闹”",
@@ -42,11 +42,12 @@
             14,
             18,
             21,
-            23
+            23,
+            25
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 13时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 14时38分]"
         },
         {
           "title": "伊朗称过去一年国防装备产量整体翻番",
@@ -58,11 +59,12 @@
             16,
             20,
             23,
-            25
+            25,
+            27
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 13时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 14时38分]"
         },
         {
           "title": "伊拉克希望伊朗向其油轮发放特别通行许可",
@@ -74,11 +76,12 @@
             17,
             21,
             24,
-            26
+            26,
+            28
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 13时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 14时38分]"
         },
         {
           "title": "伊朗敦促卡塔尔转移被扣飞行员 卡方重申欢迎调查",
@@ -90,11 +93,12 @@
             19,
             23,
             26,
-            28
+            28,
+            30
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[00时22分 ~ 13时28分]"
+          "appearance_count": 14,
+          "time_info": "[00时22分 ~ 14时38分]"
         },
         {
           "title": "伊朗South Pars天然气加工厂完工70%。（IRNA）",
@@ -120,11 +124,12 @@
             2,
             6,
             9,
-            11
+            11,
+            13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时20分 ~ 13时28分]"
+          "appearance_count": 8,
+          "time_info": "[06时20分 ~ 14时38分]"
         },
         {
           "title": "伊朗议长谴责美方霸凌行径，呼吁建立地区本土安全秩序",
@@ -149,6 +154,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
+        },
+        {
+          "title": "伊朗基准股指升至610万点关口",
+          "url": "https://flash.jin10.com/detail/20260823143220140800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：伊朗所有当局都必须支持和执行德黑兰与华盛顿之间的谅解备忘录，以此捍卫该协议，反驳国内的批评。",
+          "url": "https://flash.jin10.com/detail/20260823141246557800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         },
         {
           "title": "雷扎伊警告伊朗邻国不要加入美国的经济战",
@@ -217,6 +244,31 @@
           "time_info": "[05时20分 ~ 09时13分]"
         },
         {
+          "title": "伊朗大使：美军士气十分低落",
+          "url": "https://flash.jin10.com/detail/20260823112453613800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8,
+            13,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 14时38分]"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：世界对伊朗的“抵抗、团结和凝聚力”感到惊讶。",
+          "url": "https://flash.jin10.com/detail/20260823140122676800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "伊朗最高国家安全委员会秘书：德黑兰不会屈服于美国的经济压力，在华盛顿履行自身承诺之前，霍尔木兹海峡将保持关闭。",
           "url": "https://flash.jin10.com/detail/20260823083444132800",
           "source": "金十数据",
@@ -245,29 +297,17 @@
           "time_info": "[11时02分 ~ 13时28分]"
         },
         {
-          "title": "伊朗大使：美军士气十分低落",
-          "url": "https://flash.jin10.com/detail/20260823112453613800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 13时28分]"
-        },
-        {
           "title": "伊朗黑客突袭英国电厂 美国12州水利设施亦遭袭",
           "url": "https://flash.jin10.com/detail/20260823120505769800",
           "source": "金十数据",
           "ranks": [
             4,
-            9
+            9,
+            20
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 13时28分]"
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 14时38分]"
         },
         {
           "title": "伊朗外长阿拉格齐与巴基斯坦陆军参谋长穆尼尔在周六进行了通话，就地区局势与安全议题展开探讨。",
@@ -386,6 +426,28 @@
           "time_info": "[00时22分 ~ 01时19分]"
         },
         {
+          "title": "伊朗总统佩泽希齐扬：华盛顿在战前错误地预测伊朗会在美国侵略下沦陷，变得像委内瑞拉一样。",
+          "url": "https://flash.jin10.com/detail/20260823140108883800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：我们正处于一场全面的经济、军事和安全战争之中。",
+          "url": "https://flash.jin10.com/detail/20260823134550708800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "据伊朗媒体Fars News：伊拉克库尔德斯坦达尔曼炼油厂发生爆炸。目前尚未公布事故原因、损失或可能的伤亡情况。",
           "url": "https://flash.jin10.com/detail/20260822215454529800",
           "source": "金十数据",
@@ -400,7 +462,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "“这次对华让步，特朗普该羞得没脸见人”",
@@ -413,8 +475,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 13时28分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 14时38分]"
         },
         {
           "title": "人均“十万加”，特朗普考虑出兵干预",
@@ -426,8 +488,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 13时28分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 14时38分]"
         },
         {
           "title": "梅洛尼谈特朗普：错付了",
@@ -448,11 +510,12 @@
           "ranks": [
             6,
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 13时28分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 14时38分]"
         },
         {
           "title": "特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题",
@@ -467,26 +530,16 @@
           "time_info": "[00时21分 ~ 05时20分]"
         },
         {
-          "title": "特朗普：加拿大“想当州却不入州” 还对我们收高关税",
-          "url": "https://flash.jin10.com/detail/20260823131131804800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
           "title": "披露文件显示特朗普6月进行了逾1000笔证券交易",
           "url": "https://wallstreetcn.com/livenews/3153431",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            1,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 14时38分]"
         },
         {
           "title": "释疑｜一天只过几艘船，特朗普却说海峡畅通，哪个是霍尔木兹的“真相”？",
@@ -501,15 +554,17 @@
           "time_info": "[00时21分 ~ 03时21分]"
         },
         {
-          "title": "美国总统特朗普：加拿大多年来也对我们的农民征收了大量关税。",
-          "url": "https://flash.jin10.com/detail/20260823130908590800",
-          "source": "金十数据",
+          "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
+          "url": "https://wallstreetcn.com/articles/3780067",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            8,
+            7,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时28分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 14时38分]"
         },
         {
           "title": "特朗普减肥药“低价计划”遇冷：多数州医疗补助项目拒绝买单",
@@ -551,17 +606,55 @@
           "time_info": "[06时20分 ~ 11时02分]"
         },
         {
+          "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
+          "url": "https://www.cls.cn/detail/2461516",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[11时57分 ~ 14时38分]"
+        },
+        {
           "title": "美国前外交官乔伊·胡德：我不相信特朗普关于美国控制霍尔木兹海峡的说法，目前各国正在采取“不同的措施”来应对那里的混乱局面。",
           "url": "https://flash.jin10.com/detail/20260823111758268800",
           "source": "金十数据",
           "ranks": [
             4,
             10,
-            15
+            15,
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时57分 ~ 13时28分]"
+          "appearance_count": 4,
+          "time_info": "[11时57分 ~ 14时38分]"
+        },
+        {
+          "title": "特朗普：加拿大“想当州却不入州” 还对我们收高关税",
+          "url": "https://flash.jin10.com/detail/20260823131131804800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 14时38分]"
+        },
+        {
+          "title": "美国总统特朗普：加拿大多年来也对我们的农民征收了大量关税。",
+          "url": "https://flash.jin10.com/detail/20260823130908590800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 14时38分]"
         },
         {
           "title": "特朗普6月调整投资组合，抛售Meta等股票、买入伯克希尔·哈撒韦",
@@ -575,30 +668,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时29分 ~ 04时21分]"
-        },
-        {
-          "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
-          "url": "https://www.cls.cn/detail/2461516",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时57分 ~ 13时28分]"
-        },
-        {
-          "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
-          "url": "https://wallstreetcn.com/articles/3780067",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时38分 ~ 13时28分]"
         },
         {
           "title": "VIP・9折看懂特朗普信号！",
@@ -648,6 +717,28 @@
           "time_info": "[13时27分 ~ 13时28分]"
         },
         {
+          "title": "加拿大总理卡尼：特朗普“误判形势”，升级关税攻势，导致加拿大与美国在贸易问题上“处于战争状态”。",
+          "url": "https://flash.jin10.com/detail/20260823135718143800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：特朗普称要对伊朗实施最严厉制裁，我们将坚守立场，并努力应对这场不对称战争。",
+          "url": "https://flash.jin10.com/detail/20260823133556142800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        },
+        {
           "title": "分析师：特朗普的经济孤立计划可能招致伊朗在波斯湾各地发动打击",
           "url": "https://flash.jin10.com/detail/20260822213559990800",
           "source": "金十数据",
@@ -661,117 +752,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "怎么看 DeepSeek 8 月 22 日再调整定价，周末全天统一按低谷价收费？",
-          "url": "https://www.zhihu.com/question/2074601403142649584",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[02时28分 ~ 13时28分]"
-        },
-        {
-          "title": "DeepSeek周末“打折”？API平台计费再调整 新规8月23日起执行",
-          "url": "https://www.cls.cn/detail/2461482",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时20分 ~ 13时28分]"
-        },
-        {
-          "title": "DeepSeek再度调价",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%86%8D%E5%BA%A6%E8%B0%83%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时13分 ~ 13时28分]"
-        },
-        {
-          "title": "如何看待最近的两个 harness 开源，deepseek 和 openai 都开源了各自的 harness？",
-          "url": "https://www.zhihu.com/question/2074080130218120715",
-          "source": "知乎",
-          "ranks": [
-            16,
-            18,
-            10,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时13分 ~ 13时28分]"
-        },
-        {
-          "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
-          "url": "https://www.zhihu.com/question/2074077084964733784",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 03时21分]"
-        },
-        {
-          "title": "DeepSeek再次调价",
-          "url": "https://wallstreetcn.com/livenews/3153405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            20,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时13分 ~ 13时28分]"
-        },
-        {
-          "title": "DeepSeek调整API计费",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%B0%83%E6%95%B4API%E8%AE%A1%E8%B4%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "DeepSeek首个视觉模型实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%A6%96%E4%B8%AA%E8%A7%86%E8%A7%89%E6%A8%A1%E5%9E%8B%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "贝森特没救成美债却点燃“美元贬值交易”！黄金创三个月新高，比特币单周暴涨超25%",
@@ -796,8 +778,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 13时28分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 14时38分]"
         },
         {
           "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
@@ -843,11 +825,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            10
+            10,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 13时28分]"
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 14时38分]"
         },
         {
           "title": "美债违约的可能性有多大",
@@ -872,6 +855,156 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时38分 ~ 13时28分]"
+        },
+        {
+          "title": "美债收益率高企如何转防御",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%80%BA%E6%94%B6%E7%9B%8A%E7%8E%87%E9%AB%98%E4%BC%81%E5%A6%82%E4%BD%95%E8%BD%AC%E9%98%B2%E5%BE%A1",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "怎么看 DeepSeek 8 月 22 日再调整定价，周末全天统一按低谷价收费？",
+          "url": "https://www.zhihu.com/question/2074601403142649584",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[02时28分 ~ 14时38分]"
+        },
+        {
+          "title": "DeepSeek周末“打折”？API平台计费再调整 新规8月23日起执行",
+          "url": "https://www.cls.cn/detail/2461482",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[05时20分 ~ 13时28分]"
+        },
+        {
+          "title": "DeepSeek再度调价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%86%8D%E5%BA%A6%E8%B0%83%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时13分 ~ 13时28分]"
+        },
+        {
+          "title": "如何看待最近的两个 harness 开源，deepseek 和 openai 都开源了各自的 harness？",
+          "url": "https://www.zhihu.com/question/2074080130218120715",
+          "source": "知乎",
+          "ranks": [
+            16,
+            18,
+            10,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时13分 ~ 14时38分]"
+        },
+        {
+          "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
+          "url": "https://www.zhihu.com/question/2074077084964733784",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时21分]"
+        },
+        {
+          "title": "DeepSeek再次调价",
+          "url": "https://wallstreetcn.com/livenews/3153405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            20,
+            22,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时13分 ~ 14时38分]"
+        },
+        {
+          "title": "DeepSeek调整API计费",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%B0%83%E6%95%B4API%E8%AE%A1%E8%B4%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "DeepSeek首个视觉模型实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%A6%96%E4%B8%AA%E8%A7%86%E8%A7%89%E6%A8%A1%E5%9E%8B%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "观察丨具身智能还在等待“ChatGPT时刻”，产业链与生态成竞争关键",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33825848",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[00时21分 ~ 07时19分]"
+        },
+        {
+          "title": "人形机器人的“ChatGPT时刻”何时来",
+          "url": "https://www.toutiao.com/trending/7676771650368441865/",
+          "source": "今日头条",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         }
       ]
     },
@@ -904,26 +1037,25 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 18,
-          "time_info": "[00时21分 ~ 13时28分]"
+          "appearance_count": 19,
+          "time_info": "[00时21分 ~ 14时38分]"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 1,
       "titles": [
         {
-          "title": "观察丨具身智能还在等待“ChatGPT时刻”，产业链与生态成竞争关键",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33825848",
-          "source": "澎湃新闻",
+          "title": "谷歌AI研究科学家来B站了",
+          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8CAI%E7%A0%94%E7%A9%B6%E7%A7%91%E5%AD%A6%E5%AE%B6%E6%9D%A5B%E7%AB%99%E4%BA%86",
+          "source": "bilibili 热搜",
           "ranks": [
-            10,
-            19
+            3
           ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时21分 ~ 07时19分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时38分"
         }
       ]
     }
