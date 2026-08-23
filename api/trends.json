@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-23T16:27:59.068563+08:00",
-  "total_titles_processed": 1005,
+  "generated_at": "2026-08-23T17:26:40.991710+08:00",
+  "total_titles_processed": 1072,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 43,
       "titles": [
         {
           "title": "很高调！伊朗首次公开地下军工生产线",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[06时20分 ~ 16时27分]"
+          "appearance_count": 13,
+          "time_info": "[06时20分 ~ 17时26分]"
         },
         {
           "title": "伊朗官员：任何参与对伊经济限制的国家都被视为敌人",
@@ -31,11 +31,12 @@
             11,
             13,
             17,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[06时20分 ~ 16时27分]"
+          "appearance_count": 11,
+          "time_info": "[06时20分 ~ 17时26分]"
         },
         {
           "title": "环球时报社评：中国不会陪美国在伊朗问题上“胡闹”",
@@ -153,11 +154,24 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             1,
-            3
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时32分 ~ 17时26分]"
+        },
+        {
+          "title": "外交部副部长苗得雨会见伊朗外交部副部长加里布阿巴迪",
+          "url": "https://wallstreetcn.com/livenews/3153449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[15时32分 ~ 16时27分]"
+          "time_info": "[16时27分 ~ 17时26分]"
         },
         {
           "title": "伊朗基准股指升至610万点关口",
@@ -197,17 +211,6 @@
           "time_info": "06时20分"
         },
         {
-          "title": "外交部副部长苗得雨会见伊朗外交部副部长加里布阿巴迪",
-          "url": "https://wallstreetcn.com/livenews/3153449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
-        },
-        {
           "title": "伊朗大使：美军士气十分低落",
           "url": "https://flash.jin10.com/detail/20260823112453613800",
           "source": "金十数据",
@@ -221,6 +224,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时57分 ~ 15时32分]"
+        },
+        {
+          "title": "伊朗警方在多地查获非法盗接燃油管道案件",
+          "url": "https://flash.jin10.com/detail/20260823164946474800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "雷扎伊警告伊朗邻国不要加入美国的经济战",
@@ -287,6 +301,28 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时20分 ~ 09时13分]"
+        },
+        {
+          "title": "外交部副部长苗得雨会见伊朗副外长",
+          "url": "https://news.ifeng.com/c/8vpGK1Qy48w",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "伊朗称巴基斯坦陆军参谋长穆尼尔将于周一访问德黑兰",
+          "url": "https://flash.jin10.com/detail/20260823163159912800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
         },
         {
           "title": "伊朗最高国家安全委员会秘书：德黑兰不会屈服于美国的经济压力，在华盛顿履行自身承诺之前，霍尔木兹海峡将保持关闭。",
@@ -473,6 +509,30 @@
           "time_info": "[14时38分 ~ 15时32分]"
         },
         {
+          "title": "伊朗外交部发言人：此次访问是巴基斯坦为加强地区和平与安全所做努力的延续。",
+          "url": "https://flash.jin10.com/detail/20260823153126836800",
+          "source": "金十数据",
+          "ranks": [
+            15,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 17时26分]"
+        },
+        {
+          "title": "伊朗外交部发言人：巴基斯坦军队首席将在周一访问德黑兰。",
+          "url": "https://flash.jin10.com/detail/20260823152804569800",
+          "source": "金十数据",
+          "ranks": [
+            16,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 17时26分]"
+        },
+        {
           "title": "据以色列i24频道：阿联酋在阿布扎比的燃料储存罐周围建造了大型金属保护围栏，以保护关键能源设施免受潜在的伊朗无人机攻击。",
           "url": "https://flash.jin10.com/detail/20260822225835713800",
           "source": "金十数据",
@@ -485,26 +545,26 @@
           "time_info": "[00时22分 ~ 01时19分]"
         },
         {
-          "title": "伊朗外交部发言人：此次访问是巴基斯坦为加强地区和平与安全所做努力的延续。",
-          "url": "https://flash.jin10.com/detail/20260823153126836800",
-          "source": "金十数据",
+          "title": "外交部副部长苗得雨会见伊朗副外长",
+          "url": "https://www.toutiao.com/trending/7677137801623637567/",
+          "source": "今日头条",
           "ranks": [
-            15
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时27分"
+          "time_info": "17时26分"
         },
         {
-          "title": "伊朗外交部发言人：巴基斯坦军队首席将在周一访问德黑兰。",
-          "url": "https://flash.jin10.com/detail/20260823152804569800",
+          "title": "外交部副部长苗得雨会见伊朗外交部副部长加里布阿巴迪",
+          "url": "https://flash.jin10.com/detail/20260823161252842800",
           "source": "金十数据",
           "ranks": [
-            16
+            10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时27分"
+          "time_info": "17时26分"
         },
         {
           "title": "据伊朗媒体Fars News：伊拉克库尔德斯坦达尔曼炼油厂发生爆炸。目前尚未公布事故原因、损失或可能的伤亡情况。",
@@ -547,8 +607,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时21分 ~ 16时27分]"
+          "appearance_count": 22,
+          "time_info": "[00时21分 ~ 17时26分]"
         },
         {
           "title": "梅洛尼谈特朗普：错付了",
@@ -573,8 +633,38 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时21分 ~ 16时27分]"
+          "appearance_count": 22,
+          "time_info": "[00时21分 ~ 17时26分]"
+        },
+        {
+          "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
+          "url": "https://www.cls.cn/detail/2461516",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9,
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[11时57分 ~ 17时26分]"
+        },
+        {
+          "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
+          "url": "https://wallstreetcn.com/articles/3780067",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[12时38分 ~ 17时26分]"
         },
         {
           "title": "特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题",
@@ -589,35 +679,6 @@
           "time_info": "[00时21分 ~ 05时20分]"
         },
         {
-          "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
-          "url": "https://wallstreetcn.com/articles/3780067",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7,
-            5,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[12时38分 ~ 16时27分]"
-        },
-        {
-          "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
-          "url": "https://www.cls.cn/detail/2461516",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9,
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[11时57分 ~ 16时27分]"
-        },
-        {
           "title": "披露文件显示特朗普6月进行了逾1000笔证券交易",
           "url": "https://wallstreetcn.com/livenews/3153431",
           "source": "华尔街见闻-快讯",
@@ -625,11 +686,12 @@
             1,
             3,
             7,
-            9
+            9,
+            10
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[13时28分 ~ 16时27分]"
+          "appearance_count": 5,
+          "time_info": "[13时28分 ~ 17时26分]"
         },
         {
           "title": "释疑｜一天只过几艘船，特朗普却说海峡畅通，哪个是霍尔木兹的“真相”？",
@@ -796,6 +858,18 @@
           "time_info": "[14时38分 ~ 15时32分]"
         },
         {
+          "title": "UP主锐评特朗普海军新政",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%86%9B%E6%96%B0%E6%94%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时27分 ~ 17时26分]"
+        },
+        {
           "title": "加拿大硬刚特朗普 会驱逐美国大使吗",
           "url": "https://www.toutiao.com/trending/7676777207243112484/",
           "source": "今日头条",
@@ -805,17 +879,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时27分 ~ 13时28分]"
-        },
-        {
-          "title": "UP主锐评特朗普海军新政",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%86%9B%E6%96%B0%E6%94%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时27分"
         },
         {
           "title": "特朗普出新招欲让美国儿童少打疫苗",
@@ -869,8 +932,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 21,
-          "time_info": "[00时21分 ~ 16时27分]"
+          "appearance_count": 22,
+          "time_info": "[00时21分 ~ 17时26分]"
         },
         {
           "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
@@ -992,8 +1055,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[09时13分 ~ 16时27分]"
+          "appearance_count": 11,
+          "time_info": "[09时13分 ~ 17时26分]"
         },
         {
           "title": "DeepSeek周末“打折”？API平台计费再调整 新规8月23日起执行",
@@ -1005,8 +1068,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[05时20分 ~ 13时28分]"
+          "appearance_count": 11,
+          "time_info": "[05时20分 ~ 17时26分]"
         },
         {
           "title": "DeepSeek再度调价",
@@ -1105,6 +1168,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价反弹重要原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%8D%E5%BC%B9%E9%87%8D%E8%A6%81%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        },
+        {
+          "title": "矿业大佬喊出金价5万美元",
+          "url": "https://www.toutiao.com/trending/7677127001466998308/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时26分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
       "match_count": 2,
       "titles": [
@@ -1153,8 +1244,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[14时38分 ~ 16时27分]"
+          "appearance_count": 4,
+          "time_info": "[14时38分 ~ 17时26分]"
         }
       ]
     }
