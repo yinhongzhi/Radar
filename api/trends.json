@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-23T22:22:11.138714+08:00",
-  "total_titles_processed": 1420,
+  "generated_at": "2026-08-23T23:21:13.338235+08:00",
+  "total_titles_processed": 1482,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 56,
+      "match_count": 60,
       "titles": [
         {
           "title": "很高调！伊朗首次公开地下军工生产线",
@@ -17,8 +17,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 20,
-          "time_info": "[06时20分 ~ 22时22分]"
+          "appearance_count": 22,
+          "time_info": "[06时20分 ~ 23时21分]"
         },
         {
           "title": "伊朗官员：任何参与对伊经济限制的国家都被视为敌人",
@@ -138,6 +138,17 @@
           "time_info": "[00时22分 ~ 12时38分]"
         },
         {
+          "title": "伊朗：感谢中方主持公道正义",
+          "url": "https://news.ifeng.com/c/8vpGK1Qy48w",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[18时22分 ~ 23时21分]"
+        },
+        {
           "title": "伊朗总统说正全力克服美带来的困难",
           "url": "https://wallstreetcn.com/livenews/3153439",
           "source": "华尔街见闻-快讯",
@@ -182,15 +193,18 @@
           "time_info": "[00时22分 ~ 07时19分]"
         },
         {
-          "title": "伊朗：感谢中方主持公道正义",
-          "url": "https://news.ifeng.com/c/8vpGK1Qy48w",
-          "source": "凤凰网",
+          "title": "今日伊朗里亚尔兑美元汇率创下历史新高，达到20万托曼（合200万里亚尔）；英镑和欧元也分别突破27.2万托曼和23.4万托曼关口。",
+          "url": "https://flash.jin10.com/detail/20260823203139682800",
+          "source": "金十数据",
           "ranks": [
-            6
+            2,
+            5,
+            12,
+            21
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[18时22分 ~ 22时22分]"
+          "appearance_count": 4,
+          "time_info": "[20时36分 ~ 23时21分]"
         },
         {
           "title": "伊朗基准股指升至610万点关口",
@@ -230,19 +244,6 @@
           "time_info": "06时20分"
         },
         {
-          "title": "今日伊朗里亚尔兑美元汇率创下历史新高，达到20万托曼（合200万里亚尔）；英镑和欧元也分别突破27.2万托曼和23.4万托曼关口。",
-          "url": "https://flash.jin10.com/detail/20260823203139682800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            5,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时36分 ~ 22时22分]"
-        },
-        {
           "title": "伊朗大使：美军士气十分低落",
           "url": "https://flash.jin10.com/detail/20260823112453613800",
           "source": "金十数据",
@@ -256,6 +257,17 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时57分 ~ 15时32分]"
+        },
+        {
+          "title": "伊朗议会议长发文嘲讽：美国对伊朗施加经济压力的计划最终会反噬美国自身",
+          "url": "https://flash.jin10.com/detail/20260823225339141800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "雷扎伊警告伊朗邻国不要加入美国的经济战",
@@ -297,6 +309,17 @@
           "time_info": "[06时20分 ~ 11时02分]"
         },
         {
+          "title": "伊朗称针对美国各种敌对行动均已制定应对方案",
+          "url": "https://wallstreetcn.com/livenews/3153499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
+        },
+        {
           "title": "伊朗最高国家安全委员会秘书：仅在“过去一两个月”内，伊朗就已经运出了7000万桶石油。",
           "url": "https://flash.jin10.com/detail/20260823104849709800",
           "source": "金十数据",
@@ -322,6 +345,20 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时20分 ~ 09时13分]"
+        },
+        {
+          "title": "据悉伊朗已受邀加入由沙土巴三国共同建立的麦加共同防御协议",
+          "url": "https://flash.jin10.com/detail/20260823203017459800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            6,
+            13,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时36分 ~ 23时21分]"
         },
         {
           "title": "外交部副部长苗得雨会见伊朗副外长",
@@ -377,17 +414,18 @@
           "time_info": "[12时38分 ~ 15时32分]"
         },
         {
-          "title": "据悉伊朗已受邀加入由沙土巴三国共同建立的麦加共同防御协议",
-          "url": "https://flash.jin10.com/detail/20260823203017459800",
+          "title": "伊朗与阿富汗铁路贸易量增长9倍",
+          "url": "https://flash.jin10.com/detail/20260823202309220800",
           "source": "金十数据",
           "ranks": [
-            3,
-            6,
-            13
+            5,
+            8,
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时36分 ~ 22时22分]"
+          "appearance_count": 4,
+          "time_info": "[20时36分 ~ 23时21分]"
         },
         {
           "title": "据伊朗国家媒体：伊朗部长表示，伊朗在法尔斯省南部的油田发现了超过7.5万亿立方英尺的天然气。",
@@ -427,19 +465,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[14时38分 ~ 16时27分]"
-        },
-        {
-          "title": "伊朗与阿富汗铁路贸易量增长9倍",
-          "url": "https://flash.jin10.com/detail/20260823202309220800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            8,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时36分 ~ 22时22分]"
         },
         {
           "title": "据耶路撒冷邮报：伊朗已被邀请加入本月早些时候由沙特阿拉伯、土耳其和巴基斯坦建立的《麦加共同防御协议》（Mecca Joint Defence Agreement）。",
@@ -507,6 +532,20 @@
           "time_info": "[17时26分 ~ 19时20分]"
         },
         {
+          "title": "伊朗总统：伊朗应摆脱“既非战争、也非和平”状态",
+          "url": "https://wallstreetcn.com/livenews/3153466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7,
+            15,
+            25,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[20时36分 ~ 23时21分]"
+        },
+        {
           "title": "伊朗议长：必须制定计划应对制裁",
           "url": "https://www.toutiao.com/trending/7676431442558059054/",
           "source": "今日头条",
@@ -570,19 +609,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[19时20分 ~ 21时31分]"
-        },
-        {
-          "title": "伊朗总统：伊朗应摆脱“既非战争、也非和平”状态",
-          "url": "https://wallstreetcn.com/livenews/3153466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            15,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时36分 ~ 22时22分]"
         },
         {
           "title": "以色列总理内塔尼亚胡：只要我担任总理，就不会有一个由伊朗控制的巴勒斯坦国。",
@@ -689,6 +715,18 @@
           "time_info": "[11时02分 ~ 12时38分]"
         },
         {
+          "title": "伊朗伊斯兰革命卫队称已制定应对美国\"经济战\"的方案",
+          "url": "https://wallstreetcn.com/livenews/3153487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 23时21分]"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬：我们正处于一场全面的经济、军事和安全战争之中。",
           "url": "https://flash.jin10.com/detail/20260823134550708800",
           "source": "金十数据",
@@ -737,15 +775,26 @@
           "time_info": "[00时22分 ~ 01时19分]"
         },
         {
-          "title": "伊朗伊斯兰革命卫队称已制定应对美国\"经济战\"的方案",
-          "url": "https://wallstreetcn.com/livenews/3153487",
-          "source": "华尔街见闻-快讯",
+          "title": "分析师：伊朗基准股指年底前达到700万点并非遥不可及",
+          "url": "https://flash.jin10.com/detail/20260823223133571800",
+          "source": "金十数据",
           "ranks": [
-            9
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "22时22分"
+          "time_info": "23时21分"
+        },
+        {
+          "title": "伊朗称针对美国各种敌对行动均已制定应对方案",
+          "url": "https://flash.jin10.com/detail/20260823221349760800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时21分"
         },
         {
           "title": "据伊朗媒体Fars News：伊拉克库尔德斯坦达尔曼炼油厂发生爆炸。目前尚未公布事故原因、损失或可能的伤亡情况。",
@@ -806,8 +855,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[11时57分 ~ 22时22分]"
+          "appearance_count": 17,
+          "time_info": "[11时57分 ~ 23时21分]"
         },
         {
           "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
@@ -820,8 +869,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[12时38分 ~ 22时22分]"
+          "appearance_count": 16,
+          "time_info": "[12时38分 ~ 23时21分]"
         },
         {
           "title": "梅洛尼谈特朗普：错付了",
@@ -846,8 +895,23 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 29,
-          "time_info": "[00时21分 ~ 22时22分]"
+          "appearance_count": 31,
+          "time_info": "[00时21分 ~ 23时21分]"
+        },
+        {
+          "title": "UP主锐评特朗普海军新政",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%86%9B%E6%96%B0%E6%94%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            15,
+            24,
+            25,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[16时27分 ~ 23时21分]"
         },
         {
           "title": "披露文件显示特朗普6月进行了逾1000笔证券交易",
@@ -879,18 +943,20 @@
           "time_info": "[00时21分 ~ 05时20分]"
         },
         {
-          "title": "UP主锐评特朗普海军新政",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%86%9B%E6%96%B0%E6%94%BF",
-          "source": "bilibili 热搜",
+          "title": "VIP・9折看懂特朗普信号！",
+          "url": "https://flash.jin10.com/detail/20260823090257820800",
+          "source": "金十数据",
           "ranks": [
-            16,
-            15,
+            13,
+            18,
             24,
-            25
+            3,
+            10,
+            19
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[16时27分 ~ 22时22分]"
+          "appearance_count": 6,
+          "time_info": "[11时02分 ~ 23时21分]"
         },
         {
           "title": "释疑｜一天只过几艘船，特朗普却说海峡畅通，哪个是霍尔木兹的“真相”？",
@@ -903,21 +969,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 03时21分]"
-        },
-        {
-          "title": "VIP・9折看懂特朗普信号！",
-          "url": "https://flash.jin10.com/detail/20260823090257820800",
-          "source": "金十数据",
-          "ranks": [
-            13,
-            18,
-            24,
-            3,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[11时02分 ~ 22时22分]"
         },
         {
           "title": "特朗普减肥药“低价计划”遇冷：多数州医疗补助项目拒绝买单",
@@ -1036,6 +1087,18 @@
           "time_info": "[13时27分 ~ 13时28分]"
         },
         {
+          "title": "美国交通部长Duffy：加拿大认为能在关税战中打败总统特朗普的想法是愚蠢的。 预计加拿大总理卡尼将迅速（与美方）对话。 贸易战正摧毁加拿大。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3153488",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 23时21分]"
+        },
+        {
           "title": "伊朗安全高官员：特朗普的鲁莽行为促使各国渴望拥有核武器",
           "url": "https://flash.jin10.com/detail/20260823032509722800",
           "source": "金十数据",
@@ -1094,17 +1157,6 @@
           "time_info": "21时31分"
         },
         {
-          "title": "美国交通部长Duffy：加拿大认为能在关税战中打败总统特朗普的想法是愚蠢的。 预计加拿大总理卡尼将迅速（与美方）对话。 贸易战正摧毁加拿大。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3153488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
-        {
           "title": "特朗普出新招欲让美国儿童少打疫苗",
           "url": "https://www.toutiao.com/trending/7676765143464181801/",
           "source": "今日头条",
@@ -1125,6 +1177,129 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "怎么看 DeepSeek 8 月 22 日再调整定价，周末全天统一按低谷价收费？",
+          "url": "https://www.zhihu.com/question/2074601403142649584",
+          "source": "知乎",
+          "ranks": [
+            5,
+            3,
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 16,
+          "time_info": "[02时28分 ~ 14时38分]"
+        },
+        {
+          "title": "如何看待最近的两个 harness 开源，deepseek 和 openai 都开源了各自的 harness？",
+          "url": "https://www.zhihu.com/question/2074080130218120715",
+          "source": "知乎",
+          "ranks": [
+            16,
+            18,
+            10,
+            14,
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时13分 ~ 17时26分]"
+        },
+        {
+          "title": "DeepSeek周末“打折”？API平台计费再调整 新规8月23日起执行",
+          "url": "https://www.cls.cn/detail/2461482",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            11,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[05时20分 ~ 21时31分]"
+        },
+        {
+          "title": "DeepSeek再度调价",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%86%8D%E5%BA%A6%E8%B0%83%E4%BB%B7",
+          "source": "百度热搜",
+          "ranks": [
+            13,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时13分 ~ 13时28分]"
+        },
+        {
+          "title": "DeepSeek再次调价",
+          "url": "https://wallstreetcn.com/livenews/3153405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17,
+            20,
+            22,
+            24,
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[09时13分 ~ 16时27分]"
+        },
+        {
+          "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
+          "url": "https://www.zhihu.com/question/2074077084964733784",
+          "source": "知乎",
+          "ranks": [
+            7,
+            6,
+            10,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[00时21分 ~ 03时21分]"
+        },
+        {
+          "title": "DeepSeek计费再调整",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E8%AE%A1%E8%B4%B9%E5%86%8D%E8%B0%83%E6%95%B4",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时21分]"
+        },
+        {
+          "title": "DeepSeek调整API计费",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%B0%83%E6%95%B4API%E8%AE%A1%E8%B4%B9",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时57分"
+        },
+        {
+          "title": "DeepSeek首个视觉模型实测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%A6%96%E4%B8%AA%E8%A7%86%E8%A7%89%E6%A8%A1%E5%9E%8B%E5%AE%9E%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         }
       ]
     },
@@ -1250,132 +1425,9 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "怎么看 DeepSeek 8 月 22 日再调整定价，周末全天统一按低谷价收费？",
-          "url": "https://www.zhihu.com/question/2074601403142649584",
-          "source": "知乎",
-          "ranks": [
-            5,
-            3,
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[02时28分 ~ 14时38分]"
-        },
-        {
-          "title": "如何看待最近的两个 harness 开源，deepseek 和 openai 都开源了各自的 harness？",
-          "url": "https://www.zhihu.com/question/2074080130218120715",
-          "source": "知乎",
-          "ranks": [
-            16,
-            18,
-            10,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时13分 ~ 17时26分]"
-        },
-        {
-          "title": "DeepSeek周末“打折”？API平台计费再调整 新规8月23日起执行",
-          "url": "https://www.cls.cn/detail/2461482",
-          "source": "财联社热门",
-          "ranks": [
-            12,
-            11,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[05时20分 ~ 21时31分]"
-        },
-        {
-          "title": "DeepSeek再度调价",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%86%8D%E5%BA%A6%E8%B0%83%E4%BB%B7",
-          "source": "百度热搜",
-          "ranks": [
-            13,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[09时13分 ~ 13时28分]"
-        },
-        {
-          "title": "DeepSeek再次调价",
-          "url": "https://wallstreetcn.com/livenews/3153405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            20,
-            22,
-            24,
-            28,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[09时13分 ~ 16时27分]"
-        },
-        {
-          "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
-          "url": "https://www.zhihu.com/question/2074077084964733784",
-          "source": "知乎",
-          "ranks": [
-            7,
-            6,
-            10,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时21分 ~ 03时21分]"
-        },
-        {
-          "title": "DeepSeek调整API计费",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%B0%83%E6%95%B4API%E8%AE%A1%E8%B4%B9",
-          "source": "bilibili 热搜",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时57分"
-        },
-        {
-          "title": "DeepSeek首个视觉模型实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E9%A6%96%E4%B8%AA%E8%A7%86%E8%A7%89%E6%A8%A1%E5%9E%8B%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时13分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "德黑兰市场黄金价格创纪录",
-          "url": "https://flash.jin10.com/detail/20260823215017623800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时22分"
-        },
         {
           "title": "金价反弹重要原因",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%8F%8D%E5%BC%B9%E9%87%8D%E8%A6%81%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=20&Refer=top",
@@ -1390,6 +1442,18 @@
           "time_info": "[17时26分 ~ 20时36分]"
         },
         {
+          "title": "德黑兰市场黄金价格创纪录",
+          "url": "https://flash.jin10.com/detail/20260823215017623800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时22分 ~ 23时21分]"
+        },
+        {
           "title": "矿业大佬喊出金价5万美元",
           "url": "https://www.toutiao.com/trending/7677127001466998308/",
           "source": "今日头条",
@@ -1400,6 +1464,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[17时26分 ~ 19时20分]"
+        },
+        {
+          "title": "国际金价连涨三周，反弹还是反转？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33835809",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时20分 ~ 23时21分]"
         }
       ]
     },
