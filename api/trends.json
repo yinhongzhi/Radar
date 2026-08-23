@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-23T19:20:11.378727+08:00",
-  "total_titles_processed": 1183,
+  "generated_at": "2026-08-23T20:36:45.745908+08:00",
+  "total_titles_processed": 1272,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 55,
       "titles": [
         {
           "title": "很高调！伊朗首次公开地下军工生产线",
@@ -16,8 +16,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 16,
-          "time_info": "[06时20分 ~ 19时20分]"
+          "appearance_count": 17,
+          "time_info": "[06时20分 ~ 20时36分]"
         },
         {
           "title": "伊朗官员：任何参与对伊经济限制的国家都被视为敌人",
@@ -137,19 +137,6 @@
           "time_info": "[00时22分 ~ 12时38分]"
         },
         {
-          "title": "外交部副部长苗得雨会见伊朗外交部副部长加里布阿巴迪",
-          "url": "https://wallstreetcn.com/livenews/3153449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[16时27分 ~ 19时20分]"
-        },
-        {
           "title": "伊朗总统说正全力克服美带来的困难",
           "url": "https://wallstreetcn.com/livenews/3153439",
           "source": "华尔街见闻-快讯",
@@ -157,11 +144,26 @@
             1,
             3,
             4,
-            7
+            7,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时32分 ~ 20时36分]"
+        },
+        {
+          "title": "外交部副部长苗得雨会见伊朗外交部副部长加里布阿巴迪",
+          "url": "https://wallstreetcn.com/livenews/3153449",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2,
+            5,
+            18
           ],
           "is_new": false,
           "appearance_count": 5,
-          "time_info": "[15时32分 ~ 19时20分]"
+          "time_info": "[16时27分 ~ 20时36分]"
         },
         {
           "title": "伊朗议长谴责美方霸凌行径，呼吁建立地区本土安全秩序",
@@ -214,17 +216,6 @@
           "time_info": "06时20分"
         },
         {
-          "title": "据伊朗国家媒体：伊朗部长表示，伊朗在法尔斯省南部的油田发现了超过7.5万亿立方英尺的天然气。",
-          "url": "https://flash.jin10.com/detail/20260823190225644800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
           "title": "伊朗大使：美军士气十分低落",
           "url": "https://flash.jin10.com/detail/20260823112453613800",
           "source": "金十数据",
@@ -238,6 +229,28 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[11时57分 ~ 15时32分]"
+        },
+        {
+          "title": "今日伊朗里亚尔兑美元汇率创下历史新高，达到20万托曼（合200万里亚尔）；英镑和欧元也分别突破27.2万托曼和23.4万托曼关口。",
+          "url": "https://flash.jin10.com/detail/20260823203139682800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "据悉伊朗已受邀加入由沙土巴三国共同建立的麦加共同防御协议",
+          "url": "https://flash.jin10.com/detail/20260823203017459800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "雷扎伊警告伊朗邻国不要加入美国的经济战",
@@ -279,17 +292,6 @@
           "time_info": "[06时20分 ~ 11时02分]"
         },
         {
-          "title": "据耶路撒冷邮报：伊朗已被邀请加入本月早些时候由沙特阿拉伯、土耳其和巴基斯坦建立的《麦加共同防御协议》（Mecca Joint Defence Agreement）。",
-          "url": "https://flash.jin10.com/detail/20260823183343870800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
-        },
-        {
           "title": "伊朗最高国家安全委员会秘书：仅在“过去一两个月”内，伊朗就已经运出了7000万桶石油。",
           "url": "https://flash.jin10.com/detail/20260823104849709800",
           "source": "金十数据",
@@ -326,6 +328,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "17时26分"
+        },
+        {
+          "title": "伊朗与阿富汗铁路贸易量增长9倍",
+          "url": "https://flash.jin10.com/detail/20260823202309220800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "伊朗最高国家安全委员会秘书：德黑兰不会屈服于美国的经济压力，在华盛顿履行自身承诺之前，霍尔木兹海峡将保持关闭。",
@@ -370,6 +383,17 @@
           "time_info": "[12时38分 ~ 15时32分]"
         },
         {
+          "title": "伊朗：感谢中方主持公道正义",
+          "url": "https://news.ifeng.com/c/8vpGK1Qy48w",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[18时22分 ~ 20时36分]"
+        },
+        {
           "title": "伊朗警方在多地查获非法盗接燃油管道案件",
           "url": "https://flash.jin10.com/detail/20260823164946474800",
           "source": "金十数据",
@@ -396,6 +420,18 @@
           "time_info": "[14时38分 ~ 16时27分]"
         },
         {
+          "title": "据伊朗国家媒体：伊朗部长表示，伊朗在法尔斯省南部的油田发现了超过7.5万亿立方英尺的天然气。",
+          "url": "https://flash.jin10.com/detail/20260823190225644800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时36分]"
+        },
+        {
           "title": "伊朗称巴基斯坦陆军参谋长穆尼尔将于周一访问德黑兰",
           "url": "https://flash.jin10.com/detail/20260823163159912800",
           "source": "金十数据",
@@ -407,6 +443,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[17时26分 ~ 19时20分]"
+        },
+        {
+          "title": "据耶路撒冷邮报：伊朗已被邀请加入本月早些时候由沙特阿拉伯、土耳其和巴基斯坦建立的《麦加共同防御协议》（Mecca Joint Defence Agreement）。",
+          "url": "https://flash.jin10.com/detail/20260823183343870800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时36分]"
         },
         {
           "title": "伊朗外长阿拉格齐与巴基斯坦陆军参谋长穆尼尔在周六进行了通话，就地区局势与安全议题展开探讨。",
@@ -473,17 +521,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[11时02分 ~ 13时28分]"
-        },
-        {
-          "title": "伊朗：感谢中方主持公道正义",
-          "url": "https://news.ifeng.com/c/8vpGK1Qy48w",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[18时22分 ~ 19时20分]"
         },
         {
           "title": "伊朗称美国为以色列无视其他盟友利益",
@@ -563,6 +600,18 @@
           "time_info": "[11时02分 ~ 12时38分]"
         },
         {
+          "title": "据沙特卫星电视台： 消息人士表示，已提出修改原定于9月30日的限制武器归国家的截止日期的提案。伊拉克的派系倾向于根据“伊朗的愿景”冻结使用武器两年。",
+          "url": "https://flash.jin10.com/detail/20260823182050517800",
+          "source": "金十数据",
+          "ranks": [
+            6,
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时36分]"
+        },
+        {
           "title": "伊朗总统佩泽希齐扬：我们正处于一场全面的经济、军事和安全战争之中。",
           "url": "https://flash.jin10.com/detail/20260823134550708800",
           "source": "金十数据",
@@ -611,15 +660,59 @@
           "time_info": "[00时22分 ~ 01时19分]"
         },
         {
-          "title": "据沙特卫星电视台： 消息人士表示，已提出修改原定于9月30日的限制武器归国家的截止日期的提案。伊拉克的派系倾向于根据“伊朗的愿景”冻结使用武器两年。",
-          "url": "https://flash.jin10.com/detail/20260823182050517800",
-          "source": "金十数据",
+          "title": "伊朗总统：伊朗应摆脱“既非战争、也非和平”状态",
+          "url": "https://wallstreetcn.com/livenews/3153466",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时20分"
+          "time_info": "20时36分"
+        },
+        {
+          "title": "伊朗石油部长：法尔斯省南部发现7.5万亿立方英尺天然气",
+          "url": "https://wallstreetcn.com/livenews/3153459",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "伊朗石油部长：法尔斯省南部发现7.5万亿立方英尺天然气",
+          "url": "https://flash.jin10.com/detail/20260823193320463800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "伊朗外长：伊朗从未害怕过美国制裁",
+          "url": "https://wallstreetcn.com/livenews/3153458",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
+        },
+        {
+          "title": "伊朗外长：伊朗从未害怕过美国制裁",
+          "url": "https://flash.jin10.com/detail/20260823192018409800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时36分"
         },
         {
           "title": "据伊朗媒体Fars News：伊拉克库尔德斯坦达尔曼炼油厂发生爆炸。目前尚未公布事故原因、损失或可能的伤亡情况。",
@@ -662,8 +755,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时21分 ~ 19时20分]"
+          "appearance_count": 26,
+          "time_info": "[00时21分 ~ 20时36分]"
         },
         {
           "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
@@ -676,8 +769,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时38分 ~ 19时20分]"
+          "appearance_count": 11,
+          "time_info": "[12时38分 ~ 20时36分]"
         },
         {
           "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
@@ -693,8 +786,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时57分 ~ 19时20分]"
+          "appearance_count": 12,
+          "time_info": "[11时57分 ~ 20时36分]"
         },
         {
           "title": "梅洛尼谈特朗普：错付了",
@@ -719,8 +812,25 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 25,
-          "time_info": "[00时21分 ~ 19时20分]"
+          "appearance_count": 26,
+          "time_info": "[00时21分 ~ 20时36分]"
+        },
+        {
+          "title": "披露文件显示特朗普6月进行了逾1000笔证券交易",
+          "url": "https://wallstreetcn.com/livenews/3153431",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            3,
+            7,
+            9,
+            10,
+            13,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[13时28分 ~ 20时36分]"
         },
         {
           "title": "特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题",
@@ -735,20 +845,17 @@
           "time_info": "[00时21分 ~ 05时20分]"
         },
         {
-          "title": "披露文件显示特朗普6月进行了逾1000笔证券交易",
-          "url": "https://wallstreetcn.com/livenews/3153431",
-          "source": "华尔街见闻-快讯",
+          "title": "UP主锐评特朗普海军新政",
+          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%86%9B%E6%96%B0%E6%94%BF",
+          "source": "bilibili 热搜",
           "ranks": [
-            1,
-            3,
-            7,
-            9,
-            10,
-            13
+            16,
+            15,
+            24
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[13时28分 ~ 19时20分]"
+          "appearance_count": 6,
+          "time_info": "[16时27分 ~ 20时36分]"
         },
         {
           "title": "释疑｜一天只过几艘船，特朗普却说海峡畅通，哪个是霍尔木兹的“真相”？",
@@ -761,17 +868,6 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时21分 ~ 03时21分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-23）",
-          "url": "https://flash.jin10.com/detail/20260823184420774800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时20分"
         },
         {
           "title": "特朗普减肥药“低价计划”遇冷：多数州医疗补助项目拒绝买单",
@@ -827,19 +923,6 @@
           "time_info": "[11时57分 ~ 14时38分]"
         },
         {
-          "title": "UP主锐评特朗普海军新政",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%86%9B%E6%96%B0%E6%94%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            16,
-            15,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[16时27分 ~ 19时20分]"
-        },
-        {
           "title": "特朗普：加拿大“想当州却不入州” 还对我们收高关税",
           "url": "https://flash.jin10.com/detail/20260823131131804800",
           "source": "金十数据",
@@ -877,6 +960,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时29分 ~ 04时21分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-23）",
+          "url": "https://flash.jin10.com/detail/20260823184420774800",
+          "source": "金十数据",
+          "ranks": [
+            3,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[19时20分 ~ 20时36分]"
         },
         {
           "title": "VIP・9折看懂特朗普信号！",
@@ -1246,11 +1341,12 @@
           "source": "微博",
           "ranks": [
             20,
-            28
+            28,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[17时26分 ~ 19时20分]"
+          "appearance_count": 5,
+          "time_info": "[17时26分 ~ 20时36分]"
         },
         {
           "title": "矿业大佬喊出金价5万美元",
