@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-23T11:57:31.667198+08:00",
-  "total_titles_processed": 737,
+  "generated_at": "2026-08-23T12:38:19.643400+08:00",
+  "total_titles_processed": 780,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "环球时报社评：中国不会陪美国在伊朗问题上“胡闹”",
@@ -32,8 +32,8 @@
             21
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 11时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 12时38分]"
         },
         {
           "title": "伊朗称过去一年国防装备产量整体翻番",
@@ -47,8 +47,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 11时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 12时38分]"
         },
         {
           "title": "伊拉克希望伊朗向其油轮发放特别通行许可",
@@ -62,8 +62,8 @@
             24
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 11时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 12时38分]"
         },
         {
           "title": "伊朗敦促卡塔尔转移被扣飞行员 卡方重申欢迎调查",
@@ -77,8 +77,8 @@
             26
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 11时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 12时38分]"
         },
         {
           "title": "伊朗South Pars天然气加工厂完工70%。（IRNA）",
@@ -92,8 +92,8 @@
             29
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[00时22分 ~ 11时57分]"
+          "appearance_count": 12,
+          "time_info": "[00时22分 ~ 12时38分]"
         },
         {
           "title": "很高调！伊朗首次公开地下军工生产线",
@@ -104,8 +104,22 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[06时20分 ~ 12时38分]"
+        },
+        {
+          "title": "伊朗官员：任何参与对伊经济限制的国家都被视为敌人",
+          "url": "https://wallstreetcn.com/livenews/3153420",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            2,
+            6,
+            9
+          ],
+          "is_new": false,
           "appearance_count": 6,
-          "time_info": "[06时20分 ~ 11时57分]"
+          "time_info": "[06时20分 ~ 12时38分]"
         },
         {
           "title": "伊朗议长谴责美方霸凌行径，呼吁建立地区本土安全秩序",
@@ -121,20 +135,6 @@
           "time_info": "[00时22分 ~ 07时19分]"
         },
         {
-          "title": "伊朗官员：任何参与对伊经济限制的国家都被视为敌人",
-          "url": "https://wallstreetcn.com/livenews/3153420",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1,
-            2,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[06时20分 ~ 11时57分]"
-        },
-        {
           "title": "伊朗称过去一年国防装备产量整体翻番",
           "url": "https://flash.jin10.com/detail/20260823061230398800",
           "source": "金十数据",
@@ -144,17 +144,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时20分"
-        },
-        {
-          "title": "伊朗大使：美军士气十分低落",
-          "url": "https://flash.jin10.com/detail/20260823112453613800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
         },
         {
           "title": "雷扎伊警告伊朗邻国不要加入美国的经济战",
@@ -196,6 +185,17 @@
           "time_info": "[06时20分 ~ 11时02分]"
         },
         {
+          "title": "伊朗黑客突袭英国电厂 美国12州水利设施亦遭袭",
+          "url": "https://flash.jin10.com/detail/20260823120505769800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "伊朗官员：任何参与对伊经济限制的国家都被视为敌人",
           "url": "https://flash.jin10.com/detail/20260823043655236800",
           "source": "金十数据",
@@ -209,29 +209,43 @@
           "time_info": "[05时20分 ~ 09时13分]"
         },
         {
-          "title": "伊朗最高国家安全委员会秘书：仅在“过去一两个月”内，伊朗就已经运出了7000万桶石油。",
-          "url": "https://flash.jin10.com/detail/20260823104849709800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 11时57分]"
-        },
-        {
           "title": "伊朗最高国家安全委员会秘书：德黑兰不会屈服于美国的经济压力，在华盛顿履行自身承诺之前，霍尔木兹海峡将保持关闭。",
           "url": "https://flash.jin10.com/detail/20260823083444132800",
           "source": "金十数据",
           "ranks": [
             1,
             16,
-            21
+            21,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 12时38分]"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书：仅在“过去一两个月”内，伊朗就已经运出了7000万桶石油。",
+          "url": "https://flash.jin10.com/detail/20260823104849709800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            6,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[09时13分 ~ 11时57分]"
+          "time_info": "[11时02分 ~ 12时38分]"
+        },
+        {
+          "title": "伊朗大使：美军士气十分低落",
+          "url": "https://flash.jin10.com/detail/20260823112453613800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 12时38分]"
         },
         {
           "title": "据华盛顿邮报：美国在伊朗战争中受伤或死亡的军人数量已上升至774人。",
@@ -239,11 +253,12 @@
           "source": "金十数据",
           "ranks": [
             4,
-            9
+            9,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 11时57分]"
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 12时38分]"
         },
         {
           "title": "伊朗外长阿拉格齐与巴基斯坦陆军参谋长穆尼尔在周六进行了通话，就地区局势与安全议题展开探讨。",
@@ -315,11 +330,12 @@
           "source": "金十数据",
           "ranks": [
             12,
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 11时57分]"
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 12时38分]"
         },
         {
           "title": "伊朗外长阿拉格齐与巴基斯坦陆军参谋长阿西姆·穆尼尔元帅通电话。双方讨论了地区最新局势以及“加强西亚地区和平、稳定与安全的有效战略”。",
@@ -327,11 +343,24 @@
           "source": "金十数据",
           "ranks": [
             15,
-            20
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 12时38分]"
+        },
+        {
+          "title": "伊朗议长：必须制定计划应对制裁",
+          "url": "https://www.toutiao.com/trending/7676431442558059054/",
+          "source": "今日头条",
+          "ranks": [
+            19,
+            10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[11时02分 ~ 11时57分]"
+          "time_info": "[11时57分 ~ 12时38分]"
         },
         {
           "title": "据以色列i24频道：阿联酋在阿布扎比的燃料储存罐周围建造了大型金属保护围栏，以保护关键能源设施免受潜在的伊朗无人机攻击。",
@@ -344,17 +373,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时22分 ~ 01时19分]"
-        },
-        {
-          "title": "伊朗议长：必须制定计划应对制裁",
-          "url": "https://www.toutiao.com/trending/7676431442558059054/",
-          "source": "今日头条",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
         },
         {
           "title": "据伊朗媒体Fars News：伊拉克库尔德斯坦达尔曼炼油厂发生爆炸。目前尚未公布事故原因、损失或可能的伤亡情况。",
@@ -371,7 +389,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "“这次对华让步，特朗普该羞得没脸见人”",
@@ -384,8 +402,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 11时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 12时38分]"
         },
         {
           "title": "人均“十万加”，特朗普考虑出兵干预",
@@ -397,8 +415,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 11时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 12时38分]"
         },
         {
           "title": "特朗普：可出动美军干预债市",
@@ -409,8 +427,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 11时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 12时38分]"
         },
         {
           "title": "梅洛尼谈特朗普：错付了",
@@ -421,8 +439,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 11时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 12时38分]"
         },
         {
           "title": "特朗普：未指示贝森特干预美国债市，经济增长将自行化解债务问题",
@@ -460,17 +478,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[04时21分 ~ 07时19分]"
-        },
-        {
-          "title": "美国前外交官乔伊·胡德：我不相信特朗普关于美国控制霍尔木兹海峡的说法，目前各国正在采取“不同的措施”来应对那里的混乱局面。",
-          "url": "https://flash.jin10.com/detail/20260823111758268800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时57分"
         },
         {
           "title": "特朗普与加拿大的贸易战可能刺痛美国经济",
@@ -512,6 +519,43 @@
           "time_info": "[02时29分 ~ 04时21分]"
         },
         {
+          "title": "美国前外交官乔伊·胡德：我不相信特朗普关于美国控制霍尔木兹海峡的说法，目前各国正在采取“不同的措施”来应对那里的混乱局面。",
+          "url": "https://flash.jin10.com/detail/20260823111758268800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 12时38分]"
+        },
+        {
+          "title": "VIP・9折看懂特朗普信号！",
+          "url": "https://flash.jin10.com/detail/20260823090257820800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            18,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时02分 ~ 12时38分]"
+        },
+        {
+          "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
+          "url": "https://www.cls.cn/detail/2461516",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时57分 ~ 12时38分]"
+        },
+        {
           "title": "伊朗安全高官员：特朗普的鲁莽行为促使各国渴望拥有核武器",
           "url": "https://flash.jin10.com/detail/20260823032509722800",
           "source": "金十数据",
@@ -524,27 +568,15 @@
           "time_info": "[04时21分 ~ 05时20分]"
         },
         {
-          "title": "VIP・9折看懂特朗普信号！",
-          "url": "https://flash.jin10.com/detail/20260823090257820800",
-          "source": "金十数据",
+          "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
+          "url": "https://wallstreetcn.com/articles/3780067",
+          "source": "华尔街见闻",
           "ranks": [
-            13,
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时02分 ~ 11时57分]"
-        },
-        {
-          "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
-          "url": "https://www.cls.cn/detail/2461516",
-          "source": "财联社热门",
-          "ranks": [
-            11
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时57分"
+          "time_info": "12时38分"
         },
         {
           "title": "分析师：特朗普的经济孤立计划可能招致伊朗在波斯湾各地发动打击",
@@ -574,8 +606,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时28分 ~ 11时57分]"
+          "appearance_count": 13,
+          "time_info": "[02时28分 ~ 12时38分]"
         },
         {
           "title": "DeepSeek周末“打折”？API平台计费再调整 新规8月23日起执行",
@@ -587,8 +619,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[05时20分 ~ 11时57分]"
+          "appearance_count": 8,
+          "time_info": "[05时20分 ~ 12时38分]"
         },
         {
           "title": "怎么看 OpenCode 找了很多供应商，都找不到 DeepSeek 涨价前原厂的价格？",
@@ -611,11 +643,12 @@
           "ranks": [
             16,
             18,
-            10
+            10,
+            14
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时13分 ~ 11时57分]"
+          "appearance_count": 5,
+          "time_info": "[09时13分 ~ 12时38分]"
         },
         {
           "title": "DeepSeek再度调价",
@@ -625,8 +658,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[09时13分 ~ 11时57分]"
+          "appearance_count": 5,
+          "time_info": "[09时13分 ~ 12时38分]"
         },
         {
           "title": "DeepSeek再次调价",
@@ -637,8 +670,8 @@
             20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[09时13分 ~ 11时57分]"
+          "appearance_count": 4,
+          "time_info": "[09时13分 ~ 12时38分]"
         },
         {
           "title": "DeepSeek调整API计费",
@@ -647,7 +680,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时57分"
         },
@@ -666,7 +699,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "贝森特没救成美债却点燃“美元贬值交易”！黄金创三个月新高，比特币单周暴涨超25%",
@@ -691,8 +724,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 11时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 12时38分]"
         },
         {
           "title": "达利欧又双叒叕警告：美债危机临近 囤点黄金和比特币吧",
@@ -719,6 +752,17 @@
           "time_info": "[00时21分 ~ 00时22分]"
         },
         {
+          "title": "美债抛售撞上高利率高，黄金到底要攻还是守？",
+          "url": "https://flash.jin10.com/detail/20260823120503727800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "达利欧称美债危机或三年内爆发",
           "url": "https://www.douyin.com/hot/2619353",
           "source": "抖音",
@@ -743,6 +787,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时01分 ~ 11时57分]"
+        },
+        {
+          "title": "美债破40万亿美元黄金配置机会来了吗",
+          "url": "https://www.toutiao.com/trending/7677055722424634934/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         }
       ]
     },
@@ -771,11 +826,12 @@
             7,
             8,
             9,
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时21分 ~ 11时57分]"
+          "appearance_count": 16,
+          "time_info": "[00时21分 ~ 12时38分]"
         }
       ]
     },
