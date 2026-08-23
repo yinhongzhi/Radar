@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T03:21:43.820059+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-08-24T04:21:22.360392+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "很高调！伊朗首次公开地下军工生产线",
@@ -15,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时21分]"
         },
         {
           "title": "伊朗称针对美国各种敌对行动均已制定应对方案",
@@ -26,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时21分]"
         },
         {
           "title": "伊朗：感谢中方主持公道正义",
@@ -37,8 +37,41 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时21分]"
+        },
+        {
+          "title": "伊拉克总理安全顾问：我们向伊朗和沙特提出了建立统一安全协调委员会的建议。",
+          "url": "https://flash.jin10.com/detail/20260824033653758800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队称已制定应对美国\"经济战\"的方案",
+          "url": "https://wallstreetcn.com/livenews/3153487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时21分]"
+        },
+        {
+          "title": "伊朗总统：伊朗应摆脱“既非战争、也非和平”状态",
+          "url": "https://wallstreetcn.com/livenews/3153466",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时21分]"
         },
         {
           "title": "伊朗总统称应摆脱非战非和状态",
@@ -46,11 +79,12 @@
           "source": "金十数据",
           "ranks": [
             2,
-            8
+            8,
+            18
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 04时21分]"
         },
         {
           "title": "美军伊朗战争伤亡升至774人",
@@ -71,33 +105,12 @@
           "source": "金十数据",
           "ranks": [
             5,
-            11
+            11,
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时27分 ~ 03时21分]"
-        },
-        {
-          "title": "伊朗伊斯兰革命卫队称已制定应对美国\"经济战\"的方案",
-          "url": "https://wallstreetcn.com/livenews/3153487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时21分]"
-        },
-        {
-          "title": "伊朗总统：伊朗应摆脱“既非战争、也非和平”状态",
-          "url": "https://wallstreetcn.com/livenews/3153466",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时21分]"
+          "appearance_count": 3,
+          "time_info": "[02时27分 ~ 04时21分]"
         },
         {
           "title": "伊朗议会批准向通过霍尔木兹海峡的船只收取服务费",
@@ -150,6 +163,28 @@
           "time_info": "[00时23分 ~ 01时19分]"
         },
         {
+          "title": "伊朗“波斯湾海峡管理局”：违规船只或遭罚款扣押",
+          "url": "https://flash.jin10.com/detail/20260824030549023800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
+          "title": "伊朗官员：若美打经济战 霍尔木兹海峡和波斯湾将再无石油出口",
+          "url": "https://flash.jin10.com/detail/20260824030417085800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时21分"
+        },
+        {
           "title": "伊朗反对周边国家参与美“经济战”：否则将被视为敌人",
           "url": "https://m.thepaper.cn/newsDetail_forward_33835953",
           "source": "澎湃新闻",
@@ -171,11 +206,12 @@
           "url": "https://www.cls.cn/detail/2461516",
           "source": "财联社热门",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时21分]"
         },
         {
           "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
@@ -185,19 +221,20 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时21分]"
         },
         {
           "title": "特朗普：可出动美军干预债市",
           "url": "https://www.cls.cn/detail/2461395",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时21分]"
         },
         {
           "title": "美国交通部长Duffy：加拿大认为能在关税战中打败总统特朗普的想法是愚蠢的。 预计加拿大总理卡尼将迅速（与美方）对话。 贸易战正摧毁加拿大。（福克斯新闻）",
@@ -207,8 +244,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时21分]"
         },
         {
           "title": "UP主锐评特朗普海军新政",
@@ -218,22 +255,24 @@
             29,
             23,
             22,
-            18
+            18,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时21分]"
         },
         {
           "title": "特朗普最新调仓披露",
           "url": "https://www.douyin.com/hot/2620226",
           "source": "抖音",
           "ranks": [
-            19
+            19,
+            9
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时21分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时21分 ~ 04时21分]"
         }
       ]
     },
@@ -251,8 +290,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[00时23分 ~ 03时21分]"
+          "appearance_count": 5,
+          "time_info": "[00时23分 ~ 04时21分]"
         },
         {
           "title": "德黑兰市场黄金价格创纪录",
