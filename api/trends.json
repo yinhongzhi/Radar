@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T05:20:47.552111+08:00",
-  "total_titles_processed": 458,
+  "generated_at": "2026-08-24T06:20:11.011198+08:00",
+  "total_titles_processed": 478,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 21,
       "titles": [
         {
           "title": "很高调！伊朗首次公开地下军工生产线",
@@ -15,20 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时20分]"
-        },
-        {
-          "title": "伊朗称针对美国各种敌对行动均已制定应对方案",
-          "url": "https://wallstreetcn.com/livenews/3153499",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 06时20分]"
         },
         {
           "title": "伊朗：感谢中方主持公道正义",
@@ -38,8 +26,21 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 06时20分]"
+        },
+        {
+          "title": "伊朗称针对美国各种敌对行动均已制定应对方案",
+          "url": "https://wallstreetcn.com/livenews/3153499",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4,
+            17,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时20分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队称已制定应对美国\"经济战\"的方案",
@@ -47,22 +48,23 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             13,
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时20分]"
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时20分]"
         },
         {
-          "title": "伊朗最高国家安全委员会秘书雷扎伊：如果经济战持续，将不会有一滴石油得以出口，无论是经由霍尔木兹海峡，还是波斯湾其他出口通道。 伊朗将把任何参与或支持美国针对伊朗民众发动经济战的国家，视作战争行为。",
-          "url": "https://wallstreetcn.com/livenews/3153506",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗总统称应摆脱“非战非和”状态",
+          "url": "https://news.ifeng.com/c/8vptq1ipQh6",
+          "source": "凤凰网",
           "ranks": [
-            5
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时19分 ~ 06时20分]"
         },
         {
           "title": "伊朗总统：伊朗应摆脱“既非战争、也非和平”状态",
@@ -100,6 +102,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时19分 ~ 03时21分]"
+        },
+        {
+          "title": "伊朗最高国家安全委员会秘书雷扎伊：如果经济战持续，将不会有一滴石油得以出口，无论是经由霍尔木兹海峡，还是波斯湾其他出口通道。 伊朗将把任何参与或支持美国针对伊朗民众发动经济战的国家，视作战争行为。",
+          "url": "https://wallstreetcn.com/livenews/3153506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时20分]"
         },
         {
           "title": "美军称对伊朗海上封锁以来已拦截75艘商船",
@@ -153,6 +167,18 @@
           "time_info": "[00时23分 ~ 02时27分]"
         },
         {
+          "title": "伊朗官员：若美打经济战 霍尔木兹海峡和波斯湾将再无石油出口",
+          "url": "https://wallstreetcn.com/livenews/3153504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时20分]"
+        },
+        {
           "title": "伊朗“波斯湾海峡管理局”：违规船只或遭罚款扣押",
           "url": "https://flash.jin10.com/detail/20260824030549023800",
           "source": "金十数据",
@@ -175,6 +201,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时21分 ~ 05时20分]"
+        },
+        {
+          "title": "美众议院议长：伊朗冲突或将很快进入新阶段，期待盟国协助收尾",
+          "url": "https://wallstreetcn.com/livenews/3153511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时20分]"
+        },
+        {
+          "title": "美军称对伊朗海上封锁以来已拦截75艘商船",
+          "url": "https://wallstreetcn.com/livenews/3153512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时20分]"
         },
         {
           "title": "分析师：伊朗基准股指年底前达到700万点并非遥不可及",
@@ -201,39 +251,6 @@
           "time_info": "[00时23分 ~ 01时19分]"
         },
         {
-          "title": "伊朗官员：若美打经济战 霍尔木兹海峡和波斯湾将再无石油出口",
-          "url": "https://wallstreetcn.com/livenews/3153504",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "美众议院议长：伊朗冲突或将很快进入新阶段，期待盟国协助收尾",
-          "url": "https://wallstreetcn.com/livenews/3153511",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "美军称对伊朗海上封锁以来已拦截75艘商船",
-          "url": "https://wallstreetcn.com/livenews/3153512",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
           "title": "伊朗反对周边国家参与美“经济战”：否则将被视为敌人",
           "url": "https://m.thepaper.cn/newsDetail_forward_33835953",
           "source": "澎湃新闻",
@@ -248,7 +265,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
@@ -259,8 +276,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 06时20分]"
         },
         {
           "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
@@ -270,8 +287,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 06时20分]"
         },
         {
           "title": "特朗普：可出动美军干预债市",
@@ -282,20 +299,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时20分]"
-        },
-        {
-          "title": "美国交通部长Duffy：加拿大认为能在关税战中打败总统特朗普的想法是愚蠢的。 预计加拿大总理卡尼将迅速（与美方）对话。 贸易战正摧毁加拿大。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3153488",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 06时20分]"
         },
         {
           "title": "UP主锐评特朗普海军新政",
@@ -306,33 +311,25 @@
             23,
             22,
             18,
-            21
+            21,
+            11
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 06时20分]"
         },
         {
-          "title": "特朗普计划于下月访问爱尔兰并观看高尔夫球赛",
-          "url": "https://flash.jin10.com/detail/20260824050302135800",
-          "source": "金十数据",
+          "title": "美国交通部长Duffy：加拿大认为能在关税战中打败总统特朗普的想法是愚蠢的。 预计加拿大总理卡尼将迅速（与美方）对话。 贸易战正摧毁加拿大。（福克斯新闻）",
+          "url": "https://wallstreetcn.com/livenews/3153488",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            2
+            12,
+            25,
+            26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
-        },
-        {
-          "title": "市场消息：美国总统特朗普将于9月12日、13日到访爱尔兰。",
-          "url": "https://flash.jin10.com/detail/20260824045011251800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时20分"
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时20分]"
         },
         {
           "title": "特朗普最新调仓披露",
@@ -341,11 +338,47 @@
           "ranks": [
             19,
             9,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时21分 ~ 05时20分]"
+          "appearance_count": 5,
+          "time_info": "[03时21分 ~ 06时20分]"
+        },
+        {
+          "title": "特朗普计划于下月访问爱尔兰并观看高尔夫球赛",
+          "url": "https://flash.jin10.com/detail/20260824050302135800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时20分]"
+        },
+        {
+          "title": "市场消息：美国总统特朗普将于9月12日、13日到访爱尔兰。",
+          "url": "https://flash.jin10.com/detail/20260824045011251800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时20分 ~ 06时20分]"
+        },
+        {
+          "title": "美国总统特朗普：不肯规划建设数据中心的社区是在犯错误。数据中心提供了大量的就业机会和资金。",
+          "url": "https://flash.jin10.com/detail/20260824054714681800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         }
       ]
     },
@@ -363,8 +396,8 @@
             18
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[00时23分 ~ 05时20分]"
+          "appearance_count": 8,
+          "time_info": "[00时23分 ~ 06时20分]"
         },
         {
           "title": "德黑兰市场黄金价格创纪录",
@@ -376,6 +409,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时23分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股三大股指期货周一开盘微跌。",
+          "url": "https://flash.jin10.com/detail/20260824060125013800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时20分"
         }
       ]
     }
