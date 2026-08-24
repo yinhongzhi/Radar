@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T22:40:23.010475+08:00",
-  "total_titles_processed": 2024,
+  "generated_at": "2026-08-24T23:38:28.414883+08:00",
+  "total_titles_processed": 2117,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 68,
+      "match_count": 69,
       "titles": [
         {
           "title": "很高调！伊朗首次公开地下军工生产线",
@@ -44,8 +44,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[12时42分 ~ 22时40分]"
+          "appearance_count": 14,
+          "time_info": "[12时42分 ~ 23时38分]"
         },
         {
           "title": "伊朗：感谢中方主持公道正义",
@@ -98,28 +98,16 @@
           "time_info": "[06时19分 ~ 07时20分]"
         },
         {
-          "title": "伊朗伊斯兰革命卫队称已制定应对美国\"经济战\"的方案",
-          "url": "https://wallstreetcn.com/livenews/3153487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13,
-            26,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时23分 ~ 06时20分]"
-        },
-        {
           "title": "中国女排3:0伊朗女排",
           "url": "https://www.douyin.com/hot/2622314",
           "source": "抖音",
           "ranks": [
-            4
+            4,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时40分]"
+          "appearance_count": 3,
+          "time_info": "[21时50分 ~ 23时38分]"
         },
         {
           "title": "经济大战一触即发？美国今天将公布空前经济孤立措施！美财长：战事进入终局，切断伊朗“每一条经济命脉”！伊朗亮出“石油出口反制牌”",
@@ -131,8 +119,21 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时46分 ~ 22时40分]"
+          "appearance_count": 4,
+          "time_info": "[20时46分 ~ 23时38分]"
+        },
+        {
+          "title": "伊朗伊斯兰革命卫队称已制定应对美国\"经济战\"的方案",
+          "url": "https://wallstreetcn.com/livenews/3153487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13,
+            26,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时23分 ~ 06时20分]"
         },
         {
           "title": "伊朗外交部发言人：伊朗与阿富汗将扩大贸易关系。",
@@ -240,7 +241,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -424,6 +425,17 @@
           "time_info": "[05时20分 ~ 07时20分]"
         },
         {
+          "title": "中国女排3-0伊朗女排迎两连胜",
+          "url": "https://www.toutiao.com/trending/7677583045448175167/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 23时38分]"
+        },
+        {
           "title": "伊朗“波斯湾海峡管理局”：违规船只或遭罚款扣押",
           "url": "https://flash.jin10.com/detail/20260824030549023800",
           "source": "金十数据",
@@ -515,17 +527,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
-        },
-        {
-          "title": "中国女排3-0伊朗女排迎两连胜",
-          "url": "https://www.toutiao.com/trending/7677583045448175167/",
-          "source": "今日头条",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
         },
         {
           "title": "伊朗外交部发言人：根据国际法，打击任何侵略行动的源头是伊朗的合法权利，在捍卫国家主权方面不会表现出任何宽容。",
@@ -666,7 +667,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -713,6 +714,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
+        },
+        {
+          "title": "伊朗警告称配合美国对伊侵略将面临后果",
+          "url": "https://wallstreetcn.com/livenews/3154052",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "据希腊媒体报道，在伊朗对驻欧洲美军基地发出威胁后，雅典向克里特岛调派了一套防空系统。",
@@ -806,7 +818,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 34,
+      "match_count": 39,
       "titles": [
         {
           "title": "美加贸易为何谈崩了？专家：特朗普想吞并加拿大",
@@ -817,8 +829,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[14时55分 ~ 22时40分]"
+          "appearance_count": 11,
+          "time_info": "[14时55分 ~ 23时38分]"
         },
         {
           "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
@@ -876,8 +888,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[09时12分 ~ 22时40分]"
+          "appearance_count": 16,
+          "time_info": "[09时12分 ~ 23时38分]"
         },
         {
           "title": "特朗普：可出动美军干预债市",
@@ -966,9 +978,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 23时38分]"
         },
         {
           "title": "特朗普在伊朗问题上总是“给点阳光就灿烂”，极限施压只会使美伊滑向新一轮战争",
@@ -982,6 +994,28 @@
           "time_info": "11时02分"
         },
         {
+          "title": "金与正，没接特朗普的话",
+          "url": "https://news.ifeng.com/c/8vqw7NCqQ1S",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[19时26分 ~ 23时38分]"
+        },
+        {
+          "title": "特朗普威胁对所有轿车和卡车征收 50% 关税后，美国卡车运输类股票下跌。JB亨特运输跌5.3%，奥多明尼昂货运跌2.2%，奈特‑斯威夫特运输跌3.8%。",
+          "url": "https://wallstreetcn.com/livenews/3154071",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
           "title": "VIP・9折看懂特朗普信号！",
           "url": "https://flash.jin10.com/detail/20260824213256321800",
           "source": "金十数据",
@@ -991,17 +1025,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
-        },
-        {
-          "title": "金与正，没接特朗普的话",
-          "url": "https://news.ifeng.com/c/8vqw7NCqQ1S",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[19时26分 ~ 22时40分]"
         },
         {
           "title": "特朗普计划于下月访问爱尔兰并观看高尔夫球赛",
@@ -1065,6 +1088,18 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
+          "title": "特朗普称朝鲜有57枚核弹",
+          "url": "https://www.toutiao.com/trending/7676758000966598683/",
+          "source": "今日头条",
+          "ranks": [
+            30,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 23时38分]"
+        },
+        {
           "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-24）",
           "url": "https://flash.jin10.com/detail/20260824180559593800",
           "source": "金十数据",
@@ -1082,7 +1117,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
         },
@@ -1104,9 +1139,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
+        },
+        {
+          "title": "谈崩之后再加码：特朗普对加拿大汽车产业亮出50%关税大棒",
+          "url": "https://flash.jin10.com/detail/20260824230003946800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "据乌克兰媒体：由于俄罗斯的攻击，美国中东问题特使威特科夫和 特朗普高级顾问库什纳访问基辅的行程被推迟。",
@@ -1137,9 +1183,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "22时40分"
+        },
+        {
+          "title": "美加谈崩特朗普气到睡不着",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E5%8A%A0%E8%B0%88%E5%B4%A9%E7%89%B9%E6%9C%97%E6%99%AE%E6%B0%94%E5%88%B0%E7%9D%A1%E4%B8%8D%E7%9D%80%23&t=31&band_rank=21&Refer=top",
+          "source": "微博",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "报道：巴基斯坦陆军参谋长上周与特朗普通话",
@@ -1175,6 +1232,17 @@
           "time_info": "16时50分"
         },
         {
+          "title": "特朗普对加拿大汽车和钢铁加征关税，对多领域的潜在影响",
+          "url": "https://flash.jin10.com/detail/20260824223619294800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        },
+        {
           "title": "巴基斯坦陆军参谋长Munir在访问德黑兰前与特朗普通过电话。（路透）",
           "url": "https://wallstreetcn.com/livenews/3153790",
           "source": "华尔街见闻-快讯",
@@ -1186,17 +1254,6 @@
           "time_info": "17时45分"
         },
         {
-          "title": "特朗普称朝鲜有57枚核弹",
-          "url": "https://www.toutiao.com/trending/7676758000966598683/",
-          "source": "今日头条",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
-        },
-        {
           "title": "伊朗货币贬值为特朗普“经济大决战”创造条件",
           "url": "https://flash.jin10.com/detail/20260824175538075800",
           "source": "金十数据",
@@ -1206,12 +1263,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "18时36分"
+        },
+        {
+          "title": "德国财长：债券收益率飙升源于特朗普发动的伊朗战争",
+          "url": "https://wallstreetcn.com/livenews/3154034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "科技股拖累全球股市，美股开盘涨跌互现，纳指跌0.4%，存储芯片、光通信股下挫，金涨油跌",
@@ -1220,9 +1288,9 @@
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时40分 ~ 23时38分]"
         },
         {
           "title": "美股三大股指期货周一开盘微跌。",
@@ -1257,8 +1325,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[20时46分 ~ 22时40分]"
+          "appearance_count": 4,
+          "time_info": "[20时46分 ~ 23时38分]"
         },
         {
           "title": "不认同阿里新股配售？美股“大空头”重大调仓：清仓阿里、押注京东！",
@@ -1305,6 +1373,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "21时50分"
+        },
+        {
+          "title": "阿里巴巴美股翻红，此前蔡崇信、吴泳铭出手增持1.2亿港元阿里股票",
+          "url": "https://wallstreetcn.com/livenews/3154061",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
         },
         {
           "title": "金十数据整理：每日美股市场要闻速递（2026-08-24）",
@@ -1412,8 +1491,21 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 14,
-          "time_info": "[11时02分 ~ 22时40分]"
+          "appearance_count": 15,
+          "time_info": "[11时02分 ~ 23时38分]"
+        },
+        {
+          "title": "美国财政部“救市”新消息！近万亿美元现金储备可能出手买美债",
+          "url": "https://www.cls.cn/detail/2462724",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时50分 ~ 23时38分]"
         },
         {
           "title": "绕开美联储！贝森特或动用万亿“应急资金”扫货美债",
@@ -1427,16 +1519,17 @@
           "time_info": "20时46分"
         },
         {
-          "title": "美国财政部“救市”新消息！近万亿美元现金储备可能出手买美债",
-          "url": "https://www.cls.cn/detail/2462724",
-          "source": "财联社热门",
+          "title": "美债延续涨势！报道：贝森特或动用近万亿美元国库账户，为债券回购提供资金",
+          "url": "https://wallstreetcn.com/articles/3780164",
+          "source": "华尔街见闻",
           "ranks": [
+            7,
             6,
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时40分]"
+          "appearance_count": 3,
+          "time_info": "[21时50分 ~ 23时38分]"
         },
         {
           "title": "美债扰动不改A股中期运行逻辑，券商建议锚定盈利修复主线",
@@ -1449,6 +1542,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时20分 ~ 09时12分]"
+        },
+        {
+          "title": "油价回落缓解美债压力 美股期指下跌 市场聚焦贝森特发布会 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2462745",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[21时50分 ~ 23时38分]"
         },
         {
           "title": "40万亿美债压顶 美会拿日本开刀吗",
@@ -1464,18 +1569,6 @@
           "time_info": "[20时46分 ~ 22时40分]"
         },
         {
-          "title": "美债延续涨势！报道：贝森特或动用近万亿美元国库账户，为债券回购提供资金",
-          "url": "https://wallstreetcn.com/articles/3780164",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时40分]"
-        },
-        {
           "title": "全球央行年会本周召开！贝森特救不动的美债 沃什能救吗？",
           "url": "https://www.cls.cn/detail/2461879",
           "source": "财联社热门",
@@ -1486,18 +1579,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[16时50分 ~ 17时45分]"
-        },
-        {
-          "title": "油价回落缓解美债压力 美股期指下跌 市场聚焦贝森特发布会 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2462745",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时50分 ~ 22时40分]"
         },
         {
           "title": "美债风暴席卷全球",
@@ -1716,6 +1797,45 @@
       ]
     },
     {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek视觉寄生体首测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A7%86%E8%A7%89%E5%AF%84%E7%94%9F%E4%BD%93%E9%A6%96%E6%B5%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时58分"
+        },
+        {
+          "title": "DeepSeek“峰谷调价”背后",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%B3%B0%E8%B0%B7%E8%B0%83%E4%BB%B7%E2%80%9D%E8%83%8C%E5%90%8E",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 18时36分]"
+        },
+        {
+          "title": "为什么宇树需要DeepSeek",
+          "url": "https://www.toutiao.com/trending/7677584890149211711/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时38分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
       "match_count": 3,
       "titles": [
@@ -1754,34 +1874,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "12时42分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek视觉寄生体首测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A7%86%E8%A7%89%E5%AF%84%E7%94%9F%E4%BD%93%E9%A6%96%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "15时58分"
-        },
-        {
-          "title": "DeepSeek“峰谷调价”背后",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E2%80%9C%E5%B3%B0%E8%B0%B7%E8%B0%83%E4%BB%B7%E2%80%9D%E8%83%8C%E5%90%8E",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[17时45分 ~ 18时36分]"
         }
       ]
     },
