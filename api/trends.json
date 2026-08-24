@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-24T17:45:48.272241+08:00",
-  "total_titles_processed": 1486,
+  "generated_at": "2026-08-24T18:36:12.985863+08:00",
+  "total_titles_processed": 1596,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 53,
+      "match_count": 56,
       "titles": [
         {
           "title": "很高调！伊朗首次公开地下军工生产线",
@@ -30,6 +30,18 @@
           "time_info": "[00时23分 ~ 07时20分]"
         },
         {
+          "title": "伊朗发现2100亿立方“甜气”，或带来数百亿美元收入",
+          "url": "https://news.ifeng.com/c/8vpf5Gb0PHz",
+          "source": "凤凰网",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[11时02分 ~ 18时36分]"
+        },
+        {
           "title": "周末集体跳水！伊朗最新警告！加密货币，17.92万人爆仓",
           "url": "https://wallstreetcn.com/articles/3780093",
           "source": "华尔街见闻",
@@ -40,8 +52,23 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时12分 ~ 18时36分]"
+        },
+        {
+          "title": "伊朗总统称“应以理性方式摆脱“既非战争、也非和平”状态”，军方称“若美打经济战，霍尔木兹海峡和波斯湾将再无石油出口”",
+          "url": "https://wallstreetcn.com/articles/3780102",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8,
+            7,
+            6
+          ],
+          "is_new": false,
           "appearance_count": 9,
-          "time_info": "[09时12分 ~ 17时45分]"
+          "time_info": "[12时42分 ~ 18时36分]"
         },
         {
           "title": "伊朗称针对美国各种敌对行动均已制定应对方案",
@@ -58,18 +85,6 @@
           "time_info": "[00时23分 ~ 07时20分]"
         },
         {
-          "title": "伊朗发现2100亿立方“甜气”，或带来数百亿美元收入",
-          "url": "https://news.ifeng.com/c/8vpf5Gb0PHz",
-          "source": "凤凰网",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时02分 ~ 17时45分]"
-        },
-        {
           "title": "伊朗总统称应摆脱“非战非和”状态",
           "url": "https://news.ifeng.com/c/8vptq1ipQh6",
           "source": "凤凰网",
@@ -79,20 +94,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[06时19分 ~ 07时20分]"
-        },
-        {
-          "title": "伊朗总统称“应以理性方式摆脱“既非战争、也非和平”状态”，军方称“若美打经济战，霍尔木兹海峡和波斯湾将再无石油出口”",
-          "url": "https://wallstreetcn.com/articles/3780102",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 17时45分]"
         },
         {
           "title": "伊朗伊斯兰革命卫队称已制定应对美国\"经济战\"的方案",
@@ -117,6 +118,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
+        },
+        {
+          "title": "据伊通社（IRNA）报道，伊朗最大的核心钢铁生产企业之一胡齐斯坦钢铁公司生产线再次恢复运行 。",
+          "url": "https://flash.jin10.com/detail/20260824181718444800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         },
         {
           "title": "据伊通社（IRNA）：伊朗外交部发言人宣布，阿曼外长将于周二访问德黑兰。此次访问是两国就霍尔木兹海峡进行磋商的延续。",
@@ -411,6 +423,17 @@
           "time_info": "[00时23分 ~ 01时19分]"
         },
         {
+          "title": "中方回应美方威胁制裁伊朗贸易伙伴",
+          "url": "https://www.toutiao.com/trending/7677478126213005366/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时35分 ~ 18时36分]"
+        },
+        {
           "title": "伊朗外交部发言人：伊朗不接受侵略者设定结束战争的条件。",
           "url": "https://flash.jin10.com/detail/20260824153051487800",
           "source": "金十数据",
@@ -442,6 +465,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时58分"
+        },
+        {
+          "title": "伊朗央行行长：在过去两个月的艰难时期，我们成功控制了通胀加速。流动性增长速度也已停止上升。",
+          "url": "https://flash.jin10.com/detail/20260824180830122800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         },
         {
           "title": "伊朗外交部发言人： 正如先前宣布的，且新闻也证实，数艘燃料油轮已离开保加利亚领土。正如保加利亚许多民众和政治家所承认的那样，这一行动违反国际法，构成对美以对伊朗军事侵略的支持。",
@@ -527,7 +561,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -538,7 +572,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -593,7 +627,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -604,7 +638,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -634,7 +668,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普披露6月投资组合“大换血”：减持Meta 买入伯克希尔等股票",
@@ -670,6 +704,40 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[09时12分 ~ 15时58分]"
+        },
+        {
+          "title": "特朗普75国签证禁令案幕后：拜登埋的雷炸了",
+          "url": "https://news.ifeng.com/c/8vqa82dukEb",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时42分 ~ 18时36分]"
+        },
+        {
+          "title": "美加贸易为何谈崩了？专家：特朗普想吞并加拿大",
+          "url": "https://news.ifeng.com/c/8vqjNemVtmr",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时55分 ~ 18时36分]"
+        },
+        {
+          "title": "伊朗官员：特朗普“说太多”",
+          "url": "https://news.ifeng.com/c/8vqKE38LhPQ",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[09时12分 ~ 18时36分]"
         },
         {
           "title": "特朗普：可出动美军干预债市",
@@ -713,40 +781,6 @@
           "time_info": "[09时12分 ~ 13时37分]"
         },
         {
-          "title": "伊朗官员：特朗普“说太多”",
-          "url": "https://news.ifeng.com/c/8vqKE38LhPQ",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[09时12分 ~ 17时45分]"
-        },
-        {
-          "title": "特朗普75国签证禁令案幕后：拜登埋的雷炸了",
-          "url": "https://news.ifeng.com/c/8vqa82dukEb",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时42分 ~ 17时45分]"
-        },
-        {
-          "title": "美加贸易为何谈崩了？专家：特朗普想吞并加拿大",
-          "url": "https://news.ifeng.com/c/8vqjNemVtmr",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时55分 ~ 17时45分]"
-        },
-        {
           "title": "特朗普最新调仓披露",
           "url": "https://www.douyin.com/hot/2620226",
           "source": "抖音",
@@ -775,6 +809,17 @@
           "time_info": "[00时23分 ~ 06时20分]"
         },
         {
+          "title": "胖了快21斤！特朗普体重构成重大健康风险",
+          "url": "https://news.ifeng.com/c/8vqlYDQQI2y",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[14时55分 ~ 18时36分]"
+        },
+        {
           "title": "特朗普在伊朗问题上总是“给点阳光就灿烂”，极限施压只会使美伊滑向新一轮战争",
           "url": "https://flash.jin10.com/detail/20260824104449790800",
           "source": "金十数据",
@@ -784,17 +829,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时02分"
-        },
-        {
-          "title": "胖了快21斤！特朗普体重构成重大健康风险",
-          "url": "https://news.ifeng.com/c/8vqlYDQQI2y",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时55分 ~ 17时45分]"
         },
         {
           "title": "特朗普计划于下月访问爱尔兰并观看高尔夫球赛",
@@ -833,13 +867,24 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-24）",
+          "url": "https://flash.jin10.com/detail/20260824180559593800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
+        },
+        {
           "title": "据乌克兰媒体：由于俄罗斯的攻击，美国中东问题特使威特科夫和 特朗普高级顾问库什纳访问基辅的行程被推迟。",
           "url": "https://flash.jin10.com/detail/20260824172103461800",
           "source": "金十数据",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -850,7 +895,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
         },
@@ -883,9 +928,20 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时45分"
+        },
+        {
+          "title": "伊朗货币贬值为特朗普“经济大决战”创造条件",
+          "url": "https://flash.jin10.com/detail/20260824175538075800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时36分"
         }
       ]
     },
@@ -1021,11 +1077,12 @@
             8,
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[11时02分 ~ 17时45分]"
+          "appearance_count": 10,
+          "time_info": "[11时02分 ~ 18时36分]"
         },
         {
           "title": "美债扰动不改A股中期运行逻辑，券商建议锚定盈利修复主线",
@@ -1103,6 +1160,17 @@
           "time_info": "[06时20分 ~ 07时20分]"
         },
         {
+          "title": "不认同阿里新股配售？美股“大空头”重大调仓：清仓阿里、押注京东！",
+          "url": "https://www.cls.cn/detail/2461979",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 18时36分]"
+        },
+        {
           "title": "美股再现超级IPO",
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%86%8D%E7%8E%B0%E8%B6%85%E7%BA%A7IPO",
           "source": "bilibili 热搜",
@@ -1113,17 +1181,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时19分 ~ 12时42分]"
-        },
-        {
-          "title": "不认同阿里新股配售？美股“大空头”重大调仓：清仓阿里、押注京东！",
-          "url": "https://www.cls.cn/detail/2461979",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
         },
         {
           "title": "美股盘前，存储芯片概念股集体下挫，闪迪跌超4%，西部数据跌超2%，美光科技、SK海力士均跌超3%；光通信板块下跌，Lumentum跌超4%，康宁跌超3%；中概股多数下跌，理想汽车、网易跌3%，阿里巴巴跌4%。",
@@ -1202,9 +1259,9 @@
           "ranks": [
             21
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时45分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[17时45分 ~ 18时36分]"
         }
       ]
     },
