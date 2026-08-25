@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-26T06:26:20.012300+08:00",
-  "total_titles_processed": 608,
+  "generated_at": "2026-08-26T07:25:38.230090+08:00",
+  "total_titles_processed": 657,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 54,
       "titles": [
         {
           "title": "内塔尼亚胡：伊朗想杀我儿子，差点得手",
@@ -15,8 +15,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时25分]"
         },
         {
           "title": "“经济诺曼底”？美国制裁伊朗拿错了剧本",
@@ -26,8 +26,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时37分 ~ 06时26分]"
+          "appearance_count": 6,
+          "time_info": "[02时37分 ~ 07时25分]"
+        },
+        {
+          "title": "美国宣布对伊朗实施「经济孤立」新措施，涉航空、黄金、航运等五大领域，这会切断伊朗「所有经济命脉」吗？",
+          "url": "https://www.zhihu.com/question/2075544793917272111",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时25分]"
         },
         {
           "title": "不加入美对伊朗“经济战”就将被制裁？外交部回应",
@@ -39,17 +50,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 01时31分]"
-        },
-        {
-          "title": "美国宣布对伊朗实施「经济孤立」新措施，涉航空、黄金、航运等五大领域，这会切断伊朗「所有经济命脉」吗？",
-          "url": "https://www.zhihu.com/question/2075544793917272111",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时26分]"
         },
         {
           "title": "还剩70天，美国发起经济绞杀，伊朗面临艰难抉择",
@@ -72,17 +72,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 01时31分]"
-        },
-        {
-          "title": "消息人士：美中东情报设施遭伊朗重创，修复或需数十亿美元",
-          "url": "https://wallstreetcn.com/livenews/3154885",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
         },
         {
           "title": "美宣布对伊朗实施“经济孤立”新措施加大施压",
@@ -158,6 +147,18 @@
           "time_info": "[04时27分 ~ 05时28分]"
         },
         {
+          "title": "消息人士：美中东情报设施遭伊朗重创，修复或需数十亿美元",
+          "url": "https://wallstreetcn.com/livenews/3154885",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时25分]"
+        },
+        {
           "title": "据伊朗媒体Fars News：伊朗能源部长表示，伊朗的发电厂数量足够多，即使敌人倾尽全力，也无法打击所有的发电厂。",
           "url": "https://flash.jin10.com/detail/20260826025651731800",
           "source": "金十数据",
@@ -207,6 +208,42 @@
           "time_info": "[03时32分 ~ 04时27分]"
         },
         {
+          "title": "报道：鲁比奥称美国对伊朗策略从打击转向制裁",
+          "url": "https://wallstreetcn.com/livenews/3154880",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时25分]"
+        },
+        {
+          "title": "消息人士：美中东情报设施遭伊朗重创 修复或需数十亿美元",
+          "url": "https://flash.jin10.com/detail/20260826055400239800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时25分]"
+        },
+        {
+          "title": "美媒：美国暂不会对伊朗采取武力行动",
+          "url": "https://flash.jin10.com/detail/20260826054227822800",
+          "source": "金十数据",
+          "ranks": [
+            12,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时25分]"
+        },
+        {
           "title": "伊朗与阿曼拟建立霍尔木兹海峡安全海上通道",
           "url": "https://wallstreetcn.com/livenews/3154775",
           "source": "华尔街见闻-快讯",
@@ -229,6 +266,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时28分 ~ 06时26分]"
+        },
+        {
+          "title": "据Axios：美国国务卿鲁比奥近日已告知多名外国对口官员，目前而言，美国预计不会对伊朗发起新的军事打击。",
+          "url": "https://flash.jin10.com/detail/20260826053200569800",
+          "source": "金十数据",
+          "ranks": [
+            13,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时25分]"
         },
         {
           "title": "布伦特原油日内跌幅达4.0%，报86.9美元/桶，阿曼与伊朗提议设立霍尔木兹海峡临时航运通道。",
@@ -267,15 +316,15 @@
           "time_info": "[00时37分 ~ 01时31分]"
         },
         {
-          "title": "报道：鲁比奥称美国对伊朗策略从打击转向制裁",
-          "url": "https://wallstreetcn.com/livenews/3154880",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗与阿曼拟建立霍尔木兹临时航道，俄媒获悉美伊将重启谈判",
+          "url": "https://flash.jin10.com/detail/20260826064015835800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时26分"
+          "time_info": "07时25分"
         },
         {
           "title": "据俄新社：伊朗和巴基斯坦消息人士表示，德黑兰与华盛顿已就停火达成一致，其中包括霍尔木兹海峡的航行自由。预计未来几天将宣布正式停火。之后将举行谈判和一系列技术会议。",
@@ -289,6 +338,17 @@
           "time_info": "04时27分"
         },
         {
+          "title": "据伊通社（IRNA）：伊朗驻联合国大使表示，美国所谓的“经济压力行动”可能带来严重后果。我们呼吁所有国家拒绝并谴责美国政权实施的跨国单边强制措施，这些措施旨在迫使成员国遵循美国的政策，忽视其主权和合法政策。",
+          "url": "https://flash.jin10.com/detail/20260826063914628800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
           "title": "伊朗外交部副部长加里巴巴迪：如果美国继续其行径，伊朗将展现新的能力。霍尔木兹海峡并非我们对抗美国的唯一工具。美国不应认为，只有自己能够造成经济损失。",
           "url": "https://flash.jin10.com/detail/20260826044632829800",
           "source": "金十数据",
@@ -298,17 +358,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
-        },
-        {
-          "title": "消息人士：美中东情报设施遭伊朗重创 修复或需数十亿美元",
-          "url": "https://flash.jin10.com/detail/20260826055400239800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗方面监控到英国军情六处间谍与以色列高级官员秘密联系。",
@@ -344,6 +393,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "鲁比奥称美国暂不计划对伊朗发动新一轮打击",
+          "url": "https://wallstreetcn.com/livenews/3154894",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
           "title": "消息人士：欧洲央行决策者准备在九月加息，以遏制伊朗战争的副作用，但欧洲央行决策者似乎不太愿意释放进一步收紧货币政策的信号。",
           "url": "https://flash.jin10.com/detail/20260826032034907800",
           "source": "金十数据",
@@ -366,17 +426,6 @@
           "time_info": "05时28分"
         },
         {
-          "title": "美媒：美国暂不会对伊朗采取武力行动",
-          "url": "https://flash.jin10.com/detail/20260826054227822800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
           "title": "伊朗外交部副部长加里巴巴迪：如果美国推进对伊朗的新制裁，伊朗将公布针对美国利益的新措施。",
           "url": "https://flash.jin10.com/detail/20260826043437276800",
           "source": "金十数据",
@@ -386,17 +435,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时28分"
-        },
-        {
-          "title": "据Axios：美国国务卿鲁比奥近日已告知多名外国对口官员，目前而言，美国预计不会对伊朗发起新的军事打击。",
-          "url": "https://flash.jin10.com/detail/20260826053200569800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
         },
         {
           "title": "英国财政大臣：支持美国推动外交解决方案的努力，欢迎通过“经济孤立”等方式对伊朗加大施压。",
@@ -589,7 +627,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "涉电磁弹射器，美海军要“硬顶”特朗普？",
@@ -599,8 +637,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时37分 ~ 06时26分]"
+          "appearance_count": 6,
+          "time_info": "[02时37分 ~ 07时25分]"
         },
         {
           "title": "特朗普三线极限施压，同时对准中国、加拿大、伊朗",
@@ -610,8 +648,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时25分]"
         },
         {
           "title": "特朗普称考虑将安大略湖更名为“美国湖”",
@@ -621,19 +659,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时25分]"
         },
         {
-          "title": "美国政府官员：总统特朗普将沙特核协议递交给国会山（审阅）。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3154884",
-          "source": "华尔街见闻-快讯",
+          "title": "美加贸易战升级 特朗普称考虑将安大略湖改名“美国湖”",
+          "url": "https://www.cls.cn/detail/2464064",
+          "source": "财联社热门",
           "ranks": [
-            2
+            13,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 07时25分]"
         },
         {
           "title": "StoneX Financial Inc.金属业务负责人库奥科（Michael Cuoco）：尽管市场对库存上升有所担忧，但实物铜需求依然稳健，同时持续的供应问题和来自电网、数据中心、国防及电气化领域日益增长的需求支撑了看涨前景。 不断升级的美加贸易战也使人们的注意力重新聚焦于是否对精炼铜进口征收关税的待决决定。 随着中期选举迅速临近，特朗普的贸易战言论再次成为市场焦点。",
@@ -647,6 +686,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时37分 ~ 04时27分]"
+        },
+        {
+          "title": "美国政府官员：总统特朗普将沙特核协议递交给国会山（审阅）。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3154884",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时25分]"
         },
         {
           "title": "美国总统特朗普：美国即将在中东及海湾地区大赚一笔。",
@@ -685,18 +736,6 @@
           "time_info": "[01时31分 ~ 02时37分]"
         },
         {
-          "title": "美加贸易战升级 特朗普称考虑将安大略湖改名“美国湖”",
-          "url": "https://www.cls.cn/detail/2464064",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 06时26分]"
-        },
-        {
           "title": "美国财长贝森特：伊朗领导层已承认经济压力正在奏效，特朗普政府将继续切断支撑伊朗政权的经济命脉，直至德黑兰陷入孤立。",
           "url": "https://flash.jin10.com/detail/20260826002310392800",
           "source": "金十数据",
@@ -707,6 +746,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 01时31分]"
+        },
+        {
+          "title": "据华尔街日报：美国总统特朗普向国会提交沙特阿拉伯核协议。",
+          "url": "https://flash.jin10.com/detail/20260826055333347800",
+          "source": "金十数据",
+          "ranks": [
+            10,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时25分]"
         },
         {
           "title": "美移民执法局7月逮捕近5万名移民 创特朗普第二任期单月新高",
@@ -721,6 +772,17 @@
           "time_info": "[02时37分 ~ 03时32分]"
         },
         {
+          "title": "特朗普贴身助理的权力有多大",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E8%B4%B4%E8%BA%AB%E5%8A%A9%E7%90%86%E7%9A%84%E6%9D%83%E5%8A%9B%E6%9C%89%E5%A4%9A%E5%A4%A7",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
           "title": "据Axios：两名美国官员证实，特朗普此前宣布霍尔木兹海峡的水雷已全部清除的消息属实。美国海军已清理霍尔木兹海峡中央航道，也就是连接伊朗和阿曼之间、供商船通行的主要航线。",
           "url": "https://flash.jin10.com/detail/20260826005419332800",
           "source": "金十数据",
@@ -732,15 +794,26 @@
           "time_info": "01时31分"
         },
         {
-          "title": "据华尔街日报：美国总统特朗普向国会提交沙特阿拉伯核协议。",
-          "url": "https://flash.jin10.com/detail/20260826055333347800",
+          "title": "特朗普已向国会提交沙特核协议 仍坚持沙特须与以色列关系正常化",
+          "url": "https://flash.jin10.com/detail/20260826062820360800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时26分"
+          "time_info": "07时25分"
+        },
+        {
+          "title": "美国官员：美国总统特朗普仍认为，只有沙特阿拉伯加入《亚伯拉罕协议》并承认以色列，与沙特的核协议才能推进。",
+          "url": "https://flash.jin10.com/detail/20260826061416137800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "美移民执法局7月逮捕近5万名移民 创特朗普第二任期单月新高",
@@ -757,18 +830,19 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
         {
           "title": "杰克逊霍尔成美债关键一战，美银警告：沃什若不释放加息信号，30年期收益率或冲上5.5%",
           "url": "https://wallstreetcn.com/articles/3780233",
           "source": "华尔街见闻",
           "ranks": [
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时25分]"
         },
         {
           "title": "“贝森特的老师”强烈反对贝森特：回购美债是消耗“用两个世纪积累的资产”--美债公信力",
@@ -778,8 +852,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时25分]"
         },
         {
           "title": "美债收益率回落 美股期指上涨 比特币触及8万美元 | 今夜看点",
@@ -790,8 +864,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时25分]"
         },
         {
           "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
@@ -834,11 +908,12 @@
           "url": "https://wallstreetcn.com/articles/3780229",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时28分 ~ 06时26分]"
+          "appearance_count": 3,
+          "time_info": "[05时28分 ~ 07时25分]"
         },
         {
           "title": "美债收益率、国际油价下跌",
@@ -853,13 +928,35 @@
           "time_info": "[00时37分 ~ 01时31分]"
         },
         {
+          "title": "美国或用近 1 万亿美元国库账户干预市场，美元、美债、美股三大定价市场持续波动，黄金上涨，你怎么看？",
+          "url": "https://www.zhihu.com/question/2075499047142667659",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
+          "title": "救美债！除了回购，贝森特还有一个大招：美元稳定币",
+          "url": "https://wallstreetcn.com/articles/3780192",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
+        },
+        {
           "title": "美国里士满联储主席Barkin（2027年FOMC票委）：美债最终将缩面临清算。 如果债务于某个时间节点膨胀，投资者将停止购买。",
           "url": "https://wallstreetcn.com/livenews/3154869",
           "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         }
@@ -879,6 +976,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "美伊外交缓和油价重挫，美股三大指数齐涨，英伟达终结七连跌涨超2%",
+          "url": "https://wallstreetcn.com/articles/3780215",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时25分]"
+        },
+        {
+          "title": "美股收盘：三大指数集体收涨 市场静待英伟达财报",
+          "url": "https://www.cls.cn/detail/2464164",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时26分 ~ 07时25分]"
         },
         {
           "title": "金十图示：2026年08月25日（周二）热门中概股行情一览（美股盘中）",
@@ -941,28 +1062,6 @@
           "time_info": "[02时37分 ~ 03时32分]"
         },
         {
-          "title": "美伊外交缓和油价重挫，美股三大指数齐涨，英伟达终结七连跌涨超2%",
-          "url": "https://wallstreetcn.com/articles/3780215",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
-          "title": "美股收盘：三大指数集体收涨 市场静待英伟达财报",
-          "url": "https://www.cls.cn/detail/2464164",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时26分"
-        },
-        {
           "title": "金十图示：2026年08月25日（周二）美股热门股票行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20260826003149107800",
           "source": "金十数据",
@@ -977,7 +1076,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI首席执行官奥尔特曼：我们做了一个很快的芯片。",
@@ -1025,6 +1124,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "OpenAI高管预判：Codex与ChatGPT终将“消失”，未来将只留一个“个人AGI”",
+          "url": "https://wallstreetcn.com/articles/3780238",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时25分"
         },
         {
           "title": "据华尔街日报：OpenAI数据中心负责人已离职。",
@@ -1105,8 +1215,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时26分]"
+          "appearance_count": 8,
+          "time_info": "[00时37分 ~ 07时25分]"
         }
       ]
     },
