@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T17:34:09.625869+08:00",
-  "total_titles_processed": 1626,
+  "generated_at": "2026-08-25T18:32:16.875246+08:00",
+  "total_titles_processed": 1761,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 93,
+      "match_count": 97,
       "titles": [
         {
           "title": "经济大战一触即发？美国今天将公布空前经济孤立措施！美财长：战事进入终局，切断伊朗“每一条经济命脉”！伊朗亮出“石油出口反制牌”",
@@ -32,6 +32,20 @@
           "time_info": "[06时24分 ~ 13时31分]"
         },
         {
+          "title": "美财长公布多项针对伊朗的经济制裁措施，伊称其贸易伙伴“不会认真对待”美方制裁言论",
+          "url": "https://wallstreetcn.com/articles/3780180",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 15,
+          "time_info": "[09时10分 ~ 18时32分]"
+        },
+        {
           "title": "美国公布对伊朗“经济战”具体行动措施",
           "url": "https://news.ifeng.com/c/8vrVvEe5HaF",
           "source": "凤凰网",
@@ -43,19 +57,6 @@
           "time_info": "[02时38分 ~ 07时21分]"
         },
         {
-          "title": "美财长公布多项针对伊朗的经济制裁措施，伊称其贸易伙伴“不会认真对待”美方制裁言论",
-          "url": "https://wallstreetcn.com/articles/3780180",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 13,
-          "time_info": "[09时10分 ~ 17时34分]"
-        },
-        {
           "title": "美国对伊朗“经济战”具体措施公布",
           "url": "https://news.ifeng.com/c/8vrVvEe5HaF",
           "source": "凤凰网",
@@ -65,6 +66,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[10时57分 ~ 13时31分]"
+        },
+        {
+          "title": "不加入美对伊朗“经济战”就将被制裁？外交部回应",
+          "url": "https://news.ifeng.com/c/8vsWeEJt8aa",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时42分 ~ 18时32分]"
+        },
+        {
+          "title": "还剩70天，美国发起经济绞杀，伊朗面临艰难抉择",
+          "url": "https://news.ifeng.com/c/8vsOqqXmatd",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时42分 ~ 18时32分]"
         },
         {
           "title": "中国女排3-0伊朗女排迎两连胜",
@@ -96,22 +119,25 @@
             16,
             14,
             13,
-            15
+            15,
+            11
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[12时38分 ~ 17时34分]"
+          "appearance_count": 12,
+          "time_info": "[12时38分 ~ 18时32分]"
         },
         {
-          "title": "不加入美对伊朗“经济战”就将被制裁？外交部回应",
-          "url": "https://news.ifeng.com/c/8vsWeEJt8aa",
-          "source": "凤凰网",
+          "title": "贝森特称对不参与制裁伊朗的国家可能采取反制措施，中方回应",
+          "url": "https://www.cls.cn/detail/2463503",
+          "source": "财联社热门",
           "ranks": [
+            5,
+            2,
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时42分 ~ 17时34分]"
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 18时32分]"
         },
         {
           "title": "美政府拟撤销多达20万个商务和旅游签证 美公布多项针对伊朗经济制裁 | 环球市场",
@@ -125,29 +151,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[09时10分 ~ 14时48分]"
-        },
-        {
-          "title": "还剩70天，美国发起经济绞杀，伊朗面临艰难抉择",
-          "url": "https://news.ifeng.com/c/8vsOqqXmatd",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时42分 ~ 17时34分]"
-        },
-        {
-          "title": "贝森特称对不参与制裁伊朗的国家可能采取反制措施，中方回应",
-          "url": "https://www.cls.cn/detail/2463503",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时40分 ~ 17时34分]"
         },
         {
           "title": "伊朗已收到加入麦加协议正式邀请",
@@ -170,6 +173,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时10分 ~ 10时57分]"
+        },
+        {
+          "title": "美国发动“史上最严制裁”，伊朗央行行长拆穿美方恫吓",
+          "url": "https://news.ifeng.com/c/8vseWlGVR41",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
+          "title": "内塔尼亚胡：伊朗想杀我儿子，差点得手",
+          "url": "https://news.ifeng.com/c/8vsVW3qCsQk",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "美国公布对伊朗“经济战”具体措施",
@@ -206,6 +231,19 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时35分 ~ 09时10分]"
+        },
+        {
+          "title": "美国宣布对伊朗实施「经济孤立」新措施，涉航空、黄金、航运等五大领域，这会切断伊朗「所有经济命脉」吗？",
+          "url": "https://www.zhihu.com/question/2075544793917272111",
+          "source": "知乎",
+          "ranks": [
+            15,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[15时42分 ~ 18时32分]"
         },
         {
           "title": "据伊朗Press TV：伊朗总统表示，伊斯兰国家之间的团结是抵御以色列阴谋和伊斯兰敌人的最强威慑力。这种团结将阻止他们实现其目标。",
@@ -408,18 +446,6 @@
           "time_info": "[12时38分 ~ 13时31分]"
         },
         {
-          "title": "美国宣布对伊朗实施「经济孤立」新措施，涉航空、黄金、航运等五大领域，这会切断伊朗「所有经济命脉」吗？",
-          "url": "https://www.zhihu.com/question/2075544793917272111",
-          "source": "知乎",
-          "ranks": [
-            15,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[15时42分 ~ 17时34分]"
-        },
-        {
           "title": "伊朗到底收没收到麦加协议邀请",
           "url": "https://www.toutiao.com/trending/7677216607052415003/",
           "source": "今日头条",
@@ -575,6 +601,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        },
+        {
+          "title": "据天空新闻阿拉伯援引伊朗议会外交关系委员会主席称，巴基斯坦陆军参谋长穆尼尔向德黑兰转达了美国方面的信息，此次穆尼尔访问的目的是重启已经停滞的政治进程。",
+          "url": "https://flash.jin10.com/detail/20260825181234453800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "美国扬言“经济窒息” 伊朗早有“两年方案”",
+          "url": "https://wallstreetcn.com/livenews/3154555",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "巴基斯坦陆军总参谋长会见伊朗议会议长 讨论地区局势",
@@ -1075,7 +1123,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 46,
+      "match_count": 50,
       "titles": [
         {
           "title": "“特朗普正就制裁伊朗致电各国领导人”",
@@ -1170,6 +1218,19 @@
           "time_info": "[00时35分 ~ 06时24分]"
         },
         {
+          "title": "特朗普接连晒三张与金正恩合照",
+          "url": "https://www.toutiao.com/trending/7677781806263796262/",
+          "source": "今日头条",
+          "ranks": [
+            27,
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时47分 ~ 18时32分]"
+        },
+        {
           "title": "美加贸易为何谈崩了？专家：特朗普想吞并加拿大",
           "url": "https://news.ifeng.com/c/8vqjNemVtmr",
           "source": "凤凰网",
@@ -1192,6 +1253,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[06时24分 ~ 12时39分]"
+        },
+        {
+          "title": "特朗普：明年起将加拿大汽车、零部件和钢铁关税提高至50%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33841628",
+          "source": "澎湃新闻",
+          "ranks": [
+            7,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 18时32分]"
         },
         {
           "title": "美国财长：特朗普正就停止与伊朗往来致电多方领导人",
@@ -1218,19 +1292,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时38分 ~ 04时29分]"
-        },
-        {
-          "title": "特朗普接连晒三张与金正恩合照",
-          "url": "https://www.toutiao.com/trending/7677781806263796262/",
-          "source": "今日头条",
-          "ranks": [
-            27,
-            12,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时47分 ~ 17时34分]"
         },
         {
           "title": "特朗普：明年起将加拿大汽车、零部件和钢铁关税提高至50%",
@@ -1275,6 +1336,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "16时40分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-25）",
+          "url": "https://flash.jin10.com/detail/20260825181356780800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
+          "title": "特朗普对人民大会堂情有独钟",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E6%83%85%E6%9C%89%E7%8B%AC%E9%92%9F",
+          "source": "百度热搜",
+          "ranks": [
+            28,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 18时32分]"
         },
         {
           "title": "英国首相伯纳姆计划下个月访问美国，就援助乌克兰问题游说特朗普。 伯纳姆称，乌克兰拦截弹库存不足的问题“可以解决”；欧洲领导人或将在联合国大会期间会晤，讨论乌克兰问题。",
@@ -1352,18 +1436,6 @@
           "time_info": "[01时29分 ~ 05时27分]"
         },
         {
-          "title": "特朗普：明年起将加拿大汽车、零部件和钢铁关税提高至50%",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33841628",
-          "source": "澎湃新闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时40分 ~ 17时34分]"
-        },
-        {
           "title": "美国财长贝森特：在总统特朗普任期内，我们正结束伊朗威胁。 伊朗有两条路，要么恢复正常、要么被彻底孤立。",
           "url": "https://wallstreetcn.com/livenews/3154109",
           "source": "华尔街见闻-快讯",
@@ -1390,16 +1462,15 @@
           "time_info": "[01时30分 ~ 03时28分]"
         },
         {
-          "title": "特朗普对人民大会堂情有独钟",
-          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AF%B9%E4%BA%BA%E6%B0%91%E5%A4%A7%E4%BC%9A%E5%A0%82%E6%83%85%E6%9C%89%E7%8B%AC%E9%92%9F",
-          "source": "百度热搜",
+          "title": "特朗普三线极限施压，同时对准中国、加拿大、伊朗",
+          "url": "https://news.ifeng.com/c/8vsiBkqEpPV",
+          "source": "凤凰网",
           "ranks": [
-            28,
-            26
+            6
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时40分 ~ 17时34分]"
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "美民众对伊战争支持率仅31% 特朗普支持率仍处历史低位",
@@ -1458,6 +1529,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时38分"
+        },
+        {
+          "title": "美国最高法院为特朗普政府限制邮寄选票留余地",
+          "url": "https://wallstreetcn.com/livenews/3154553",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "路透社/益普索调查显示，随着美国民众对伊朗战争的支持率下降，特朗普的支持率维持在历史低位。",
@@ -1614,6 +1696,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "特朗普盯上格陵兰 冰岛“入欧派”找到最佳助攻",
+          "url": "https://flash.jin10.com/detail/20260825175857223800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "UP主锐评特朗普海军新政",
           "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E9%94%90%E8%AF%84%E7%89%B9%E6%9C%97%E6%99%AE%E6%B5%B7%E5%86%9B%E6%96%B0%E6%94%BF",
           "source": "bilibili 热搜",
@@ -1628,7 +1721,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "“拯救美债”接力棒：贝森特上周搞砸了，本周看沃什了",
@@ -1663,8 +1756,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 23,
-          "time_info": "[00时35分 ~ 17时34分]"
+          "appearance_count": 25,
+          "time_info": "[00时35分 ~ 18时32分]"
         },
         {
           "title": "油价回落缓解美债压力 美股期指下跌 市场聚焦贝森特发布会 | 今夜看点",
@@ -1680,6 +1773,17 @@
           "time_info": "[00时35分 ~ 09时10分]"
         },
         {
+          "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
+          "url": "https://wallstreetcn.com/articles/3780187",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[12时38分 ~ 18时32分]"
+        },
+        {
           "title": "40万亿美债压顶，特朗普摊牌了：终极干预手段是美军",
           "url": "https://v.ifeng.com/c/8vpa1Rig1fD",
           "source": "凤凰网",
@@ -1691,15 +1795,28 @@
           "time_info": "[09时10分 ~ 13时31分]"
         },
         {
-          "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
-          "url": "https://wallstreetcn.com/articles/3780187",
-          "source": "华尔街见闻",
+          "title": "特朗普如何应对美债破40万亿",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A6%82%E4%BD%95%E5%BA%94%E5%AF%B9%E7%BE%8E%E5%80%BA%E7%A0%B440%E4%B8%87%E4%BA%BF",
+          "source": "bilibili 热搜",
           "ranks": [
-            10
+            2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[12时38分 ~ 15时42分]"
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
+        },
+        {
+          "title": "“贝森特的老师”强烈反对贝森特：回购美债是消耗“用两个世纪积累的资产”--美债公信力",
+          "url": "https://wallstreetcn.com/articles/3780224",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[16时40分 ~ 18时32分]"
         },
         {
           "title": "中长期美债收益率显著走低",
@@ -1712,18 +1829,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时27分]"
-        },
-        {
-          "title": "“贝森特的老师”强烈反对贝森特：回购美债是消耗“用两个世纪积累的资产”--美债公信力",
-          "url": "https://wallstreetcn.com/articles/3780224",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[16时40分 ~ 17时34分]"
         },
         {
           "title": "华尔街高管：特朗普准备将10年期美债收益率推向5%",
@@ -1809,7 +1914,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 16,
       "titles": [
         {
           "title": "科技股拖累全球股市，美股开盘涨跌互现，纳指跌0.4%，存储芯片、光通信股下挫，金涨油跌",
@@ -1853,11 +1958,23 @@
           "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E8%82%A1%E5%BB%B6%E9%95%BF%E4%BA%A4%E6%98%93%E6%97%B6%E9%97%B4%E6%9C%89%E4%BD%95%E5%BD%B1%E5%93%8D",
           "source": "bilibili 热搜",
           "ranks": [
-            4
+            4,
+            15
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[17时33分 ~ 17时34分]"
+          "appearance_count": 4,
+          "time_info": "[17时33分 ~ 18时32分]"
+        },
+        {
+          "title": "美股期货走高 存储概念盘前反弹",
+          "url": "https://flash.jin10.com/detail/20260825181625073800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
         },
         {
           "title": "美股大类资产类ETF涨跌各异，布油基金跌1.9%，黄金ETF涨 约0.8%",
@@ -1964,6 +2081,17 @@
           "time_info": "09时10分"
         },
         {
+          "title": "美股股指期货涨幅扩大，纳指期货涨幅扩大至1%。",
+          "url": "https://wallstreetcn.com/livenews/3154528",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时32分"
+        },
+        {
           "title": "美股七巨头收盘播报｜周一（8月24日），美国科技股七巨头（Magnificent 7）指数跌0.26%，报220.78点，低开之后冲高回落。成分股中，英伟达连跌七天，创2022年以来最长连跌天数。 “超大”市值科技股指数跌0.82%，报433.74点，整体处于下跌状态。",
           "url": "https://wallstreetcn.com/livenews/3154150",
           "source": "华尔街见闻-快讯",
@@ -1978,7 +2106,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "【早报】美股存储、光通信板块重挫；金价触及逾3个月高位；伦铜创新高；美公布多项针对伊朗经济制裁",
@@ -2007,6 +2135,17 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时35分 ~ 07时21分]"
+        },
+        {
+          "title": "金价飞涨原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%A3%9E%E6%B6%A8%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时31分 ~ 18时32分]"
         },
         {
           "title": "花旗称金价料仍有进一步上涨空间 上调三个月目标价至4800美元",
@@ -2130,11 +2269,12 @@
           "ranks": [
             8,
             7,
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[11时50分 ~ 17时34分]"
+          "appearance_count": 13,
+          "time_info": "[11时50分 ~ 18时32分]"
         },
         {
           "title": "为什么宇树需要DeepSeek",
