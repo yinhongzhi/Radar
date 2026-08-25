@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-25T12:39:12.593494+08:00",
-  "total_titles_processed": 1120,
+  "generated_at": "2026-08-25T13:31:28.525060+08:00",
+  "total_titles_processed": 1192,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 77,
+      "match_count": 79,
       "titles": [
         {
           "title": "经济大战一触即发？美国今天将公布空前经济孤立措施！美财长：战事进入终局，切断伊朗“每一条经济命脉”！伊朗亮出“石油出口反制牌”",
@@ -16,8 +16,20 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 12时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 13时31分]"
+        },
+        {
+          "title": "伊朗最高领袖顾问：回应美方威胁将比以往更加坚决",
+          "url": "https://news.ifeng.com/c/8vrg68ilR1j",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 9,
+          "time_info": "[06时24分 ~ 13时31分]"
         },
         {
           "title": "美国公布对伊朗“经济战”具体行动措施",
@@ -31,16 +43,15 @@
           "time_info": "[02时38分 ~ 07时21分]"
         },
         {
-          "title": "伊朗最高领袖顾问：回应美方威胁将比以往更加坚决",
-          "url": "https://news.ifeng.com/c/8vrg68ilR1j",
+          "title": "美国对伊朗“经济战”具体措施公布",
+          "url": "https://news.ifeng.com/c/8vrVvEe5HaF",
           "source": "凤凰网",
           "ranks": [
-            2,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时24分 ~ 12时39分]"
+          "appearance_count": 6,
+          "time_info": "[10时57分 ~ 13时31分]"
         },
         {
           "title": "中国女排3-0伊朗女排迎两连胜",
@@ -65,15 +76,16 @@
           "time_info": "[00时35分 ~ 07时21分]"
         },
         {
-          "title": "美国对伊朗“经济战”具体措施公布",
-          "url": "https://news.ifeng.com/c/8vrVvEe5HaF",
-          "source": "凤凰网",
+          "title": "美财长公布多项针对伊朗的经济制裁措施，伊称其贸易伙伴“不会认真对待”美方制裁言论",
+          "url": "https://wallstreetcn.com/articles/3780180",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            7,
+            6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[10时57分 ~ 12时39分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 13时31分]"
         },
         {
           "title": "伊朗已收到加入麦加协议正式邀请",
@@ -85,6 +97,19 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时10分 ~ 10时57分]"
+        },
+        {
+          "title": "美政府拟撤销多达20万个商务和旅游签证 美公布多项针对伊朗经济制裁 | 环球市场",
+          "url": "https://www.cls.cn/detail/2462983",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 13时31分]"
         },
         {
           "title": "美国财长：任何为伊朗洗钱的实体将被移出美元体系",
@@ -107,6 +132,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时10分"
+        },
+        {
+          "title": "伊朗学生通讯社援引一位伊朗议员的话报道称，伊朗议会反对任何提高汽油价格的举措。",
+          "url": "https://flash.jin10.com/detail/20260825130851426800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "中国女排3:0伊朗女排",
@@ -156,18 +192,6 @@
           "time_info": "07时21分"
         },
         {
-          "title": "美财长公布多项针对伊朗的经济制裁措施，伊称其贸易伙伴“不会认真对待”美方制裁言论",
-          "url": "https://wallstreetcn.com/articles/3780180",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 12时39分]"
-        },
-        {
           "title": "以色列总理称伊朗企图暗杀其子",
           "url": "https://wallstreetcn.com/livenews/3154120",
           "source": "华尔街见闻-快讯",
@@ -213,18 +237,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时27分"
-        },
-        {
-          "title": "美政府拟撤销多达20万个商务和旅游签证 美公布多项针对伊朗经济制裁 | 环球市场",
-          "url": "https://www.cls.cn/detail/2462983",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 12时39分]"
         },
         {
           "title": "伊朗外交部：美威胁对伊发起新一轮制裁违反国际法",
@@ -300,6 +312,41 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时27分]"
+        },
+        {
+          "title": "伊朗货币里亚尔汇率跌至历史新低",
+          "url": "https://www.toutiao.com/trending/7677514438880591898/",
+          "source": "今日头条",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 13时31分]"
+        },
+        {
+          "title": "美宣布对伊朗实施“经济孤立”新措施加大施压",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33843711",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 13时31分]"
+        },
+        {
+          "title": "伊朗到底收没收到麦加协议邀请",
+          "url": "https://www.toutiao.com/trending/7677216607052415003/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 13时31分]"
         },
         {
           "title": "美政府宣布对伊朗经济制裁措施",
@@ -412,39 +459,6 @@
           "time_info": "[10时57分 ~ 11时50分]"
         },
         {
-          "title": "伊朗货币里亚尔汇率跌至历史新低",
-          "url": "https://www.toutiao.com/trending/7677514438880591898/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 12时39分]"
-        },
-        {
-          "title": "美宣布对伊朗实施“经济孤立”新措施加大施压",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33843711",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 12时39分]"
-        },
-        {
-          "title": "伊朗到底收没收到麦加协议邀请",
-          "url": "https://www.toutiao.com/trending/7677216607052415003/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 12时39分]"
-        },
-        {
           "title": "伊朗称其贸易伙伴“不会认真对待”美方制裁言论",
           "url": "https://wallstreetcn.com/livenews/3154104",
           "source": "华尔街见闻-快讯",
@@ -455,6 +469,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时38分 ~ 03时28分]"
+        },
+        {
+          "title": "巴基斯坦与伊朗商讨重新开放霍尔木兹海峡",
+          "url": "https://wallstreetcn.com/livenews/3154357",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时31分"
         },
         {
           "title": "巴基斯坦陆军总参谋长会见伊朗议会议长 讨论地区局势",
@@ -900,8 +925,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 12,
-          "time_info": "[02时38分 ~ 12时39分]"
+          "appearance_count": 14,
+          "time_info": "[02时38分 ~ 13时31分]"
         },
         {
           "title": "金与正，没接特朗普的话",
@@ -913,6 +938,20 @@
           "is_new": false,
           "appearance_count": 10,
           "time_info": "[00时35分 ~ 07时21分]"
+        },
+        {
+          "title": "特朗普政府启动“经济孤立行动” 公布多项针对伊朗的经济制裁举措",
+          "url": "https://www.cls.cn/detail/2462949",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[07时21分 ~ 13时31分]"
         },
         {
           "title": "伊朗官员：特朗普“说太多”",
@@ -956,19 +995,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时35分 ~ 06时24分]"
-        },
-        {
-          "title": "特朗普政府启动“经济孤立行动” 公布多项针对伊朗的经济制裁举措",
-          "url": "https://www.cls.cn/detail/2462949",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[07时21分 ~ 12时39分]"
         },
         {
           "title": "美加贸易为何谈崩了？专家：特朗普想吞并加拿大",
@@ -1049,7 +1075,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -1394,8 +1420,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 15,
-          "time_info": "[00时35分 ~ 12时39分]"
+          "appearance_count": 17,
+          "time_info": "[00时35分 ~ 13时31分]"
         },
         {
           "title": "油价回落缓解美债压力 美股期指下跌 市场聚焦贝森特发布会 | 今夜看点",
@@ -1418,8 +1444,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 12时39分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 13时31分]"
         },
         {
           "title": "中长期美债收益率显著走低",
@@ -1432,6 +1458,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时29分 ~ 05时27分]"
+        },
+        {
+          "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
+          "url": "https://wallstreetcn.com/articles/3780187",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[12时38分 ~ 13时31分]"
         },
         {
           "title": "华尔街高管：特朗普准备将10年期美债收益率推向5%",
@@ -1457,17 +1494,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时28分 ~ 05时27分]"
-        },
-        {
-          "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
-          "url": "https://wallstreetcn.com/articles/3780187",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 12时39分]"
         },
         {
           "title": "贝森特拟“震慑”债券空头 考虑回购及调整美债发行结构",
@@ -1540,8 +1566,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[06时24分 ~ 12时39分]"
+          "appearance_count": 9,
+          "time_info": "[06时24分 ~ 13时31分]"
         },
         {
           "title": "美银：如果共和党中选输掉参议院，美股将跌超10%，德州选战决定“AI政策”",
@@ -1674,8 +1700,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时10分 ~ 12时39分]"
+          "appearance_count": 7,
+          "time_info": "[09时10分 ~ 13时31分]"
         },
         {
           "title": "金价大涨 深圳水贝又被挤爆",
@@ -1712,7 +1738,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -1734,7 +1760,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         }
@@ -1836,8 +1862,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时50分 ~ 12时39分]"
+          "appearance_count": 5,
+          "time_info": "[11时50分 ~ 13时31分]"
         }
       ]
     },
