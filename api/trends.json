@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-26T17:40:00.912301+08:00",
-  "total_titles_processed": 1573,
+  "generated_at": "2026-08-26T18:35:01.515480+08:00",
+  "total_titles_processed": 1687,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 77,
+      "match_count": 80,
       "titles": [
         {
           "title": "停火谈判重大进展！美伊传就霍尔木兹自由通航达成共识、伊朗与阿曼拟设临时安全通道，布油一度跌6%",
@@ -17,8 +17,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时12分 ~ 17时40分]"
+          "appearance_count": 13,
+          "time_info": "[09时12分 ~ 18时35分]"
         },
         {
           "title": "内塔尼亚胡：伊朗想杀我儿子，差点得手",
@@ -67,11 +67,12 @@
             10,
             14,
             13,
-            18
+            18,
+            19
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[11时04分 ~ 17时40分]"
+          "appearance_count": 12,
+          "time_info": "[11时04分 ~ 18时35分]"
         },
         {
           "title": "美国宣布对伊朗实施「经济孤立」新措施，涉航空、黄金、航运等五大领域，这会切断伊朗「所有经济命脉」吗？",
@@ -128,6 +129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "15时46分"
+        },
+        {
+          "title": "据半岛电视台：伊朗总统佩泽希齐扬和俄罗斯总统普京计划下周会晤。",
+          "url": "https://flash.jin10.com/detail/20260826181719937800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "美宣布对伊朗实施“经济孤立”新措施加大施压",
@@ -389,6 +401,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时25分]"
+        },
+        {
+          "title": "解读美国最新对伊朗制裁",
+          "url": "https://search.bilibili.com/all?keyword=%E8%A7%A3%E8%AF%BB%E7%BE%8E%E5%9B%BD%E6%9C%80%E6%96%B0%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%88%B6%E8%A3%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 18时35分]"
         },
         {
           "title": "美媒：美国暂不会对伊朗采取武力行动",
@@ -806,6 +829,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "美国封锁逼得伊朗油轮四处漂泊，斯里兰卡海域成“临时避难所”",
+          "url": "https://flash.jin10.com/detail/20260826175611245800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社：德黑兰证券交易所综合指数上涨154,000点，突破637.8万点。全市场95%的个股上涨，超80%的个股涨幅在2%至3%区间。",
           "url": "https://flash.jin10.com/detail/20260826140228078800",
           "source": "金十数据",
@@ -867,7 +901,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时40分"
         },
@@ -897,7 +931,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "民调：特朗普的支持率为33%，达历史最低",
@@ -907,8 +941,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时12分 ~ 17时40分]"
+          "appearance_count": 13,
+          "time_info": "[09时12分 ~ 18时35分]"
+        },
+        {
+          "title": "金正恩主持劳动党政治局扩大会议，未回应特朗普对话提议",
+          "url": "https://news.ifeng.com/c/8vu2ukNWU3Y",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[14时45分 ~ 18时35分]"
         },
         {
           "title": "涉电磁弹射器，美海军要“硬顶”特朗普？",
@@ -923,15 +968,15 @@
           "time_info": "[02时37分 ~ 09时12分]"
         },
         {
-          "title": "金正恩主持劳动党政治局扩大会议，未回应特朗普对话提议",
-          "url": "https://news.ifeng.com/c/8vu2ukNWU3Y",
+          "title": "对加拿大态度强硬，特朗普底气何来？",
+          "url": "https://news.ifeng.com/c/8vtsZz4nJFu",
           "source": "凤凰网",
           "ranks": [
-            4
+            8
           ],
           "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[14时45分 ~ 17时40分]"
+          "appearance_count": 11,
+          "time_info": "[12时38分 ~ 18时35分]"
         },
         {
           "title": "特朗普称考虑将安大略湖更名为“美国湖”",
@@ -943,17 +988,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[00时37分 ~ 09时12分]"
-        },
-        {
-          "title": "对加拿大态度强硬，特朗普底气何来？",
-          "url": "https://news.ifeng.com/c/8vtsZz4nJFu",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时38分 ~ 17时40分]"
         },
         {
           "title": "特朗普三线极限施压，同时对准中国、加拿大、伊朗",
@@ -1000,6 +1034,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时04分 ~ 12时38分]"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-26）",
+          "url": "https://flash.jin10.com/detail/20260826180846586800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时35分"
         },
         {
           "title": "StoneX Financial Inc.金属业务负责人库奥科（Michael Cuoco）：尽管市场对库存上升有所担忧，但实物铜需求依然稳健，同时持续的供应问题和来自电网、数据中心、国防及电气化领域日益增长的需求支撑了看涨前景。 不断升级的美加贸易战也使人们的注意力重新聚焦于是否对精炼铜进口征收关税的待决决定。 随着中期选举迅速临近，特朗普的贸易战言论再次成为市场焦点。",
@@ -1370,6 +1415,18 @@
           "time_info": "[05时28分 ~ 06时26分]"
         },
         {
+          "title": "比特币自 5 月中旬以来首次突破 8 万美元，彻底告别底部区间了吗？如何看待加密资产与美债、黄金的联动逻辑？",
+          "url": "https://www.zhihu.com/question/2075531079084138776",
+          "source": "知乎",
+          "ranks": [
+            18,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[16时41分 ~ 18时35分]"
+        },
+        {
           "title": "美债收益率、国际油价下跌",
           "url": "https://wallstreetcn.com/livenews/3154768",
           "source": "华尔街见闻-快讯",
@@ -1415,17 +1472,6 @@
           "time_info": "06时26分"
         },
         {
-          "title": "比特币自 5 月中旬以来首次突破 8 万美元，彻底告别底部区间了吗？如何看待加密资产与美债、黄金的联动逻辑？",
-          "url": "https://www.zhihu.com/question/2075531079084138776",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "16时41分"
-        },
-        {
           "title": "黄金起飞与美债“危机”有何关联",
           "url": "https://www.toutiao.com/trending/7677888978955013695/",
           "source": "今日头条",
@@ -1461,8 +1507,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[09时12分 ~ 17时40分]"
+          "appearance_count": 13,
+          "time_info": "[09时12分 ~ 18时35分]"
         },
         {
           "title": "美股收盘：三大指数集体收涨 市场静待英伟达财报",
@@ -1622,8 +1668,21 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[12时38分 ~ 17时40分]"
+          "appearance_count": 11,
+          "time_info": "[12时38分 ~ 18时35分]"
+        },
+        {
+          "title": "速度更快、功耗更低，OpenAI JALAPENO芯片强势叫板英伟达GB300",
+          "url": "https://wallstreetcn.com/articles/3780270",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 10,
+          "time_info": "[12时38分 ~ 18时35分]"
         },
         {
           "title": "OpenAI高管预判：Codex与ChatGPT终将“消失”，未来将只留一个“个人AGI”",
@@ -1637,19 +1696,6 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[07时25分 ~ 15时46分]"
-        },
-        {
-          "title": "速度更快、功耗更低，OpenAI JALAPENO芯片强势叫板英伟达GB300",
-          "url": "https://wallstreetcn.com/articles/3780270",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[12时38分 ~ 17时40分]"
         },
         {
           "title": "OpenAI首席执行官奥尔特曼：我们做了一个很快的芯片。",
@@ -1810,6 +1856,46 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【早报】美股存储、光通信板块，集体走强；伊朗与阿曼拟建立霍尔木兹海峡安全海上通道；油价大跌，金价小幅上涨；加拿大反制美国",
+          "url": "https://www.cls.cn/detail/2464189",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时12分 ~ 14时45分]"
+        },
+        {
+          "title": "高盛重申：年末黄金价格将达到每盎司4900美元！",
+          "url": "https://www.cls.cn/detail/2463609",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 06时26分]"
+        },
+        {
+          "title": "【VIP日报】贵金属板块大涨 栏目解读金价上涨逻辑 提及2家公司涨停",
+          "url": "https://www.cls.cn/detail/2464939",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时34分 ~ 18时35分]"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -1836,35 +1922,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[12时38分 ~ 13时34分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【早报】美股存储、光通信板块，集体走强；伊朗与阿曼拟建立霍尔木兹海峡安全海上通道；油价大跌，金价小幅上涨；加拿大反制美国",
-          "url": "https://www.cls.cn/detail/2464189",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时12分 ~ 14时45分]"
-        },
-        {
-          "title": "高盛重申：年末黄金价格将达到每盎司4900美元！",
-          "url": "https://www.cls.cn/detail/2463609",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时26分]"
         }
       ]
     },
