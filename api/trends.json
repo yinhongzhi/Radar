@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-26T11:04:28.327383+08:00",
-  "total_titles_processed": 952,
+  "generated_at": "2026-08-26T12:38:39.559142+08:00",
+  "total_titles_processed": 1077,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 62,
+      "match_count": 64,
       "titles": [
         {
           "title": "内塔尼亚胡：伊朗想杀我儿子，差点得手",
@@ -43,6 +43,18 @@
           "time_info": "[00时37分 ~ 09时12分]"
         },
         {
+          "title": "停火谈判重大进展！美伊传就霍尔木兹自由通航达成共识、伊朗与阿曼拟设临时安全通道，布油一度跌6%",
+          "url": "https://wallstreetcn.com/articles/3780290",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 12时38分]"
+        },
+        {
           "title": "不加入美对伊朗“经济战”就将被制裁？外交部回应",
           "url": "https://news.ifeng.com/c/8vsWeEJt8aa",
           "source": "凤凰网",
@@ -63,18 +75,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 01时31分]"
-        },
-        {
-          "title": "停火谈判重大进展！美伊传就霍尔木兹自由通航达成共识、伊朗与阿曼拟设临时安全通道，布油一度跌6%",
-          "url": "https://wallstreetcn.com/articles/3780290",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 11时04分]"
         },
         {
           "title": "美国发动“史上最严制裁”，伊朗央行行长拆穿美方恫吓",
@@ -182,6 +182,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时26分 ~ 07时25分]"
+        },
+        {
+          "title": "美伊停火谈判重大进展！伊朗拟设“霍尔木兹临时通航走廊” 国际油价大幅下挫",
+          "url": "https://www.cls.cn/detail/2464238",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 12时38分]"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗能源部长表示，伊朗的发电厂数量足够多，即使敌人倾尽全力，也无法打击所有的发电厂。",
@@ -317,6 +329,18 @@
           "time_info": "[06时26分 ~ 07时25分]"
         },
         {
+          "title": "伊朗宣布发现大型天然气田，有望创造数百亿美元收益，这会对美伊博弈、中东能源格局产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2075179937275831775",
+          "source": "知乎",
+          "ranks": [
+            17,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 12时38分]"
+        },
+        {
           "title": "布伦特原油日内跌幅达4.0%，报86.9美元/桶，阿曼与伊朗提议设立霍尔木兹海峡临时航运通道。",
           "url": "https://wallstreetcn.com/livenews/3154766",
           "source": "华尔街见闻-快讯",
@@ -351,17 +375,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时37分 ~ 01时31分]"
-        },
-        {
-          "title": "美伊停火谈判重大进展！伊朗拟设“霍尔木兹临时通航走廊” 国际油价大幅下挫",
-          "url": "https://www.cls.cn/detail/2464238",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时04分"
         },
         {
           "title": "伊朗与阿曼拟建立霍尔木兹临时航道，俄媒获悉美伊将重启谈判",
@@ -425,7 +438,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
         },
@@ -518,6 +531,17 @@
           "time_info": "05时28分"
         },
         {
+          "title": "伊朗副外长称对美先发制人也是选项",
+          "url": "https://wallstreetcn.com/livenews/3155017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "英国财政大臣：（关于伊朗制裁）呼吁伊朗停止在包括霍尔木兹海峡在内的地区进行破坏性活动。",
           "url": "https://flash.jin10.com/detail/20260826023616077800",
           "source": "金十数据",
@@ -606,17 +630,6 @@
           "time_info": "05时28分"
         },
         {
-          "title": "伊朗宣布发现大型天然气田，有望创造数百亿美元收益，这会对美伊博弈、中东能源格局产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2075179937275831775",
-          "source": "知乎",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时04分"
-        },
-        {
           "title": "伊朗外长阿拉格奇：伊朗致力于维护和平与稳定，这与其对邻国的坚定外交政策相符。",
           "url": "https://flash.jin10.com/detail/20260826030942441800",
           "source": "金十数据",
@@ -694,6 +707,17 @@
           "time_info": "00时37分"
         },
         {
+          "title": "伊朗副外长称对美先发制人也是选项",
+          "url": "https://flash.jin10.com/detail/20260826115844984800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "消息人士：伊朗希望通过巴基斯坦向美方转达谈判条件，要求履行条款",
           "url": "https://wallstreetcn.com/livenews/3154758",
           "source": "华尔街见闻-快讯",
@@ -719,7 +743,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "涉电磁弹射器，美海军要“硬顶”特朗普？",
@@ -765,8 +789,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时31分 ~ 11时04分]"
+          "appearance_count": 8,
+          "time_info": "[01时31分 ~ 12时38分]"
         },
         {
           "title": "民调：特朗普的支持率为33%，达历史最低",
@@ -776,8 +800,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 11时04分]"
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 12时38分]"
         },
         {
           "title": "英国首相欲游说特朗普援乌，俄方回应",
@@ -786,9 +810,9 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时04分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 12时38分]"
         },
         {
           "title": "StoneX Financial Inc.金属业务负责人库奥科（Michael Cuoco）：尽管市场对库存上升有所担忧，但实物铜需求依然稳健，同时持续的供应问题和来自电网、数据中心、国防及电气化领域日益增长的需求支撑了看涨前景。 不断升级的美加贸易战也使人们的注意力重新聚焦于是否对精炼铜进口征收关税的待决决定。 随着中期选举迅速临近，特朗普的贸易战言论再次成为市场焦点。",
@@ -918,9 +942,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
+        },
+        {
+          "title": "对加拿大态度强硬，特朗普底气何来？",
+          "url": "https://news.ifeng.com/c/8vtsZz4nJFu",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "据韩联社：美国太平洋司令部周三称，美国正准备与韩国和日本举行三边军事演习，这表明尽管特朗普最近指示缩减美韩联合演习的规模，但演习仍在按计划进行。",
@@ -929,7 +964,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
         },
@@ -993,8 +1028,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 10,
-          "time_info": "[00时37分 ~ 11时04分]"
+          "appearance_count": 11,
+          "time_info": "[00时37分 ~ 12时38分]"
         },
         {
           "title": "“贝森特的老师”强烈反对贝森特：回购美债是消耗“用两个世纪积累的资产”--美债公信力",
@@ -1022,6 +1057,20 @@
           "time_info": "[00时37分 ~ 09时12分]"
         },
         {
+          "title": "贝森特的真正算盘：逼空美债CTA，将10年期收益率打到4.3%？",
+          "url": "https://wallstreetcn.com/articles/3780229",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8,
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[05时28分 ~ 12时38分]"
+        },
+        {
           "title": "华尔街给美财政部泼冷水：即便动用万亿国库账户，美债回购也难压低长债收益率",
           "url": "https://wallstreetcn.com/articles/3780187",
           "source": "华尔街见闻",
@@ -1046,19 +1095,6 @@
           "time_info": "[00时37分 ~ 05时28分]"
         },
         {
-          "title": "贝森特的真正算盘：逼空美债CTA，将10年期收益率打到4.3%？",
-          "url": "https://wallstreetcn.com/articles/3780229",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[05时28分 ~ 11时04分]"
-        },
-        {
           "title": "美联储巴尔金：如果债务继续增加，投资者迟早会在某个时点停止购买（美债）。",
           "url": "https://flash.jin10.com/detail/20260826050047659800",
           "source": "金十数据",
@@ -1080,8 +1116,19 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时25分 ~ 11时04分]"
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 12时38分]"
+        },
+        {
+          "title": "关键指标显效：贝森特美债“救市”并非无用功？",
+          "url": "https://www.cls.cn/detail/2464237",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时04分 ~ 12时38分]"
         },
         {
           "title": "美债收益率、国际油价下跌",
@@ -1116,17 +1163,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时25分"
-        },
-        {
-          "title": "关键指标显效：贝森特美债“救市”并非无用功？",
-          "url": "https://www.cls.cn/detail/2464237",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时04分"
         },
         {
           "title": "美国里士满联储主席Barkin（2027年FOMC票委）：美债最终将缩面临清算。 如果债务于某个时间节点膨胀，投资者将停止购买。",
@@ -1178,8 +1214,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时26分 ~ 11时04分]"
+          "appearance_count": 5,
+          "time_info": "[06时26分 ~ 12时38分]"
         },
         {
           "title": "美伊外交缓和重挫油价，美股三大指数齐涨，英伟达终结七连跌涨超2%",
@@ -1189,8 +1225,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 11时04分]"
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 12时38分]"
         },
         {
           "title": "美股收盘：三大股指收涨 英伟达涨2%",
@@ -1301,7 +1337,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "OpenAI首席执行官奥尔特曼：我们做了一个很快的芯片。",
@@ -1336,8 +1372,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时25分 ~ 11时04分]"
+          "appearance_count": 4,
+          "time_info": "[07时25分 ~ 12时38分]"
         },
         {
           "title": "OpenAI：自发布首款定制推理芯片Jalapeño以来，我们一直在对该芯片及其配套系统开展测试。 测试结果取得重大进展：单位功耗可输出更高智能能力，响应速度更快。 该单一架构在不牺牲能效的前提下，同时实现更高吞吐量与更低延迟。 Jalapeño将带来更快的ChatGPT响应速度、反应更灵敏的Codex会话与智能体，并且在需求持续增长的情况下保障服务稳定可用。",
@@ -1352,6 +1388,17 @@
           "time_info": "[02时37分 ~ 03时32分]"
         },
         {
+          "title": "一石激起千层浪！短短9个月，OpenAI自研ASIC芯片已超越英伟达Blackwell？",
+          "url": "https://wallstreetcn.com/articles/3780301",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        },
+        {
           "title": "OpenAI高层持续变动 数据中心负责人离开公司",
           "url": "https://flash.jin10.com/detail/20260826032846220800",
           "source": "金十数据",
@@ -1361,6 +1408,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时27分"
+        },
+        {
+          "title": "速度更快、功耗更低，OpenAI JALAPENO芯片强势叫板英伟达GB300",
+          "url": "https://wallstreetcn.com/articles/3780270",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
         },
         {
           "title": "据华尔街日报：OpenAI数据中心负责人已离职。",
@@ -1440,37 +1498,8 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "【早报】美股存储、光通信板块，集体走强；伊朗与阿曼拟建立霍尔木兹海峡安全海上通道；油价大跌，金价小幅上涨；加拿大反制美国",
-          "url": "https://www.cls.cn/detail/2464189",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时12分 ~ 11时04分]"
-        },
-        {
-          "title": "高盛重申：年末黄金价格将达到每盎司4900美元！",
-          "url": "https://www.cls.cn/detail/2463609",
-          "source": "财联社热门",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时37分 ~ 06时26分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "英伟达震撼首测Vera Rubin，DeepSeek吞吐暴涨30倍！",
@@ -1483,6 +1512,46 @@
           "is_new": false,
           "appearance_count": 8,
           "time_info": "[00时37分 ~ 07时25分]"
+        },
+        {
+          "title": "DeepSeek启动IPO筹备",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E5%90%AF%E5%8A%A8IPO%E7%AD%B9%E5%A4%87&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】美股存储、光通信板块，集体走强；伊朗与阿曼拟建立霍尔木兹海峡安全海上通道；油价大跌，金价小幅上涨；加拿大反制美国",
+          "url": "https://www.cls.cn/detail/2464189",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时12分 ~ 12时38分]"
+        },
+        {
+          "title": "高盛重申：年末黄金价格将达到每盎司4900美元！",
+          "url": "https://www.cls.cn/detail/2463609",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[00时37分 ~ 06时26分]"
         }
       ]
     },
@@ -1514,7 +1583,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时04分"
         }
