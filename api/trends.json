@@ -1,132 +1,55 @@
 {
-  "generated_at": "2026-08-29T23:30:56.385154+08:00",
-  "total_titles_processed": 970,
+  "generated_at": "2026-08-30T03:13:44.210471+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 9,
       "titles": [
         {
-          "title": "伊朗外交部发表声明",
-          "url": "https://news.ifeng.com/c/8vxhTsH4n78",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时06分"
-        },
-        {
-          "title": "【伊朗：持续控制霍尔木兹海峡，船只未经协调不得通过】8月28日，伊朗伊斯兰革命卫队海军发表声明称，美国官员关于霍尔木兹海峡开放的声明为谎言，其目的只是为了控制油价并掩盖其失败。声明强调，革命卫队对这一战略水道的控制权绝对稳固。伊朗已下令，所有未经伊朗协调而试图通过霍尔木兹海峡的船只均不得通行。革命卫队海军表示，这一行动将持续进行，直至美国对伊朗的军事行动彻底终结并履行其应尽的义务。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3157140",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时06分"
-        },
-        {
-          "title": "交战半年，美国滤镜碎一地，伊朗智勇难双全",
-          "url": "https://news.ifeng.com/c/8vxbV6HugO2",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时06分"
-        },
-        {
-          "title": "伊朗：持续控制霍尔木兹海峡 船只未经协调不得通过",
-          "url": "https://flash.jin10.com/detail/20260829050122089800",
+          "title": "美国驻黎巴嫩大使馆：黎巴嫩真主党拒绝与任何一方对话，因为其听命于伊朗 。当真主党准备交出武器时，就可以与黎巴嫩政府进行对话。",
+          "url": "https://flash.jin10.com/detail/20260830020138675800",
           "source": "金十数据",
           "ranks": [
-            2
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时06分"
+          "time_info": "03时13分"
         },
         {
-          "title": "伊朗官员：伊方已准备好一份对美条件清单",
-          "url": "https://news.ifeng.com/c/8vwi97AEe3J",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时06分"
-        },
-        {
-          "title": "伊朗外长：日本民众应要求日本政府就美国罪行作出交代",
-          "url": "https://flash.jin10.com/detail/20260829223539321800",
+          "title": "据半岛电视台：伊朗支持的“真主党旅”称，在美沙联合空袭前曾收到警告。",
+          "url": "https://flash.jin10.com/detail/20260830013158079800",
           "source": "金十数据",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时30分"
-        },
-        {
-          "title": "伊朗最高领袖：禁止有损凝聚力行为",
-          "url": "https://www.toutiao.com/trending/7679139321345081907/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 11时32分]"
-        },
-        {
-          "title": "伊朗总统：若霍尔木兹海峡重开 美国必须履行其义务",
-          "url": "https://wallstreetcn.com/livenews/3157133",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
+            12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时06分"
+          "time_info": "03时13分"
         },
         {
-          "title": "伊朗外长阿拉格齐：美国和以色列无力应对伊朗导弹。",
-          "url": "https://flash.jin10.com/detail/20260829044700325800",
+          "title": "据伊朗塔斯尼姆通讯社：伊朗革命卫队陆军指挥官库尔米表示，伊朗人民不惧怕任何强权。在为期12天的战争中，美国提出停火请求并来到谈判桌前，但随后却亲自掀翻了谈判桌。",
+          "url": "https://flash.jin10.com/detail/20260830013103999800",
           "source": "金十数据",
           "ranks": [
-            10
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时06分"
+          "time_info": "03时13分"
         },
         {
-          "title": "伊朗革命卫队：伊朗战士对霍尔木兹海峡这一战略水道的控制完全且不容置疑。 美方官员关于霍尔木兹海峡“保持开放”的表态是赤裸裸的谎言，唯一目的就是操控油价、掩盖自身失败。 所有未经伊朗协调而试图通行的船只，都将被以全部力量和绝对权威封锁在霍尔木兹海峡之外。",
-          "url": "https://wallstreetcn.com/livenews/3157129",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时06分"
-        },
-        {
-          "title": "伊朗总统：若霍尔木兹海峡重开 美国必须履行其义务",
-          "url": "https://flash.jin10.com/detail/20260829043643237800",
+          "title": "伊朗革命卫队官员：美国发动战争并非因为伊朗铀浓缩",
+          "url": "https://flash.jin10.com/detail/20260830012821984800",
           "source": "金十数据",
           "ranks": [
-            15
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时06分"
+          "time_info": "03时13分"
         },
         {
           "title": "伊朗外长阿拉格齐：我方情报显示，有人大肆操纵能源市场。 美国政府部分势力利用易受蒙蔽的媒体影响价格以谋取私利，同时让美国总统深陷一场必败的战争。 亲以色列势力也凭借美化的评估报告鼓吹战争。 美国消费者承受着实实在在的最终代价。",
@@ -135,192 +58,70 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时30分"
-        },
-        {
-          "title": "伊朗总统办公室传播与信息事务副主任：总统前天接受、昨晚播出的电视访谈，其核心主旨与最高领袖所传达信息的精神完全一致。",
-          "url": "https://flash.jin10.com/detail/20260829214037220800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时30分"
-        },
-        {
-          "title": "伊朗说周边美军基地只为保护以色列",
-          "url": "https://wallstreetcn.com/livenews/3157261",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时49分"
+          "time_info": "03时13分"
         },
         {
-          "title": "伊朗股市基准指数今日收盘大涨13万点，升至651.6万点，创下历史新高。等权重综合指数上涨2.5万点。成交额406.144万亿土曼。",
-          "url": "https://flash.jin10.com/detail/20260829173203200800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "伊朗革命卫队：所有未经伊朗协调而试图通行的船只，都将被以全部力量和绝对权威封锁在霍尔木兹海峡之外。",
-          "url": "https://flash.jin10.com/detail/20260829042533109800",
+          "title": "美国消息人士向阿拉伯电视台透露：与埃尔比勒方面的谅解备忘录将于9月30日到期，不会延期。<br/>伊朗库尔德方面消息人士透露：埃尔比勒与华盛顿之间的谅解备忘录不再延期，并不意味着双方合作结束。",
+          "url": "https://flash.jin10.com/detail/20260830004203466800",
           "source": "金十数据",
           "ranks": [
             19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时06分"
+          "time_info": "03时13分"
         },
         {
-          "title": "伊朗称在其境内捣毁一美以相关“恐怖分子团伙”",
-          "url": "https://flash.jin10.com/detail/20260829213351432800",
+          "title": "贝森特称引导1.3亿桶原油通过海峡 伊朗议长：谎话连篇",
+          "url": "https://flash.jin10.com/detail/20260830003048133800",
           "source": "金十数据",
           "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时30分"
-        },
-        {
-          "title": "伊朗战事的六大影响",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E7%9A%84%E5%85%AD%E5%A4%A7%E5%BD%B1%E5%93%8D",
-          "source": "百度热搜",
-          "ranks": [
-            20
+            22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时06分"
+          "time_info": "03时13分"
         },
         {
-          "title": "伊朗革命卫队：美方官员关于霍尔木兹海峡“保持开放”的表态是赤裸裸的谎言，唯一目的就是操控油价、掩盖自身失败。",
-          "url": "https://flash.jin10.com/detail/20260829042423182800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时06分"
-        },
-        {
-          "title": "伊朗发了一个嘲讽美国的神视频",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%91%E4%BA%86%E4%B8%80%E4%B8%AA%E5%98%B2%E8%AE%BD%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%A5%9E%E8%A7%86%E9%A2%91%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时30分"
-        },
-        {
-          "title": "伊朗革命卫队：伊朗战士对霍尔木兹海峡这一战略水道的控制完全且不容置疑。",
-          "url": "https://flash.jin10.com/detail/20260829042401730800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时06分"
-        },
-        {
-          "title": "伊朗出口发展银行分行及公司银行业务副行长表示，该行将为受战争影响的客户提供支持；在支持中小企业和知识型企业方面，贷款投放目标完成率达到180%。",
-          "url": "https://flash.jin10.com/detail/20260829171452482800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "伊朗学者：美国新制裁恐遭反噬，部分伊朗邻国或设法绕开制裁",
-          "url": "https://flash.jin10.com/detail/20260829170906988800",
+          "title": "据沙特阿拉伯阿拉比亚电视台：一段流传的视频显示，随着美国封锁持续，伊朗阿巴斯港的沙希德·拉贾伊港一片空旷。",
+          "url": "https://flash.jin10.com/detail/20260830002546837800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时49分"
+          "time_info": "03时13分"
         },
         {
-          "title": "伊朗总统佩泽希齐扬：临时协议执行期间，伊朗出售了约9000万桶石油。",
-          "url": "https://wallstreetcn.com/livenews/3157113",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时06分"
-        },
-        {
-          "title": "伊朗总统称美遵守承诺前不开放海峡",
-          "url": "https://wallstreetcn.com/livenews/3157251",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗发了一个嘲讽美国的神视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%91%E4%BA%86%E4%B8%80%E4%B8%AA%E5%98%B2%E8%AE%BD%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%A5%9E%E8%A7%86%E9%A2%91%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时49分"
+          "time_info": "03时13分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 4,
       "titles": [
         {
-          "title": "特朗普：美国与委内瑞拉达成一项石油协议",
-          "url": "https://news.ifeng.com/c/8vydSmIu6VU",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 18时49分]"
-        },
-        {
-          "title": "特朗普：支持布鲁斯·布莱克曼（Bruce Blakeman）竞选纽约州长。",
-          "url": "https://wallstreetcn.com/livenews/3157202",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：将担任高尔夫“总统杯”名誉主席",
+          "url": "https://flash.jin10.com/detail/20260830022118674800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "牛弹琴：特朗普干的事让世界目瞪口呆",
-          "url": "https://www.toutiao.com/trending/7679035179687480858/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时06分"
+          "time_info": "03时13分"
         },
         {
           "title": "特朗普小儿子遭千万美元悬赏追杀，知情人：他不怎么出门，很孤僻",
@@ -329,165 +130,37 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时30分"
+          "time_info": "03时13分"
         },
         {
-          "title": "特朗普发文斥责纽约州州长：她支持的是加拿大",
-          "url": "https://flash.jin10.com/detail/20260829102437544800",
+          "title": "英国“特朗普支持者”被美国驱逐",
+          "url": "https://flash.jin10.com/detail/20260830010927370800",
           "source": "金十数据",
           "ranks": [
-            5
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时32分"
+          "time_info": "03时13分"
         },
         {
-          "title": "特朗普发帖批评CNN和MSNOW",
-          "url": "https://flash.jin10.com/detail/20260829221912572800",
+          "title": "美国独立参议员桑德斯：一位优步司机告诉我的一位同事，特朗普削减医保后，他的月保费上涨了400%。他每种药的自付额从1美元涨到了高达90美元。这不仅仅是这位优步司机的遭遇，这种情况在美国各地都在发生。我们需要全民医保。",
+          "url": "https://flash.jin10.com/detail/20260830003450743800",
           "source": "金十数据",
           "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时30分"
-        },
-        {
-          "title": "特朗普所乘直升机遭遇飞行安全事件，初步调查报告公布",
-          "url": "https://news.ifeng.com/c/8vxLE853PWK",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时06分 ~ 11时32分]"
-        },
-        {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-29）",
-          "url": "https://flash.jin10.com/detail/20260829181123056800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "18时49分"
-        },
-        {
-          "title": "美国总统特朗普否认因纽约世贸中心“9·11”纪念仪式按惯例不安排政治人物演讲而改赴五角大楼的报道，痛批《纽约时报》记者玛吉·哈伯曼捏造消息。",
-          "url": "https://flash.jin10.com/detail/20260829044445440800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时06分"
-        },
-        {
-          "title": "特朗普格陵兰野心搅动北欧 冰岛入欧公投增添安全变量",
-          "url": "https://www.cls.cn/detail/2468312",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时06分"
-        },
-        {
-          "title": "特朗普发文悼念挪威国王哈拉尔",
-          "url": "https://flash.jin10.com/detail/20260829094754138800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "CFTC罚没前白宫提词员17.2万美元，因其利用特朗普演讲信息进行非法交易",
-          "url": "https://flash.jin10.com/detail/20260829092541069800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "VIP・9折看懂特朗普信号！",
-          "url": "https://flash.jin10.com/detail/20260829091242865800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "OpenAI Codex产品人员Derrick Choi：泰国的人工智能开发者社区正在快速发展。2026年，Codex在泰国的周活跃使用量增长超过350倍。OpenAI与泰国高等教育、科学、研究与创新部将汇集10家泰国初创企业，开展为期八周的加速器项目。",
-          "url": "https://flash.jin10.com/detail/20260829222350051800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时30分"
-        },
-        {
-          "title": "OpenAI模型失控过程太恐怖！幽灵误判，1200个Agent，还弄出敢死队…",
-          "url": "https://wallstreetcn.com/articles/3780589",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 18时49分]"
-        },
-        {
-          "title": "OpenAI：因Cursor被SpaceX收购，将终止与其的合作关系。 Cursor对AI模型的直接访问权限将于11月12日终止。",
-          "url": "https://wallstreetcn.com/livenews/3157192",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "OpenAI：因Cursor被SpaceX收购，将终止与其的合作关系。根据我们的提议，Cursor对我们模型的直接访问将于11月12日结束。",
-          "url": "https://flash.jin10.com/detail/20260829094826427800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
+          "time_info": "03时13分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 3,
       "titles": [
         {
           "title": "沃什杰克逊霍尔放鹰，美股指承压收跌，两年期美债收益率升逾10个基点，黄金重挫3%",
@@ -497,94 +170,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 23时30分]"
-        },
-        {
-          "title": "今夜，沃什能否拯救美债？或决定AI牛市命运",
-          "url": "https://wallstreetcn.com/articles/3780538",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时06分 ~ 11时32分]"
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "2009年来最鹰杰克逊霍尔讲话！沃什首秀推升两年期美债收益率逾10个基点",
           "url": "https://wallstreetcn.com/articles/3780605",
           "source": "华尔街见闻",
           "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时49分 ~ 23时30分]"
-        },
-        {
-          "title": "沃什鹰派发言提振加息预期，美债短端收益率走高，标普500指数持平，美元走强，金油齐跌",
-          "url": "https://wallstreetcn.com/articles/3780532",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时06分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股收盘：沃什鹰派言论推升加息预期 三大指数小幅收跌",
-          "url": "https://www.cls.cn/detail/2468421",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[11时31分 ~ 23时30分]"
+          "time_info": "03时13分"
         },
         {
-          "title": "美股存储板块盘前走弱贝壳飙涨两位数 市场静待沃什利率信号 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2468152",
-          "source": "财联社热门",
+          "title": "美债违约风险有多大",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%80%BA%E8%BF%9D%E7%BA%A6%E9%A3%8E%E9%99%A9%E6%9C%89%E5%A4%9A%E5%A4%A7",
+          "source": "bilibili 热搜",
           "ranks": [
-            8,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时06分 ~ 11时32分]"
-        },
-        {
-          "title": "Pinterest美股盘后跌3.2%，该公司CFO离职。",
-          "url": "https://wallstreetcn.com/livenews/3157128",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时06分"
-        },
-        {
-          "title": "周五（8月28日），美股行业ETF涨跌各异，半导体ETF收跌3.47%，生物科技指数ETF跌2.72%，科技行业ETF、全球科技股指数ETF至多跌1.53%，网络股指数ETF涨0.2%，能源业ETF涨0.63%，可选消费ETF涨1.15%。 2026年迄今，半导体ETF累涨53.59%，能源业ETF涨42.13%，全球科技股指数ETF、生物科技指数ETF至少涨23.92%，可选消费ETF跌1.45%。",
-          "url": "https://wallstreetcn.com/livenews/3157122",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时06分"
+          "time_info": "03时13分"
         }
       ]
     },
@@ -593,16 +202,15 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "黄金价格暴跌逾3.4% 玉米与小麦价格齐创逾三年新高 | 环球市场",
-          "url": "https://www.cls.cn/detail/2468437",
-          "source": "财联社热门",
+          "title": "金价1小时连降4次",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B71%E5%B0%8F%E6%97%B6%E8%BF%9E%E9%99%8D4%E6%AC%A1%23&t=31&band_rank=11&Refer=top",
+          "source": "微博",
           "ranks": [
-            12,
-            13
+            11
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 18时49分]"
+          "appearance_count": 1,
+          "time_info": "03时13分"
         },
         {
           "title": "三周连涨戛然而止！沃什鹰派讲话冲击贵金属市场，现货金价单日重挫近3%",
@@ -611,43 +219,43 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时30分"
+          "time_info": "03时13分"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
         {
-          "title": "怎么看谷歌开始测试 Gemini 3.8 Flash ，谷歌放弃 Pro 了吗？",
-          "url": "https://www.zhihu.com/question/2076773014612586660",
+          "title": "怎么看 OpenAI 因 Cursor 被 SpaceX 收购，将停止向 Cursor 提供 AI 模型？",
+          "url": "https://www.zhihu.com/question/2076984800188093248",
           "source": "知乎",
           "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时30分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美元",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "北美科技软件股指数ETF跌0.74%，报109.50美元，本周累涨5.93%。 本周，Global X网络安全ETF反弹5.66%，纳斯达克网络安全ETF反弹3.91%，ETFMG网络安全ETF反弹3.51%。",
-          "url": "https://wallstreetcn.com/livenews/3157124",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "05时06分"
+          "time_info": "03时13分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股收盘：沃什鹰派言论推升加息预期 三大指数小幅收跌",
+          "url": "https://www.cls.cn/detail/2468421",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时13分"
         }
       ]
     }
