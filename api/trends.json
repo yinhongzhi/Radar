@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-29T18:49:17.967958+08:00",
-  "total_titles_processed": 759,
+  "generated_at": "2026-08-29T23:30:56.385154+08:00",
+  "total_titles_processed": 970,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗外交部发表声明",
@@ -63,6 +63,17 @@
           "time_info": "05时06分"
         },
         {
+          "title": "伊朗外长：日本民众应要求日本政府就美国罪行作出交代",
+          "url": "https://flash.jin10.com/detail/20260829223539321800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "伊朗最高领袖：禁止有损凝聚力行为",
           "url": "https://www.toutiao.com/trending/7679139321345081907/",
           "source": "今日头条",
@@ -118,13 +129,35 @@
           "time_info": "05时06分"
         },
         {
+          "title": "伊朗外长阿拉格齐：我方情报显示，有人大肆操纵能源市场。 美国政府部分势力利用易受蒙蔽的媒体影响价格以谋取私利，同时让美国总统深陷一场必败的战争。 亲以色列势力也凭借美化的评估报告鼓吹战争。 美国消费者承受着实实在在的最终代价。",
+          "url": "https://wallstreetcn.com/livenews/3157289",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
+          "title": "伊朗总统办公室传播与信息事务副主任：总统前天接受、昨晚播出的电视访谈，其核心主旨与最高领袖所传达信息的精神完全一致。",
+          "url": "https://flash.jin10.com/detail/20260829214037220800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "伊朗说周边美军基地只为保护以色列",
           "url": "https://wallstreetcn.com/livenews/3157261",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -135,7 +168,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -149,6 +182,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
+        },
+        {
+          "title": "伊朗称在其境内捣毁一美以相关“恐怖分子团伙”",
+          "url": "https://flash.jin10.com/detail/20260829213351432800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         },
         {
           "title": "伊朗战事的六大影响",
@@ -173,6 +217,17 @@
           "time_info": "05时06分"
         },
         {
+          "title": "伊朗发了一个嘲讽美国的神视频",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%8F%91%E4%BA%86%E4%B8%80%E4%B8%AA%E5%98%B2%E8%AE%BD%E7%BE%8E%E5%9B%BD%E7%9A%84%E7%A5%9E%E8%A7%86%E9%A2%91%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "伊朗革命卫队：伊朗战士对霍尔木兹海峡这一战略水道的控制完全且不容置疑。",
           "url": "https://flash.jin10.com/detail/20260829042401730800",
           "source": "金十数据",
@@ -190,7 +245,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -201,7 +256,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -223,7 +278,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         }
@@ -231,7 +286,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普：美国与委内瑞拉达成一项石油协议",
@@ -268,6 +323,17 @@
           "time_info": "05时06分"
         },
         {
+          "title": "特朗普小儿子遭千万美元悬赏追杀，知情人：他不怎么出门，很孤僻",
+          "url": "https://news.ifeng.com/c/8vyyWf5TDzo",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
           "title": "特朗普发文斥责纽约州州长：她支持的是加拿大",
           "url": "https://flash.jin10.com/detail/20260829102437544800",
           "source": "金十数据",
@@ -277,6 +343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时32分"
+        },
+        {
+          "title": "特朗普发帖批评CNN和MSNOW",
+          "url": "https://flash.jin10.com/detail/20260829221912572800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         },
         {
           "title": "特朗普所乘直升机遭遇飞行安全事件，初步调查报告公布",
@@ -296,7 +373,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时49分"
         },
@@ -358,6 +435,57 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "OpenAI Codex产品人员Derrick Choi：泰国的人工智能开发者社区正在快速发展。2026年，Codex在泰国的周活跃使用量增长超过350倍。OpenAI与泰国高等教育、科学、研究与创新部将汇集10家泰国初创企业，开展为期八周的加速器项目。",
+          "url": "https://flash.jin10.com/detail/20260829222350051800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        },
+        {
+          "title": "OpenAI模型失控过程太恐怖！幽灵误判，1200个Agent，还弄出敢死队…",
+          "url": "https://wallstreetcn.com/articles/3780589",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 18时49分]"
+        },
+        {
+          "title": "OpenAI：因Cursor被SpaceX收购，将终止与其的合作关系。 Cursor对AI模型的直接访问权限将于11月12日终止。",
+          "url": "https://wallstreetcn.com/livenews/3157192",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        },
+        {
+          "title": "OpenAI：因Cursor被SpaceX收购，将终止与其的合作关系。根据我们的提议，Cursor对我们模型的直接访问将于11月12日结束。",
+          "url": "https://flash.jin10.com/detail/20260829094826427800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 4,
       "titles": [
@@ -369,8 +497,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 18时49分]"
+          "appearance_count": 4,
+          "time_info": "[11时31分 ~ 23时30分]"
         },
         {
           "title": "今夜，沃什能否拯救美债？或决定AI牛市命运",
@@ -384,6 +512,18 @@
           "time_info": "[05时06分 ~ 11时32分]"
         },
         {
+          "title": "2009年来最鹰杰克逊霍尔讲话！沃什首秀推升两年期美债收益率逾10个基点",
+          "url": "https://wallstreetcn.com/articles/3780605",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时49分 ~ 23时30分]"
+        },
+        {
           "title": "沃什鹰派发言提振加息预期，美债短端收益率走高，标普500指数持平，美元走强，金油齐跌",
           "url": "https://wallstreetcn.com/articles/3780532",
           "source": "华尔街见闻",
@@ -393,17 +533,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时06分"
-        },
-        {
-          "title": "2009年来最鹰杰克逊霍尔讲话！沃什首秀推升两年期美债收益率逾10个基点",
-          "url": "https://wallstreetcn.com/articles/3780605",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时49分"
         }
       ]
     },
@@ -420,8 +549,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 18时49分]"
+          "appearance_count": 4,
+          "time_info": "[11时31分 ~ 23时30分]"
         },
         {
           "title": "美股存储板块盘前走弱贝壳飙涨两位数 市场静待沃什利率信号 | 今夜看点",
@@ -460,48 +589,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI模型失控过程太恐怖！幽灵误判，1200个Agent，还弄出敢死队…",
-          "url": "https://wallstreetcn.com/articles/3780589",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时31分 ~ 18时49分]"
-        },
-        {
-          "title": "OpenAI：因Cursor被SpaceX收购，将终止与其的合作关系。 Cursor对AI模型的直接访问权限将于11月12日终止。",
-          "url": "https://wallstreetcn.com/livenews/3157192",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        },
-        {
-          "title": "OpenAI：因Cursor被SpaceX收购，将终止与其的合作关系。根据我们的提议，Cursor对我们模型的直接访问将于11月12日结束。",
-          "url": "https://flash.jin10.com/detail/20260829094826427800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "黄金价格暴跌逾3.4% 玉米与小麦价格齐创逾三年新高 | 环球市场",
@@ -514,6 +603,34 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[11时31分 ~ 18时49分]"
+        },
+        {
+          "title": "三周连涨戛然而止！沃什鹰派讲话冲击贵金属市场，现货金价单日重挫近3%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33972251",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "怎么看谷歌开始测试 Gemini 3.8 Flash ，谷歌放弃 Pro 了吗？",
+          "url": "https://www.zhihu.com/question/2076773014612586660",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时30分"
         }
       ]
     },
