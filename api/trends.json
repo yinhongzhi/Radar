@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-08-31T01:56:04.205905+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-08-31T04:36:49.724443+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 27,
       "titles": [
         {
           "title": "据伊朗媒体Fars News：伊朗在波斯湾查获200万升走私柴油。",
@@ -14,9 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "美军袭击伊朗南部岛屿 伊朗誓言报复",
+          "url": "https://flash.jin10.com/detail/20260831040853961800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
         },
         {
           "title": "战争进入“第四幕” 伊朗的霍尔木兹筹码可能失灵",
@@ -25,9 +36,64 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "伊朗革命卫队称，袭击事件造成多名士兵和平民伤亡。",
+          "url": "https://flash.jin10.com/detail/20260831040155183800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "伊朗革命卫队称，美国对拉腊克岛的袭击将遭到“回应和惩罚”。",
+          "url": "https://flash.jin10.com/detail/20260831040030771800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "伊朗革命卫队：拉腊克岛遭袭致多人受伤，必将惩罚侵略者",
+          "url": "https://wallstreetcn.com/livenews/3157421",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "伊朗革命卫队称敌人使用“心理战”",
+          "url": "https://flash.jin10.com/detail/20260831035434509800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "美官员称美军打击伊朗两处武器装置",
+          "url": "https://wallstreetcn.com/livenews/3157419",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
         },
         {
           "title": "伊朗总统赴中亚参会，上合如何推动美伊停火止战？",
@@ -37,8 +103,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时36分]"
+        },
+        {
+          "title": "伊朗总统府：伊朗总统佩泽希齐扬将前往吉尔吉斯斯坦首都比什凯克，出席上海合作组织峰会。",
+          "url": "https://wallstreetcn.com/livenews/3157394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6,
+            27
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
+          "time_info": "[01时56分 ~ 04时36分]"
         },
         {
           "title": "伊朗最高领袖最新声明：美以是地区团结之敌",
@@ -58,20 +136,64 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         },
         {
-          "title": "伊朗总统府：伊朗总统佩泽希齐扬将前往吉尔吉斯斯坦首都比什凯克，出席上海合作组织峰会。",
-          "url": "https://wallstreetcn.com/livenews/3157394",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗南部拉腊克岛传出爆炸声",
+          "url": "https://flash.jin10.com/detail/20260831035303376800",
+          "source": "金十数据",
           "ranks": [
             6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时56分"
+          "time_info": "04时36分"
+        },
+        {
+          "title": "美国官员声称，伊朗伊斯兰革命卫队试图通过发射火箭的方式向霍尔木兹海峡布设鱼雷。 美国在8月30日袭击伊朗Larak上两套发射架。（美国媒体Axios）",
+          "url": "https://wallstreetcn.com/livenews/3157414",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "据半岛电视台：伊朗革命卫队称敌人使用“心理战”。",
+          "url": "https://flash.jin10.com/detail/20260831034625267800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：根据初步信息，一小时前，敌方无人机袭击了霍尔木兹甘省的拉腊克岛。一些初步的非官方报告显示，此次袭击造成两人死亡，两人受伤。",
+          "url": "https://flash.jin10.com/detail/20260831034238964800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "伊朗媒体Fars News：伊朗拉腊克岛附近发生爆炸，原因不明。",
+          "url": "https://flash.jin10.com/detail/20260831033519782800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
         },
         {
           "title": "黎巴嫩外交部：黎巴嫩一直在寻求，并将继续寻求与所有国家建立最佳关系，包括伊朗。",
@@ -80,9 +202,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "美媒：美军打击了伊朗导弹发射器",
+          "url": "https://flash.jin10.com/detail/20260831032435420800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
         },
         {
           "title": "伊朗最高领袖最新声明：美以是地区团结之敌",
@@ -91,9 +224,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "德国总理默茨谈及伊朗：在德国，补贴无法抵消100美元的油价。 政界必须坦诚地向民众说明这一点，我们做不到通过补贴解决该问题。 但举例而言，我们可以全力以赴，联合欧洲伙伴推动伊朗战争结束，确保霍尔木兹海峡重新开放。 这正是我们努力的方向。 霍尔木兹海峡一旦重新开放，能源市场价格就会立刻回落，德国同样会受益。",
+          "url": "https://wallstreetcn.com/livenews/3157410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
         },
         {
           "title": "报道：经伊朗路线的霍尔木兹海峡通行正“在有限基础上”进行",
@@ -102,9 +246,31 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：伊朗希望重启核计划。只要我还是总理，就不会让伊朗发展核武器。",
+          "url": "https://flash.jin10.com/detail/20260831025732098800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们必须彻底消除伊朗的威胁，并解决伊朗政权问题。",
+          "url": "https://flash.jin10.com/detail/20260831025645012800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
         },
         {
           "title": "德国财长将在G20会议上就伊朗战争和贸易争端施压",
@@ -113,15 +279,37 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "也门武装部队在红海截获输往胡塞武装的伊朗货物",
+          "url": "https://flash.jin10.com/detail/20260831024830236800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "伊朗媒体FarsNews：卫星图像显示，一艘试图通过霍尔木兹海峡南部航道的船只已经停航。",
+          "url": "https://flash.jin10.com/detail/20260831023150775800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 15,
       "titles": [
         {
           "title": "中选之后，“特朗普交易”要反噬了？",
@@ -131,19 +319,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
-        },
-        {
-          "title": "美国总统特朗普：加拿大 “多年来一直在占我们的便宜”。 加拿大企业正大量涌入美国。 我们要实现汽车等产品本土生产，这就是将要发生的局面。 加拿大多年来一直在占我们的便宜 —— 这种日子结束了！",
-          "url": "https://wallstreetcn.com/livenews/3157398",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时56分"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时36分]"
         },
         {
           "title": "克宫：普京、特朗普和泽连斯基的峰会只能用于确认固定协商成果",
@@ -152,9 +329,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "美国总统特朗普：加拿大 “多年来一直在占我们的便宜”。 加拿大企业正大量涌入美国。 我们要实现汽车等产品本土生产，这就是将要发生的局面。 加拿大多年来一直在占我们的便宜 —— 这种日子结束了！",
+          "url": "https://wallstreetcn.com/livenews/3157398",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时56分 ~ 04时36分]"
         },
         {
           "title": "替美国打过仗的阿富汗人家属，被特朗普扔去非洲",
@@ -164,8 +353,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时36分]"
         },
         {
           "title": "特朗普称已与委内瑞拉达成石油协议，网友：公然盗窃",
@@ -175,19 +364,20 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时36分]"
         },
         {
           "title": "博主：“特朗普交易”正一步步崩盘",
           "url": "https://www.toutiao.com/trending/7679810565853679158/",
           "source": "今日头条",
           "ranks": [
-            25
+            25,
+            26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时36分]"
         },
         {
           "title": "特朗普发布AI视频挑衅加拿大 美政府成为加拿大民众第二大担忧",
@@ -196,9 +386,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
+        },
+        {
+          "title": "美国总统特朗普：所有与美国开展业务的加拿大企业，请立即迁至美国。 其中很多企业多年前因美国当局的愚蠢决策迁出美国。若迁回美国，即可免征关税。",
+          "url": "https://wallstreetcn.com/livenews/3157404",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
         },
         {
           "title": "克里姆林宫：普京只会为了签署协议而与特朗普和泽连斯基举行峰会。",
@@ -207,7 +408,101 @@
           "ranks": [
             11
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时56分"
+        },
+        {
+          "title": "特朗普抨击加拿大长期占美国便宜 拒绝加拿大汽车及零部件",
+          "url": "https://wallstreetcn.com/livenews/3157403",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "俄罗斯总统新闻秘书佩斯科夫：普京-特朗普-泽连斯基峰会仅可用于确认各方达成的共识。",
+          "url": "https://wallstreetcn.com/livenews/3157417",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "特朗普呼吁与美国有业务往来的加拿大公司迁往美国",
+          "url": "https://flash.jin10.com/detail/20260831022655378800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "特朗普声称不需要加拿大任何产品 早应该遏制加拿大占便宜行为",
+          "url": "https://flash.jin10.com/detail/20260831022153479800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "美国总统特朗普：加拿大想被当作（美国的）一个州对待，但他们不是。我与许多国家的领导人打过交道，但我认为加拿大是最差的。他们不再有资格享受特权了",
+          "url": "https://flash.jin10.com/detail/20260831021753875800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "美国总统特朗普：加拿大几十年来一直在剥削我们，这种情况必须停止。其他总统早就应该这么做了，就像早就应该阻止伊朗一样。",
+          "url": "https://flash.jin10.com/detail/20260831021703778800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌地图将安大略湖标记为美国湖，称：对加拿大的命名惯例“没有任何影响”",
+          "url": "https://wallstreetcn.com/livenews/3157397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时36分"
+        },
+        {
+          "title": "谷歌地图调整安大略湖显示名称，对美国用户显示“美国湖”",
+          "url": "https://wallstreetcn.com/livenews/3157397",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时56分"
         }
@@ -225,8 +520,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时36分]"
         },
         {
           "title": "马斯克飙脏话，痛斥OpenAI CEO奥尔特曼：不值得信任的混蛋",
@@ -236,25 +531,25 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 01时56分]"
+          "appearance_count": 3,
+          "time_info": "[01时55分 ~ 04时36分]"
         }
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
+      "keyword_group": "美股",
       "match_count": 1,
       "titles": [
         {
-          "title": "谷歌地图调整安大略湖显示名称，对美国用户显示“美国湖”",
-          "url": "https://wallstreetcn.com/livenews/3157397",
-          "source": "华尔街见闻-快讯",
+          "title": "李大霄提醒11月3日对美股风险",
+          "url": "https://search.bilibili.com/all?keyword=%E6%9D%8E%E5%A4%A7%E9%9C%84%E6%8F%90%E9%86%9211%E6%9C%883%E6%97%A5%E5%AF%B9%E7%BE%8E%E8%82%A1%E9%A3%8E%E9%99%A9",
+          "source": "bilibili 热搜",
           "ranks": [
-            4
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时56分"
+          "time_info": "04时36分"
         }
       ]
     }
