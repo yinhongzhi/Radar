@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-08-31T11:47:28.628762+08:00",
-  "total_titles_processed": 694,
+  "generated_at": "2026-08-31T18:34:25.579340+08:00",
+  "total_titles_processed": 935,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 47,
+      "match_count": 59,
       "titles": [
+        {
+          "title": "一个多月来首次！美国空袭伊朗拉腊克岛，油价应声走高",
+          "url": "https://wallstreetcn.com/articles/3780670",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时47分 ~ 18时34分]"
+        },
+        {
+          "title": "美1个月来首次军事打击，伊朗是否会加码反击？",
+          "url": "https://news.ifeng.com/c/8w2Qr0YYWqV",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
         {
           "title": "据伊朗媒体Fars News：伊朗在波斯湾查获200万升走私柴油。",
           "url": "https://flash.jin10.com/detail/20260831012101864800",
@@ -41,15 +64,37 @@
           "time_info": "07时12分"
         },
         {
+          "title": "印度总理莫迪：在与伊朗总统佩泽希齐扬的会晤中，双方重申了深化印伊长期友好关系的意愿，并希望进一步扩大和丰富双边贸易。此外，双方就地区当前局势交换意见，印度将继续支持一切实现持久和平的努力。",
+          "url": "https://flash.jin10.com/detail/20260831180457855800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
           "title": "伊朗称在霍尔木兹海峡上空击落美军MQ－9无人机",
           "url": "https://wallstreetcn.com/livenews/3157559",
           "source": "华尔街见闻-快讯",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
+        },
+        {
+          "title": "伊朗称在霍尔木兹海峡上空击落美军MQ－9无人机",
+          "url": "https://news.ifeng.com/c/8w2DjWsOABO",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "战争进入“第四幕” 伊朗的霍尔木兹筹码可能失灵",
@@ -72,6 +117,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "机密文件曝光：伊朗战事拖半年，多名美军高官直呼吃不消",
+          "url": "https://news.ifeng.com/c/8w2IwUBYCeb",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "伊朗革命卫队称，美国对拉腊克岛的袭击将遭到“回应和惩罚”。",
@@ -107,24 +163,13 @@
           "time_info": "07时12分"
         },
         {
-          "title": "一个多月来首次！美国空袭伊朗拉腊克岛，油价应声走高",
-          "url": "https://wallstreetcn.com/articles/3780670",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时47分"
-        },
-        {
           "title": "局势升级！美军袭击伊朗拉腊克岛 伊朗向美军基地发射导弹",
           "url": "https://www.cls.cn/detail/2469012",
           "source": "财联社热门",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
         },
@@ -271,7 +316,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
         },
@@ -307,6 +352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "印度总理莫迪与伊朗总统讨论西亚问题及双边关系。",
+          "url": "https://wallstreetcn.com/livenews/3157747",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "黎巴嫩外交部：黎巴嫩一直在寻求，并将继续寻求与所有国家建立最佳关系，包括伊朗。",
@@ -353,6 +409,17 @@
           "time_info": "01时56分"
         },
         {
+          "title": "美军袭击伊朗拉腊克岛，这是美军一个月来首次对伊采取军事行动，伊方誓言报复，本次冲突会升级吗？",
+          "url": "https://www.zhihu.com/question/2077683153028888495",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
           "title": "周一亚市盘初，国际油价涨超2%，此前美国对伊朗拉腊克岛进行打击。 标普500指数期货基本持平，纳斯达克100指数期货微涨0.1%。",
           "url": "https://wallstreetcn.com/livenews/3157430",
           "source": "华尔街见闻-快讯",
@@ -364,6 +431,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "伊朗总统：面对侵略不会坐视不理",
+          "url": "https://www.toutiao.com/trending/7680098521731678251/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
           "title": "德国总理默茨谈及伊朗：在德国，补贴无法抵消100美元的油价。 政界必须坦诚地向民众说明这一点，我们做不到通过补贴解决该问题。 但举例而言，我们可以全力以赴，联合欧洲伙伴推动伊朗战争结束，确保霍尔木兹海峡重新开放。 这正是我们努力的方向。 霍尔木兹海峡一旦重新开放，能源市场价格就会立刻回落，德国同样会受益。",
           "url": "https://wallstreetcn.com/livenews/3157410",
           "source": "华尔街见闻-快讯",
@@ -373,6 +451,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "印度总理莫迪与伊朗总统佩泽希齐扬在上合组织峰会期间举行会晤，双方讨论了西亚局势及双边关系。",
+          "url": "https://flash.jin10.com/detail/20260831174916070800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "报道：经伊朗路线的霍尔木兹海峡通行正“在有限基础上”进行",
@@ -397,6 +486,17 @@
           "time_info": "07时12分"
         },
         {
+          "title": "伊朗总统呼吁伊斯兰国家共保地区安全：隔空发消息解决不了问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33975747",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：伊朗希望重启核计划。只要我还是总理，就不会让伊朗发展核武器。",
           "url": "https://flash.jin10.com/detail/20260831025732098800",
           "source": "金十数据",
@@ -414,7 +514,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
         },
@@ -450,6 +550,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时12分"
+        },
+        {
+          "title": "约旦外交部：约旦谴责伊朗针对阿联酋发动的袭击。",
+          "url": "https://flash.jin10.com/detail/20260831174750194800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "据伊朗媒体Fars News：非官方消息称，卡塔尔乌代德基地发生爆炸。",
@@ -502,9 +613,20 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
+        },
+        {
+          "title": "伊朗：美方所谓“阻止布雷”的袭击理由纯属幻想",
+          "url": "https://flash.jin10.com/detail/20260831174621509800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "据半岛电视台：伊朗总统表示，我们不寻求战争，但面对任何侵略我们绝不会坐以待毙，并将对侵略者予以果断反击。",
@@ -513,9 +635,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
+        },
+        {
+          "title": "伊朗打击阿联酋基地美军目标",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E6%89%93%E5%87%BB%E9%98%BF%E8%81%94%E9%85%8B%E5%9F%BA%E5%9C%B0%E7%BE%8E%E5%86%9B%E7%9B%AE%E6%A0%87%23&t=31&band_rank=26&Refer=top",
+          "source": "微博",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "伊朗媒体FarsNews：卫星图像显示，一艘试图通过霍尔木兹海峡南部航道的船只已经停航。",
@@ -532,7 +665,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "中选之后，“特朗普交易”要反噬了？",
@@ -552,7 +685,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
         },
@@ -621,9 +754,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
+        },
+        {
+          "title": "伊朗驳斥特朗普关于哈尔克岛遭摧毁的说法",
+          "url": "https://wallstreetcn.com/livenews/3157761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "特朗普发布AI视频挑衅加拿大 美政府成为加拿大民众第二大担忧",
@@ -670,13 +814,24 @@
           "time_info": "04时36分"
         },
         {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-08-31）",
+          "url": "https://flash.jin10.com/detail/20260831175657811800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
           "title": "中期选举将至特朗普会打“台湾牌”吗",
           "url": "https://www.toutiao.com/trending/7678652491379507236/",
           "source": "今日头条",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
         },
@@ -687,9 +842,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
+        },
+        {
+          "title": "特朗普政府频繁干预金融市场，欧洲央行担心“魔爪”将伸向美联储",
+          "url": "https://flash.jin10.com/detail/20260831175146137800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         },
         {
           "title": "特朗普发AI视频称轰炸伊朗哈尔克岛",
@@ -698,7 +864,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
         },
@@ -783,7 +949,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI新王Astra首测曝光，前端不存在了？",
@@ -808,13 +974,57 @@
           "time_info": "[01时55分 ~ 07时12分]"
         },
         {
+          "title": "为什么在 OpenAI 之后，美国的创业公司只有 Anthropic 拿出了一线的大模型？",
+          "url": "https://www.zhihu.com/question/2042543001113813355",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
+          "title": "欧盟委员会：将ChatGPT、Reddit和Roblox指定为《数字服务法案》下的监管对象。",
+          "url": "https://flash.jin10.com/detail/20260831180124762800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
+          "title": "欧盟委员会：将ChatGPT认定为“超大型在线搜索引擎”。",
+          "url": "https://flash.jin10.com/detail/20260831180039504800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
+          "title": "ChatGPT、Reddit、Roblox面临欧盟更严格的内容审核规则",
+          "url": "https://wallstreetcn.com/livenews/3157754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
+        },
+        {
           "title": "OpenAI等实验室购买数万台Mac用于智能体训练",
           "url": "https://flash.jin10.com/detail/20260831110559432800",
           "source": "金十数据",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时47分"
         }
@@ -851,7 +1061,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "李大霄提醒11月3日对美股风险",
@@ -864,6 +1074,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时36分 ~ 07时12分]"
+        },
+        {
+          "title": "大宗商品超级周期回归！华尔街接连预警：硬资产“反杀”美股倒计时？",
+          "url": "https://www.cls.cn/detail/2469182",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时34分"
         }
       ]
     }
