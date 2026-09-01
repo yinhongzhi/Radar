@@ -1,27 +1,38 @@
 {
-  "generated_at": "2026-09-01T06:29:45.219048+08:00",
-  "total_titles_processed": 405,
+  "generated_at": "2026-09-01T09:40:00.457517+08:00",
+  "total_titles_processed": 587,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "一个多月来首次！美国空袭伊朗拉腊克岛，油价应声走高",
-          "url": "https://wallstreetcn.com/articles/3780670",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 06时29分]"
-        },
         {
           "title": "时隔1个月再度袭击伊朗，美国军方却为何直呼“吃不消”？",
           "url": "https://news.ifeng.com/c/8w2qkRl4JUw",
           "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 09时40分]"
+        },
+        {
+          "title": "参加上合峰会前，伊朗总统对美表态",
+          "url": "https://news.ifeng.com/c/8w2uy9wPmyT",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 09时40分]"
+        },
+        {
+          "title": "一个多月来首次！美国空袭伊朗拉腊克岛，油价应声走高",
+          "url": "https://wallstreetcn.com/articles/3780670",
+          "source": "华尔街见闻",
           "ranks": [
             2
           ],
@@ -41,17 +52,6 @@
           "time_info": "[01时54分 ~ 06时29分]"
         },
         {
-          "title": "参加上合峰会前，伊朗总统对美表态",
-          "url": "https://news.ifeng.com/c/8w2uy9wPmyT",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 06时29分]"
-        },
-        {
           "title": "伊朗武装力量：将对任何利用地区国家领土、领空或海域攻击伊朗的行动予以“远超对等”的回击。美军除了撤出该地区别无选择。",
           "url": "https://flash.jin10.com/detail/20260901013613087800",
           "source": "金十数据",
@@ -61,6 +61,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时54分"
+        },
+        {
+          "title": "时隔一个月再度袭击伊朗，美国军方却为何直呼“吃不消”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33978400",
+          "source": "澎湃新闻",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
         },
         {
           "title": "美军袭击伊朗拉腊克岛，这是美军一个月来首次对伊采取军事行动，伊方誓言报复，本次冲突会升级吗？",
@@ -102,7 +113,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -113,7 +124,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -135,7 +146,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -157,7 +168,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -179,7 +190,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -198,8 +209,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "沃什鹰派发言后，特朗普：“加息”是荒谬的，沃什会做他必须做的事",
+          "url": "https://wallstreetcn.com/articles/3780764",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
+        },
         {
           "title": "据华尔街日报：美国陆军部长丹·德里斯科尔因与国防部长赫格塞斯在陆军改革方向及高级军官调整问题上长期存在分歧，已向特朗普提交辞呈，预计数日内离职。",
           "url": "https://flash.jin10.com/detail/20260901055507396800",
@@ -207,7 +229,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -218,7 +240,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -235,6 +257,17 @@
           "time_info": "[01时54分 ~ 06时29分]"
         },
         {
+          "title": "数据中心拖累选情 特朗普急喊：反对AI基建最终将“落后且贫穷”",
+          "url": "https://www.cls.cn/detail/2470175",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
+        },
+        {
           "title": "特朗普在加拿大的实名认证地标要没了",
           "url": "https://www.toutiao.com/trending/7680204181482769962/",
           "source": "今日头条",
@@ -247,13 +280,24 @@
           "time_info": "[01时54分 ~ 06时29分]"
         },
         {
+          "title": "美陆军部长被曝已向特朗普递交辞呈",
+          "url": "https://www.toutiao.com/trending/7680307534724645403/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
+        },
+        {
           "title": "特朗普政府与九家中型药企达成定价协议",
           "url": "https://flash.jin10.com/detail/20260901054133919800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -264,9 +308,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
+        },
+        {
+          "title": "美国官员：特朗普正考虑对伊朗进行有限打击",
+          "url": "https://wallstreetcn.com/livenews/3158125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时40分"
         },
         {
           "title": "据CNBC：美国总统特朗普将于周二会见美国炼油商和燃料经销商，讨论扩大炼油产能并降低汽油价格。",
@@ -286,7 +341,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -297,7 +352,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -308,7 +363,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -319,7 +374,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -330,7 +385,102 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "美伊局势升级叠加鹰派预期，原油大涨，美股8月收官两连跌，芯片指数逆市反弹",
+          "url": "https://wallstreetcn.com/articles/3780702",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
+        },
+        {
+          "title": "【早报】纳指8月累涨3.9%；特斯拉大涨；美股存储芯片股，多数上涨；布油站上90美元；黄金走低",
+          "url": "https://www.cls.cn/detail/2470210",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
+        },
+        {
+          "title": "美股收盘：中东战火冲击美国股债汇齐跌 特斯拉逆势涨超5%",
+          "url": "https://www.cls.cn/detail/2470198",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
+        },
+        {
+          "title": "美伊局势升级叠加鹰派预期，原油大涨，美股8月收官两连跌，公用事业股重挫",
+          "url": "https://wallstreetcn.com/articles/3780702",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "摩根大通交易员放弃短期内看涨美股的立场",
+          "url": "https://wallstreetcn.com/livenews/3158064",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "美伊冲突重燃推高油价 美股三大期指小幅下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2469970",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 09时40分]"
+        },
+        {
+          "title": "美股加密货币与加密货币关联指数涨3.79%，报69.90点，8月份累涨8.81%。 最近24小时，现货比特币涨0.33%，暂报78832.69美元，8月份累涨25.18%，8月19-21日持续扩大涨幅。 以太坊跌0.91%，暂报2473.340美元，8月份累涨32.34%，8月19日显著扩大涨幅。",
+          "url": "https://wallstreetcn.com/livenews/3158055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时29分"
+        },
+        {
+          "title": "周一（8月31日），美股行业ETF多数收跌，全球航空业ETF收跌2.33%，网络股指数ETF跌0.65%，全球科技股指数ETF涨0.38%，科技行业ETF涨0.44%，半导体ETF涨0.64%，能源业ETF涨2%。 1-8月，半导体ETF累涨54.56%，能源业ETF涨44.97%，全球科技股指数ETF、科技行业ETF至少涨29.86%，可选消费ETF跌1.97%。",
+          "url": "https://wallstreetcn.com/livenews/3158035",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         }
@@ -346,11 +496,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 06时29分]"
+          "appearance_count": 4,
+          "time_info": "[01时54分 ~ 09时40分]"
         },
         {
           "title": "OpenAI和Anthropic也加入哄抢：苹果Mac mini成为AI行业最喜欢硬件",
@@ -381,7 +532,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
@@ -392,68 +543,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "美伊局势升级叠加鹰派预期，原油大涨，美股8月收官两连跌，公用事业股重挫",
-          "url": "https://wallstreetcn.com/articles/3780702",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "摩根大通交易员放弃短期内看涨美股的立场",
-          "url": "https://wallstreetcn.com/livenews/3158064",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "美伊冲突重燃推高油价 美股三大期指小幅下跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2469970",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时54分 ~ 06时29分]"
-        },
-        {
-          "title": "美股加密货币与加密货币关联指数涨3.79%，报69.90点，8月份累涨8.81%。 最近24小时，现货比特币涨0.33%，暂报78832.69美元，8月份累涨25.18%，8月19-21日持续扩大涨幅。 以太坊跌0.91%，暂报2473.340美元，8月份累涨32.34%，8月19日显著扩大涨幅。",
-          "url": "https://wallstreetcn.com/livenews/3158055",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时29分"
-        },
-        {
-          "title": "周一（8月31日），美股行业ETF多数收跌，全球航空业ETF收跌2.33%，网络股指数ETF跌0.65%，全球科技股指数ETF涨0.38%，科技行业ETF涨0.44%，半导体ETF涨0.64%，能源业ETF涨2%。 1-8月，半导体ETF累涨54.56%，能源业ETF涨44.97%，全球科技股指数ETF、科技行业ETF至少涨29.86%，可选消费ETF跌1.97%。",
-          "url": "https://wallstreetcn.com/livenews/3158035",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "06时29分"
         }
@@ -461,7 +551,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "沃什鹰派发言提振加息预期，美股下跌，10年期美债收益率创2025年1月以来新高，中东局势升温油价急涨",
@@ -475,33 +565,67 @@
           "time_info": "01时54分"
         },
         {
+          "title": "贝森特放话继续施压伊朗，称美债表现最佳、与沃什“同立场”，回击“导师”德鲁肯米勒",
+          "url": "https://wallstreetcn.com/articles/3780747",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时29分 ~ 09时40分]"
+        },
+        {
+          "title": "抛售再现！10年期美债收益率创19个月新高 关键堡垒告破……",
+          "url": "https://www.cls.cn/detail/2470279",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
+        },
+        {
           "title": "10年期美债收益率涨3.2个基点，一度创2025年1月以来新高，8月份微涨1.5个基点",
           "url": "https://wallstreetcn.com/livenews/3158058",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         },
         {
-          "title": "贝森特放话继续施压伊朗，称美债表现最佳、与沃什“同立场”，回击“导师”德鲁肯米勒",
-          "url": "https://wallstreetcn.com/articles/3780747",
-          "source": "华尔街见闻",
+          "title": "今年迄今30年期美债收益率收于5%以上的天数创2006年以来之最",
+          "url": "https://flash.jin10.com/detail/20260901092926730800",
+          "source": "金十数据",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时29分"
+          "time_info": "09时40分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "Kimi向微软、亚马逊、谷歌要30%分成，开源模型开始“海外收租”了",
+          "url": "https://wallstreetcn.com/articles/3780733",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时39分 ~ 09时40分]"
+        },
         {
           "title": "联发科：谷歌母公司Alphabet参与本公司（MediaTek）债券销售。",
           "url": "https://wallstreetcn.com/livenews/3157982",
@@ -526,7 +650,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时29分"
         }
