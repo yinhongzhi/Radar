@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-02T07:02:41.391848+08:00",
-  "total_titles_processed": 489,
+  "generated_at": "2026-09-02T10:59:31.883630+08:00",
+  "total_titles_processed": 708,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 44,
+      "match_count": 51,
       "titles": [
         {
           "title": "伊朗霍尔木兹甘省官员：霍尔木兹甘省多地传出的爆炸声未造成人员伤亡或损失，部分声音与波斯湾及霍尔木兹海峡局势紧张有关，局势目前稳定。",
@@ -41,13 +41,24 @@
           "time_info": "04时36分"
         },
         {
+          "title": "美军袭击伊朗举办婚礼的民宅，伊方反击",
+          "url": "https://news.ifeng.com/c/8w4KZ1n8pqs",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
           "title": "美军对伊朗新一轮打击6个半小时",
           "url": "https://wallstreetcn.com/livenews/3158827",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -74,6 +85,17 @@
           "time_info": "[01时37分 ~ 07时02分]"
         },
         {
+          "title": "伊朗总统儿子称“不搞浓缩铀我们也死不了”，强硬派怒了",
+          "url": "https://news.ifeng.com/c/8w4e11Oghv0",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
           "title": "据伊通社（IRNA）：伊朗南部阿巴斯港、格什姆岛、贾斯克和锡里克传出多起爆炸声。",
           "url": "https://flash.jin10.com/detail/20260902011218284800",
           "source": "金十数据",
@@ -91,7 +113,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -129,6 +151,17 @@
           "time_info": "01时37分"
         },
         {
+          "title": "美军称袭击两艘伊朗油轮",
+          "url": "https://wallstreetcn.com/livenews/3158953",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
           "title": "伊朗阿巴斯港东部和格什姆岛传出爆炸声",
           "url": "https://wallstreetcn.com/livenews/3158667",
           "source": "华尔街见闻-快讯",
@@ -138,6 +171,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "伊朗战争升级拖累韩国股市 韩股跌超3%",
+          "url": "https://flash.jin10.com/detail/20260902102059018800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         },
         {
           "title": "伊朗东南部Konarak传出爆炸声。（伊朗媒体FARS）",
@@ -168,9 +212,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "秘鲁宣布与伊朗断绝外交关系",
+          "url": "https://www.baidu.com/s?wd=%E7%A7%98%E9%B2%81%E5%AE%A3%E5%B8%83%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%96%AD%E7%BB%9D%E5%A4%96%E4%BA%A4%E5%85%B3%E7%B3%BB",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         },
         {
           "title": "伊朗岛屿Qeshm Island传出爆炸声。（伊朗媒体IRIB）",
@@ -212,7 +267,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -234,7 +289,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -267,7 +322,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -300,7 +355,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -366,7 +421,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -377,7 +432,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -388,7 +443,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -410,7 +465,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -487,15 +542,37 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "秘鲁宣布与伊朗断绝外交关系",
+          "url": "https://www.toutiao.com/trending/7680710230367944731/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "伊朗多地传出爆炸声",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%A4%9A%E5%9C%B0%E4%BC%A0%E5%87%BA%E7%88%86%E7%82%B8%E5%A3%B0",
+          "source": "百度热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普“密友”戴安斯再度访华",
@@ -505,8 +582,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时37分 ~ 07时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时37分 ~ 10时59分]"
         },
         {
           "title": "事关马岛，特朗普首次公开表态",
@@ -537,9 +614,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美军开始打击伊朗境内目标，特朗普称若伊报复将遭更猛烈打击，伊开始反击，美油盘中涨近6%",
+          "url": "https://wallstreetcn.com/articles/3780851",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         },
         {
           "title": "大外交丨特朗普“密友”戴安斯再度访华，中美近期各领域互动频密",
@@ -565,13 +653,24 @@
           "time_info": "01时37分"
         },
         {
+          "title": "伊朗媒体称，特朗普最新言辞展现其绝望",
+          "url": "https://flash.jin10.com/detail/20260902102704853800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
           "title": "美国财长贝森特：与加拿大进行了不错的沟通。 “让加拿大（针对总统特朗普的关税）收回报复性手段”是首脑们的事。",
           "url": "https://wallstreetcn.com/livenews/3158805",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
         },
@@ -596,6 +695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "特朗普称正重审美国在马岛争端立场",
+          "url": "https://www.toutiao.com/trending/7680467253988639282/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
         }
       ]
     },
@@ -603,17 +713,6 @@
       "keyword_group": "美股",
       "match_count": 7,
       "titles": [
-        {
-          "title": "美股三大期指集体走低 市场转而押注美联储本月加息 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2471151",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时37分 ~ 07时02分]"
-        },
         {
           "title": "霍尔木兹油轮遇袭推升油价，美股低开，纳指跌超1.3%，全球债市抛售加剧，黄金失守4350",
           "url": "https://wallstreetcn.com/articles/3780783",
@@ -637,28 +736,54 @@
           "time_info": "[01时37分 ~ 04时36分]"
         },
         {
+          "title": "美股三大期指集体走低 市场转而押注美联储本月加息 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2471151",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时37分 ~ 10时59分]"
+        },
+        {
           "title": "Citadel：9月美股或迎“战术性下行窗口”，建议逢高减仓、低价买保护",
           "url": "https://wallstreetcn.com/articles/3780833",
           "source": "华尔街见闻",
           "ranks": [
             10,
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时37分 ~ 07时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时37分 ~ 10时59分]"
+        },
+        {
+          "title": "美股收盘：美伊互轰升级股民遭殃 戴尔再度闪耀“AI之光”",
+          "url": "https://www.cls.cn/detail/2471380",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 10时59分]"
         },
         {
           "title": "美伊互轰深夜升级！特朗普称打击规模“庞大且强劲” 美股受累跳水",
           "url": "https://www.cls.cn/detail/2471341",
           "source": "财联社热门",
           "ranks": [
-            8
+            8,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时02分 ~ 10时59分]"
         },
         {
           "title": "戴尔科技二季度调整后每股收益（EPS）为7.04美元，分析师预期4.90美元。 二季度总体净营收469.7亿美元，分析师预期447.8亿美元。 二季度为运行AI工作负载而设计和优化的服务器营收164亿美元，分析师预期160.3亿美元。 二季度传统服务器与网络营收105.3亿美元。 二季度基础设施解决方案集团净营收317.8亿美元。 二季度调整后运营利润59.3亿美元，分析师预期41.8亿美元。 预计全年营收1920亿美元，分析师预期1737.6亿美元，公司原本预计1650亿-1690亿美元。 预计全年AI优化服务器营收740亿美元，公司原本预计大约600亿美元。 预计三季度营收490亿美元，分析师预期419.1亿美元。 戴尔科技美股盘后涨5%。",
@@ -670,17 +795,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
-        },
-        {
-          "title": "美股收盘：美伊互轰升级股民遭殃 戴尔再度闪耀“AI之光”",
-          "url": "https://www.cls.cn/detail/2471380",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时02分"
         }
       ]
     },
@@ -720,6 +834,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "全球债市齐跌！30年期美债收益率重回干预前水平 贝森特淡化抛售潮",
+          "url": "https://www.cls.cn/detail/2471436",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时59分"
+        },
+        {
+          "title": "沙特阿美销售32.5亿美元债券（五年期+10年期），获得超过150亿美元认购。 其中，10年期债券收益率定价较可比美债溢价0.8个百分点。",
+          "url": "https://wallstreetcn.com/livenews/3158795",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时02分"
         }
       ]
     },
@@ -769,19 +911,19 @@
       ]
     },
     {
-      "keyword_group": "美债",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "沙特阿美销售32.5亿美元债券（五年期+10年期），获得超过150亿美元认购。 其中，10年期债券收益率定价较可比美债溢价0.8个百分点。",
-          "url": "https://wallstreetcn.com/livenews/3158795",
-          "source": "华尔街见闻-快讯",
+          "title": "金十图示：2026年09月02日（周三）上海金早盘价为931.36元/克，较国际金价(930.73元/克)，高0.63元/克",
+          "url": "https://flash.jin10.com/detail/20260902103444968800",
+          "source": "金十数据",
           "ranks": [
-            28
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时02分"
+          "time_info": "10时59分"
         }
       ]
     }
