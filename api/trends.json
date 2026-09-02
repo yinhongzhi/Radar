@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-09-02T10:59:31.883630+08:00",
-  "total_titles_processed": 708,
+  "generated_at": "2026-09-02T15:50:45.910048+08:00",
+  "total_titles_processed": 904,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 51,
+      "match_count": 59,
       "titles": [
+        {
+          "title": "美军袭击伊朗举办婚礼的民宅，伊方反击",
+          "url": "https://news.ifeng.com/c/8w4KZ1n8pqs",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 15时50分]"
+        },
         {
           "title": "伊朗霍尔木兹甘省官员：霍尔木兹甘省多地传出的爆炸声未造成人员伤亡或损失，部分声音与波斯湾及霍尔木兹海峡局势紧张有关，局势目前稳定。",
           "url": "https://flash.jin10.com/detail/20260902012319254800",
@@ -17,6 +29,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时37分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社：美国在伊朗拉万岛的空袭造成三名巴斯基准军事组织成员死亡。",
+          "url": "https://flash.jin10.com/detail/20260902152704861800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
+          "title": "伊朗称袭击科威特美军基地 造成多名美方人员死亡",
+          "url": "https://wallstreetcn.com/livenews/3159091",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         },
         {
           "title": "市场消息：美国对伊朗境内革命卫队阵地的袭击目前已经停止。",
@@ -41,15 +75,15 @@
           "time_info": "04时36分"
         },
         {
-          "title": "美军袭击伊朗举办婚礼的民宅，伊方反击",
-          "url": "https://news.ifeng.com/c/8w4KZ1n8pqs",
-          "source": "凤凰网",
+          "title": "以色列国防部长卡茨：随着对伊朗的经济压力不断加大，他们很可能对我们发动袭击。他们喜欢在犹太节日期间发动袭击。",
+          "url": "https://flash.jin10.com/detail/20260902152458048800",
+          "source": "金十数据",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时59分"
+          "time_info": "15时50分"
         },
         {
           "title": "美军对伊朗新一轮打击6个半小时",
@@ -61,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        },
+        {
+          "title": "美军轰炸伊朗南部多地",
+          "url": "https://www.douyin.com/hot/2632320",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         },
         {
           "title": "伊朗伊斯兰共和国通讯社援引地方安全官员的消息称，4枚炮弹击中东南部恰巴哈尔与科纳拉克地区；目前正在评估可能造成的损毁情况。",
@@ -89,11 +134,23 @@
           "url": "https://news.ifeng.com/c/8w4e11Oghv0",
           "source": "凤凰网",
           "ranks": [
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 15时50分]"
+        },
+        {
+          "title": "伊朗议长：若美阻止伊朗石油出口 波斯湾将断油",
+          "url": "https://wallstreetcn.com/livenews/3159079",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时59分"
+          "time_info": "15时50分"
         },
         {
           "title": "据伊通社（IRNA）：伊朗南部阿巴斯港、格什姆岛、贾斯克和锡里克传出多起爆炸声。",
@@ -157,7 +214,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -179,7 +236,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -223,9 +280,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "据伊朗SNN通讯社：四名伊朗革命卫队航空航天部队成员在美军对伊朗西部的空袭中丧生。",
+          "url": "https://flash.jin10.com/detail/20260902151746403800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         },
         {
           "title": "伊朗岛屿Qeshm Island传出爆炸声。（伊朗媒体IRIB）",
@@ -514,6 +582,17 @@
           "time_info": "04时36分"
         },
         {
+          "title": "伊朗军方称对地区美军基地和人员集结区发动大规模袭击",
+          "url": "https://wallstreetcn.com/livenews/3159055",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
+        },
+        {
           "title": "据IRIB报道，伊朗伊斯兰革命卫队已经开始对美国展开报复性打击。 伊朗革命卫队说，美国的攻击只会让霍尔木兹海峡的封锁更加牢固。 美国的打击将（造成）“进一步收紧霍尔木兹海峡的封锁”。",
           "url": "https://wallstreetcn.com/livenews/3158723",
           "source": "华尔街见闻-快讯",
@@ -553,7 +632,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         },
@@ -564,15 +643,26 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "伊朗称打击约旦境内美海军陆战队基地",
+          "url": "https://wallstreetcn.com/livenews/3159051",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 13,
       "titles": [
         {
           "title": "特朗普“密友”戴安斯再度访华",
@@ -608,6 +698,18 @@
           "time_info": "[01时37分 ~ 04时36分]"
         },
         {
+          "title": "美军开始打击伊朗境内目标，特朗普称若伊报复将遭更猛烈打击，伊开始反击，美油盘中涨近6%",
+          "url": "https://wallstreetcn.com/articles/3780851",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 15时50分]"
+        },
+        {
           "title": "美国总统特朗普：很高兴提名真正的战士——高雄 (Hung Cao)担任下一任海军部长。",
           "url": "https://flash.jin10.com/detail/20260902065533461800",
           "source": "金十数据",
@@ -619,27 +721,17 @@
           "time_info": "07时02分"
         },
         {
-          "title": "美军开始打击伊朗境内目标，特朗普称若伊报复将遭更猛烈打击，伊开始反击，美油盘中涨近6%",
-          "url": "https://wallstreetcn.com/articles/3780851",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "10时59分"
-        },
-        {
           "title": "大外交丨特朗普“密友”戴安斯再度访华，中美近期各领域互动频密",
           "url": "https://m.thepaper.cn/newsDetail_forward_33983668",
           "source": "澎湃新闻",
           "ranks": [
             19,
-            17
+            17,
+            18
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时37分 ~ 07时02分]"
+          "appearance_count": 5,
+          "time_info": "[01时37分 ~ 15时50分]"
         },
         {
           "title": "伊朗喊话美国重返停火备忘录，万斯称特朗普发轰炸哈尔克岛视频在向伊“传递信息”",
@@ -659,9 +751,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
+        },
+        {
+          "title": "美伊再次开打，特朗普威胁伊朗若报复将遭受「更猛烈」打击，此轮袭击将如何影响中东局势？",
+          "url": "https://www.zhihu.com/question/2078394585563100576",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         },
         {
           "title": "美国财长贝森特：与加拿大进行了不错的沟通。 “让加拿大（针对总统特朗普的关税）收回报复性手段”是首脑们的事。",
@@ -703,7 +806,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         }
@@ -758,8 +861,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时37分 ~ 10时59分]"
+          "appearance_count": 6,
+          "time_info": "[01时37分 ~ 15时50分]"
         },
         {
           "title": "美股收盘：美伊互轰升级股民遭殃 戴尔再度闪耀“AI之光”",
@@ -800,7 +903,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI：推出全新电子健康记录集成功能，可将Epic系统中经授权的患者信息上下文导入医疗版ChatGPT。",
@@ -834,23 +937,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时36分"
+        },
+        {
+          "title": "OpenAI即将发布“最强模型”：首款突破网络安全关键阈值，但能力料受到限制",
+          "url": "https://www.cls.cn/detail/2471438",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "全球债市齐跌！30年期美债收益率重回干预前水平 贝森特淡化抛售潮",
           "url": "https://www.cls.cn/detail/2471436",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时59分 ~ 15时50分]"
+        },
+        {
+          "title": "美债崩、日元溃！投行：1997年亚洲金融危机会重演吗？",
+          "url": "https://www.cls.cn/detail/2471537",
+          "source": "财联社热门",
+          "ranks": [
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时59分"
+          "time_info": "15时50分"
         },
         {
           "title": "沙特阿美销售32.5亿美元债券（五年期+10年期），获得超过150亿美元认购。 其中，10年期债券收益率定价较可比美债溢价0.8个百分点。",
@@ -862,6 +988,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "CrowdStrike(CRWD.O)：在谷歌云企业人工智能生态系统中扩展Falcon平台功能。",
+          "url": "https://flash.jin10.com/detail/20260902012052212800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时37分"
+        },
+        {
+          "title": "新闻蒸馏器｜苹果跟随谷歌迅速站队“美国湖”，老牌地图商拒绝改名下载量激增",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33991676",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时50分"
         }
       ]
     },
@@ -894,23 +1048,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "CrowdStrike(CRWD.O)：在谷歌云企业人工智能生态系统中扩展Falcon平台功能。",
-          "url": "https://flash.jin10.com/detail/20260902012052212800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时37分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
       "match_count": 1,
       "titles": [
@@ -921,7 +1058,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时59分"
         }
