@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-09-03T13:33:50.759088+08:00",
-  "total_titles_processed": 849,
+  "generated_at": "2026-09-03T18:43:12.356521+08:00",
+  "total_titles_processed": 1063,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 29,
+      "match_count": 30,
       "titles": [
+        {
+          "title": "特朗普：随时准备新一轮打击，不会持续太久",
+          "url": "https://news.ifeng.com/c/8w5qfiJBYnP",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时33分 ~ 18时43分]"
+        },
         {
           "title": "美国总统特朗普：委内瑞拉尚未准备好进行大选。 委内瑞拉在选举日期方面尚未准备就绪。",
           "url": "https://wallstreetcn.com/livenews/3159424",
@@ -39,17 +50,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
-        },
-        {
-          "title": "特朗普：随时准备新一轮打击，不会持续太久",
-          "url": "https://news.ifeng.com/c/8w5qfiJBYnP",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
         },
         {
           "title": "美国总统特朗普：我与奈飞讨论好莱坞行业现状。",
@@ -102,7 +102,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -234,7 +234,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -259,6 +259,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-09-03）",
+          "url": "https://flash.jin10.com/detail/20260903181218421800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "特朗普：与委内瑞拉合作非常好。",
@@ -330,7 +341,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 27,
+      "match_count": 30,
       "titles": [
         {
           "title": "美军袭击伊朗举办婚礼的民宅，伊方反击",
@@ -375,6 +386,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "以色列国防部长：若遭伊朗攻击，以色列将把伊朗送回石器时代。",
+          "url": "https://wallstreetcn.com/livenews/3159883",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "以色列总理内塔尼亚胡：我们将推翻伊朗政，它会垮掉。我们所有的系统都在运作，旨在摧毁这个政权。",
@@ -432,6 +454,17 @@
           "time_info": "01时01分"
         },
         {
+          "title": "伊朗导弹致大量美军死伤",
+          "url": "https://www.toutiao.com/trending/7680453390819757609/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时33分 ~ 18时43分]"
+        },
+        {
           "title": "美军轰炸伊朗南部多地",
           "url": "https://www.douyin.com/hot/2632320",
           "source": "抖音",
@@ -444,6 +477,17 @@
           "time_info": "[06时23分 ~ 08时58分]"
         },
         {
+          "title": "秘鲁宣布与伊朗断绝外交关系，这背后有哪些深层原因与影响？",
+          "url": "https://www.zhihu.com/question/2078399597790209034",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 18时43分]"
+        },
+        {
           "title": "伊朗外交部：土耳其驻伊朗大使与外交部长举行告别会见。",
           "url": "https://flash.jin10.com/detail/20260903004632381800",
           "source": "金十数据",
@@ -453,6 +497,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "以色列防长卡茨：伊朗可能迫于压力采取极端措施。 伊朗若袭击以色列将使我们摆脱现有的限制。",
+          "url": "https://wallstreetcn.com/livenews/3159871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "据伊朗Press TV：伊朗波斯湾海峡管理局更新的“不合规船舶（NCV）名单”上新增12艘船只。",
@@ -499,17 +554,6 @@
           "time_info": "01时01分"
         },
         {
-          "title": "伊朗导弹致大量美军死伤",
-          "url": "https://www.toutiao.com/trending/7680453390819757609/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
-        },
-        {
           "title": "阿波罗全球管理：伊朗战争和关税料推动美国国债收益率上升",
           "url": "https://wallstreetcn.com/livenews/3159373",
           "source": "华尔街见闻-快讯",
@@ -549,7 +593,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -582,7 +626,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -645,8 +689,22 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时23分 ~ 13时33分]"
+          "appearance_count": 6,
+          "time_info": "[06时23分 ~ 18时43分]"
+        },
+        {
+          "title": "“Sell Sell or Sell”！美银警告：9月美股仅剩90亿美元买盘空间 ，一旦下跌或触发1630亿卖盘",
+          "url": "https://wallstreetcn.com/articles/3780920",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[03时42分 ~ 18时43分]"
         },
         {
           "title": "【早报】特朗普：随时准备打击伊朗；美股收涨，结束3连跌；原油、黄金、白银齐涨；涉及A股，重要指数调整",
@@ -670,20 +728,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时57分 ~ 13时33分]"
-        },
-        {
-          "title": "“Sell Sell or Sell”！美银警告：9月美股仅剩90亿美元买盘空间 ，一旦下跌或触发1630亿卖盘",
-          "url": "https://wallstreetcn.com/articles/3780920",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            6,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[03时42分 ~ 13时33分]"
         },
         {
           "title": "油价涨势暂歇缓解通胀担忧，美股开盘涨跌互现，戴尔涨超8%，美元走低",
@@ -811,7 +855,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国政府支持OpenAI版权诉讼立场 称AI训练受“合理使用”保护",
@@ -853,7 +897,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时33分"
         },
@@ -867,6 +911,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
+        },
+        {
+          "title": "OpenAI的CEO Sam Altman称政府正在审查Astra大模型的生产流程。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3159862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
         },
         {
           "title": "博通(AVGO.O)首席执行官：我们正在与OpenAI合作开发第三代XPU。",
@@ -916,7 +971,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "新闻蒸馏器｜苹果跟随谷歌迅速站队“美国湖”，老牌地图商拒绝改名下载量激增",
@@ -947,11 +1002,23 @@
           "url": "https://wallstreetcn.com/articles/3780934",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时33分 ~ 18时43分]"
+        },
+        {
+          "title": "RSI时代将至：谷歌、OpenAI、SSI正在发出同一个信号",
+          "url": "https://wallstreetcn.com/articles/3780960",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 18时43分]"
         },
         {
           "title": "谷歌发布Gemini 3.8 Flash推理模型",
@@ -1001,8 +1068,19 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "一图看懂 | 中长期金价怎么走？10多家机构表态",
+          "url": "https://www.cls.cn/detail/2473296",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时42分 ~ 18时43分]"
+        },
         {
           "title": "金价再迎连续暴跌",
           "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%86%8D%E8%BF%8E%E8%BF%9E%E7%BB%AD%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=22&Refer=top",
@@ -1028,6 +1106,34 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "华尔街终于能喘口气：美债收益率小幅回落 “小非农”表现低迷",
+          "url": "https://www.cls.cn/detail/2472640",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时33分"
+        },
+        {
+          "title": "施罗德买入较长期美债，认为当前收益率水平具有吸引力",
+          "url": "https://wallstreetcn.com/livenews/3159850",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时43分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
@@ -1042,23 +1148,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时01分 ~ 06时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "华尔街终于能喘口气：美债收益率小幅回落 “小非农”表现低迷",
-          "url": "https://www.cls.cn/detail/2472640",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时33分"
         }
       ]
     }
