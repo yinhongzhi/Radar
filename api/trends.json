@@ -1,270 +1,11 @@
 {
-  "generated_at": "2026-09-03T06:23:40.464349+08:00",
-  "total_titles_processed": 498,
+  "generated_at": "2026-09-03T08:58:03.822777+08:00",
+  "total_titles_processed": 642,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 23,
-      "titles": [
-        {
-          "title": "美军袭击伊朗举办婚礼的民宅，伊方反击",
-          "url": "https://news.ifeng.com/c/8w4KZ1n8pqs",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 06时23分]"
-        },
-        {
-          "title": "伊朗总统儿子称“不搞浓缩铀我们也死不了”，强硬派怒了",
-          "url": "https://news.ifeng.com/c/8w4e11Oghv0",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 06时23分]"
-        },
-        {
-          "title": "联合国秘书长发言人：秘书长对美国对伊朗的攻击造成的伤亡报告表示关切。",
-          "url": "https://flash.jin10.com/detail/20260903005939957800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "贝森特谈能源冲击：先提乌克兰袭俄设施 后及伊朗冲突",
-          "url": "https://flash.jin10.com/detail/20260903032544227800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我们将推翻伊朗政，它会垮掉。我们所有的系统都在运作，旨在摧毁这个政权。",
-          "url": "https://flash.jin10.com/detail/20260903005741202800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "据Axios：知情人士透露，美国中东问题特使威特科夫上周末会见了阿联酋国家安全顾问，讨论了伊朗问题的下一步措施。",
-          "url": "https://flash.jin10.com/detail/20260903055628617800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "伊朗：昨夜美军袭击造成18人死亡，108人受伤。（伊朗媒体IRIB）",
-          "url": "https://wallstreetcn.com/livenews/3159388",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "据知情人士透露，美国特使Witkoff上周就伊朗问题会见阿联酋官员。（Axios）",
-          "url": "https://wallstreetcn.com/livenews/3159487",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "汇率追踪网站显示，伊朗货币兑美元汇率跌至历史新低，超过220万里亚尔兑换1美元。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3159386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "伊朗外交部：土耳其驻伊朗大使与外交部长举行告别会见。",
-          "url": "https://flash.jin10.com/detail/20260903004632381800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "据伊朗Press TV：伊朗波斯湾海峡管理局更新的“不合规船舶（NCV）名单”上新增12艘船只。",
-          "url": "https://flash.jin10.com/detail/20260903025313084800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "据伊朗Press TV：昨晚，一架美国无人机在伊朗中部霍梅恩上空被击落，残骸散落一地。",
-          "url": "https://flash.jin10.com/detail/20260903052318398800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "伊朗：4名士兵在美军袭击中死亡",
-          "url": "https://www.toutiao.com/trending/7680509153680556086/",
-          "source": "今日头条",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "阿波罗全球管理：伊朗战争和关税料推动美国国债收益率上升",
-          "url": "https://wallstreetcn.com/livenews/3159373",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "据伊朗国家电视台：伊朗卫生部长称美军空袭造成18人遇难，108人受伤。",
-          "url": "https://flash.jin10.com/detail/20260903003556405800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "伊朗说在波斯湾北部查获38.2万升走私燃油",
-          "url": "https://wallstreetcn.com/livenews/3159372",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "据半岛电视台：伊朗革命卫队副司令表示，部队将“对敌人的任何举动予以坚决回击”。",
-          "url": "https://flash.jin10.com/detail/20260903003210613800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "美军轰炸伊朗南部多地",
-          "url": "https://www.douyin.com/hot/2632320",
-          "source": "抖音",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
-        },
-        {
-          "title": "伊朗第一副总统阿里夫：利用新兴技术，斋月战争期间国家防御能力不断提升。人工智能领域的发展是国家战略重点和严肃优先事项之一。",
-          "url": "https://flash.jin10.com/detail/20260903002918498800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "据路透社：汇率追踪网站显示，伊朗货币兑美元汇率跌至历史新低，超过220万里亚尔兑换1美元。",
-          "url": "https://flash.jin10.com/detail/20260903002847539800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        },
-        {
-          "title": "伊朗波斯湾海峡管理局称已完成更新网站的“不合规船舶（NCV）名单”。",
-          "url": "https://flash.jin10.com/detail/20260903023454854800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "伊朗外交部强烈谴责美军袭击伊朗民用基础设施",
-          "url": "https://wallstreetcn.com/livenews/3159396",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时43分"
-        },
-        {
-          "title": "据巴林通讯社：巴林王国谴责伊朗在霍尔木兹海峡对沙特油轮发动的罪恶袭击。",
-          "url": "https://flash.jin10.com/detail/20260903002202972800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 26,
       "titles": [
         {
           "title": "美国总统特朗普：委内瑞拉尚未准备好进行大选。 委内瑞拉在选举日期方面尚未准备就绪。",
@@ -276,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "美国铸币局正式推出印有特朗普头像的1美元硬币。",
+          "url": "https://wallstreetcn.com/livenews/3159536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         },
         {
           "title": "美军开始打击伊朗境内目标，特朗普称若伊报复将遭更猛烈打击，伊开始反击，美油盘中涨近6%",
@@ -306,7 +58,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -320,6 +72,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时43分"
+        },
+        {
+          "title": "美国候任海军部长高雄：越南难民后裔，向特朗普表态将推进造船工作",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33994517",
+          "source": "澎湃新闻",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 08时58分]"
         },
         {
           "title": "美国总统特朗普：对伊朗的重启袭击行动不会持续太久。 随时准备好再次袭击伊朗。",
@@ -339,7 +102,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -383,7 +146,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -465,6 +228,17 @@
           "time_info": "03时43分"
         },
         {
+          "title": "特朗普：与委内瑞拉合作非常好。",
+          "url": "https://wallstreetcn.com/livenews/3159511",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
           "title": "美国总统特朗普：将前往阿拉斯加为现任参议员丹·沙利文助选。",
           "url": "https://flash.jin10.com/detail/20260903023659374800",
           "source": "金十数据",
@@ -476,6 +250,17 @@
           "time_info": "03时43分"
         },
         {
+          "title": "特朗普：我们在伊朗问题上进展非常顺利，我们现在控制霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3159509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
           "title": "特朗普：提议将霍尔木兹海峡更名为“特朗普海峡”",
           "url": "https://wallstreetcn.com/livenews/3159362",
           "source": "华尔街见闻-快讯",
@@ -485,6 +270,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        },
+        {
+          "title": "白宫：特朗普今日签署了临时拨款法案使其成法。",
+          "url": "https://wallstreetcn.com/livenews/3159507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
         },
         {
           "title": "美国铸币局正式推出印有特朗普头像的1美元硬币",
@@ -500,19 +296,326 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 24,
+      "titles": [
+        {
+          "title": "美军袭击伊朗举办婚礼的民宅，伊方反击",
+          "url": "https://news.ifeng.com/c/8w4KZ1n8pqs",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 06时23分]"
+        },
+        {
+          "title": "伊朗总统儿子称“不搞浓缩铀我们也死不了”，强硬派怒了",
+          "url": "https://news.ifeng.com/c/8w4e11Oghv0",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时01分 ~ 06时23分]"
+        },
+        {
+          "title": "联合国秘书长发言人：秘书长对美国对伊朗的攻击造成的伤亡报告表示关切。",
+          "url": "https://flash.jin10.com/detail/20260903005939957800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "贝森特谈能源冲击：先提乌克兰袭俄设施 后及伊朗冲突",
+          "url": "https://flash.jin10.com/detail/20260903032544227800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们将推翻伊朗政，它会垮掉。我们所有的系统都在运作，旨在摧毁这个政权。",
+          "url": "https://flash.jin10.com/detail/20260903005741202800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "据Axios：知情人士透露，美国中东问题特使威特科夫上周末会见了阿联酋国家安全顾问，讨论了伊朗问题的下一步措施。",
+          "url": "https://flash.jin10.com/detail/20260903055628617800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "伊朗：昨夜美军袭击造成18人死亡，108人受伤。（伊朗媒体IRIB）",
+          "url": "https://wallstreetcn.com/livenews/3159388",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "据知情人士透露，美国特使Witkoff上周就伊朗问题会见阿联酋官员。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3159487",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "汇率追踪网站显示，伊朗货币兑美元汇率跌至历史新低，超过220万里亚尔兑换1美元。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3159386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "美军轰炸伊朗南部多地",
+          "url": "https://www.douyin.com/hot/2632320",
+          "source": "抖音",
+          "ranks": [
+            21,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时23分 ~ 08时58分]"
+        },
+        {
+          "title": "伊朗外交部：土耳其驻伊朗大使与外交部长举行告别会见。",
+          "url": "https://flash.jin10.com/detail/20260903004632381800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "据伊朗Press TV：伊朗波斯湾海峡管理局更新的“不合规船舶（NCV）名单”上新增12艘船只。",
+          "url": "https://flash.jin10.com/detail/20260903025313084800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "据伊朗Press TV：昨晚，一架美国无人机在伊朗中部霍梅恩上空被击落，残骸散落一地。",
+          "url": "https://flash.jin10.com/detail/20260903052318398800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时23分"
+        },
+        {
+          "title": "伊朗称新战略将摧毁敌方根基",
+          "url": "https://wallstreetcn.com/livenews/3159520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时58分"
+        },
+        {
+          "title": "伊朗：4名士兵在美军袭击中死亡",
+          "url": "https://www.toutiao.com/trending/7680509153680556086/",
+          "source": "今日头条",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "阿波罗全球管理：伊朗战争和关税料推动美国国债收益率上升",
+          "url": "https://wallstreetcn.com/livenews/3159373",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "据伊朗国家电视台：伊朗卫生部长称美军空袭造成18人遇难，108人受伤。",
+          "url": "https://flash.jin10.com/detail/20260903003556405800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "伊朗说在波斯湾北部查获38.2万升走私燃油",
+          "url": "https://wallstreetcn.com/livenews/3159372",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "据半岛电视台：伊朗革命卫队副司令表示，部队将“对敌人的任何举动予以坚决回击”。",
+          "url": "https://flash.jin10.com/detail/20260903003210613800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "伊朗第一副总统阿里夫：利用新兴技术，斋月战争期间国家防御能力不断提升。人工智能领域的发展是国家战略重点和严肃优先事项之一。",
+          "url": "https://flash.jin10.com/detail/20260903002918498800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "据路透社：汇率追踪网站显示，伊朗货币兑美元汇率跌至历史新低，超过220万里亚尔兑换1美元。",
+          "url": "https://flash.jin10.com/detail/20260903002847539800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        },
+        {
+          "title": "伊朗波斯湾海峡管理局称已完成更新网站的“不合规船舶（NCV）名单”。",
+          "url": "https://flash.jin10.com/detail/20260903023454854800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "伊朗外交部强烈谴责美军袭击伊朗民用基础设施",
+          "url": "https://wallstreetcn.com/livenews/3159396",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时43分"
+        },
+        {
+          "title": "据巴林通讯社：巴林王国谴责伊朗在霍尔木兹海峡对沙特油轮发动的罪恶袭击。",
+          "url": "https://flash.jin10.com/detail/20260903002202972800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时01分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 15,
       "titles": [
         {
           "title": "油价涨势暂歇缓解通胀担忧，美股终结三连跌，戴尔暴涨16%，欧债收益率创数十年新高",
           "url": "https://wallstreetcn.com/articles/3780885",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时23分 ~ 08时58分]"
+        },
+        {
+          "title": "【早报】特朗普：随时准备打击伊朗；美股收涨，结束3连跌；原油、黄金、白银齐涨；涉及A股，重要指数调整",
+          "url": "https://www.cls.cn/detail/2472584",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 08时58分]"
+        },
+        {
+          "title": "美股收盘：三大指数终于止跌 博通豪迈业绩指引震惊市场",
+          "url": "https://www.cls.cn/detail/2472571",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 08时58分]"
+        },
+        {
+          "title": "“Sell Sell or Sell”！美银警告：9月美股仅剩90亿美元买盘空间 ，一旦下跌或触发1630亿卖盘",
+          "url": "https://wallstreetcn.com/articles/3780920",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            9,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[03时42分 ~ 08时58分]"
         },
         {
           "title": "油价涨势暂歇缓解通胀担忧，美股开盘涨跌互现，戴尔涨超8%，美元走低",
@@ -527,16 +630,26 @@
           "time_info": "[01时01分 ~ 03时43分]"
         },
         {
-          "title": "“Sell Sell or Sell”！美银警告：9月美股仅剩90亿美元买盘空间 ，一旦下跌或触发1630亿卖盘",
-          "url": "https://wallstreetcn.com/articles/3780920",
-          "source": "华尔街见闻",
+          "title": "Snowflake美股盘后大涨22%",
+          "url": "https://www.baidu.com/s?wd=Snowflake%E7%BE%8E%E8%82%A1%E7%9B%98%E5%90%8E%E5%A4%A7%E6%B6%A822%25",
+          "source": "百度热搜",
           "ranks": [
-            10,
-            9
+            26
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时42分 ~ 06时23分]"
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 08时58分]"
+        },
+        {
+          "title": "Snowflake美股盘后大涨22%",
+          "url": "https://www.toutiao.com/trending/7681033955105358363/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 08时58分]"
         },
         {
           "title": "金十图示：2026年09月02日（周三）美股热门股票行情一览（美股盘中）",
@@ -556,7 +669,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -578,7 +691,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -589,7 +702,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -611,7 +724,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -622,7 +735,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         }
@@ -672,7 +785,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -683,7 +796,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -694,7 +807,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -705,7 +818,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -727,27 +840,28 @@
       "match_count": 6,
       "titles": [
         {
+          "title": "新闻蒸馏器｜苹果跟随谷歌迅速站队“美国湖”，老牌地图商拒绝改名下载量激增",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33991676",
+          "source": "澎湃新闻",
+          "ranks": [
+            6,
+            8,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时01分 ~ 08时58分]"
+        },
+        {
           "title": "Gemini 3.8 Flash 发布，有什么值得关注的？",
           "url": "https://www.zhihu.com/question/2078626349426683976",
           "source": "知乎",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
-        },
-        {
-          "title": "新闻蒸馏器｜苹果跟随谷歌迅速站队“美国湖”，老牌地图商拒绝改名下载量激增",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33991676",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时01分 ~ 06时23分]"
         },
         {
           "title": "谷歌发布Gemini 3.8 Flash推理模型",
@@ -767,7 +881,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -778,7 +892,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时23分"
         },
@@ -792,6 +906,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价再迎连续暴跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E5%86%8D%E8%BF%8E%E8%BF%9E%E7%BB%AD%E6%9A%B4%E8%B7%8C%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 08时58分]"
+        },
+        {
+          "title": "国际金价周三涨约1.4%，美股盘初逼近4400美元",
+          "url": "https://wallstreetcn.com/livenews/3159467",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时23分"
         }
       ]
     },
@@ -810,23 +952,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时01分 ~ 06时23分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "国际金价周三涨约1.4%，美股盘初逼近4400美元",
-          "url": "https://wallstreetcn.com/livenews/3159467",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时23分"
         }
       ]
     }
