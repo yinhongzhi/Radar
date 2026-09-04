@@ -1,12 +1,24 @@
 {
-  "generated_at": "2026-09-04T15:55:40.230451+08:00",
-  "total_titles_processed": 924,
+  "generated_at": "2026-09-04T20:32:14.216140+08:00",
+  "total_titles_processed": 1125,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 20,
+      "match_count": 22,
       "titles": [
+        {
+          "title": "以防长威胁让伊朗回到石器时代",
+          "url": "https://news.ifeng.com/c/8w8XoLbfDkX",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[07时48分 ~ 20时32分]"
+        },
         {
           "title": "美国副总统万斯：汽油价格之所以高，是因为伊朗在向船只开火。",
           "url": "https://flash.jin10.com/detail/20260904015907868800",
@@ -41,18 +53,6 @@
           "time_info": "02时22分"
         },
         {
-          "title": "以防长威胁让伊朗回到石器时代",
-          "url": "https://news.ifeng.com/c/8w8XoLbfDkX",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时48分 ~ 15时55分]"
-        },
-        {
           "title": "伊朗石油部长：在首次封锁期间，我们曾多次成功将石油运出封锁线，并远销至数千公里之外。",
           "url": "https://flash.jin10.com/detail/20260904044948171800",
           "source": "金十数据",
@@ -85,6 +85,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时22分 ~ 07时48分]"
+        },
+        {
+          "title": "一图世界｜美军称伊朗使用火箭布设水雷，真的可行吗？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34000995",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
         },
         {
           "title": "美副总统万斯称正在对伊朗婚礼遭袭事件进行调查",
@@ -164,6 +175,17 @@
           "time_info": "02时22分"
         },
         {
+          "title": "伊朗军方披露对美打击细节：时间之短、范围之广、火力之猛",
+          "url": "https://flash.jin10.com/detail/20260904195728414800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时32分"
+        },
+        {
           "title": "伊朗石油部长：近期两场战争期间能源设施遭受的大部分损坏已修复。",
           "url": "https://flash.jin10.com/detail/20260904012108019800",
           "source": "金十数据",
@@ -192,7 +214,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -256,8 +278,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 15时55分]"
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 20时32分]"
         },
         {
           "title": "OpenAI发布GPT-6 Astra模型，并增设网络安全防护机制",
@@ -315,6 +337,19 @@
           "time_info": "11时01分"
         },
         {
+          "title": "ChatGPT、Claude、Grok一度集体宕机！持续近4小时，目前均已恢复",
+          "url": "https://wallstreetcn.com/articles/3781029",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时01分 ~ 20时32分]"
+        },
+        {
           "title": "OpenAI发布地球最强大模型GPT-6 并宣告“欢迎来到AGI时代”",
           "url": "https://www.cls.cn/detail/2473745",
           "source": "财联社热门",
@@ -339,16 +374,15 @@
           "time_info": "[05时34分 ~ 11时01分]"
         },
         {
-          "title": "ChatGPT、Claude、Grok一度集体宕机！持续近4小时，目前均已恢复",
-          "url": "https://wallstreetcn.com/articles/3781029",
-          "source": "华尔街见闻",
+          "title": "OpenAI总裁宣布AGI到来",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%80%BB%E8%A3%81%E5%AE%A3%E5%B8%83AGI%E5%88%B0%E6%9D%A5",
+          "source": "百度热搜",
           "ranks": [
-            9,
-            7
+            21
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时01分 ~ 15时55分]"
+          "appearance_count": 3,
+          "time_info": "[15时55分 ~ 20时32分]"
         },
         {
           "title": "OpenAI发布GPT-6 Astra",
@@ -406,17 +440,6 @@
           "time_info": "02时22分"
         },
         {
-          "title": "OpenAI总裁宣布AGI到来",
-          "url": "https://www.baidu.com/s?wd=OpenAI%E6%80%BB%E8%A3%81%E5%AE%A3%E5%B8%83AGI%E5%88%B0%E6%9D%A5",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        },
-        {
           "title": "OpenAI发布GPT-6 Astra",
           "url": "https://www.douyin.com/hot/2634754",
           "source": "抖音",
@@ -441,8 +464,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时48分 ~ 15时55分]"
+          "appearance_count": 5,
+          "time_info": "[07时48分 ~ 20时32分]"
         },
         {
           "title": "油价涨势暂歇缓解通胀担忧，美股终结三连跌，戴尔暴涨16%，欧债收益率创数十年新高",
@@ -487,7 +510,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -594,8 +617,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 13,
       "titles": [
+        {
+          "title": "特朗普怎么了",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%8E%E4%B9%88%E4%BA%86&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
+        },
         {
           "title": "万斯称特朗普政府正努力降低物价和药品成本",
           "url": "https://flash.jin10.com/detail/20260904015953372800",
@@ -625,7 +659,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时55分"
         },
@@ -639,6 +673,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时22分 ~ 07时48分]"
+        },
+        {
+          "title": "特朗普称英国正处在灾难边缘",
+          "url": "https://www.toutiao.com/trending/7681343802812399626/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
         },
         {
           "title": "美国副总统万斯：特朗普告诉我，如果我表现得太好，就会被任命为新闻秘书。",
@@ -712,6 +757,67 @@
           "source": "金十数据",
           "ranks": [
             19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "沃勒发言打击加息预期，美股高开，美债收益率走低，日元急升，布油突破96美元，现货黄金涨2%",
+          "url": "https://wallstreetcn.com/articles/3780985",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时22分 ~ 05时35分]"
+        },
+        {
+          "title": "美债或遭800亿美元减持？挪威主权财富基金考虑调低政府债券权重",
+          "url": "https://www.cls.cn/detail/2474210",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时31分 ~ 20时32分]"
+        },
+        {
+          "title": "埃尔埃利安：全球传统美债买家角色持续弱化",
+          "url": "https://flash.jin10.com/detail/20260904154556825800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时55分"
+        },
+        {
+          "title": "AI烧钱潮撞上美债发行潮！9月起债市又迎大考，沃什能否稳住局面？",
+          "url": "https://flash.jin10.com/detail/20260904102427800800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时01分"
+        },
+        {
+          "title": "德国专家：美债收益率变化影响多国，推高融资成本",
+          "url": "https://wallstreetcn.com/livenews/3160167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -820,56 +926,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时01分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "沃勒发言打击加息预期，美股高开，美债收益率走低，日元急升，布油突破96美元，现货黄金涨2%",
-          "url": "https://wallstreetcn.com/articles/3780985",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时22分 ~ 05时35分]"
-        },
-        {
-          "title": "埃尔埃利安：全球传统美债买家角色持续弱化",
-          "url": "https://flash.jin10.com/detail/20260904154556825800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时55分"
-        },
-        {
-          "title": "AI烧钱潮撞上美债发行潮！9月起债市又迎大考，沃什能否稳住局面？",
-          "url": "https://flash.jin10.com/detail/20260904102427800800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时01分"
-        },
-        {
-          "title": "德国专家：美债收益率变化影响多国，推高融资成本",
-          "url": "https://wallstreetcn.com/livenews/3160167",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时48分"
         }
       ]
     },
