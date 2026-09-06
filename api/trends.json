@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-06T08:35:40.005850+08:00",
-  "total_titles_processed": 551,
+  "generated_at": "2026-09-06T13:32:17.389567+08:00",
+  "total_titles_processed": 732,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 32,
+      "match_count": 45,
       "titles": [
         {
           "title": "贝森特：伊朗冲突结束后油价将跌至40美元，债券收益率随之回落",
@@ -25,11 +25,12 @@
           "ranks": [
             1,
             2,
-            4
+            4,
+            11
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 08时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 13时32分]"
         },
         {
           "title": "制裁半个世纪未果，美国这次能否让伊朗成为“经济弃儿”？",
@@ -66,6 +67,18 @@
           "time_info": "[06时41分 ~ 08时35分]"
         },
         {
+          "title": "美伊互袭油轮，伊朗军方称或进行更大规模打击",
+          "url": "https://news.ifeng.com/c/8wBmj2c9k33",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时35分 ~ 13时32分]"
+        },
+        {
           "title": "伊朗革命卫队官员：上月霍尔木兹海峡每天都有船只遭“惩罚”",
           "url": "https://flash.jin10.com/detail/20260906053718838800",
           "source": "金十数据",
@@ -75,6 +88,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 08时35分]"
+        },
+        {
+          "title": "伊朗革命卫队称打击了美航母和驱逐舰",
+          "url": "https://www.toutiao.com/trending/7682247365662608950/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "据伊朗国家媒体报道，伊朗西部发生交通事故，油罐车爆炸致10人死亡。",
@@ -88,15 +112,26 @@
           "time_info": "00时35分"
         },
         {
-          "title": "美伊互袭油轮，伊朗军方称或进行更大规模打击",
-          "url": "https://news.ifeng.com/c/8wBmj2c9k33",
-          "source": "凤凰网",
+          "title": "伊朗革命卫队称打击了美航母和驱逐舰",
+          "url": "https://wallstreetcn.com/livenews/3160915",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时35分"
+          "time_info": "13时32分"
+        },
+        {
+          "title": "伊朗否认伊斯法罕核设施遭到袭击",
+          "url": "https://wallstreetcn.com/livenews/3160911",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "伊朗议员：美国本不应出现封锁行为",
@@ -194,6 +229,17 @@
           "time_info": "04时57分"
         },
         {
+          "title": "美伊互袭油轮 伊朗军方称或对美进行更大规模打击",
+          "url": "https://wallstreetcn.com/livenews/3160909",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
           "title": "伊朗外交部：我们决心捍卫我们的主权和国家利益，应对包括海上封锁在内的敌对行动。",
           "url": "https://flash.jin10.com/detail/20260906020129181800",
           "source": "金十数据",
@@ -227,6 +273,17 @@
           "time_info": "04时57分"
         },
         {
+          "title": "美军称打击伊朗三艘油轮 确认伊朗动用弹道导弹打航母",
+          "url": "https://www.cls.cn/detail/2475024",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
           "title": "伊朗革命卫队海军：已对三艘沿未经授权航线通过霍尔木兹海峡的船只进行了打击。",
           "url": "https://flash.jin10.com/detail/20260906034027805800",
           "source": "金十数据",
@@ -247,6 +304,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "伊朗革命卫队公开针对违规船只行动的视频 称美国护航纯属谎言",
+          "url": "https://flash.jin10.com/detail/20260906113740666800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "美中央司令部：美军击沉三艘伊朗革命卫队油轮",
@@ -293,6 +361,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "市场消息：伊朗外长阿拉格齐与沙特和土耳其外长通话，讨论地区发展及外交努力。",
+          "url": "https://flash.jin10.com/detail/20260906111321943800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
           "title": "伊朗约2000个国家电网节点遭到攻击，但未造成大范围停电",
           "url": "https://flash.jin10.com/detail/20260905212947489800",
           "source": "金十数据",
@@ -315,6 +394,17 @@
           "time_info": "04时57分"
         },
         {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗外长阿拉格齐于周六晚间分别与沙特外长和土耳其外长通电话，就双边问题、地区局势以及旨在恢复地区稳定、应对美国侵略行径给霍尔木兹海峡带来的安全威胁的外交努力的最新进展交换了意见并进行了磋商。",
+          "url": "https://flash.jin10.com/detail/20260906110506379800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
           "title": "据伊朗国家媒体：伊朗军方指挥部警告称，如果美国继续“骚扰”伊朗船只，袭击范围可能扩大。",
           "url": "https://flash.jin10.com/detail/20260906013408048800",
           "source": "金十数据",
@@ -332,7 +422,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时35分"
         },
@@ -348,6 +438,39 @@
           "time_info": "02时48分"
         },
         {
+          "title": "伊朗革命卫队称打击了美航母和驱逐舰",
+          "url": "https://flash.jin10.com/detail/20260906103909577800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "维珍航空创始人：伊朗战事毫无必要只会推高油价导致通胀",
+          "url": "https://flash.jin10.com/detail/20260906102202158800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "维珍航空创始人：伊朗战事毫无必要",
+          "url": "https://www.toutiao.com/trending/7682239252867973670/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
           "title": "伊朗国家铜业公司向本地供应商采购超过3.3万亿里亚尔的物资和设备",
           "url": "https://flash.jin10.com/detail/20260905202625860800",
           "source": "金十数据",
@@ -357,6 +480,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "伊朗革命卫队：袭击美军一艘无人水面舰艇",
+          "url": "https://flash.jin10.com/detail/20260906101344159800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "伊朗称打击美航母和驱逐舰",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E6%89%93%E5%87%BB%E7%BE%8E%E8%88%AA%E6%AF%8D%E5%92%8C%E9%A9%B1%E9%80%90%E8%88%B0",
+          "source": "百度热搜",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "伊朗媒体称哈尔克岛附近传出爆炸声",
@@ -373,20 +518,8 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "特朗普再度施压美联储：如果不降息，就切断与部分国家的贸易往来",
-          "url": "https://www.cls.cn/detail/2474788",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 08时35分]"
-        },
         {
           "title": "特朗普：我走后不会有人为我立碑，所以现在得大建特建",
           "url": "https://news.ifeng.com/c/8wAxMNnJfyI",
@@ -398,6 +531,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时34分 ~ 08时35分]"
+        },
+        {
+          "title": "特朗普再度施压美联储：如果不降息，就切断与部分国家的贸易往来",
+          "url": "https://www.cls.cn/detail/2474788",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 13时32分]"
         },
         {
           "title": "特朗普再提打击镐山，凤凰女记者：伊朗有可能先出手",
@@ -423,6 +569,18 @@
           "time_info": "[00时34分 ~ 08时35分]"
         },
         {
+          "title": "美海军预算被掏空，特朗普“黄金舰队”要难产？",
+          "url": "https://news.ifeng.com/c/8wBtm8zElDg",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时35分 ~ 13时32分]"
+        },
+        {
           "title": "特朗普搅动马岛局势，米莱借机就油气争端强硬表态",
           "url": "https://original.ifeng.com/c/8wAuryaK2Ur",
           "source": "凤凰网",
@@ -434,15 +592,15 @@
           "time_info": "[00时34分 ~ 06时41分]"
         },
         {
-          "title": "美海军预算被掏空，特朗普“黄金舰队”要难产？",
-          "url": "https://news.ifeng.com/c/8wBtm8zElDg",
-          "source": "凤凰网",
+          "title": "伊朗导弹袭击美航母，美军：航母成功规避伊朗多次攻击，击中伊3艘油轮！特朗普：美国已经赢了；美情报部门：伊朗已打出自信",
+          "url": "https://wallstreetcn.com/articles/3781160",
+          "source": "华尔街见闻",
           "ranks": [
-            3
+            4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时35分"
+          "time_info": "13时32分"
         },
         {
           "title": "特朗普：将向俄罗斯提交结束俄乌冲突的方案；泽连斯基：美总统特使访问期间，不对俄发动空中打击",
@@ -514,6 +672,17 @@
           "time_info": "04时57分"
         },
         {
+          "title": "会见特朗普特使超3小时，普京表态“今天的局势并不简单”",
+          "url": "https://wallstreetcn.com/articles/3781161",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
           "title": "特朗普MAGA超级政治行动委员会首次为大选投入1000万美元",
           "url": "https://flash.jin10.com/detail/20260906032713446800",
           "source": "金十数据",
@@ -561,7 +730,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
         {
           "title": "高盛交易台主管：OpenAI的Astra模型“脱颖而出”，这正是“AI牛市一直在等的”",
@@ -572,8 +741,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 08时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 13时32分]"
         },
         {
           "title": "OpenAI称已聘用三名人员，专门负责美国各州的政策事务。（Axios）",
@@ -582,11 +751,12 @@
           "ranks": [
             4,
             5,
-            7
+            7,
+            14
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 08时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 13时32分]"
         },
         {
           "title": "研究称OpenAI智能体“劫持”网站开展“协作”",
@@ -595,11 +765,23 @@
           "ranks": [
             17,
             18,
-            20
+            20,
+            27
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[00时35分 ~ 08时35分]"
+          "appearance_count": 6,
+          "time_info": "[00时35分 ~ 13时32分]"
+        },
+        {
+          "title": "OpenAI再爆安全事故 旗下人工智能体“劫持”一德国网站",
+          "url": "https://flash.jin10.com/detail/20260906122422701800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         },
         {
           "title": "OpenAI：我们关于“对齐失效”（Misalignment）事件的信息披露做法需要进一步扩展，正在制定用于报告模型“对齐失效”事件的框架。",
@@ -620,11 +802,34 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
-            8
+            8,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时41分 ~ 08时35分]"
+          "appearance_count": 3,
+          "time_info": "[06时41分 ~ 13时32分]"
+        },
+        {
+          "title": "OpenAI祭出王炸！高盛盛赞：GPT-6 Astra正是AI牛市一直在等的",
+          "url": "https://www.cls.cn/detail/2475045",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        },
+        {
+          "title": "怎么看 OpenAI 说 GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了？",
+          "url": "https://www.zhihu.com/question/2079666454430072866",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
         }
       ]
     },
@@ -640,8 +845,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 08时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 13时32分]"
         },
         {
           "title": "【早报】美股存储概念股，逆势飙涨；油价上涨、黄金下挫；私募行业迎监管新规",
@@ -651,8 +856,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 08时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 13时32分]"
         },
         {
           "title": "非农爆表提振加息预期，美股指下挫，存储与光通信逆势走强，黄金跌近1%",
@@ -671,11 +876,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            8
+            8,
+            9
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 08时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 13时32分]"
         },
         {
           "title": "非农“吓退”美股大盘，AI硬件却逆势狂飙！半导体指数涨超3%，闪迪暴涨12%",
@@ -732,6 +938,23 @@
       ]
     },
     {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "【早报】中东航线海运价格大幅跳涨；多国推进黄金储备本土化布局",
+          "url": "https://www.cls.cn/detail/2475040",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美债",
       "match_count": 1,
       "titles": [
@@ -744,8 +967,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[00时34分 ~ 08时35分]"
+          "appearance_count": 8,
+          "time_info": "[00时34分 ~ 13时32分]"
         }
       ]
     }
