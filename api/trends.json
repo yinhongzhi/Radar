@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-06T18:19:24.056534+08:00",
-  "total_titles_processed": 932,
+  "generated_at": "2026-09-06T21:57:06.047717+08:00",
+  "total_titles_processed": 1102,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 53,
+      "match_count": 61,
       "titles": [
         {
           "title": "贝森特：伊朗冲突结束后油价将跌至40美元，债券收益率随之回落",
@@ -42,8 +42,42 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[08时35分 ~ 21时57分]"
+        },
+        {
+          "title": "伊朗称美方应认识到“游戏规则已经改变”",
+          "url": "https://news.ifeng.com/c/8wCbQSmo1Ex",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时35分 ~ 18时19分]"
+          "time_info": "[18时19分 ~ 21时57分]"
+        },
+        {
+          "title": "伊朗称打击了美军航母和驱逐舰",
+          "url": "https://www.douyin.com/hot/2637623",
+          "source": "抖音",
+          "ranks": [
+            2,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 21时57分]"
+        },
+        {
+          "title": "美被曝谋划“战后遏制伊朗”，指望中东国家配合",
+          "url": "https://news.ifeng.com/c/8wCTe33iIZj",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 21时57分]"
         },
         {
           "title": "制裁半个世纪未果，美国这次能否让伊朗成为“经济弃儿”？",
@@ -56,6 +90,17 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时34分 ~ 08时35分]"
+        },
+        {
+          "title": "伊朗：已设立“经济战指挥中心”",
+          "url": "https://news.ifeng.com/c/8wCeirfU3HW",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 21时57分]"
         },
         {
           "title": "美国前外交官：美国对伊朗的制裁行动是一项缓慢推进的策略",
@@ -102,48 +147,15 @@
           "time_info": "00时35分"
         },
         {
-          "title": "伊朗称美方应认识到游戏规则已改变",
-          "url": "https://wallstreetcn.com/livenews/3160955",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "伊朗称美方应认识到“游戏规则已经改变”",
-          "url": "https://news.ifeng.com/c/8wCbQSmo1Ex",
-          "source": "凤凰网",
+          "title": "分析人士；伊朗瞄准美国航母和驱逐舰为“经过计算的重大局势升级”",
+          "url": "https://flash.jin10.com/detail/20260906212753979800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "伊朗称打击了美军航母和驱逐舰",
-          "url": "https://www.douyin.com/hot/2637623",
-          "source": "抖音",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "美被曝谋划“战后遏制伊朗”，指望中东国家配合",
-          "url": "https://news.ifeng.com/c/8wCTe33iIZj",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
+          "time_info": "21时57分"
         },
         {
           "title": "伊朗议员：美国本不应出现封锁行为",
@@ -183,6 +195,18 @@
           "time_info": "[13时32分 ~ 18时19分]"
         },
         {
+          "title": "伊朗称美方应认识到游戏规则已改变",
+          "url": "https://wallstreetcn.com/livenews/3160955",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时19分 ~ 21时57分]"
+        },
+        {
           "title": "伊朗外交部谴责美袭击伊朗油轮，警告后果自负",
           "url": "https://flash.jin10.com/detail/20260906022523345800",
           "source": "金十数据",
@@ -217,6 +241,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时32分 ~ 18时19分]"
+        },
+        {
+          "title": "美军称打击伊朗三艘油轮 确认伊朗动用弹道导弹打航母",
+          "url": "https://www.cls.cn/detail/2475024",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时32分 ~ 21时57分]"
         },
         {
           "title": "美国称摧毁3艘伊朗油轮",
@@ -267,15 +303,16 @@
           "time_info": "[13时32分 ~ 18时19分]"
         },
         {
-          "title": "美军称打击伊朗三艘油轮 确认伊朗动用弹道导弹打航母",
-          "url": "https://www.cls.cn/detail/2475024",
-          "source": "财联社热门",
+          "title": "伊朗打击企图进入霍尔木兹海峡的美军海上无人艇",
+          "url": "https://wallstreetcn.com/livenews/3160920",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            15,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时32分 ~ 18时19分]"
+          "time_info": "[18时19分 ~ 21时57分]"
         },
         {
           "title": "美国前外交官：美国对伊朗施压可能将付出经济代价",
@@ -298,6 +335,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时57分"
+        },
+        {
+          "title": "美国经济施压似乎已奏效，伊朗在霍尔木兹海峡的筹码减弱",
+          "url": "https://flash.jin10.com/detail/20260906211001612800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "伊朗称对等回应阶段已结束",
+          "url": "https://wallstreetcn.com/livenews/3160965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "伊朗外交部：我们决心捍卫我们的主权和国家利益，应对包括海上封锁在内的敌对行动。",
@@ -344,6 +403,17 @@
           "time_info": "04时57分"
         },
         {
+          "title": "伊朗议长：对伊侵犯将遭到更迅速和更猛烈的回应",
+          "url": "https://wallstreetcn.com/livenews/3160962",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：倘若我们当初没有对伊朗采取行动，如今伊朗就已经拥有用来消灭我们的核弹。现在他们会再度尝试。他们正在卷土重来。",
           "url": "https://flash.jin10.com/detail/20260906033429048800",
           "source": "金十数据",
@@ -372,7 +442,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -397,6 +467,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时35分"
+        },
+        {
+          "title": "3艘油轮因伊朗革命卫队的警告改变航向",
+          "url": "https://flash.jin10.com/detail/20260906202457529800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "美国中央司令部：美国军队袭击了三艘伊朗原油运输船。",
@@ -438,18 +519,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
-        },
-        {
-          "title": "伊朗打击企图进入霍尔木兹海峡的美军海上无人艇",
-          "url": "https://wallstreetcn.com/livenews/3160920",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -531,6 +601,17 @@
           "time_info": "13时32分"
         },
         {
+          "title": "美国中期选举或成伊朗战争的关键转折点",
+          "url": "https://flash.jin10.com/detail/20260906195637459800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "维珍航空创始人：伊朗战事毫无必要只会推高油价导致通胀",
           "url": "https://flash.jin10.com/detail/20260906102202158800",
           "source": "金十数据",
@@ -564,6 +645,17 @@
           "time_info": "00时35分"
         },
         {
+          "title": "美国中央司令部：一架美国空军F-35A隐形战斗机在区域水域巡逻中央司令部部队继续对伊朗实施海上封锁。",
+          "url": "https://flash.jin10.com/detail/20260906194507340800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
           "title": "伊朗革命卫队：袭击美军一艘无人水面舰艇",
           "url": "https://flash.jin10.com/detail/20260906101344159800",
           "source": "金十数据",
@@ -592,7 +684,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -611,7 +703,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 24,
       "titles": [
         {
           "title": "特朗普：我走后不会有人为我立碑，所以现在得大建特建",
@@ -658,8 +750,34 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时35分 ~ 18时19分]"
+          "appearance_count": 5,
+          "time_info": "[08时35分 ~ 21时57分]"
+        },
+        {
+          "title": "伊朗导弹袭击美航母，美军：航母成功规避伊朗多次攻击，击中伊3艘油轮！特朗普：美国已经赢了；美情报部门：伊朗已打出自信",
+          "url": "https://wallstreetcn.com/articles/3781160",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时32分 ~ 21时57分]"
+        },
+        {
+          "title": "会见特朗普特使超3小时，普京表态“今天的局势并不简单”",
+          "url": "https://wallstreetcn.com/articles/3781161",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时32分 ~ 21时57分]"
         },
         {
           "title": "美伊局势持续紧张！特朗普再度威胁：或很快打击伊朗“镐山”核设施",
@@ -674,18 +792,6 @@
           "time_info": "[00时34分 ~ 08时35分]"
         },
         {
-          "title": "伊朗导弹袭击美航母，美军：航母成功规避伊朗多次攻击，击中伊3艘油轮！特朗普：美国已经赢了；美情报部门：伊朗已打出自信",
-          "url": "https://wallstreetcn.com/articles/3781160",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时32分 ~ 18时19分]"
-        },
-        {
           "title": "特朗普搅动马岛局势，米莱借机就油气争端强硬表态",
           "url": "https://original.ifeng.com/c/8wAuryaK2Ur",
           "source": "凤凰网",
@@ -695,6 +801,39 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[00时34分 ~ 06时41分]"
+        },
+        {
+          "title": "市场消息：英国及欧洲多名高级官员正在参与特朗普特使与乌克兰总统泽连斯基在基辅举行的会谈。英国国家安全顾问乔纳森·鲍威尔（Jonathan Powell）也参与了会谈，其他欧洲国家的国家安全顾问同样出席。",
+          "url": "https://flash.jin10.com/detail/20260906213227207800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "特朗普：加拿大对美国的货币美元汇率失衡是不可接受的。",
+          "url": "https://wallstreetcn.com/livenews/3160970",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
+        },
+        {
+          "title": "美国总统特朗普：已经无法接受加元与美元之间的失衡。这种状况已经持续了多年，但再也无法忍受了！",
+          "url": "https://flash.jin10.com/detail/20260906211315856800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时57分"
         },
         {
           "title": "特朗普：将向俄罗斯提交结束俄乌冲突的方案；泽连斯基：美总统特使访问期间，不对俄发动空中打击",
@@ -710,18 +849,6 @@
           "time_info": "[00时34分 ~ 08时35分]"
         },
         {
-          "title": "会见特朗普特使超3小时，普京表态“今天的局势并不简单”",
-          "url": "https://wallstreetcn.com/articles/3781161",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时32分 ~ 18时19分]"
-        },
-        {
           "title": "俄罗斯总统普京、美国总统特使威特科夫与特朗普女婿库什纳的会晤结束。",
           "url": "https://flash.jin10.com/detail/20260906040447398800",
           "source": "金十数据",
@@ -732,6 +859,29 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[04时57分 ~ 08时35分]"
+        },
+        {
+          "title": "特朗普震怒，数十名美军将领“罕见”接受测谎",
+          "url": "https://news.ifeng.com/c/8wCWRVzw04p",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 21时57分]"
+        },
+        {
+          "title": "特朗普终于下定决心解决俄乌冲突？",
+          "url": "https://v.ifeng.com/c/8wChwp7Zw9p",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时56分 ~ 21时57分]"
         },
         {
           "title": "据塔斯社：美国总统特使威特科夫和特朗普女婿库什纳离开莫斯科。",
@@ -765,17 +915,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时41分 ~ 08时35分]"
-        },
-        {
-          "title": "特朗普震怒，数十名美军将领“罕见”接受测谎",
-          "url": "https://news.ifeng.com/c/8wCWRVzw04p",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
         },
         {
           "title": "据泰晤士报：爱尔兰总理米歇尔·马丁将在下周六与美国总统特朗普会面时，敦促其结束伊朗冲突。",
@@ -828,7 +967,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时19分"
         },
@@ -875,6 +1014,19 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[00时35分 ~ 18时19分]"
+        },
+        {
+          "title": "OpenAI祭出王炸！高盛盛赞：GPT-6 Astra正是AI牛市一直在等的",
+          "url": "https://www.cls.cn/detail/2475045",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时32分 ~ 21时57分]"
         },
         {
           "title": "OpenAI总裁：Astra是首个“在10万块GPU上训练的模型”，跨越了“应用门槛”",
@@ -927,18 +1079,6 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[00时35分 ~ 08时35分]"
-        },
-        {
-          "title": "OpenAI祭出王炸！高盛盛赞：GPT-6 Astra正是AI牛市一直在等的",
-          "url": "https://www.cls.cn/detail/2475045",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时32分 ~ 18时19分]"
         },
         {
           "title": "怎么看 OpenAI 说 GPT-6 开始你需要给 Skill 和 AGENTS.md 做一次大扫除了？",
@@ -1023,20 +1163,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 21时57分]"
         },
         {
           "title": "美银Hartnett：“民主党中选横扫”将打崩美股，戳破AI泡沫",
           "url": "https://wallstreetcn.com/articles/3781163",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时19分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时19分 ~ 21时57分]"
         }
       ]
     },
@@ -1090,11 +1231,12 @@
           "source": "财联社热门",
           "ranks": [
             5,
-            2
+            2,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时32分 ~ 18时19分]"
+          "appearance_count": 4,
+          "time_info": "[13时32分 ~ 21时57分]"
         }
       ]
     },
@@ -1109,11 +1251,12 @@
           "ranks": [
             5,
             4,
-            3
+            3,
+            2
           ],
           "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[00时34分 ~ 18时19分]"
+          "appearance_count": 11,
+          "time_info": "[00时34分 ~ 21时57分]"
         }
       ]
     }
