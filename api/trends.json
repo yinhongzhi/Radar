@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T02:20:03.523207+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-09-09T05:35:47.869588+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗军方称捕获美国无人潜艇",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 05时35分]"
         },
         {
           "title": "罕见！伊朗用韩文警告韩国",
@@ -26,8 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 05时35分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：也门萨那方面消息称，沙特过去3天对也门发动超过135次空袭，也门胡塞武装挫败沙特支持力量在焦夫省亚特马市场地区的集结行动。",
@@ -36,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -47,9 +47,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "韩国总统府：伊朗对此表现出兴趣，并就有关韩国参与霍尔木兹海峡事务的报道寻求解释。",
+          "url": "https://flash.jin10.com/detail/20260909051021829800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         },
         {
           "title": "伊朗军方称捕获一艘美国无人潜艇",
@@ -59,30 +70,32 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 05时35分]"
         },
         {
           "title": "伊朗公布一款新型导弹",
           "url": "https://www.douyin.com/hot/2639998",
           "source": "抖音",
           "ranks": [
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 05时35分]"
         },
         {
           "title": "伊朗罕见用韩语警告韩国",
           "url": "https://www.douyin.com/hot/2640256",
           "source": "抖音",
           "ranks": [
-            23
+            23,
+            19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 05时35分]"
         },
         {
           "title": "据伊朗迈赫尔通讯社：阿拉伯消息人士称，沙特吉赞机场航班已暂停。",
@@ -91,7 +104,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -102,7 +115,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -113,7 +126,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
         },
@@ -124,98 +137,92 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "OpenAI或证明数学七大难题之一",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E8%AF%81%E6%98%8E%E6%95%B0%E5%AD%A6%E4%B8%83%E5%A4%A7%E9%9A%BE%E9%A2%98%E4%B9%8B%E4%B8%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
         },
         {
-          "title": "如何看待 Buckmaster 披露 OpenAI 在 NS 方程突破中的学术掠夺与威胁言论？",
-          "url": "https://www.zhihu.com/question/2080654680389051865",
-          "source": "知乎",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
-        },
-        {
-          "title": "OpenAI的CFO：企业业务“势不可挡”。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3162101",
+          "title": "美官员透露美军打击哈尔克岛附近伊朗目标",
+          "url": "https://wallstreetcn.com/livenews/3162157",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时35分"
         },
         {
-          "title": "怎么看 OpenAI 在 Navier–Stokes 数学难题上取得的进展反而出现争议？",
-          "url": "https://www.zhihu.com/question/2080681933982393659",
-          "source": "知乎",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
-        },
-        {
-          "title": "据CNBC：OpenAI首席财务官称公司业务发展迅猛。",
-          "url": "https://flash.jin10.com/detail/20260909013615673800",
+          "title": "美官员透露美军打击哈尔克岛附近伊朗目标",
+          "url": "https://flash.jin10.com/detail/20260909043231362800",
           "source": "金十数据",
           "ranks": [
-            6
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时35分"
         },
         {
-          "title": "OpenAI：我们下一代模型驱动的多智能体系统已完成对“纳维-斯托克斯千禧年奖难题”的证明，该问题关于三维流体运动方程是否会出现奇异性，已困扰数学界约90年。这一证明由一组智能体协作完成，使用的是OpenAI新一代模型，其能力显著超过GPT-6 Astra。",
-          "url": "https://flash.jin10.com/detail/20260909012650538800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "OpenAI承诺出资500万美元，用于支持针对青少年群体的独立研究。",
-          "url": "https://wallstreetcn.com/livenews/3162075",
+          "title": "美国官员：作为对多起针对美国海军舰艇的导弹袭击未遂事件的回应，美军打击了多艘与伊斯兰革命卫队（IRGC）有关联的伊朗油轮。",
+          "url": "https://wallstreetcn.com/livenews/3162155",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            20
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时20分"
+          "time_info": "05时35分"
+        },
+        {
+          "title": "美国官员：针对伊朗多次对美国海军军舰的导弹攻击尝试，美国军队已对与伊朗革命卫队有关的多艘伊朗油轮进行了打击。",
+          "url": "https://flash.jin10.com/detail/20260909042921471800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "据伊朗国家广播公司IRIB：美国在贾斯克水域附近袭击了第二艘油轮。",
+          "url": "https://flash.jin10.com/detail/20260909042505416800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "伊朗据称连续发动对美袭击 美方警惕其导弹升级",
+          "url": "https://flash.jin10.com/detail/20260909042057306800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "【伊朗军方警告：将袭击科威特及巴林港口油轮 船员需立即撤离】当地时间8日晚，伊朗伊斯兰革命卫队就美军袭击伊朗油轮事件发出紧急警告。革命卫队警告称，鉴于美军袭击伊朗多艘油轮的罪恶行径，伊朗警告所有停泊在科威特和巴林港口的油轮船员，由于这些港口收留了美军，因此无论油轮停泊在锚地还是港口，船员都应立即离开，因为其将成为袭击目标。（央视）",
+          "url": "https://wallstreetcn.com/livenews/3162146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "特朗普两天发帖90条：新墨西哥州改名“新美国”，美加墨和格陵兰岛全变成“美国”",
@@ -225,8 +232,20 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 05时35分]"
+        },
+        {
+          "title": "特朗普一次惹了20国",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E6%AC%A1%E6%83%B9%E4%BA%8620%E5%9B%BD%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 05时35分]"
         },
         {
           "title": "普京与特朗普通话讨论乌危机等问题",
@@ -240,15 +259,48 @@
           "time_info": "[02时19分 ~ 02时20分]"
         },
         {
-          "title": "特朗普一次惹了20国",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%80%E6%AC%A1%E6%83%B9%E4%BA%8620%E5%9B%BD%23&t=31&band_rank=20&Refer=top",
-          "source": "微博",
+          "title": "特朗普拟取消加拿大超500亿美元GSA采购计划资格",
+          "url": "https://wallstreetcn.com/livenews/3162160",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            20
+            16
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "特朗普发布新版「美国总统从夯到拉排名」，自己夯爆了，拜登、奥巴马在「失败区」，你怎么看特朗普的排名？",
+          "url": "https://www.zhihu.com/question/2080276423739172027",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "特朗普拟取消加拿大超500亿美元GSA采购计划资格",
+          "url": "https://flash.jin10.com/detail/20260909043515909800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "美国总统特朗普：指示美国总务管理局（GSA）与美国贸易代表办公室（USTR）协作，采取一切必要措施，将原产于加拿大的产品移出美国总务管理局的多项授予计划表。",
+          "url": "https://wallstreetcn.com/livenews/3162156",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         },
         {
           "title": "据国际文传电讯社：俄罗斯外长拉夫罗夫表示，俄罗斯总统普京或将于11月在亚太经合组织峰会上与美国总统特朗普会面。",
@@ -257,9 +309,20 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "美国总统特朗普：指示美国总务管理局（GSA）与美国贸易代表办公室（USTR）合作，采取一切必要措施，将加拿大原产产品从GSA的多项采购计划中移除。",
+          "url": "https://flash.jin10.com/detail/20260909043058510800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         },
         {
           "title": "美国堪萨斯州共和党参议员马歇尔：在总统特朗普威胁禁售庞巴迪飞机后，我将竭力保住庞巴迪在堪萨斯州的1200多个工作岗位。",
@@ -268,9 +331,212 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "如何看待 Buckmaster 披露 OpenAI 在 NS 方程突破中的学术掠夺与威胁言论？",
+          "url": "https://www.zhihu.com/question/2080654680389051865",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 05时35分]"
+        },
+        {
+          "title": "OpenAI或证明数学七大难题之一",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E8%AF%81%E6%98%8E%E6%95%B0%E5%AD%A6%E4%B8%83%E5%A4%A7%E9%9A%BE%E9%A2%98%E4%B9%8B%E4%B8%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 05时35分]"
+        },
+        {
+          "title": "OpenAI的CFO：企业业务“势不可挡”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3162101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "怎么看 OpenAI 在 Navier–Stokes 数学难题上取得的进展反而出现争议？",
+          "url": "https://www.zhihu.com/question/2080681933982393659",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 05时35分]"
+        },
+        {
+          "title": "据CNBC：OpenAI首席财务官称公司业务发展迅猛。",
+          "url": "https://flash.jin10.com/detail/20260909013615673800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "OpenAI：我们下一代模型驱动的多智能体系统已完成对“纳维-斯托克斯千禧年奖难题”的证明，该问题关于三维流体运动方程是否会出现奇异性，已困扰数学界约90年。这一证明由一组智能体协作完成，使用的是OpenAI新一代模型，其能力显著超过GPT-6 Astra。",
+          "url": "https://flash.jin10.com/detail/20260909012650538800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "OpenAI内部模型88小时暴力攻克千禧年数学难题",
+          "url": "https://wallstreetcn.com/livenews/3162164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "OpenAI内部模型88小时暴力攻克千禧年数学难题",
+          "url": "https://flash.jin10.com/detail/20260909045209786800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "OpenAI承诺出资500万美元，用于支持针对青少年群体的独立研究。",
+          "url": "https://wallstreetcn.com/livenews/3162075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "沙特能源设施遭袭推升油价，美股指涨跌互现，高通涨7%，日元一度升破153，黄金冲高回落",
+          "url": "https://wallstreetcn.com/articles/3781291",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 05时35分]"
+        },
+        {
+          "title": "美股休市，美伊冲突推升油价创六周新高，欧股涨跌互现等待CPI，伦铜创历史新高",
+          "url": "https://wallstreetcn.com/articles/3781194",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 05时35分]"
+        },
+        {
+          "title": "别只盯CPI！高盛：未来一周两大AI催化剂更重要，或撬动美股“右尾”行情",
+          "url": "https://wallstreetcn.com/articles/3781311",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 05时35分]"
+        },
+        {
+          "title": "国际油价上涨 美股期指下跌 英特尔盘前大涨超4% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2477380",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 05时35分]"
+        },
+        {
+          "title": "美股加密货币与加密货币关联指数收涨0.87%，报76.12点。 最近24小时，比特币跌0.92%，暂报78497.62美元，整体持续走低、北京时间21:52刷新期内最低位至77608.50美元。 以太坊跌0.4%，报2485.297美元，21:41也曾跌至2440.725美元。",
+          "url": "https://wallstreetcn.com/livenews/3162166",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "美股大类资产类ETF涨跌各异，黄金ETF收跌超1.7%，日元ETF涨超1.5%，布油基金涨约2.9%",
+          "url": "https://wallstreetcn.com/livenews/3162149",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "医疗业ETF收跌超2.5%，与生物科技ETF领跌美股行业ETF，半导体ETF涨约1.2%",
+          "url": "https://wallstreetcn.com/livenews/3162147",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "周二（9月8日），彭博电动汽车价格回报指数跌0.45%，报3403.46点，亚太时段持续下挫，美股盘初略微收复失地。",
+          "url": "https://wallstreetcn.com/livenews/3162143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         }
       ]
     },
@@ -283,11 +549,35 @@
           "url": "https://wallstreetcn.com/articles/3781316",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            7,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 05时35分]"
+        },
+        {
+          "title": "DeepSeek V4.1 Flash开启内测",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%20Flash",
+          "source": "bilibili 热搜",
+          "ranks": [
+            13,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 05时35分]"
+        },
+        {
+          "title": "DeepSeek新模型限时内测 烧钱更快了",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E9%99%90%E6%97%B6%E5%86%85%E6%B5%8B+%E7%83%A7%E9%92%B1%E6%9B%B4%E5%BF%AB%E4%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时19分 ~ 05时35分]"
         },
         {
           "title": "深度求索发布 DeepSeek V4.1 Flash 的中间版本内测，该模型体验如何?",
@@ -299,84 +589,12 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时19分 ~ 02时20分]"
-        },
-        {
-          "title": "DeepSeek V4.1 Flash开启内测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%20Flash",
-          "source": "bilibili 热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
-        },
-        {
-          "title": "DeepSeek新模型限时内测 烧钱更快了",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E9%99%90%E6%97%B6%E5%86%85%E6%B5%8B+%E7%83%A7%E9%92%B1%E6%9B%B4%E5%BF%AB%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "沙特能源设施遭袭推升油价，美股指涨跌互现，高通涨7%，日元一度升破153，黄金冲高回落",
-          "url": "https://wallstreetcn.com/articles/3781291",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
-        },
-        {
-          "title": "美股休市，美伊冲突推升油价创六周新高，欧股涨跌互现等待CPI，伦铜创历史新高",
-          "url": "https://wallstreetcn.com/articles/3781194",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
-        },
-        {
-          "title": "别只盯CPI！高盛：未来一周两大AI催化剂更重要，或撬动美股“右尾”行情",
-          "url": "https://wallstreetcn.com/articles/3781311",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
-        },
-        {
-          "title": "国际油价上涨 美股期指下跌 英特尔盘前大涨超4% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2477380",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时19分 ~ 02时20分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "谷歌将在美国得州部署电动卡车及充电框架",
@@ -385,9 +603,48 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "据称谷歌与黑石合作的50亿数据中心项目遭遇延期",
+          "url": "https://flash.jin10.com/detail/20260909050849614800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "美联储加息概率升至60%、油价逼近100美元，金价为何逆势反弹？",
+          "url": "https://wallstreetcn.com/articles/3781297",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "国际金价跌1%，纽约期铜涨超1.3%一度逼近6.9美元关口",
+          "url": "https://wallstreetcn.com/livenews/3162162",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时35分"
         }
       ]
     }
