@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T16:39:38.248872+08:00",
-  "total_titles_processed": 921,
+  "generated_at": "2026-09-09T21:27:19.319122+08:00",
+  "total_titles_processed": 1139,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 41,
+      "match_count": 48,
       "titles": [
         {
           "title": "伊朗军方称捕获美国无人潜艇",
@@ -41,6 +41,17 @@
           "time_info": "[11时12分 ~ 16时39分]"
         },
         {
+          "title": "伊朗打击美国目标价值越来越高，交火呈现2个特点",
+          "url": "https://original.ifeng.com/c/8wHN09cxCTv",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "约旦方面表示，其防空系统拦截并摧毁了伊朗发射的20枚导弹中的18枚，另有两枚落在远离人口密集区的地带。伊朗导弹袭击后未有人员伤亡报告。",
           "url": "https://flash.jin10.com/detail/20260909073921714800",
           "source": "金十数据",
@@ -50,6 +61,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时51分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我们不会允许任何“恐怖军队”控制我们的边界，致力于打败伊朗政权。",
+          "url": "https://flash.jin10.com/detail/20260909211800081800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "伊朗打击美军基地和战舰",
+          "url": "https://www.douyin.com/hot/2641814",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "机构：因人工智能热潮抵消伊朗冲突担忧 日经指数回升",
@@ -72,6 +105,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时20分"
+        },
+        {
+          "title": "伊朗谴责美军袭击伊朗船只 称已回以打击",
+          "url": "https://wallstreetcn.com/livenews/3162625",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "据塔斯尼姆通讯社：伊朗总统办公室新闻副主管表示，即便现在回到《伊斯兰堡谅解备忘录》，伊朗仍然赢了。",
@@ -156,6 +200,17 @@
           "time_info": "[11时12分 ~ 16时39分]"
         },
         {
+          "title": "中国男排1:3不敌伊朗",
+          "url": "https://www.douyin.com/hot/2642210",
+          "source": "抖音",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社：阿拉伯消息人士称，沙特吉赞机场航班已暂停。",
           "url": "https://flash.jin10.com/detail/20260909013050007800",
           "source": "金十数据",
@@ -211,6 +266,17 @@
           "time_info": "07时51分"
         },
         {
+          "title": "据伊朗学生通讯社：巴基斯坦国防部长表示，伊斯兰堡在斡旋美伊之间的关系时如履薄冰，巴基斯坦应希望找到这一危机的外交解决方式。",
+          "url": "https://flash.jin10.com/detail/20260909210341639800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "约旦称遭到来自伊朗境内导弹袭击",
           "url": "https://www.toutiao.com/trending/7682996995365519366/",
           "source": "今日头条",
@@ -250,9 +316,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
+        },
+        {
+          "title": "美伊互袭持续升温！国际油价重返100美元 伊朗划设海上新“制裁区”",
+          "url": "https://www.cls.cn/detail/2478558",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "伊朗革命卫队：使用强力弹道导弹打击了搭载巡航导弹与“宙斯盾”系统的美国DDG-119号和DDG-53号作战驱逐舰。此次袭击导致上述舰艇严重受损。",
@@ -338,7 +415,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -404,7 +481,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -437,7 +514,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -467,7 +544,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 23,
       "titles": [
         {
           "title": "美国总统特朗普：德国的民粹主义政党刚刚度过了一个意义非凡的夜晚。他们终于受够了那些给德国造成严重伤害、极其糟糕的移民法规。他们正在崛起，并且绝不愿再忍气吞声了。",
@@ -492,6 +569,17 @@
           "time_info": "07时51分"
         },
         {
+          "title": "特朗普政府未反对英国等国涉以制裁，暴露对以失望",
+          "url": "https://news.ifeng.com/c/8wHQAosMaqt",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "特朗普两天发帖90条：新墨西哥州改名“新美国”，美加墨和格陵兰岛全变成“美国”",
           "url": "https://m.thepaper.cn/newsDetail_forward_34027849",
           "source": "澎湃新闻",
@@ -510,11 +598,12 @@
           "source": "凤凰网",
           "ranks": [
             5,
-            7
+            7,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 16时39分]"
+          "appearance_count": 3,
+          "time_info": "[11时12分 ~ 21时27分]"
         },
         {
           "title": "特朗普一次惹了20国",
@@ -720,186 +809,20 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "如何看待 Buckmaster 披露 OpenAI 在 NS 方程突破中的学术掠夺与威胁言论？",
-          "url": "https://www.zhihu.com/question/2080654680389051865",
-          "source": "知乎",
-          "ranks": [
-            2,
-            1,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时19分 ~ 11时12分]"
-        },
-        {
-          "title": "OpenAI或证明数学七大难题之一",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E8%AF%81%E6%98%8E%E6%95%B0%E5%AD%A6%E4%B8%83%E5%A4%A7%E9%9A%BE%E9%A2%98%E4%B9%8B%E4%B8%80",
-          "source": "bilibili 热搜",
-          "ranks": [
-            2,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[02时19分 ~ 07时51分]"
-        },
-        {
-          "title": "OpenAI的CFO：企业业务“势不可挡”。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3162101",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "怎么看 OpenAI 在 Navier–Stokes 数学难题上取得的进展反而出现争议？",
-          "url": "https://www.zhihu.com/question/2080681933982393659",
-          "source": "知乎",
-          "ranks": [
-            9,
-            5,
-            12,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时19分 ~ 11时12分]"
-        },
-        {
-          "title": "OpenAI 宣布攻克了 N-S equations 这一千禧年问题，这意味着什么？会产生哪些影响？",
-          "url": "https://www.zhihu.com/question/2080887293624304807",
-          "source": "知乎",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时12分"
-        },
-        {
-          "title": "OpenAI官宣攻克千禧年难题",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%98%E5%AE%A3%E6%94%BB%E5%85%8B%E5%8D%83%E7%A6%A7%E5%B9%B4%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1,
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时12分 ~ 16时39分]"
-        },
-        {
-          "title": "据CNBC：OpenAI首席财务官称公司业务发展迅猛。",
-          "url": "https://flash.jin10.com/detail/20260909013615673800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "OpenAI：我们下一代模型驱动的多智能体系统已完成对“纳维-斯托克斯千禧年奖难题”的证明，该问题关于三维流体运动方程是否会出现奇异性，已困扰数学界约90年。这一证明由一组智能体协作完成，使用的是OpenAI新一代模型，其能力显著超过GPT-6 Astra。",
-          "url": "https://flash.jin10.com/detail/20260909012650538800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "OpenAI宣布破解千禧年难题！人类逾90年无解 AI仅用88小时攻克？",
-          "url": "https://www.cls.cn/detail/2477922",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时39分"
-        },
-        {
-          "title": "OpenAI内部模型88小时暴力攻克千禧年数学难题",
-          "url": "https://wallstreetcn.com/livenews/3162164",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "OpenAI宣布攻克千禧年难题",
-          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E5%AE%A3%E5%B8%83%E6%94%BB%E5%85%8B%E5%8D%83%E7%A6%A7%E5%B9%B4%E9%9A%BE%E9%A2%98%23&t=31&band_rank=14&Refer=top",
-          "source": "微博",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时12分"
-        },
-        {
-          "title": "OpenAI内部模型88小时暴力攻克千禧年数学难题",
-          "url": "https://flash.jin10.com/detail/20260909045209786800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时35分"
-        },
-        {
-          "title": "OpenAI承诺出资500万美元，用于支持针对青少年群体的独立研究。",
-          "url": "https://wallstreetcn.com/livenews/3162075",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时20分"
-        },
-        {
-          "title": "亚马逊：OpenAI的GPT-6 ASTRA现已登陆亚马逊Bedrock。",
-          "url": "https://wallstreetcn.com/livenews/3162195",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "胡塞袭击推油价逼近100美元，美股指收跌，医疗股重挫领跌道指，AI光通信大涨",
           "url": "https://wallstreetcn.com/articles/3781291",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时51分 ~ 16时39分]"
+          "appearance_count": 4,
+          "time_info": "[07时51分 ~ 21时27分]"
         },
         {
           "title": "【早报】美股光通信，逆市大涨；美袭击伊朗油轮，伊警告将打击美军所在港口；原油上涨、黄金下挫；中际旭创、江波龙发布重要公告",
@@ -985,6 +908,39 @@
           "time_info": "[02时19分 ~ 11时12分]"
         },
         {
+          "title": "周三美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3162617",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "小摩：将短期美股观点调整为“谨慎/中性”",
+          "url": "https://flash.jin10.com/detail/20260909210459090800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "布油再破100美元 美股期指走低 折叠屏iPhone重磅亮相 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2478595",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "美股加密货币与加密货币关联指数收涨0.87%，报76.12点。 最近24小时，比特币跌0.92%，暂报78497.62美元，整体持续走低、北京时间21:52刷新期内最低位至77608.50美元。 以太坊跌0.4%，报2485.297美元，21:41也曾跌至2440.725美元。",
           "url": "https://wallstreetcn.com/livenews/3162166",
           "source": "华尔街见闻-快讯",
@@ -1013,7 +969,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -1040,6 +996,17 @@
           "time_info": "05时35分"
         },
         {
+          "title": "加皇资本市场称美股回调至多10%的风险升温 中期选举恐加剧AI交易波动",
+          "url": "https://wallstreetcn.com/livenews/3162587",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "周二（9月8日），彭博电动汽车价格回报指数跌0.45%，报3403.46点，亚太时段持续下挫，美股盘初略微收复失地。",
           "url": "https://wallstreetcn.com/livenews/3162143",
           "source": "华尔街见闻-快讯",
@@ -1053,8 +1020,208 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 17,
+      "titles": [
+        {
+          "title": "如何看待 Buckmaster 披露 OpenAI 在 NS 方程突破中的学术掠夺与威胁言论？",
+          "url": "https://www.zhihu.com/question/2080654680389051865",
+          "source": "知乎",
+          "ranks": [
+            2,
+            1,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时19分 ~ 11时12分]"
+        },
+        {
+          "title": "OpenAI或证明数学七大难题之一",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E8%AF%81%E6%98%8E%E6%95%B0%E5%AD%A6%E4%B8%83%E5%A4%A7%E9%9A%BE%E9%A2%98%E4%B9%8B%E4%B8%80",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时19分 ~ 07时51分]"
+        },
+        {
+          "title": "OpenAI的CFO：企业业务“势不可挡”。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3162101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "怎么看 OpenAI 在 Navier–Stokes 数学难题上取得的进展反而出现争议？",
+          "url": "https://www.zhihu.com/question/2080681933982393659",
+          "source": "知乎",
+          "ranks": [
+            9,
+            5,
+            12,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[02时19分 ~ 11时12分]"
+        },
+        {
+          "title": "OpenAI官宣攻克千禧年难题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%98%E5%AE%A3%E6%94%BB%E5%85%8B%E5%8D%83%E7%A6%A7%E5%B9%B4%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时12分 ~ 21时27分]"
+        },
+        {
+          "title": "OpenAI 宣布攻克了 N-S equations 这一千禧年问题，这意味着什么？会产生哪些影响？",
+          "url": "https://www.zhihu.com/question/2080887293624304807",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
+          "title": "据CNBC：OpenAI首席财务官称公司业务发展迅猛。",
+          "url": "https://flash.jin10.com/detail/20260909013615673800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "OpenAI高管：Astra需求太猛，新的Pro订阅或被迫暂停",
+          "url": "https://wallstreetcn.com/articles/3781396",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "OpenAI：我们下一代模型驱动的多智能体系统已完成对“纳维-斯托克斯千禧年奖难题”的证明，该问题关于三维流体运动方程是否会出现奇异性，已困扰数学界约90年。这一证明由一组智能体协作完成，使用的是OpenAI新一代模型，其能力显著超过GPT-6 Astra。",
+          "url": "https://flash.jin10.com/detail/20260909012650538800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "OpenAI 首席科学家称已造出「异星心智」，并警告「全人类都要刹车」，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2080253796941415480",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "OpenAI宣布破解千禧年难题！人类逾90年无解 AI仅用88小时攻克？",
+          "url": "https://www.cls.cn/detail/2477922",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "OpenAI内部模型88小时暴力攻克千禧年数学难题",
+          "url": "https://wallstreetcn.com/livenews/3162164",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "报道：OpenAI预计到2030年算力支出约达7500亿美元",
+          "url": "https://wallstreetcn.com/livenews/3162608",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "OpenAI宣布攻克千禧年难题",
+          "url": "https://s.weibo.com/weibo?q=%23OpenAI%E5%AE%A3%E5%B8%83%E6%94%BB%E5%85%8B%E5%8D%83%E7%A6%A7%E5%B9%B4%E9%9A%BE%E9%A2%98%23&t=31&band_rank=14&Refer=top",
+          "source": "微博",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时12分"
+        },
+        {
+          "title": "OpenAI内部模型88小时暴力攻克千禧年数学难题",
+          "url": "https://flash.jin10.com/detail/20260909045209786800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时35分"
+        },
+        {
+          "title": "OpenAI承诺出资500万美元，用于支持针对青少年群体的独立研究。",
+          "url": "https://wallstreetcn.com/livenews/3162075",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时20分"
+        },
+        {
+          "title": "亚马逊：OpenAI的GPT-6 ASTRA现已登陆亚马逊Bedrock。",
+          "url": "https://wallstreetcn.com/livenews/3162195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时51分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
         {
           "title": "刚刚，DeepSeek新模型内测！网友实测：快得飞起！",
@@ -1069,6 +1236,28 @@
           "is_new": false,
           "appearance_count": 6,
           "time_info": "[02时19分 ~ 16时39分]"
+        },
+        {
+          "title": "曝DeepSeek正筹备科创板IPO",
+          "url": "https://www.toutiao.com/trending/7682375308184387610/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "如何评价 DeepSeek V4.1 Flash 将于 2026 年 9 月 10 日上线，以及 V4Pro 下架？",
+          "url": "https://www.zhihu.com/question/2081037199122895830",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
         },
         {
           "title": "怎么看 DeepSeek Flash 系列 9 月 10 日将再调整定价，除输出外回归 8 月 17 日前价格？",
@@ -1117,13 +1306,35 @@
           "time_info": "[02时19分 ~ 02时20分]"
         },
         {
+          "title": "DeepSeek新模型要来了",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E8%A6%81%E6%9D%A5%E4%BA%86",
+          "source": "bilibili 热搜",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
+          "title": "如何看待 2026 年 9 月 9 日 deepseek 官网公告将 v4pro 统一路由至 v4.1flash？",
+          "url": "https://www.zhihu.com/question/2081047394758803787",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时27分"
+        },
+        {
           "title": "DeepSeek计划于北京时间2026年9月10日前后正式发布V4.1 Flash模型",
           "url": "https://flash.jin10.com/detail/20260909161156666800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         }
@@ -1162,7 +1373,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         },
@@ -1173,7 +1384,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时39分"
         }
@@ -1211,18 +1422,30 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "贝森特如何“回购美债”？今晚初见端倪",
           "url": "https://wallstreetcn.com/articles/3781371",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时39分 ~ 21时27分]"
+        },
+        {
+          "title": "债市“大考”下周来袭？“新债王”：若美联储不加息 美债将遭新一轮抛售",
+          "url": "https://www.cls.cn/detail/2478239",
+          "source": "财联社热门",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时39分"
+          "time_info": "21时27分"
         }
       ]
     }
