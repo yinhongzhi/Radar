@@ -1,11 +1,264 @@
 {
-  "generated_at": "2026-09-11T05:25:38.922854+08:00",
-  "total_titles_processed": 408,
+  "generated_at": "2026-09-11T07:44:57.129395+08:00",
+  "total_titles_processed": 516,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 22,
+      "titles": [
+        {
+          "title": "万斯、鲁比奥警告特朗普，美伊战争可能持续到其卸任",
+          "url": "https://news.ifeng.com/c/8wJ8CuFiLFy",
+          "source": "凤凰网",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 07时44分]"
+        },
+        {
+          "title": "美媒：万斯、鲁比奥等人私下警告特朗普，美伊冲突可能持续到其总统任期结束",
+          "url": "https://wallstreetcn.com/articles/3781501",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 07时44分]"
+        },
+        {
+          "title": "特朗普表示，伊朗人认为，美国民主党人可能会允许他们拥有核武器。",
+          "url": "https://flash.jin10.com/detail/20260911072815651800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "特朗普祝贺德极右翼后被默茨取消通话",
+          "url": "https://www.toutiao.com/trending/7683178689881735210/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "特朗普表示，伊朗的导弹能力已大幅削弱，制造更多导弹变得困难。伊朗仍然可以发射一些导弹。",
+          "url": "https://flash.jin10.com/detail/20260911072705404800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡支持美国总统特朗普关于伊朗正在重新武装的警告，并誓言：“只要我担任总理，伊朗就不会拥有核武器。”",
+          "url": "https://flash.jin10.com/detail/20260911014632195800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "特朗普表示，伊朗正在艰难作战，并陷入了严重的困境。",
+          "url": "https://flash.jin10.com/detail/20260911072623205800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "特朗普：伊朗有一些导弹，大部分已被摧毁。",
+          "url": "https://wallstreetcn.com/livenews/3163539",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "福克斯新闻记者提问称，有新保守主义者认为，如果真要对伊朗动手，就得全力出击——直接打进去，彻底解决他们。对此，美国总统特朗普回应道：“由于选举，可能不会这么做。”",
+          "url": "https://flash.jin10.com/detail/20260911072505714800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "特朗普：将通过经济增长来处理40万亿美元债务问题。",
+          "url": "https://wallstreetcn.com/livenews/3163538",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "每人发5000美元？“特朗普红利”震惊中期选举 智库警告根本没有盈余",
+          "url": "https://www.cls.cn/detail/2479400",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时06分 ~ 05时25分]"
+        },
+        {
+          "title": "美伊战事或持续至2029年？万斯、鲁比奥私下警告特朗普：卸任前都打不完",
+          "url": "https://www.cls.cn/detail/2480029",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 07时44分]"
+        },
+        {
+          "title": "特朗普：不后悔打击伊朗",
+          "url": "https://flash.jin10.com/detail/20260911071749446800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "特朗普拟给美国成年人每人发5000美元，美媒算账：总额高达1.2万亿美元，关税收入远远不够",
+          "url": "https://wallstreetcn.com/articles/3781496",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "特朗普升级对加贸易措施，加拿大总理暗示不会报复",
+          "url": "https://flash.jin10.com/detail/20260911070747506800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "特朗普给近百万美国人发500美元",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%BB%99%E8%BF%91%E7%99%BE%E4%B8%87%E7%BE%8E%E5%9B%BD%E4%BA%BA%E5%8F%91500%E7%BE%8E%E5%85%83%23&t=31&band_rank=16&Refer=top",
+          "source": "微博",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "美国众议院多数派领导人Steve Scalise：如果共和党（继续）把持国会山，国会将批准总统特朗普的5000美元红利发放建议。（CBS）",
+          "url": "https://wallstreetcn.com/livenews/3163394",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "特朗普力推对委石油投资，传统企业谨慎，“门外汉”抢抓机遇",
+          "url": "https://flash.jin10.com/detail/20260911062957886800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "梅西百货将把（来自美国总统特朗普关税政策的）关税退款重新用于商业活动。 该公司将对家具、珠宝降价。 该公司将增加门店员工数量，提高市场营销。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3163393",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "特朗普的委内瑞拉石油项目计划到2028年将产量提高150%",
+          "url": "https://wallstreetcn.com/livenews/3163386",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时07分"
+        },
+        {
+          "title": "特朗普公布计划，拟取消H-1B员工失业后的宽限期",
+          "url": "https://wallstreetcn.com/livenews/3163509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "特朗普称派发5000美元无需国会批准",
+          "url": "https://wallstreetcn.com/livenews/3163504",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        }
+      ]
+    },
+    {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗拦截1艘美国无人水面艇",
@@ -14,9 +267,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时25分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时25分 ~ 07时44分]"
         },
         {
           "title": "伊朗拦截一艘美国无人水面艇",
@@ -36,7 +289,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -74,6 +327,17 @@
           "time_info": "02时07分"
         },
         {
+          "title": "美再次威胁打击伊朗镐山核设施，为军事打击进行机密作战能力测试",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34045770",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
           "title": "伊朗拦截一艘美国无人水面艇",
           "url": "https://flash.jin10.com/detail/20260911013549358800",
           "source": "金十数据",
@@ -83,6 +347,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
+        },
+        {
+          "title": "伊朗外交部：必须尊重也门的独立、国家主权和领土完整，并必须结束针对该国非法且不人道的封锁。毫无疑问，若不维护也门人民的正当权利与尊严，便无法实现西亚及红海地区的安全与稳定。",
+          "url": "https://flash.jin10.com/detail/20260911071403165800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "伊朗战争、俄乌冲突与厄尔尼诺叠加，汇丰：全球大宗商品进入\"超级牛市\"",
+          "url": "https://wallstreetcn.com/articles/3781500",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗革命卫队海军司令称，霍尔木兹海峡已被伊朗封锁，并处于情报监控与智能管控之下，任何敌对行动都将遭到打击。",
@@ -107,6 +393,17 @@
           "time_info": "02时07分"
         },
         {
+          "title": "中方反对个别国家强推安理会恢复对伊朗制裁",
+          "url": "https://wallstreetcn.com/livenews/3163522",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
           "title": "报道：伊朗再次生产弹道导弹，削弱美以所宣扬的战争重大成果",
           "url": "https://wallstreetcn.com/livenews/3163391",
           "source": "华尔街见闻-快讯",
@@ -120,105 +417,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "万斯、鲁比奥警告特朗普，美伊战争可能持续到其卸任",
-          "url": "https://news.ifeng.com/c/8wJ8CuFiLFy",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时25分]"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡支持美国总统特朗普关于伊朗正在重新武装的警告，并誓言：“只要我担任总理，伊朗就不会拥有核武器。”",
-          "url": "https://flash.jin10.com/detail/20260911014632195800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
-          "title": "美媒：万斯、鲁比奥等人私下警告特朗普，美伊冲突可能持续到其总统任期结束",
-          "url": "https://wallstreetcn.com/articles/3781501",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时25分]"
-        },
-        {
-          "title": "每人发5000美元？“特朗普红利”震惊中期选举 智库警告根本没有盈余",
-          "url": "https://www.cls.cn/detail/2479400",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时25分]"
-        },
-        {
-          "title": "美伊战事或持续至2029年？万斯、鲁比奥私下警告特朗普：卸任前都打不完",
-          "url": "https://www.cls.cn/detail/2480029",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时25分"
-        },
-        {
-          "title": "美国众议院多数派领导人Steve Scalise：如果共和党（继续）把持国会山，国会将批准总统特朗普的5000美元红利发放建议。（CBS）",
-          "url": "https://wallstreetcn.com/livenews/3163394",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
-          "title": "梅西百货将把（来自美国总统特朗普关税政策的）关税退款重新用于商业活动。 该公司将对家具、珠宝降价。 该公司将增加门店员工数量，提高市场营销。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3163393",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        },
-        {
-          "title": "特朗普的委内瑞拉石油项目计划到2028年将产量提高150%",
-          "url": "https://wallstreetcn.com/livenews/3163386",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时07分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 10,
       "titles": [
         {
           "title": "美国8月PPI超预期 美股期指承压下跌 纳指期货跌超1% | 今夜看点",
@@ -229,8 +429,30 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时25分]"
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 07时44分]"
+        },
+        {
+          "title": "【早报】油价大涨，黄金、白银大跌；美股存储板块，集体回落；燧原科技，今日上市；甲骨文，业绩超预期",
+          "url": "https://www.cls.cn/detail/2480154",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "美股收盘：美油破百三大指数四连跌 芯片、存储、光通信集体回落",
+          "url": "https://www.cls.cn/detail/2480136",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
         },
         {
           "title": "周四（9月10日），美股行业ETF普遍收跌，半导体ETF跌2.44%，全球科技股指数ETF、科技行业ETF、生物科技指数ETF至多跌1.53%，网络股指数跌0.84%，能源业ETF跌0.58%，银行业ETF涨0.43%，区域银行ETF涨0.49%。",
@@ -239,7 +461,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -250,7 +472,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -261,7 +483,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -272,7 +494,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -283,7 +505,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         },
@@ -294,9 +516,127 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
+        },
+        {
+          "title": "周四（9月10日），美股降息赢家指数跌1.09%，报90.27点，在国际油价上涨之际、跳空低开之后低位持稳。 “特朗普关税输家”指数跌1.57%，报106.89点，整体低位持稳。 “特朗普金融指数”跌0.62%，报175.66点。 散户抱团概念股指数/迷因股（meme stock）指数跌1.89%，报12.06点，美股盘初低开高走，整体冲高回落。",
+          "url": "https://wallstreetcn.com/livenews/3163506",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "通胀忧虑重燃，美股低开，存储芯片股普跌，布油涨破105美元，30年期美债收益率升至2007年6月以来最高",
+          "url": "https://wallstreetcn.com/articles/3781481",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时06分 ~ 05时25分]"
+        },
+        {
+          "title": "观察人士称干预美债似乎与沃什的表态背道而驰，贝森特本人回应",
+          "url": "https://wallstreetcn.com/livenews/3163541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "油价破百叠加通胀数据前夕，美股指三连跌，Meta逆势大涨6%，美债全线走低",
+          "url": "https://wallstreetcn.com/articles/3781389",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[02时06分 ~ 05时25分]"
+        },
+        {
+          "title": "吹高了日元，却没守住美债！贝森特是美股“猪队友”？",
+          "url": "https://wallstreetcn.com/articles/3781454",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 07时44分]"
+        },
+        {
+          "title": "贝森特淡化美债回购担忧，称债市状况强劲",
+          "url": "https://wallstreetcn.com/livenews/3163533",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "CPI前夜，美债先“动手”了：加息概率突破七成，10年期收益率逼近5%",
+          "url": "https://flash.jin10.com/detail/20260911065203454800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "美债回购规模低于预期 贝森特淡化市场担忧",
+          "url": "https://flash.jin10.com/detail/20260911063612879800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
+        },
+        {
+          "title": "两年期美债收益率涨超13个基点，10年期美债收益率创2023件以来新高",
+          "url": "https://wallstreetcn.com/livenews/3163460",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时25分"
+        },
+        {
+          "title": "美国财长贝森特：今天，并没有像我之前所说的规模那样回购债券，因为我们买得便宜。 我们拥有全球表现最佳的债券市场。 美国国债市场形势良好。 投资者并不要求长端美债溢价。",
+          "url": "https://wallstreetcn.com/livenews/3163507",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时44分"
         }
       ]
     },
@@ -369,57 +709,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "通胀忧虑重燃，美股低开，存储芯片股普跌，布油涨破105美元，30年期美债收益率升至2007年6月以来最高",
-          "url": "https://wallstreetcn.com/articles/3781481",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时25分]"
-        },
-        {
-          "title": "油价破百叠加通胀数据前夕，美股指三连跌，Meta逆势大涨6%，美债全线走低",
-          "url": "https://wallstreetcn.com/articles/3781389",
-          "source": "华尔街见闻",
-          "ranks": [
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时25分]"
-        },
-        {
-          "title": "吹高了日元，却没守住美债！贝森特是美股“猪队友”？",
-          "url": "https://wallstreetcn.com/articles/3781454",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时25分]"
-        },
-        {
-          "title": "两年期美债收益率涨超13个基点，10年期美债收益率创2023件以来新高",
-          "url": "https://wallstreetcn.com/livenews/3163460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时25分"
         }
       ]
     },
@@ -499,11 +788,12 @@
           "url": "https://wallstreetcn.com/articles/3781457",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时06分 ~ 05时25分]"
+          "appearance_count": 4,
+          "time_info": "[02时06分 ~ 07时44分]"
         }
       ]
     },
@@ -518,7 +808,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时25分"
         }
