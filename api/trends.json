@@ -1,12 +1,35 @@
 {
-  "generated_at": "2026-09-10T18:40:38.498299+08:00",
-  "total_titles_processed": 1001,
+  "generated_at": "2026-09-10T22:50:51.980138+08:00",
+  "total_titles_processed": 1188,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 32,
+      "match_count": 34,
       "titles": [
+        {
+          "title": "选战倒计时！特朗普支持率跌至33%创任期新低",
+          "url": "https://original.ifeng.com/c/8wH6lxEEowM",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 7,
+          "time_info": "[04时27分 ~ 22时50分]"
+        },
+        {
+          "title": "万斯、鲁比奥警告特朗普，美伊战争可能持续到其卸任",
+          "url": "https://news.ifeng.com/c/8wJ8CuFiLFy",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 22时50分]"
+        },
         {
           "title": "史无前例！特朗普给3名年轻女幕僚各赠送4.5万美元现金，接近4个月薪水",
           "url": "https://www.cls.cn/detail/2478633",
@@ -20,17 +43,6 @@
           "time_info": "[04时27分 ~ 08时54分]"
         },
         {
-          "title": "选战倒计时！特朗普支持率跌至33%创任期新低",
-          "url": "https://original.ifeng.com/c/8wH6lxEEowM",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[04时27分 ~ 18时40分]"
-        },
-        {
           "title": "关于战事何时结束，白宫官员与特朗普说法不一样",
           "url": "https://news.ifeng.com/c/8wIeB5sPVEC",
           "source": "凤凰网",
@@ -42,15 +54,15 @@
           "time_info": "13时38分"
         },
         {
-          "title": "万斯、鲁比奥警告特朗普，美伊战争可能持续到其卸任",
-          "url": "https://news.ifeng.com/c/8wJ8CuFiLFy",
-          "source": "凤凰网",
+          "title": "特朗普承诺胜选后每人发5000美元",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AF%BA%E8%83%9C%E9%80%89%E5%90%8E%E6%AF%8F%E4%BA%BA%E5%8F%915000%E7%BE%8E%E5%85%83",
+          "source": "bilibili 热搜",
           "ranks": [
-            2
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "18时40分"
+          "time_info": "22时50分"
         },
         {
           "title": "特朗普关税政策现状如何",
@@ -113,6 +125,18 @@
           "time_info": "[08时54分 ~ 13时38分]"
         },
         {
+          "title": "特朗普：若共和党赢得中期选举，将向每位美国成年人发5000美元“红利”",
+          "url": "https://www.cls.cn/detail/2479340",
+          "source": "财联社热门",
+          "ranks": [
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 22时50分]"
+        },
+        {
           "title": "美伊战事中期选举后“终结”！特朗普抛最新时间表 伊朗重申止战条件",
           "url": "https://www.cls.cn/detail/2478825",
           "source": "财联社热门",
@@ -122,17 +146,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "13时38分"
-        },
-        {
-          "title": "特朗普：若共和党赢得中期选举，将向每位美国成年人发5000美元“红利”",
-          "url": "https://www.cls.cn/detail/2479340",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
         },
         {
           "title": "美国官员：特朗普政府正致力于达成更多药品定价协议",
@@ -179,6 +192,17 @@
           "time_info": "06时57分"
         },
         {
+          "title": "每人发5000美元？“特朗普红利”震惊中期选举 智库警告根本没有盈余",
+          "url": "https://www.cls.cn/detail/2479400",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "特朗普登机前空军一号放下应急滑梯",
           "url": "https://wallstreetcn.com/livenews/3162772",
           "source": "华尔街见闻-快讯",
@@ -196,7 +220,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -317,7 +341,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -339,7 +363,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
@@ -369,7 +393,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 28,
+      "match_count": 29,
       "titles": [
         {
           "title": "伊朗打击美国目标价值越来越高，交火呈现2个特点",
@@ -534,6 +558,17 @@
           "time_info": "08时54分"
         },
         {
+          "title": "据沙特媒体哈达斯：联合国安理会召开关于伊朗制裁的会议。",
+          "url": "https://flash.jin10.com/detail/20260910221218227800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "伊朗第一副总统：伊朗坚定捍卫和平利用核能的权利。",
           "url": "https://flash.jin10.com/detail/20260910040022240800",
           "source": "金十数据",
@@ -690,205 +725,8 @@
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "OpenAI 首席科学家称已造出「异星心智」，并警告「全人类都要刹车」，这意味着什么？",
-          "url": "https://www.zhihu.com/question/2080253796941415480",
-          "source": "知乎",
-          "ranks": [
-            4,
-            3,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时27分 ~ 08时54分]"
-        },
-        {
-          "title": "OpenAI收紧ChatGPT广告政策，Adobe等竞争对手遭遇限制",
-          "url": "https://flash.jin10.com/detail/20260910064849440800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时57分"
-        },
-        {
-          "title": "加州州长签署获Anthropic和OpenAI支持的AI安全法案",
-          "url": "https://flash.jin10.com/detail/20260910084752562800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "如何评价霍奇猜想（七大千禧难题之一）疑似被 OpenAI 解决？",
-          "url": "https://www.zhihu.com/question/2081241555524965559",
-          "source": "知乎",
-          "ranks": [
-            14,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 18时40分]"
-        },
-        {
-          "title": "OpenAI高管：Astra需求太猛，新的Pro订阅或被迫暂停",
-          "url": "https://wallstreetcn.com/articles/3781396",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时27分 ~ 13时38分]"
-        },
-        {
-          "title": "OpenAI官宣攻克千禧年难题",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%98%E5%AE%A3%E6%94%BB%E5%85%8B%E5%8D%83%E7%A6%A7%E5%B9%B4%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[04时27分 ~ 08时54分]"
-        },
-        {
-          "title": "27岁研究员连辞OpenAI、Anthropic！两家都在拿我们的命下注",
-          "url": "https://wallstreetcn.com/articles/3781412",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时54分 ~ 18时40分]"
-        },
-        {
-          "title": "美国参议院Blumenthal就纽约时报的报道向OpenAI的CEO Altman索要答案。 Blumenthal就安全防护措施以及Hugging Face攻击事件质询Altman，要求其作出回应。",
-          "url": "https://wallstreetcn.com/livenews/3162765",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "油价破百叠加通胀数据前夕，美股指三连跌，Meta逆势大涨6%，美债全线走低",
-          "url": "https://wallstreetcn.com/articles/3781389",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时57分 ~ 18时40分]"
-        },
-        {
-          "title": "美伊冲突升级，美股盘初走低，Meta涨5%，布油冲破百元关口，2年期美债收益率升至两年来新高",
-          "url": "https://wallstreetcn.com/articles/3781389",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时27分 ~ 04时28分]"
-        },
-        {
-          "title": "吹高了日元，却没守住美债！贝森特是美股“猪队友”？",
-          "url": "https://wallstreetcn.com/articles/3781454",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时38分 ~ 18时40分]"
-        },
-        {
-          "title": "震撼大手笔落空！美财政部长债回购三倍扩容，60亿仅达预期低端，美债再跌",
-          "url": "https://wallstreetcn.com/articles/3781432",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时57分 ~ 18时40分]"
-        },
-        {
-          "title": "贝森特如何“回购美债”？今晚初见端倪",
-          "url": "https://wallstreetcn.com/articles/3781371",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时27分 ~ 06时57分]"
-        },
-        {
-          "title": "美债收益率全面上涨，美国财政部债券回购计划带来一波短线拉升行情",
-          "url": "https://wallstreetcn.com/livenews/3162773",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时28分"
-        },
-        {
-          "title": "贝森特加码回购仍难撼动美债：60亿美元“震撼疗法”失灵？",
-          "url": "https://flash.jin10.com/detail/20260910082958101800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        },
-        {
-          "title": "交易员无视贝森特强硬喊话，美债油价走势反向而行",
-          "url": "https://flash.jin10.com/detail/20260910080858252800",
-          "source": "金十数据",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "08时54分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "胡塞袭击推油价逼近100美元，美股指收跌，医疗股重挫领跌道指，AI光通信大涨",
@@ -913,6 +751,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[06时57分 ~ 13时38分]"
+        },
+        {
+          "title": "美国8月PPI超预期 美股期指承压下跌 纳指期货跌超1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2479913",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
         },
         {
           "title": "布油再破100美元 美股期指走低 折叠屏iPhone重磅亮相 | 今夜看点",
@@ -972,6 +821,17 @@
           "time_info": "06时57分"
         },
         {
+          "title": "苹果股价美股盘初上涨",
+          "url": "https://www.baidu.com/s?wd=%E8%8B%B9%E6%9E%9C%E8%82%A1%E4%BB%B7%E7%BE%8E%E8%82%A1%E7%9B%98%E5%88%9D%E4%B8%8A%E6%B6%A8",
+          "source": "百度热搜",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
           "title": "美股加密货币与加密货币关联指数跌2.96%，报73.86点。 最近24小时，现货比特币跌0.21%，暂报78262美元，整体冲高回落，北京时间16:36曾达到79745.84美元。 现货以太坊跌0.65%，暂报2469.540美元。",
           "url": "https://wallstreetcn.com/livenews/3162820",
           "source": "华尔街见闻-快讯",
@@ -981,6 +841,283 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时57分"
+        },
+        {
+          "title": "美股光通信板块盘初走低，Lumentum跌超3%，高意公司Coherent、康宁跌超2%，迈威尔科技跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3163326",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "铜矿股普跌，报道称美国尚未就关税问题做决定。 美股盘初，Ero Copper跌约8%，自由港跌7.7%，伦丁矿业ADR跌7.6%，南方铜业公司跌6.7%，铜矿ETF跌6.5%，美国铜指数ETF跌4.2%。",
+          "url": "https://wallstreetcn.com/livenews/3163323",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "美国8月PPI同比增速超预期，美股盘初走低，纳指跌1%，存储芯片股、光通信股普跌",
+          "url": "https://wallstreetcn.com/livenews/3163315",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "OpenAI 首席科学家称已造出「异星心智」，并警告「全人类都要刹车」，这意味着什么？",
+          "url": "https://www.zhihu.com/question/2080253796941415480",
+          "source": "知乎",
+          "ranks": [
+            4,
+            3,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时27分 ~ 08时54分]"
+        },
+        {
+          "title": "如何评价霍奇猜想（七大千禧难题之一）疑似被 OpenAI 解决？",
+          "url": "https://www.zhihu.com/question/2081241555524965559",
+          "source": "知乎",
+          "ranks": [
+            14,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 22时50分]"
+        },
+        {
+          "title": "OpenAI收紧ChatGPT广告政策，Adobe等竞争对手遭遇限制",
+          "url": "https://flash.jin10.com/detail/20260910064849440800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时57分"
+        },
+        {
+          "title": "加州州长签署获Anthropic和OpenAI支持的AI安全法案",
+          "url": "https://flash.jin10.com/detail/20260910084752562800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "OpenAI高管：Astra需求太猛，新的Pro订阅或被迫暂停",
+          "url": "https://wallstreetcn.com/articles/3781396",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时27分 ~ 13时38分]"
+        },
+        {
+          "title": "OpenAI官宣攻克千禧年难题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%AE%98%E5%AE%A3%E6%94%BB%E5%85%8B%E5%8D%83%E7%A6%A7%E5%B9%B4%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[04时27分 ~ 08时54分]"
+        },
+        {
+          "title": "27岁研究员连辞OpenAI、Anthropic！两家都在拿我们的命下注",
+          "url": "https://wallstreetcn.com/articles/3781412",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            7,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时54分 ~ 18时40分]"
+        },
+        {
+          "title": "据Politico：OpenAI寻求确保模型不会危害电网安全。",
+          "url": "https://flash.jin10.com/detail/20260910221707102800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "OpenAI会见（美国）多家主要电力公司的代表。 OpenAI设法确保AI模型不至于破坏电网安全。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3163335",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "据Politico：OpenAI与电力公司就保障电网安全进行了讨论。",
+          "url": "https://flash.jin10.com/detail/20260910221036847800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "美国参议院Blumenthal就纽约时报的报道向OpenAI的CEO Altman索要答案。 Blumenthal就安全防护措施以及Hugging Face攻击事件质询Altman，要求其作出回应。",
+          "url": "https://wallstreetcn.com/livenews/3162765",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "震撼大手笔落空！美财政部长债回购三倍扩容，60亿仅达预期低端，美债再跌",
+          "url": "https://wallstreetcn.com/articles/3781432",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时57分 ~ 22时50分]"
+        },
+        {
+          "title": "油价破百叠加通胀数据前夕，美股指三连跌，Meta逆势大涨6%，美债全线走低",
+          "url": "https://wallstreetcn.com/articles/3781389",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[06时57分 ~ 22时50分]"
+        },
+        {
+          "title": "美伊冲突升级，美股盘初走低，Meta涨5%，布油冲破百元关口，2年期美债收益率升至两年来新高",
+          "url": "https://wallstreetcn.com/articles/3781389",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时27分 ~ 04时28分]"
+        },
+        {
+          "title": "吹高了日元，却没守住美债！贝森特是美股“猪队友”？",
+          "url": "https://wallstreetcn.com/articles/3781454",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时38分 ~ 22时50分]"
+        },
+        {
+          "title": "贝森特如何“回购美债”？今晚初见端倪",
+          "url": "https://wallstreetcn.com/articles/3781371",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时27分 ~ 06时57分]"
+        },
+        {
+          "title": "通胀忧虑重燃，美股低开，存储芯片股普跌，布油涨破105美元，30年期美债收益率升至2007年6月以来最高",
+          "url": "https://wallstreetcn.com/articles/3781481",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时50分"
+        },
+        {
+          "title": "美债收益率全面上涨，美国财政部债券回购计划带来一波短线拉升行情",
+          "url": "https://wallstreetcn.com/livenews/3162773",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "04时28分"
+        },
+        {
+          "title": "贝森特加码回购仍难撼动美债：60亿美元“震撼疗法”失灵？",
+          "url": "https://flash.jin10.com/detail/20260910082958101800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时54分"
+        },
+        {
+          "title": "交易员无视贝森特强硬喊话，美债油价走势反向而行",
+          "url": "https://flash.jin10.com/detail/20260910080858252800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时54分"
         }
       ]
     },
@@ -1029,33 +1166,36 @@
           "url": "https://www.zhihu.com/question/2081380378493961583",
           "source": "知乎",
           "ranks": [
-            7
+            7,
+            11
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
-        },
-        {
-          "title": "DeepSeek正式发布新模型 定价下调",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%E6%96%B0%E6%A8%A1%E5%9E%8B+%E5%AE%9A%E4%BB%B7%E4%B8%8B%E8%B0%83",
-          "source": "百度热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 22时50分]"
         },
         {
           "title": "DeepSeek V4.1 Flash发布",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20V4.1%20Flash",
           "source": "bilibili 热搜",
           "ranks": [
-            28
+            28,
+            10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时40分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 22时50分]"
+        },
+        {
+          "title": "DeepSeek正式发布新模型 定价下调",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%AD%A3%E5%BC%8F%E5%8F%91%E5%B8%83%E6%96%B0%E6%A8%A1%E5%9E%8B+%E5%AE%9A%E4%BB%B7%E4%B8%8B%E8%B0%83",
+          "source": "百度热搜",
+          "ranks": [
+            20,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时40分 ~ 22时50分]"
         },
         {
           "title": "DeepSeek V4.1 Flash上线超算互联网",
@@ -1064,7 +1204,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         }
@@ -1081,7 +1221,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时40分"
         },
