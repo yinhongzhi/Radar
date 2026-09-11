@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-11T16:35:59.171122+08:00",
-  "total_titles_processed": 928,
+  "generated_at": "2026-09-11T21:16:17.581431+08:00",
+  "total_titles_processed": 1151,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 36,
+      "match_count": 39,
       "titles": [
         {
           "title": "美媒：万斯、鲁比奥等人私下警告特朗普，美伊冲突可能持续到其总统任期结束",
@@ -65,6 +65,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "美研究员发出“末日警告”，特朗普：一点不担心",
+          "url": "https://news.ifeng.com/c/8wKy1i5xyaT",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "特朗普表示，伊朗的导弹能力已大幅削弱，制造更多导弹变得困难。伊朗仍然可以发射一些导弹。",
@@ -183,6 +194,30 @@
           "time_info": "[11时07分 ~ 16时35分]"
         },
         {
+          "title": "特朗普：不后悔对伊朗开战 战争将在中期选举后立即停止",
+          "url": "https://www.cls.cn/detail/2480503",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 21时16分]"
+        },
+        {
+          "title": "油价逼近110+贝森特“帮倒忙”+特朗普“发钱”=“股债双杀”！",
+          "url": "https://wallstreetcn.com/articles/3781540",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 21时16分]"
+        },
+        {
           "title": "特朗普：咱们就把这5000美元回馈金叫做“特朗普回馈金”吧。",
           "url": "https://wallstreetcn.com/livenews/3163616",
           "source": "华尔街见闻-快讯",
@@ -205,15 +240,15 @@
           "time_info": "07时44分"
         },
         {
-          "title": "油价逼近110+贝森特“帮倒忙”+特朗普“发钱”=“股债双杀”！",
-          "url": "https://wallstreetcn.com/articles/3781540",
-          "source": "华尔街见闻",
+          "title": "沙特王储两次致电特朗普敦促美方打击胡塞武装，均遭拒绝",
+          "url": "https://news.ifeng.com/c/8wKo2D5E3dD",
+          "source": "凤凰网",
           "ranks": [
             9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时35分"
+          "time_info": "21时16分"
         },
         {
           "title": "特朗普升级对加贸易措施，加拿大总理暗示不会报复",
@@ -227,15 +262,15 @@
           "time_info": "07时44分"
         },
         {
-          "title": "特朗普：不后悔对伊朗开战 战争将在中期选举后立即停止",
-          "url": "https://www.cls.cn/detail/2480503",
+          "title": "特朗普驳斥AI末日论：我只担心发展的不够快",
+          "url": "https://www.cls.cn/detail/2481122",
           "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "16时35分"
+          "time_info": "21时16分"
         },
         {
           "title": "特朗普发钱是福利还是买选票",
@@ -244,7 +279,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -255,7 +290,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -417,7 +452,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 17,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗拦截1艘美国无人水面艇",
@@ -431,6 +466,17 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[05时25分 ~ 16时35分]"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：也门胡塞武装控制了位于曼德海峡附近的祖巴卜市地方委员会大楼。",
+          "url": "https://flash.jin10.com/detail/20260911205443297800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "伊朗拦截一艘美国无人水面艇",
@@ -455,6 +501,28 @@
           "time_info": "05时25分"
         },
         {
+          "title": "霍尔木兹传来新消息？伊朗与海湾六国下周会晤 油价应声走低",
+          "url": "https://www.cls.cn/detail/2480923",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "“伊朗发了一条消息，嘲讽美国”",
+          "url": "https://news.ifeng.com/c/8wKuxrz593c",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "伊朗最高国家安全委员会秘书雷扎伊：国际原子能机构理事会通过的反伊朗决议非法、缺乏技术依据，是政治化产物，受到美国和以色列压力影响；国际原子能机构的行为可能推动更多国家退出不扩散核武器条约。",
           "url": "https://flash.jin10.com/detail/20260911014536370800",
           "source": "金十数据",
@@ -464,6 +532,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
+        },
+        {
+          "title": "伊朗在金砖国家峰会上提议成立一家100亿美元的联合再保险公司。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3163976",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "油价短线下挫！伊朗将与海湾六国会晤、红海西海岸停火，中东局势现缓和信号",
+          "url": "https://wallstreetcn.com/articles/3781565",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "以色列总理内塔尼亚胡：（关于伊朗政权和黎巴嫩真主党）后续行动将会到来。",
@@ -477,17 +567,41 @@
           "time_info": "02时07分"
         },
         {
+          "title": "伊朗总统佩泽希齐扬：伊朗提议金砖国家设立100亿美元的保险基金，用于大型基础设施和能源项目。",
+          "url": "https://flash.jin10.com/detail/20260911205201821800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "美再次威胁打击伊朗镐山核设施，为军事打击进行机密作战能力测试",
           "url": "https://m.thepaper.cn/newsDetail_forward_34045770",
           "source": "澎湃新闻",
           "ranks": [
             8,
             10,
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时44分 ~ 21时16分]"
+        },
+        {
+          "title": "胡塞武装攻占红海重要港口、沙特冲突升级，伊朗被曝恢复产弹道导弹，原油盘中涨超7%",
+          "url": "https://wallstreetcn.com/articles/3781524",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时44分 ~ 16时35分]"
+          "appearance_count": 2,
+          "time_info": "[16时35分 ~ 21时16分]"
         },
         {
           "title": "伊朗战争、俄乌冲突与厄尔尼诺叠加，汇丰：全球大宗商品进入\"超级牛市\"",
@@ -534,17 +648,6 @@
           "time_info": "07时44分"
         },
         {
-          "title": "胡塞武装攻占红海重要港口、沙特冲突升级，伊朗被曝恢复产弹道导弹，原油盘中涨超7%",
-          "url": "https://wallstreetcn.com/articles/3781524",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "16时35分"
-        },
-        {
           "title": "据伊朗媒体Fars News：伊朗革命卫队海军司令称，霍尔木兹海峡已被伊朗封锁，并处于情报监控与智能管控之下，任何敌对行动都将遭到打击。",
           "url": "https://flash.jin10.com/detail/20260911013356235800",
           "source": "金十数据",
@@ -562,7 +665,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -573,9 +676,20 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
+        },
+        {
+          "title": "伊朗最高领袖顾问：胡塞武装在也门的进展是“辉煌胜利”。",
+          "url": "https://flash.jin10.com/detail/20260911204840879800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "据伊朗国家媒体报道：伊朗革命卫队称在霍尔木兹海峡击中了美国无人舰艇。",
@@ -587,6 +701,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：伊朗近年来面临广泛制裁；经济安全与国家和地区安全密不可分。",
+          "url": "https://flash.jin10.com/detail/20260911204642299800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "中方反对个别国家强推安理会恢复对伊朗制裁",
@@ -614,7 +739,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 12,
+      "match_count": 14,
       "titles": [
         {
           "title": "美国8月PPI超预期 美股期指承压下跌 纳指期货跌超1% | 今夜看点",
@@ -651,6 +776,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[07时44分 ~ 11时07分]"
+        },
+        {
+          "title": "美股期货走高，三大美股股指期货均涨超1%。 现货白银日内涨幅达2.5%，报65.16美元/盎司。 现货黄金涨1.7%，报4388.39美元/盎司。",
+          "url": "https://wallstreetcn.com/livenews/3163977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
+          "title": "周五美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3163975",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "9月11日投资避雷针：国际油价大涨超6% 黄金、白银重挫 美股半导体全线下跌",
@@ -715,7 +862,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -756,7 +903,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "通胀忧虑重燃，美股低开，存储芯片股普跌，布油涨破105美元，30年期美债收益率升至2007年6月以来最高",
@@ -805,13 +952,24 @@
           "time_info": "[02时06分 ~ 07时44分]"
         },
         {
+          "title": "美国8月CPI加速上涨，美股期货短线走低后反弹，三大股指期货均涨超1%，十年期美债收益率逼近5%，现货黄金V型反弹",
+          "url": "https://wallstreetcn.com/articles/3781549",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
+        {
           "title": "全球市场的“终极考验”来了：10年期美债收益率兵临5%！",
           "url": "https://www.cls.cn/detail/2480317",
           "source": "财联社热门",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -825,6 +983,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时44分"
+        },
+        {
+          "title": "美国8月CPI公布后，美元指数短线拉升约20点，现货黄金短线下跌逾40美元，10年期美债收益率逼近5%",
+          "url": "https://wallstreetcn.com/livenews/3163965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "CPI前夜，美债先“动手”了：加息概率突破七成，10年期收益率逼近5%",
@@ -874,7 +1043,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "如何评价贝赫和斯维纳通 - 戴尔猜想（BSD 猜想，七大千禧难题）疑被 OpenAI 或 Anthropic 解决？",
@@ -887,17 +1056,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时07分 ~ 16时35分]"
-        },
-        {
-          "title": "OpenAI或再推进数学七大难题",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%86%8D%E6%8E%A8%E8%BF%9B%E6%95%B0%E5%AD%A6%E4%B8%83%E5%A4%A7%E9%9A%BE%E9%A2%98",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时07分"
         },
         {
           "title": "OpenAI：就设计问题与摩根士丹利、Evercore ISI合作。",
@@ -922,6 +1080,18 @@
           "time_info": "02时07分"
         },
         {
+          "title": "OpenAI或再推进数学七大难题",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%86%8D%E6%8E%A8%E8%BF%9B%E6%95%B0%E5%AD%A6%E4%B8%83%E5%A4%A7%E9%9A%BE%E9%A2%98",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时07分 ~ 21时16分]"
+        },
+        {
           "title": "ChatGPT Pro 200美元档停售",
           "url": "https://search.bilibili.com/all?keyword=ChatGPT%20Pro%20200%E7%BE%8E%E5%85%83%E6%A1%A3%E5%81%9C%E5%94%AE",
           "source": "bilibili 热搜",
@@ -943,6 +1113,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时07分"
+        },
+        {
+          "title": "研究员要失业了？OpenAI推出金融版ChatGPT，研究、建模、PPT一站式完成",
+          "url": "https://wallstreetcn.com/articles/3781534",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         },
         {
           "title": "OpenAI：ChatGPT金融服务版是在与摩根士丹利(MS.N)和Evercore合作基础上开发的。",
@@ -981,7 +1162,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek正式发布新模型 定价下调",
@@ -1015,6 +1196,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时06分 ~ 02时07分]"
+        },
+        {
+          "title": "DeepSeek：将在9月14日后继续提供DeepSeek V4 Pro的API调用服务",
+          "url": "https://wallstreetcn.com/livenews/3163981",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
         }
       ]
     },
@@ -1057,7 +1249,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "16时35分"
         },
@@ -1077,8 +1269,19 @@
     },
     {
       "keyword_group": "美元",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "美国8月CPI数据公布后，现货黄金短线下跌逾40美元后又快速拉升逾60美元，现报4361.72美元/盎司。美元指数短线拉升约20点后，又快速走低约20点，现报99.20。美国10年期国债收益率拉升后迅速走低，现报4.949%。",
+          "url": "https://wallstreetcn.com/livenews/3163968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时16分"
+        },
         {
           "title": "周四（9月10日）纽约尾盘，彭博谷物分类指数涨1.51%，报35.2248点，整体震荡上行。 CBOT玉米期货涨1.09%，CBOT小麦期货涨1.71%。 CBOT大豆期货涨1.70%，报13.3175美元/蒲式耳，豆粕期货涨1.45%，豆油期货涨1.80%。",
           "url": "https://wallstreetcn.com/livenews/3163457",
