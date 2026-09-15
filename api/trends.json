@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-15T13:51:14.557859+08:00",
-  "total_titles_processed": 779,
+  "generated_at": "2026-09-15T19:08:52.537892+08:00",
+  "total_titles_processed": 989,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 35,
+      "match_count": 38,
       "titles": [
         {
           "title": "一片“连续加息”声中，特朗普要求美联储降息：美国应拥有全球最低利率",
@@ -27,8 +27,44 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 13时51分]"
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 19时08分]"
+        },
+        {
+          "title": "美国政坛激辩“AI放缓”：“左右翼”领袖班农、桑德斯都支持，特朗普称“不能踩刹车，美国有“高智商总统”就足够”",
+          "url": "https://wallstreetcn.com/articles/3781728",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时18分 ~ 19时08分]"
+        },
+        {
+          "title": "俄商人出资办儿子婚礼？特朗普：没什么大不了",
+          "url": "https://news.ifeng.com/c/8wQyUzC7fZx",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 19时08分]"
+        },
+        {
+          "title": "特朗普“嘴炮”要成真？苏威北爱三地领导人聚首，商讨抱团“脱英”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34068616",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时18分 ~ 19时08分]"
         },
         {
           "title": "“我比任何人都懂公式”，特朗普：美国的利率理应全球最低",
@@ -40,17 +76,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时45分 ~ 05时31分]"
-        },
-        {
-          "title": "俄商人出资办儿子婚礼？特朗普：没什么大不了",
-          "url": "https://news.ifeng.com/c/8wQyUzC7fZx",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 13时51分]"
         },
         {
           "title": "美国总统特朗普：激进左翼“蠢民主党人”（Dumocrats）炮制的这场人工智能骗局，让人不禁想起他们不久前搞的那场全球变暖骗局，当时他们声称所有人都会因极端高温而丧命。结果如何呢？",
@@ -75,16 +100,16 @@
           "time_info": "01时45分"
         },
         {
-          "title": "特朗普“嘴炮”要成真？苏威北爱三地领导人聚首，商讨抱团“脱英”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34068616",
-          "source": "澎湃新闻",
+          "title": "特朗普公开致电黄仁勋：AI风险是骗局，数据中心是未来石油！",
+          "url": "https://www.cls.cn/detail/2483181",
+          "source": "财联社热门",
           "ranks": [
-            3,
-            6
+            7,
+            1
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[08时18分 ~ 13时51分]"
+          "time_info": "[13时50分 ~ 19时08分]"
         },
         {
           "title": "特朗普在英阿主权争端中偏向阿根廷？阿方表态",
@@ -109,18 +134,6 @@
           "time_info": "05时31分"
         },
         {
-          "title": "美国政坛激辩“AI放缓”：“左右翼”领袖班农、桑德斯都支持，特朗普称“不能踩刹车，美国有“高智商总统”就足够”",
-          "url": "https://wallstreetcn.com/articles/3781728",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时18分 ~ 13时51分]"
-        },
-        {
           "title": "美国总统特朗普：我说到做到。5000美元红利将会实现，因为美国人民应得这笔钱。",
           "url": "https://flash.jin10.com/detail/20260915012046247800",
           "source": "金十数据",
@@ -143,26 +156,28 @@
           "time_info": "08时18分"
         },
         {
-          "title": "特朗普公开致电黄仁勋：AI风险是骗局，数据中心是未来石油！",
-          "url": "https://www.cls.cn/detail/2483181",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 13时51分]"
-        },
-        {
           "title": "黄仁勋发声：“AI末日论”是“不讲科学的哗众取宠”，RSI绝非“失控黑魔法”，特朗普“中途插入”：末日论全是骗局",
           "url": "https://wallstreetcn.com/articles/3781756",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 13时51分]"
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 19时08分]"
+        },
+        {
+          "title": "黄仁勋论坛现场接特朗普电话：不会让AI减速发生，“AI末日论”没有科学依据",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34072434",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 19时08分]"
         },
         {
           "title": "“AI减速论”愈演愈烈 特朗普再度驳斥：AI将成史上最强经济发展引擎",
@@ -187,17 +202,6 @@
           "time_info": "[13时50分 ~ 13时51分]"
         },
         {
-          "title": "黄仁勋论坛现场接特朗普电话：不会让AI减速发生，“AI末日论”没有科学依据",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34072434",
-          "source": "澎湃新闻",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 13时51分]"
-        },
-        {
           "title": "特朗普急了 致电黄仁勋斥责AI危险论",
           "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%A5%E4%BA%86+%E8%87%B4%E7%94%B5%E9%BB%84%E4%BB%81%E5%8B%8B%E6%96%A5%E8%B4%A3AI%E5%8D%B1%E9%99%A9%E8%AE%BA",
           "source": "百度热搜",
@@ -207,6 +211,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[13时50分 ~ 13时51分]"
+        },
+        {
+          "title": "特朗普突袭连线黄仁勋",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%AA%81%E8%A2%AD%E8%BF%9E%E7%BA%BF%E9%BB%84%E4%BB%81%E5%8B%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "美国总统特朗普的AI主管：众多AI实验室无需政府来把控技术发展节奏。 美国（政府）应该对AI实验室拥有透明度和审计（制度）。 人工智能实验室可在不做出反垄断让步的前提下研发安全技术。",
@@ -229,6 +244,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时18分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-09-15）",
+          "url": "https://flash.jin10.com/detail/20260915184525663800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "报道：特朗普想与黄仁勋讨论AI",
@@ -262,6 +288,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时31分"
+        },
+        {
+          "title": "特朗普将于9月21日在纽约市为共和党筹款活动发表主题演讲。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3165472",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
         },
         {
           "title": "美国总统特朗普再度发帖：重申人工智能会接管世界是一个骗局。",
@@ -410,8 +447,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[05时31分 ~ 13时51分]"
+          "appearance_count": 5,
+          "time_info": "[05时31分 ~ 19时08分]"
         },
         {
           "title": "阿曼推迟原定14日与伊朗等国会议 美国警告：不要指望霍尔木兹取得突破",
@@ -465,7 +502,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -564,7 +601,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         },
@@ -622,6 +659,137 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时18分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度涨破5%",
+          "url": "https://wallstreetcn.com/articles/3781670",
+          "source": "华尔街见闻",
+          "ranks": [
+            1,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时18分 ~ 19时08分]"
+        },
+        {
+          "title": "AI开发放缓担忧升温，美股低开，费城半导体指数跌6%，10年期美债收益率三年来首破5%，布油涨破109",
+          "url": "https://wallstreetcn.com/articles/3781670",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时45分 ~ 05时31分]"
+        },
+        {
+          "title": "10年期美债收益率冲破5%！华尔街上调收益率预期，神准分析师：抛售还没结束",
+          "url": "https://wallstreetcn.com/articles/3781729",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            6,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时18分 ~ 19时08分]"
+        },
+        {
+          "title": "10年期美债突破5%！“两种叙事”萦绕市场：“2023年式短暂见顶”还是“2000年代式引爆金融危机”",
+          "url": "https://wallstreetcn.com/articles/3781749",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 19时08分]"
+        },
+        {
+          "title": "这一天终于还是来了：10年期美债收益率升穿5%！",
+          "url": "https://www.cls.cn/detail/2482972",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 13时51分]"
+        },
+        {
+          "title": "10 年期美债突破「5% 收益率关口」，全球债市抛售潮是否将加速，加息预期下的市场何去何从？",
+          "url": "https://www.zhihu.com/question/2082958818607220656",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时50分 ~ 13时51分]"
+        },
+        {
+          "title": "贝森特今晚22:00证词，美债市场紧盯新信号",
+          "url": "https://flash.jin10.com/detail/20260915184639658800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "美联储决议前夕 全球债市抛售加剧：10年期美债收益率创2007年来新高",
+          "url": "https://www.cls.cn/detail/2483760",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "美债收益率高企吸引力上升 美国投资咨询公司Marsh上调美债配置至中性",
+          "url": "https://wallstreetcn.com/livenews/3165470",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时08分"
+        },
+        {
+          "title": "机构：美债收益率上升为延长久期提供契机",
+          "url": "https://flash.jin10.com/detail/20260915131109953800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时51分"
+        },
+        {
+          "title": "两年期美债收益率六天涨超28个基点，10年期收益率一度创2023年以来新高",
+          "url": "https://wallstreetcn.com/livenews/3165034",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时31分"
         }
       ]
     },
@@ -745,101 +913,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "AI开发放缓担忧升温，美股指全线收跌，芯片指数大跌近6%，10年期美债收益率一度涨破5%",
-          "url": "https://wallstreetcn.com/articles/3781670",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时18分 ~ 13时51分]"
-        },
-        {
-          "title": "AI开发放缓担忧升温，美股低开，费城半导体指数跌6%，10年期美债收益率三年来首破5%，布油涨破109",
-          "url": "https://wallstreetcn.com/articles/3781670",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时45分 ~ 05时31分]"
-        },
-        {
-          "title": "10年期美债收益率冲破5%！华尔街上调收益率预期，神准分析师：抛售还没结束",
-          "url": "https://wallstreetcn.com/articles/3781729",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时18分 ~ 13时51分]"
-        },
-        {
-          "title": "10年期美债突破5%！“两种叙事”萦绕市场：“2023年式短暂见顶”还是“2000年代式引爆金融危机”",
-          "url": "https://wallstreetcn.com/articles/3781749",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 13时51分]"
-        },
-        {
-          "title": "这一天终于还是来了：10年期美债收益率升穿5%！",
-          "url": "https://www.cls.cn/detail/2482972",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 13时51分]"
-        },
-        {
-          "title": "10 年期美债突破「5% 收益率关口」，全球债市抛售潮是否将加速，加息预期下的市场何去何从？",
-          "url": "https://www.zhihu.com/question/2082958818607220656",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 13时51分]"
-        },
-        {
-          "title": "机构：美债收益率上升为延长久期提供契机",
-          "url": "https://flash.jin10.com/detail/20260915131109953800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时51分"
-        },
-        {
-          "title": "两年期美债收益率六天涨超28个基点，10年期收益率一度创2023年以来新高",
-          "url": "https://wallstreetcn.com/livenews/3165034",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时31分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 4,
       "titles": [
@@ -883,7 +956,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时51分"
         }
@@ -954,11 +1027,12 @@
           "url": "https://www.zhihu.com/question/2083123101873844765",
           "source": "知乎",
           "ranks": [
-            14
+            14,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时50分 ~ 13时51分]"
+          "appearance_count": 3,
+          "time_info": "[13时50分 ~ 19时08分]"
         }
       ]
     },
