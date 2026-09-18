@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-18T15:05:25.719271+08:00",
-  "total_titles_processed": 788,
+  "generated_at": "2026-09-18T20:44:10.857872+08:00",
+  "total_titles_processed": 1009,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 21,
       "titles": [
         {
           "title": "加拿大出绝招“跳槽”欧盟，特朗普万没想到",
@@ -32,6 +32,17 @@
           "time_info": "[03时34分 ~ 06时41分]"
         },
         {
+          "title": "特朗普为何劝乌克兰停手",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%BA%E4%BD%95%E5%8A%9D%E4%B9%8C%E5%85%8B%E5%85%B0%E5%81%9C%E6%89%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 20时44分]"
+        },
+        {
           "title": "打脸特朗普！美联储全票通过三年来首次加息，点阵图料年内还将加一次",
           "url": "https://wallstreetcn.com/articles/3781919",
           "source": "华尔街见闻",
@@ -53,6 +64,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[09时03分 ~ 15时05分]"
+        },
+        {
+          "title": "李在明：特朗普金正恩数月内或会晤",
+          "url": "https://www.toutiao.com/trending/7686804726591065663/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 20时44分]"
         },
         {
           "title": "特朗普称美军在波兰新基地计划取得“重大进展”",
@@ -223,7 +245,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 15,
+      "match_count": 17,
       "titles": [
         {
           "title": "“以色列、伊朗、俄罗斯、北约的代表都坐在同一个厅里”",
@@ -235,6 +257,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时34分 ~ 06时41分]"
+        },
+        {
+          "title": "美国务院放话：绝不允许伊朗官员在纽约大肆购物",
+          "url": "https://news.ifeng.com/c/8wWSrZx65OL",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 20时44分]"
         },
         {
           "title": "据伊朗法尔斯通讯社：非官方消息称，沙特吉达市的警报响起，机场航班已暂停。该市的防空系统已启动。",
@@ -257,6 +290,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
+        },
+        {
+          "title": "联合国调查团：美国袭击伊朗米纳卜小学和一体育设施构成战争罪",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34094739",
+          "source": "澎湃新闻",
+          "ranks": [
+            12,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时05分 ~ 20时44分]"
+        },
+        {
+          "title": "中俄投反对票，伊朗表态",
+          "url": "https://news.ifeng.com/c/8wWKwI00hTf",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 20时44分]"
         },
         {
           "title": "伊朗称打击一试图穿越霍尔木兹海峡的油轮",
@@ -290,17 +346,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时34分"
-        },
-        {
-          "title": "联合国调查团：美国袭击伊朗米纳卜小学和一体育设施构成战争罪",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34094739",
-          "source": "澎湃新闻",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时05分"
         },
         {
           "title": "美国批准伊朗总统和外长赴纽约参加联大",
@@ -394,7 +439,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "美联储加息后，美股哪些板块更“抗压”？历史指向能源与科技",
@@ -433,6 +478,17 @@
           "time_info": "[06时41分 ~ 15时05分]"
         },
         {
+          "title": "昂跑美股盘前涨超7%，耐克跌超1%，报道称法国足球运动员姆巴佩签约昂跑，此举对耐克构成打击。",
+          "url": "https://wallstreetcn.com/livenews/3167324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "加息冲击暂缓 美股三大期指均涨超1% 布油跌近4% | 今夜看点",
           "url": "https://www.cls.cn/detail/2486467",
           "source": "财联社热门",
@@ -455,6 +511,17 @@
           "time_info": "03时34分"
         },
         {
+          "title": "奈飞美股盘前跌超3%，富国银行将该股评级从“中性”下调至“减持”，目标价从80美元下调至57美元。",
+          "url": "https://wallstreetcn.com/livenews/3167320",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
+        },
+        {
           "title": "美股飙涨！Arm涨超8%英特尔涨超7%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E9%A3%99%E6%B6%A8%EF%BC%81Arm%E6%B6%A8%E8%B6%858%25%E8%8B%B1%E7%89%B9%E5%B0%94%E6%B6%A8%E8%B6%857%25",
           "source": "百度热搜",
@@ -464,6 +531,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时03分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "人民币兑美元再破 6.7，美国加息、美元走强、美债收益率上行背景下，为何人民币汇率不跌反涨？",
+          "url": "https://www.zhihu.com/question/2084231179130164816",
+          "source": "知乎",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[20时43分 ~ 20时44分]"
+        },
+        {
+          "title": "美债价格反弹，市场选择“暂时相信”沃什",
+          "url": "https://wallstreetcn.com/articles/3782002",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时41分 ~ 15时05分]"
+        },
+        {
+          "title": "用鹰派加息终结质疑！一文读懂：沃什成功拯救美债了吗？",
+          "url": "https://www.cls.cn/detail/2486715",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "15时05分"
+        },
+        {
+          "title": "10年期美债收益率跌超9个基点，追随国际油价走低的表现",
+          "url": "https://wallstreetcn.com/livenews/3167011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时41分"
+        },
+        {
+          "title": "长期美债收益率回落，黄金超跌反弹，上方关键位在哪？金十研究员Steven正在直播，立即观看>><font class=\"important-text\"></font>",
+          "url": "https://flash.jin10.com/detail/20260918201600473800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时44分"
         }
       ]
     },
@@ -507,46 +636,6 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美债价格反弹，市场选择“暂时相信”沃什",
-          "url": "https://wallstreetcn.com/articles/3782002",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时41分 ~ 15时05分]"
-        },
-        {
-          "title": "用鹰派加息终结质疑！一文读懂：沃什成功拯救美债了吗？",
-          "url": "https://www.cls.cn/detail/2486715",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时05分"
-        },
-        {
-          "title": "10年期美债收益率跌超9个基点，追随国际油价走低的表现",
-          "url": "https://wallstreetcn.com/livenews/3167011",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
@@ -555,11 +644,12 @@
           "url": "https://wallstreetcn.com/articles/3782055",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "15时05分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时05分 ~ 20时44分]"
         },
         {
           "title": "谷歌：我们正在使用新的测试框架更新Gemini托管代理。 antigravity‑preview‑09‑2026版本为Google AI Studio以及交互API带来相关工具与行为能力。",
