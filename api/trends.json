@@ -1,306 +1,11 @@
 {
-  "generated_at": "2026-09-20T13:45:15.984142+08:00",
-  "total_titles_processed": 690,
+  "generated_at": "2026-09-20T18:40:52.426459+08:00",
+  "total_titles_processed": 895,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 25,
-      "titles": [
-        {
-          "title": "“特朗普要对欧洲下狠手：拟撤走一半美军”",
-          "url": "https://news.ifeng.com/c/8wYTU4GPY51",
-          "source": "凤凰网",
-          "ranks": [
-            3,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 08时40分]"
-        },
-        {
-          "title": "特朗普：已与丹麦达成协议 美国获得对格陵兰岛的永久安全控制权",
-          "url": "https://www.cls.cn/detail/2487690",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            5,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 08时40分]"
-        },
-        {
-          "title": "特朗普提前返回白宫，确切原因不明",
-          "url": "https://original.ifeng.com/c/8wZIQaL65A7",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 13时45分]"
-        },
-        {
-          "title": "特朗普究竟是如何逼迫丹麦同意格陵兰协议的？",
-          "url": "https://news.ifeng.com/c/8wZAjw655ET",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 13时45分]"
-        },
-        {
-          "title": "特朗普禁止CNN等多家媒体进入白宫：他们不断报道假新闻",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34102730",
-          "source": "澎湃新闻",
-          "ranks": [
-            10,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 08时40分]"
-        },
-        {
-          "title": "特朗普称美国将获得对格陵兰岛安全「永久控制权」，丹麦称下周签署协议，保留主权，这是变相拿下格陵兰了吗？",
-          "url": "https://www.zhihu.com/question/2084546841962603642",
-          "source": "知乎",
-          "ranks": [
-            16,
-            11,
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 08时40分]"
-        },
-        {
-          "title": "特朗普要禁CNN进白宫采访，再点名威胁《纽约时报》",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34102731",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            15,
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[01时47分 ~ 08时40分]"
-        },
-        {
-          "title": "美国总统特朗普：美国保守派记者马修·康蒂内蒂（Matthew Continetti）在马克·莱文节目中关于所谓“AI灾难骗局”的访谈表现非常出色。",
-          "url": "https://flash.jin10.com/detail/20260920131649591800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "特朗普称伊朗战争将很快结束 丹麦和格陵兰岛将与美签安全协议 | 环球市场",
-          "url": "https://www.cls.cn/detail/2487698",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 06时42分]"
-        },
-        {
-          "title": "特朗普：对伊战争将很快结束 美国正与也门胡塞武装接触",
-          "url": "https://www.cls.cn/detail/2487749",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时47分 ~ 06时42分]"
-        },
-        {
-          "title": "市场消息：美国F-16战机拦截一架违反戴维营禁飞区规定的飞机。当时美国总统特朗普正在戴维营内活动。",
-          "url": "https://flash.jin10.com/detail/20260920033313637800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            13,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时05分 ~ 08时40分]"
-        },
-        {
-          "title": "特朗普称不会限制AI发展 将设立“AI沙皇”负责监管",
-          "url": "https://flash.jin10.com/detail/20260920011703437800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时48分 ~ 04时05分]"
-        },
-        {
-          "title": "特朗普宣布美国丹麦达成格陵兰协议，美将获该岛“永久安全控制权”",
-          "url": "https://wallstreetcn.com/articles/3782114",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时47分 ~ 04时05分]"
-        },
-        {
-          "title": "伊朗已向美方提出停战条件 等待特朗普政府回应",
-          "url": "https://www.cls.cn/detail/2487946",
-          "source": "财联社热门",
-          "ranks": [
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时40分 ~ 13时45分]"
-        },
-        {
-          "title": "特朗普在戴维营期间 一架飞机闯入禁飞区遭F-16拦截",
-          "url": "https://flash.jin10.com/detail/20260920034909374800",
-          "source": "金十数据",
-          "ranks": [
-            9,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 08时40分]"
-        },
-        {
-          "title": "特朗普称将组建一支“人工智能部队”",
-          "url": "https://wallstreetcn.com/livenews/3167727",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 08时40分]"
-        },
-        {
-          "title": "特朗普称不会限制AI发展 并将成立“AI特别工作组”",
-          "url": "https://www.cls.cn/detail/2487942",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 13时45分]"
-        },
-        {
-          "title": "伊朗称仍在通过调解方向美方传递谈判条件，正等待特朗普的回应",
-          "url": "https://wallstreetcn.com/livenews/3167726",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时42分 ~ 08时40分]"
-        },
-        {
-          "title": "美国总统特朗普：计划成立“人工智能工作组”，并将在未来任命一名负责AI事务的“AI沙皇”。",
-          "url": "https://flash.jin10.com/detail/20260920011442886800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "胡塞武装打到利雅得！沙特首都首次拉响空袭警报，特朗普会出手吗？",
-          "url": "https://flash.jin10.com/detail/20260920122940307800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "伊朗称已通过卡塔尔向华盛顿转达谈判三大条件 等待特朗普决定",
-          "url": "https://flash.jin10.com/detail/20260920001331263800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "美国国防部长赫格塞思：如果你挑战美国武装力量，失败将是你的结局。在特朗普领导下，世界已经了解到，我们作战只为获胜。",
-          "url": "https://flash.jin10.com/detail/20260919223830907800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "据CNN：CNN记者当地时间今早被拒绝进入白宫，其记者证也被收走。此前一天，特朗普宣布将“禁止”CNN、MS NOW和Politico媒体进入。",
-          "url": "https://flash.jin10.com/detail/20260919220433327800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        },
-        {
-          "title": "特朗普提前返回白宫",
-          "url": "https://wallstreetcn.com/livenews/3167752",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时45分"
-        },
-        {
-          "title": "一周展望：黄金扛住加息盯4500，特朗普“大决定”将至，沙特危局升温",
-          "url": "https://flash.jin10.com/detail/20260919213004409800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时48分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 38,
       "titles": [
         {
           "title": "美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法，商务部回应",
@@ -311,8 +16,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时47分 ~ 13时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时47分 ~ 18时40分]"
         },
         {
           "title": "伊朗：佩达兰被处决",
@@ -320,11 +25,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 8,
-          "time_info": "[01时47分 ~ 13时45分]"
+          "appearance_count": 9,
+          "time_info": "[01时47分 ~ 18时40分]"
         },
         {
           "title": "伊朗消息人士：美方称已准备好与伊朗进行谈判",
@@ -371,6 +77,150 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时42分 ~ 08时40分]"
+        },
+        {
+          "title": "中国男篮不敌伊朗 亚运第4名收官",
+          "url": "https://www.toutiao.com/trending/7687546670476725786/",
+          "source": "今日头条",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗武装力量中央司令部表示，美国正计划在地区盟友获得许可的情况下采取针对伊朗的新行动，相关计划是在一次欧洲峰会上协调制定的。",
+          "url": "https://flash.jin10.com/detail/20260920183500631800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "伊朗称美国除接受伊朗条件别无选择",
+          "url": "https://wallstreetcn.com/livenews/3167796",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "中国男篮不敌伊朗男篮",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E4%BC%8A%E6%9C%97%E7%94%B7%E7%AF%AE%23&t=31&band_rank=2&Refer=top",
+          "source": "微博",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "中国U23男足0:0伊朗U23",
+          "url": "https://www.douyin.com/hot/2657642",
+          "source": "抖音",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "亚运会男篮铜牌赛，中国男篮 70-79 伊朗男篮，如何评价本场比赛？",
+          "url": "https://www.zhihu.com/question/2084935724428744525",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗武装力量中央司令部警告称，参与任何美国对伊朗袭击行动的地区国家，不应指望伊朗武装力量保持克制。任何美国袭击都将导致伊朗进行报复，“不会对美国基地和利益设置任何限制或考虑”。",
+          "url": "https://flash.jin10.com/detail/20260920183233066800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "中国男篮不敌伊朗无缘亚运铜牌",
+          "url": "https://www.douyin.com/hot/2658000",
+          "source": "抖音",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "亚运男足0-0伊朗",
+          "url": "https://search.bilibili.com/all?keyword=%E4%BA%9A%E8%BF%90%E7%94%B7%E8%B6%B30-0%E4%BC%8A%E6%9C%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "周末要闻汇总：伊朗向美国开出7项谈判条件；沈鼓集团部分投资者被暂停交易",
+          "url": "https://www.cls.cn/detail/2488155",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "中国男篮vs伊朗男篮",
+          "url": "https://s.weibo.com/weibo?q=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AEvs%E4%BC%8A%E6%9C%97%E7%94%B7%E7%AF%AE&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "伊朗最高安全官员：美国将离开 海湾国家应推动区域合作",
+          "url": "https://flash.jin10.com/detail/20260920182155014800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "中东突传大消息！伊方：获调解方告知，美国已准备好与伊朗进行谈判并达成协议，且“态度认真”",
+          "url": "https://wallstreetcn.com/articles/3782140",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 18时40分]"
         },
         {
           "title": "伊朗最高国家安全委员会秘书雷扎伊：伊朗向美国政府传达了启动任何谈判的七项条件。德黑兰的立场“明确且没有歧义”，如果华盛顿希望摆脱当前局势并避免进一步陷入困境，就必须接受伊朗提出的权利和条件。",
@@ -435,17 +285,6 @@
           "time_info": "[01时47分 ~ 04时05分]"
         },
         {
-          "title": "中东突传大消息！伊方：获调解方告知，美国已准备好与伊朗进行谈判并达成协议，且“态度认真”",
-          "url": "https://wallstreetcn.com/articles/3782140",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时44分 ~ 13时45分]"
-        },
-        {
           "title": "美方将《2026年格雷厄姆制裁俄罗斯和伊朗法案》签署成法，商务部回应",
           "url": "https://wallstreetcn.com/livenews/3167699",
           "source": "华尔街见闻-快讯",
@@ -470,6 +309,39 @@
           "time_info": "[01时48分 ~ 04时05分]"
         },
         {
+          "title": "伊朗7个谈判条件曝光，增加了1项新内容",
+          "url": "https://original.ifeng.com/c/8wZarodPVy4",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "五角大楼调查人员：美一系列失误致伊朗小学遭袭",
+          "url": "https://flash.jin10.com/detail/20260920181903572800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "中国男篮铜牌战不敌伊朗 无缘领奖台",
+          "url": "https://www.baidu.com/s?wd=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E9%93%9C%E7%89%8C%E6%88%98%E4%B8%8D%E6%95%8C%E4%BC%8A%E6%9C%97+%E6%97%A0%E7%BC%98%E9%A2%86%E5%A5%96%E5%8F%B0",
+          "source": "百度热搜",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
           "title": "伊朗外交部发言人巴加埃：巴基斯坦内政部长的访问将围绕伊朗和巴基斯坦双边关系展开，并不涉及传递任何关于斡旋的特别信息。",
           "url": "https://flash.jin10.com/detail/20260920010044663800",
           "source": "金十数据",
@@ -479,6 +351,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时48分"
+        },
+        {
+          "title": "伊朗称美国除接受伊朗条件别无选择",
+          "url": "https://flash.jin10.com/detail/20260920175814870800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "伊议长：伊朗条件得到满足前霍尔木兹海峡将保持关闭",
+          "url": "https://wallstreetcn.com/livenews/3167783",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "伊朗最高安全官员：伊朗也保护了阿拉伯国家",
+          "url": "https://flash.jin10.com/detail/20260920174821481800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
         },
         {
           "title": "伊朗消息人士：美方称已准备好与伊朗进行谈判",
@@ -512,6 +417,369 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时05分"
+        },
+        {
+          "title": "U23国足战平伊朗",
+          "url": "https://www.toutiao.com/trending/7687508697869716998/",
+          "source": "今日头条",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "伊朗最高安全官员：若美国认真就派地面部队进入伊朗",
+          "url": "https://flash.jin10.com/detail/20260920172605717800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 29,
+      "titles": [
+        {
+          "title": "“特朗普要对欧洲下狠手：拟撤走一半美军”",
+          "url": "https://news.ifeng.com/c/8wYTU4GPY51",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 08时40分]"
+        },
+        {
+          "title": "特朗普：已与丹麦达成协议 美国获得对格陵兰岛的永久安全控制权",
+          "url": "https://www.cls.cn/detail/2487690",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 08时40分]"
+        },
+        {
+          "title": "特朗普提前返回白宫，确切原因不明",
+          "url": "https://original.ifeng.com/c/8wZIQaL65A7",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 18时40分]"
+        },
+        {
+          "title": "特朗普究竟是如何逼迫丹麦同意格陵兰协议的？",
+          "url": "https://news.ifeng.com/c/8wZAjw655ET",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时44分 ~ 13时45分]"
+        },
+        {
+          "title": "特朗普禁止CNN等多家媒体进入白宫：他们不断报道假新闻",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34102730",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 08时40分]"
+        },
+        {
+          "title": "特朗普称美国将获得对格陵兰岛安全「永久控制权」，丹麦称下周签署协议，保留主权，这是变相拿下格陵兰了吗？",
+          "url": "https://www.zhihu.com/question/2084546841962603642",
+          "source": "知乎",
+          "ranks": [
+            16,
+            11,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 08时40分]"
+        },
+        {
+          "title": "特朗普要禁CNN进白宫采访，再点名威胁《纽约时报》",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34102731",
+          "source": "澎湃新闻",
+          "ranks": [
+            13,
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时47分 ~ 08时40分]"
+        },
+        {
+          "title": "美国和丹麦都宣布“赢了”，特朗普的协议有哪些变化？",
+          "url": "https://news.ifeng.com/c/8wZn77TYY38",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "美国总统特朗普：美国保守派记者马修·康蒂内蒂（Matthew Continetti）在马克·莱文节目中关于所谓“AI灾难骗局”的访谈表现非常出色。",
+          "url": "https://flash.jin10.com/detail/20260920131649591800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "特朗普吼一嗓子《格陵兰岛协议》，中方就“笑不出来了”？",
+          "url": "https://news.ifeng.com/c/8wZnFcitScK",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "特朗普称伊朗战争将很快结束 丹麦和格陵兰岛将与美签安全协议 | 环球市场",
+          "url": "https://www.cls.cn/detail/2487698",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时47分 ~ 06时42分]"
+        },
+        {
+          "title": "特朗普：对伊战争将很快结束 美国正与也门胡塞武装接触",
+          "url": "https://www.cls.cn/detail/2487749",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时47分 ~ 06时42分]"
+        },
+        {
+          "title": "市场消息：美国F-16战机拦截一架违反戴维营禁飞区规定的飞机。当时美国总统特朗普正在戴维营内活动。",
+          "url": "https://flash.jin10.com/detail/20260920033313637800",
+          "source": "金十数据",
+          "ranks": [
+            4,
+            13,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[04时05分 ~ 08时40分]"
+        },
+        {
+          "title": "特朗普称不会限制AI发展 将设立“AI沙皇”负责监管",
+          "url": "https://flash.jin10.com/detail/20260920011703437800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时48分 ~ 04时05分]"
+        },
+        {
+          "title": "伊朗已向美方提出停战条件 等待特朗普政府回应",
+          "url": "https://www.cls.cn/detail/2487946",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            10,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时40分 ~ 18时40分]"
+        },
+        {
+          "title": "特朗普宣布美国丹麦达成格陵兰协议，美将获该岛“永久安全控制权”",
+          "url": "https://wallstreetcn.com/articles/3782114",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时47分 ~ 04时05分]"
+        },
+        {
+          "title": "特朗普称不会限制AI发展 并将成立“AI特别工作组”",
+          "url": "https://www.cls.cn/detail/2487942",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[13时44分 ~ 18时40分]"
+        },
+        {
+          "title": "特朗普在戴维营期间 一架飞机闯入禁飞区遭F-16拦截",
+          "url": "https://flash.jin10.com/detail/20260920034909374800",
+          "source": "金十数据",
+          "ranks": [
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 08时40分]"
+        },
+        {
+          "title": "特朗普称将组建一支“人工智能部队”",
+          "url": "https://wallstreetcn.com/livenews/3167727",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 08时40分]"
+        },
+        {
+          "title": "伊朗称仍在通过调解方向美方传递谈判条件，正等待特朗普的回应",
+          "url": "https://wallstreetcn.com/livenews/3167726",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时42分 ~ 08时40分]"
+        },
+        {
+          "title": "美国总统特朗普：计划成立“人工智能工作组”，并将在未来任命一名负责AI事务的“AI沙皇”。",
+          "url": "https://flash.jin10.com/detail/20260920011442886800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "胡塞武装打到利雅得！沙特首都首次拉响空袭警报，特朗普会出手吗？",
+          "url": "https://flash.jin10.com/detail/20260920122940307800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-09-20）",
+          "url": "https://flash.jin10.com/detail/20260920181318150800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "特朗普要组建“人工智能部队”，此前称“AI安全风险”是“骗局”",
+          "url": "https://wallstreetcn.com/articles/3782144",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时40分"
+        },
+        {
+          "title": "伊朗称已通过卡塔尔向华盛顿转达谈判三大条件 等待特朗普决定",
+          "url": "https://flash.jin10.com/detail/20260920001331263800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "美国国防部长赫格塞思：如果你挑战美国武装力量，失败将是你的结局。在特朗普领导下，世界已经了解到，我们作战只为获胜。",
+          "url": "https://flash.jin10.com/detail/20260919223830907800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "据CNN：CNN记者当地时间今早被拒绝进入白宫，其记者证也被收走。此前一天，特朗普宣布将“禁止”CNN、MS NOW和Politico媒体进入。",
+          "url": "https://flash.jin10.com/detail/20260919220433327800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
+        },
+        {
+          "title": "特朗普提前返回白宫",
+          "url": "https://wallstreetcn.com/livenews/3167752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时45分"
+        },
+        {
+          "title": "一周展望：黄金扛住加息盯4500，特朗普“大决定”将至，沙特危局升温",
+          "url": "https://flash.jin10.com/detail/20260919213004409800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时48分"
         }
       ]
     },
