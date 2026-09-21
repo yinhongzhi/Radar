@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-21T14:09:01.009524+08:00",
-  "total_titles_processed": 779,
+  "generated_at": "2026-09-21T21:39:14.723300+08:00",
+  "total_titles_processed": 1009,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 31,
+      "match_count": 36,
       "titles": [
         {
           "title": "周末要闻汇总：伊朗向美国开出7项谈判条件；沈鼓集团部分投资者被暂停交易",
@@ -32,6 +32,19 @@
           "time_info": "[01时58分 ~ 09时01分]"
         },
         {
+          "title": "中国男篮不敌伊朗无缘领奖台",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365000&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E4%BC%8A%E6%9C%97%E6%97%A0%E7%BC%98%E9%A2%86%E5%A5%96%E5%8F%B0",
+          "source": "贴吧",
+          "ranks": [
+            9,
+            10,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 11,
+          "time_info": "[01时58分 ~ 21时39分]"
+        },
+        {
           "title": "亚运会男篮铜牌赛，中国男篮 70-79 伊朗男篮，如何评价本场比赛？",
           "url": "https://www.zhihu.com/question/2084935724428744525",
           "source": "知乎",
@@ -55,18 +68,6 @@
           "time_info": "[01时58分 ~ 07时00分]"
         },
         {
-          "title": "中国男篮不敌伊朗无缘领奖台",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365000&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E4%BC%8A%E6%9C%97%E6%97%A0%E7%BC%98%E9%A2%86%E5%A5%96%E5%8F%B0",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时58分 ~ 14时09分]"
-        },
-        {
           "title": "中国男篮铜牌战不敌伊朗，无缘爱知·名古屋亚运会领奖台",
           "url": "https://m.thepaper.cn/newsDetail_forward_34109298",
           "source": "澎湃新闻",
@@ -79,6 +80,17 @@
           "is_new": false,
           "appearance_count": 9,
           "time_info": "[01时58分 ~ 14时09分]"
+        },
+        {
+          "title": "伊朗称在霍尔木兹海峡击落一架美军MQ-1无人机",
+          "url": "https://wallstreetcn.com/livenews/3168339",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "伊朗7个谈判条件曝光，增加了1项新内容",
@@ -225,6 +237,17 @@
           "time_info": "[01时59分 ~ 04时35分]"
         },
         {
+          "title": "伊朗总统22日赴美出席联合国大会",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F22%E6%97%A5%E8%B5%B4%E7%BE%8E%E5%87%BA%E5%B8%AD%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 21时39分]"
+        },
+        {
           "title": "据伊朗媒体Fars News：胡塞武装领导人马赫迪·穆沙特宣布，沙特领导的盟军已被赶出也门西部沿海所有地区。",
           "url": "https://flash.jin10.com/detail/20260921011756970800",
           "source": "金十数据",
@@ -234,6 +257,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时59分"
+        },
+        {
+          "title": "分析人士：伊朗谈判意愿受制约",
+          "url": "https://flash.jin10.com/detail/20260921212910105800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "伊朗总统拟于周三在联大发表讲话",
@@ -275,7 +309,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -289,6 +323,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时35分"
+        },
+        {
+          "title": "伊朗3至6月经济同比萎缩逾10%",
+          "url": "https://wallstreetcn.com/livenews/3168318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         },
         {
           "title": "卡塔尔称美国希望与伊朗达成协议",
@@ -308,7 +353,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -341,7 +386,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         },
@@ -363,15 +408,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
+        },
+        {
+          "title": "美国财政部长贝森特谈利率：伊朗冲突结束后应下调。 因目前处于流动性不足时期，刚刚提高回购规模。 认为收益率正在偏离均衡。 自扩大回购以来，美国30年期国债收益率升幅不大。 不会透露是否同意美联储加息。 相信沃什会正确履行美联储的职责。",
+          "url": "https://wallstreetcn.com/livenews/3168304",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 27,
       "titles": [
         {
           "title": "美国和丹麦都宣布“赢了”，特朗普的协议有哪些变化？",
@@ -383,6 +439,18 @@
           "is_new": false,
           "appearance_count": 7,
           "time_info": "[01时58分 ~ 09时01分]"
+        },
+        {
+          "title": "五角大楼“披萨指数”飙升！特朗普提前返回白宫",
+          "url": "https://news.ifeng.com/c/8wam18kkida",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时00分 ~ 21时39分]"
         },
         {
           "title": "特朗普吼一嗓子《格陵兰岛协议》，中方就“笑不出来了”？",
@@ -409,16 +477,15 @@
           "time_info": "[01时58分 ~ 14时09分]"
         },
         {
-          "title": "五角大楼“披萨指数”飙升！特朗普提前返回白宫",
-          "url": "https://news.ifeng.com/c/8wam18kkida",
+          "title": "特朗普政府誓要搞垮国际刑事法院，“正酝酿全面制裁”",
+          "url": "https://news.ifeng.com/c/8wb657JvMmu",
           "source": "凤凰网",
           "ranks": [
-            5,
-            2
+            5
           ],
           "is_new": false,
           "appearance_count": 4,
-          "time_info": "[09时00分 ~ 14时09分]"
+          "time_info": "[14时08分 ~ 21时39分]"
         },
         {
           "title": "特朗普中期选举前景生变：传统“红州”告急，拉美裔支持度下滑",
@@ -458,15 +525,15 @@
           "time_info": "[04时35分 ~ 14时09分]"
         },
         {
-          "title": "特朗普政府誓要搞垮国际刑事法院，“正酝酿全面制裁”",
-          "url": "https://news.ifeng.com/c/8wb657JvMmu",
+          "title": "美媒称特朗普下令空袭胡塞后又变卦",
+          "url": "https://news.ifeng.com/c/8wbLU7n9HHo",
           "source": "凤凰网",
           "ranks": [
-            5
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[14时08分 ~ 14时09分]"
+          "time_info": "[21时38分 ~ 21时39分]"
         },
         {
           "title": "特朗普：也门胡塞武装同意不与美国交战",
@@ -632,6 +699,17 @@
           "time_info": "04时35分"
         },
         {
+          "title": "据路透社：四位消息人士透露，美国总统特朗普于周日通过电话与也门总统进行了交谈。也门总统请求美国支持政府对抗胡塞武装，美国总统特朗普未承诺提供军事支持。",
+          "url": "https://flash.jin10.com/detail/20260921212711589800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
           "title": "据华尔街日报：特朗普政府准备对国际刑事法院实施制裁。",
           "url": "https://flash.jin10.com/detail/20260921023216745800",
           "source": "金十数据",
@@ -668,7 +746,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "美股三大股指期货集体拉升",
@@ -693,6 +771,17 @@
           "time_info": "09时01分"
         },
         {
+          "title": "油价回落提振风险偏好 美股期指走高 纳指期货涨1% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2489316",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时38分 ~ 21时39分]"
+        },
+        {
           "title": "高盛：AI投资热贡献美股近半数盈利增长 但明年这一动力将逐渐消失…",
           "url": "https://www.cls.cn/detail/2488257",
           "source": "财联社热门",
@@ -713,12 +802,74 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时00分"
+        },
+        {
+          "title": "美股三大指数高开 科技股领涨",
+          "url": "https://flash.jin10.com/detail/20260921213023088800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "周一美股盘前你需要了解的全球要闻",
+          "url": "https://wallstreetcn.com/livenews/3168327",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "疑谷歌 Gemini4Pro 「偷跑」上线，网传碾压 GPT-6Astra，如何评价？",
+          "url": "https://www.zhihu.com/question/2084432664535241222",
+          "source": "知乎",
+          "ranks": [
+            7,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时58分 ~ 04时35分]"
+        },
+        {
+          "title": "高通：与谷歌合作，将骁龙X Elite平台引入首批Googlebook笔记本电脑。",
+          "url": "https://wallstreetcn.com/livenews/3168332",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
+        },
+        {
+          "title": "谷歌瞄准高端笔记本市场，推出售价899美元的Googlebook",
+          "url": "https://flash.jin10.com/detail/20260921211559054800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "OpenAI又要融资了：1.2万亿美元估值，谁还敢接下一棒？",
@@ -742,24 +893,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时58分 ~ 01时59分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
+        },
         {
-          "title": "疑谷歌 Gemini4Pro 「偷跑」上线，网传碾压 GPT-6Astra，如何评价？",
-          "url": "https://www.zhihu.com/question/2084432664535241222",
-          "source": "知乎",
+          "title": "美国财长贝森特：OpenAI管理层需对Hugging Face事件负责。",
+          "url": "https://wallstreetcn.com/livenews/3168301",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7,
-            5
+            30
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 04时35分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时39分"
         }
       ]
     },
@@ -774,7 +918,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时09分"
         }
