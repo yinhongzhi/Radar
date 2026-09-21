@@ -1,926 +1,211 @@
 {
-  "generated_at": "2026-09-21T21:39:14.723300+08:00",
-  "total_titles_processed": 1009,
+  "generated_at": "2026-09-22T03:05:26.734934+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 36,
+      "keyword_group": "特朗普",
+      "match_count": 9,
       "titles": [
         {
-          "title": "周末要闻汇总：伊朗向美国开出7项谈判条件；沈鼓集团部分投资者被暂停交易",
-          "url": "https://www.cls.cn/detail/2488155",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时58分 ~ 09时01分]"
-        },
-        {
-          "title": "中东突传大消息！伊方：获调解方告知，美国已准备好与伊朗进行谈判并达成协议，且“态度认真”",
-          "url": "https://wallstreetcn.com/articles/3782140",
-          "source": "华尔街见闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时58分 ~ 09时01分]"
-        },
-        {
-          "title": "中国男篮不敌伊朗无缘领奖台",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365000&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E4%BC%8A%E6%9C%97%E6%97%A0%E7%BC%98%E9%A2%86%E5%A5%96%E5%8F%B0",
-          "source": "贴吧",
-          "ranks": [
-            9,
-            10,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 11,
-          "time_info": "[01时58分 ~ 21时39分]"
-        },
-        {
-          "title": "亚运会男篮铜牌赛，中国男篮 70-79 伊朗男篮，如何评价本场比赛？",
-          "url": "https://www.zhihu.com/question/2084935724428744525",
-          "source": "知乎",
-          "ranks": [
-            1,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 07时00分]"
-        },
-        {
-          "title": "伊朗在边境地区部署大规模部队",
-          "url": "https://news.ifeng.com/c/8wa4OY8Scmy",
+          "title": "特朗普政府誓要搞垮国际刑事法院，“正酝酿全面制裁”",
+          "url": "https://news.ifeng.com/c/8wb657JvMmu",
           "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 07时00分]"
-        },
-        {
-          "title": "中国男篮铜牌战不敌伊朗，无缘爱知·名古屋亚运会领奖台",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34109298",
-          "source": "澎湃新闻",
-          "ranks": [
-            13,
-            12,
-            11,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时58分 ~ 14时09分]"
-        },
-        {
-          "title": "伊朗称在霍尔木兹海峡击落一架美军MQ-1无人机",
-          "url": "https://wallstreetcn.com/livenews/3168339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "21时39分"
+          "time_info": "03时05分"
         },
         {
-          "title": "伊朗7个谈判条件曝光，增加了1项新内容",
-          "url": "https://original.ifeng.com/c/8wZarodPVy4",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 07时00分]"
-        },
-        {
-          "title": "法国外交部：法国将首先召见伊朗大使。",
-          "url": "https://flash.jin10.com/detail/20260921035148660800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 07时00分]"
-        },
-        {
-          "title": "法国外交部：在伊朗关闭德黑兰语言中心后，法国将采取适当措施回应。",
-          "url": "https://flash.jin10.com/detail/20260921035107198800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 07时00分]"
-        },
-        {
-          "title": "法国外交部：谴责伊朗当局关闭法国驻德黑兰语言中心的决定。",
-          "url": "https://flash.jin10.com/detail/20260921034944556800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 07时00分]"
-        },
-        {
-          "title": "伊朗军方称在霍尔木兹海峡上空击落一“轨道飞行器”无人机",
-          "url": "https://wallstreetcn.com/livenews/3167866",
+          "title": "巴西总统卢拉：若无法与美国达成贸易协议，我们将不得不采取对等反制措施。 已告知总统特朗普，美国不应干涉巴西大选。",
+          "url": "https://wallstreetcn.com/livenews/3168450",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            4,
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时00分 ~ 09时01分]"
-        },
-        {
-          "title": "报道：伊朗总统拟于周三在联大发表讲话",
-          "url": "https://wallstreetcn.com/livenews/3167865",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时00分 ~ 09时01分]"
-        },
-        {
-          "title": "伊朗队员：今天就想让国民能开心一些",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E9%98%9F%E5%91%98%EF%BC%9A%E4%BB%8A%E5%A4%A9%E5%B0%B1%E6%83%B3%E8%AE%A9%E5%9B%BD%E6%B0%91%E8%83%BD%E5%BC%80%E5%BF%83%E4%B8%80%E4%BA%9B",
-          "source": "百度热搜",
-          "ranks": [
-            18,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时58分 ~ 07时00分]"
-        },
-        {
-          "title": "中国U23男足0:0伊朗U23",
-          "url": "https://www.douyin.com/hot/2657642",
-          "source": "抖音",
-          "ranks": [
-            10,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[04时35分 ~ 07时00分]"
-        },
-        {
-          "title": "卡塔尔航空公司：伊朗战争是我司历史上面临的“头等危机”。",
-          "url": "https://wallstreetcn.com/livenews/3167838",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12,
-            13,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 07时00分]"
-        },
-        {
-          "title": "埃及总统：支持政治途径解决伊朗、巴勒斯坦问题",
-          "url": "https://wallstreetcn.com/livenews/3167825",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21,
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 04时35分]"
-        },
-        {
-          "title": "伊朗在边境地区部署大规模部队",
-          "url": "https://wallstreetcn.com/livenews/3167824",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22,
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 04时35分]"
-        },
-        {
-          "title": "卡塔尔首相Majed al Ansari：（与伊朗战争相关的）调停方的目标是阻止伊朗战争、开放霍尔木兹海峡。（彭博电视）",
-          "url": "https://wallstreetcn.com/livenews/3167819",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时59分 ~ 04时35分]"
-        },
-        {
-          "title": "伊朗总统22日赴美出席联合国大会",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F22%E6%97%A5%E8%B5%B4%E7%BE%8E%E5%87%BA%E5%B8%AD%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 21时39分]"
-        },
-        {
-          "title": "据伊朗媒体Fars News：胡塞武装领导人马赫迪·穆沙特宣布，沙特领导的盟军已被赶出也门西部沿海所有地区。",
-          "url": "https://flash.jin10.com/detail/20260921011756970800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时59分"
+          "time_info": "03时05分"
         },
         {
-          "title": "分析人士：伊朗谈判意愿受制约",
-          "url": "https://flash.jin10.com/detail/20260921212910105800",
-          "source": "金十数据",
+          "title": "美国总统特朗普周二将会见丹麦和格陵兰领导人。",
+          "url": "https://wallstreetcn.com/livenews/3168444",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "伊朗总统拟于周三在联大发表讲话",
-          "url": "https://flash.jin10.com/detail/20260921052509211800",
-          "source": "金十数据",
-          "ranks": [
-            11
+            14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时00分"
+          "time_info": "03时05分"
         },
         {
-          "title": "据塔斯尼姆通讯社：伊朗陆军公共关系部门表示，当地时间今天18时30分，一架“轨道器”（Orbiter）先进侦察无人机，在伊朗东南部地区、国家一体化防空网络覆盖下，被伊朗陆军防空部队国产防空系统火力打击，于霍尔木兹海峡上空被击落并坠毁。",
-          "url": "https://flash.jin10.com/detail/20260921010056148800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时59分"
-        },
-        {
-          "title": "据伊朗迈赫尔通讯社：也门消息人士称，沙特打击了也门北部的焦夫省。",
-          "url": "https://flash.jin10.com/detail/20260921045219719800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时00分"
-        },
-        {
-          "title": "巴基斯坦与伊朗协商通行，确保最新一批卡塔尔LNG到货",
-          "url": "https://flash.jin10.com/detail/20260921133240533800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "据伊朗国家媒体：伊朗外长阿拉格齐已离开德黑兰前往纽约，并将在卡塔尔短暂停留。",
-          "url": "https://flash.jin10.com/detail/20260921020829555800",
+          "title": "据路透社/益普索调查：仅有17%的美国人赞同美国总统特朗普对生活成本的处理。",
+          "url": "https://flash.jin10.com/detail/20260922021201898800",
           "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时35分"
+          "time_info": "03时05分"
         },
         {
-          "title": "伊朗3至6月经济同比萎缩逾10%",
-          "url": "https://wallstreetcn.com/livenews/3168318",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "卡塔尔称美国希望与伊朗达成协议",
-          "url": "https://flash.jin10.com/detail/20260921020743660800",
+          "title": "据路透社/益普索调查：共和党人对特朗普的支持率从一周前的82%降至73%。",
+          "url": "https://flash.jin10.com/detail/20260922021146841800",
           "source": "金十数据",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时35分"
+          "time_info": "03时05分"
         },
         {
-          "title": "伊朗革命卫队：胡塞武装、真主党不是伊朗的代理力量",
-          "url": "https://flash.jin10.com/detail/20260921132321247800",
+          "title": "据路透社/益普索调查：美国总统特朗普的支持率降至32%，创下其政治生涯来的最低水平。",
+          "url": "https://flash.jin10.com/detail/20260922021120939800",
           "source": "金十数据",
           "ranks": [
-            18
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "03时05分"
         },
         {
-          "title": "伊朗军方称在霍尔木兹海峡上空击落一“轨道飞行器”无人机",
-          "url": "https://flash.jin10.com/detail/20260921020204501800",
+          "title": "美国总统特朗普：我们刚刚从新建成的、非常漂亮的直升机停机坪起飞，开启白宫草坪的首次飞行。我要感谢洛克希德·马丁公司首席执行官吉姆·泰克莱特，他为我国做出了这一宝贵贡献。",
+          "url": "https://flash.jin10.com/detail/20260922021058219800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时35分"
+          "time_info": "03时05分"
         },
         {
-          "title": "伊朗否认与伊拉克航班全面停飞传闻",
-          "url": "https://flash.jin10.com/detail/20260921042103708800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时00分"
-        },
-        {
-          "title": "伊朗革命卫队发言人：今天美国的基地连自我保护的能力都没有了。",
-          "url": "https://flash.jin10.com/detail/20260921131515070800",
+          "title": "市场消息：美国总统特朗普周二将会见丹麦和格陵兰领导人。<br/>",
+          "url": "https://flash.jin10.com/detail/20260922020157404800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "03时05分"
         },
         {
-          "title": "卡利巴夫称美国霸权体系暴露脆弱性 伊朗已做好准备",
-          "url": "https://flash.jin10.com/detail/20260921013500218800",
-          "source": "金十数据",
+          "title": "特朗普回应中美元首会晤",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
           "ranks": [
-            25
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "伊朗：若再遭袭击，防御态势和反击行动将发生重大变化",
-          "url": "https://flash.jin10.com/detail/20260921131408525800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "14时09分"
-        },
-        {
-          "title": "美国财政部长贝森特谈利率：伊朗冲突结束后应下调。 因目前处于流动性不足时期，刚刚提高回购规模。 认为收益率正在偏离均衡。 自扩大回购以来，美国30年期国债收益率升幅不大。 不会透露是否同意美联储加息。 相信沃什会正确履行美联储的职责。",
-          "url": "https://wallstreetcn.com/livenews/3168304",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
+          "time_info": "03时05分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 27,
+      "keyword_group": "伊朗",
+      "match_count": 3,
       "titles": [
         {
-          "title": "美国和丹麦都宣布“赢了”，特朗普的协议有哪些变化？",
-          "url": "https://news.ifeng.com/c/8wZn77TYY38",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时58分 ~ 09时01分]"
-        },
-        {
-          "title": "五角大楼“披萨指数”飙升！特朗普提前返回白宫",
-          "url": "https://news.ifeng.com/c/8wam18kkida",
-          "source": "凤凰网",
-          "ranks": [
-            5,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[09时00分 ~ 21时39分]"
-        },
-        {
-          "title": "特朗普吼一嗓子《格陵兰岛协议》，中方就“笑不出来了”？",
-          "url": "https://news.ifeng.com/c/8wZnFcitScK",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 07时00分]"
-        },
-        {
-          "title": "五角大楼疑漏报美军死亡人数，美防长怒喷美媒“恨特朗普超过爱美国”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34108907",
-          "source": "澎湃新闻",
-          "ranks": [
-            14,
-            13,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 9,
-          "time_info": "[01时58分 ~ 14时09分]"
-        },
-        {
-          "title": "特朗普政府誓要搞垮国际刑事法院，“正酝酿全面制裁”",
-          "url": "https://news.ifeng.com/c/8wb657JvMmu",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[14时08分 ~ 21时39分]"
-        },
-        {
-          "title": "特朗普中期选举前景生变：传统“红州”告急，拉美裔支持度下滑",
-          "url": "https://news.ifeng.com/c/8wa2WYqhPkF",
-          "source": "凤凰网",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时58分 ~ 09时01分]"
-        },
-        {
-          "title": "特朗普说禁就禁：CNN记者现场被没收记者证，只留证件套",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34108031",
-          "source": "澎湃新闻",
-          "ranks": [
-            16,
-            14,
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[01时58分 ~ 09时01分]"
-        },
-        {
-          "title": "特朗普中期选举前景生变：传统“红州”告急，拉美裔支持度下滑",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34110440",
-          "source": "澎湃新闻",
-          "ranks": [
-            18,
-            17,
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 7,
-          "time_info": "[04时35分 ~ 14时09分]"
-        },
-        {
-          "title": "美媒称特朗普下令空袭胡塞后又变卦",
-          "url": "https://news.ifeng.com/c/8wbLU7n9HHo",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 21时39分]"
-        },
-        {
-          "title": "特朗普：也门胡塞武装同意不与美国交战",
-          "url": "https://wallstreetcn.com/livenews/3167850",
+          "title": "伊朗总统会见巴基斯坦内政部长 期待持续推动双边合作",
+          "url": "https://wallstreetcn.com/livenews/3168459",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5,
-            6,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 07时00分]"
-        },
-        {
-          "title": "消息人士：柴油价格成为特朗普与泽连斯基通话焦点",
-          "url": "https://flash.jin10.com/detail/20260921034920880800",
-          "source": "金十数据",
-          "ranks": [
-            5,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 07时00分]"
-        },
-        {
-          "title": "特朗普要组建“人工智能部队”，此前称“AI安全风险”是“骗局”",
-          "url": "https://wallstreetcn.com/articles/3782144",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 04时35分]"
-        },
-        {
-          "title": "特朗普称将对伊朗作出重大决定",
-          "url": "https://wallstreetcn.com/livenews/3167834",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15,
-            16,
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 07时00分]"
-        },
-        {
-          "title": "美国总统特朗普科技顾问Michael Kratsios：AI领袖们无需某个人来放慢（AI模型开发）节奏。 美国工具箱中有工具来应对AI安全问题。（福克斯新闻）",
-          "url": "https://wallstreetcn.com/livenews/3167830",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17,
-            18,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时59分 ~ 07时00分]"
-        },
-        {
-          "title": "特朗普：不排除与伊朗总统在联大会面",
-          "url": "https://original.ifeng.com/c/8wamMbA6Au7",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时00分 ~ 09时01分]"
-        },
-        {
-          "title": "中东和平现曙光？特朗普称将对伊朗作重大决定 卡塔尔称美国希望达成协议",
-          "url": "https://www.cls.cn/detail/2488469",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时08分 ~ 14时09分]"
-        },
-        {
-          "title": "哈塞特回应特朗普油价承诺 称政府已尽力降低影响",
-          "url": "https://flash.jin10.com/detail/20260921033031086800",
-          "source": "金十数据",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时35分 ~ 07时00分]"
-        },
-        {
-          "title": "泽连斯基称与特朗普通话，双方商定在纽约会晤",
-          "url": "https://wallstreetcn.com/livenews/3167862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时00分 ~ 09时01分]"
-        },
-        {
-          "title": "据纽约时报：美国总统特朗普将于当地时间9月21日（周一）在纽约市与纽约市长马姆达尼会面。",
-          "url": "https://flash.jin10.com/detail/20260921011454179800",
-          "source": "金十数据",
-          "ranks": [
-            7
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时59分"
+          "time_info": "03时05分"
         },
         {
-          "title": "泽连斯基称与特朗普通话 双方商定在纽约会晤",
-          "url": "https://flash.jin10.com/detail/20260921024209011800",
-          "source": "金十数据",
+          "title": "中国男篮不敌伊朗无缘领奖台",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365000&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E4%BC%8A%E6%9C%97%E6%97%A0%E7%BC%98%E9%A2%86%E5%A5%96%E5%8F%B0",
+          "source": "贴吧",
           "ranks": [
-            9
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "04时35分"
+          "time_info": "03时05分"
         },
         {
-          "title": "伊媒分析特朗普与伊朗总统的潜在会晤",
-          "url": "https://flash.jin10.com/detail/20260921055537003800",
+          "title": "伊朗革命卫队：美国和以色列政权必须认识到，他们迟早要接受一个没有他们邪恶和犯罪存在的地区，这一命运是无法逃避的。",
+          "url": "https://flash.jin10.com/detail/20260922020614867800",
           "source": "金十数据",
           "ranks": [
-            9
+            21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时00分"
-        },
-        {
-          "title": "特朗普政府拟扩大对国际刑事法院制裁措施",
-          "url": "https://flash.jin10.com/detail/20260921024136095800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "特朗普与纽约市长将于周一会面 讨论纽约事务",
-          "url": "https://flash.jin10.com/detail/20260921023837556800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "据路透社：四位消息人士透露，美国总统特朗普于周日通过电话与也门总统进行了交谈。也门总统请求美国支持政府对抗胡塞武装，美国总统特朗普未承诺提供军事支持。",
-          "url": "https://flash.jin10.com/detail/20260921212711589800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "据华尔街日报：特朗普政府准备对国际刑事法院实施制裁。",
-          "url": "https://flash.jin10.com/detail/20260921023216745800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "乌克兰总统泽连斯基：已与美国总统特朗普通话，双方同意在纽约举行会面。此次会面“可能改变很多事情”。",
-          "url": "https://flash.jin10.com/detail/20260921021802464800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时35分"
-        },
-        {
-          "title": "据Axios：美国总统特朗普将于周二在纽约会见乌克兰总统泽连斯基，此时正值美国努力达成俄乌局势降级协议之际。",
-          "url": "https://flash.jin10.com/detail/20260921043845369800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时00分"
+          "time_info": "03时05分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 2,
       "titles": [
         {
-          "title": "美股三大股指期货集体拉升",
-          "url": "https://www.toutiao.com/trending/7687271579075739654/",
-          "source": "今日头条",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时00分 ~ 09时01分]"
-        },
-        {
-          "title": "美股期货小幅走高，标普500指数期货上涨0.3%，纳斯达克100指数期货上涨0.4%。",
-          "url": "https://wallstreetcn.com/livenews/3167887",
-          "source": "华尔街见闻-快讯",
+          "title": "市场聚焦中美对话，美股高开，科技股普涨，英特尔涨超9%，油价四连跌",
+          "url": "https://wallstreetcn.com/articles/3782211",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "09时01分"
+          "time_info": "03时05分"
         },
         {
           "title": "油价回落提振风险偏好 美股期指走高 纳指期货涨1% | 今夜看点",
           "url": "https://www.cls.cn/detail/2489316",
           "source": "财联社热门",
           "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[21时38分 ~ 21时39分]"
-        },
-        {
-          "title": "高盛：AI投资热贡献美股近半数盈利增长 但明年这一动力将逐渐消失…",
-          "url": "https://www.cls.cn/detail/2488257",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[14时08分 ~ 14时09分]"
-        },
-        {
-          "title": "美股三大股指期货周一开盘微涨。",
-          "url": "https://flash.jin10.com/detail/20260921060139523800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时00分"
-        },
-        {
-          "title": "美股三大指数高开 科技股领涨",
-          "url": "https://flash.jin10.com/detail/20260921213023088800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "周一美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3168327",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
+          "time_info": "03时05分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 1,
       "titles": [
         {
-          "title": "疑谷歌 Gemini4Pro 「偷跑」上线，网传碾压 GPT-6Astra，如何评价？",
-          "url": "https://www.zhihu.com/question/2084432664535241222",
-          "source": "知乎",
-          "ranks": [
-            7,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时58分 ~ 04时35分]"
-        },
-        {
-          "title": "高通：与谷歌合作，将骁龙X Elite平台引入首批Googlebook笔记本电脑。",
-          "url": "https://wallstreetcn.com/livenews/3168332",
+          "title": "【Meta智能体Muse迅速走红，分析师称扎克伯格豪赌AI没有白费】Meta Platforms新推出的人工智能(AI)智能体Muse迅速登上移动应用排行榜榜首，显示这家社交媒体公司正在竞争日益激烈的消费者AI助手市场取得进展。 截至周一，Muse位居美国苹果iOS应用商店和Google Play免费应用榜首位。Sensor Tower的高级分析师Abe Yousef表示，在Meta于9月8日推出Muse后，六天内下载量累计超过90.2万次，而前一代产品Meta AI上线六天内的下载量为77.3万次。 Muse可以在Meta旗下WhatsApp使用，这意味着除独立应用下载用户外，其实际用户数量可能更多。",
+          "url": "https://wallstreetcn.com/livenews/3168458",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "21时39分"
-        },
-        {
-          "title": "谷歌瞄准高端笔记本市场，推出售价899美元的Googlebook",
-          "url": "https://flash.jin10.com/detail/20260921211559054800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
+          "time_info": "03时05分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "OpenAI又要融资了：1.2万亿美元估值，谁还敢接下一棒？",
-          "url": "https://wallstreetcn.com/articles/3782152",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时59分 ~ 14时09分]"
-        },
-        {
-          "title": "让ChatGPT预测房价哪年见底",
-          "url": "https://s.weibo.com/weibo?q=%E8%AE%A9ChatGPT%E9%A2%84%E6%B5%8B%E6%88%BF%E4%BB%B7%E5%93%AA%E5%B9%B4%E8%A7%81%E5%BA%95&t=31&band_rank=28&Refer=top",
-          "source": "微博",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时58分 ~ 01时59分]"
-        },
-        {
-          "title": "美国财长贝森特：OpenAI管理层需对Hugging Face事件负责。",
-          "url": "https://wallstreetcn.com/livenews/3168301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "21时39分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "金十图示：今日国内黄金饰品价格对比显示，多家品牌金饰价格小幅上涨，幅度在2至4元/克。目前周大福、周大生、潮宏基等品牌的金饰价格均达到1320元/克。",
-          "url": "https://flash.jin10.com/detail/20260921134203462800",
-          "source": "金十数据",
+          "title": "OpenAI成立独立的数学顾问团队。 自8月28日以来，OpenAI模型解决了超过100个数学问题。",
+          "url": "https://wallstreetcn.com/livenews/3168440",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            6
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "14时09分"
+          "time_info": "03时05分"
         }
       ]
     }
