@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T03:05:26.734934+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-09-22T07:01:53.362241+08:00",
+  "total_titles_processed": 412,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普政府誓要搞垮国际刑事法院，“正酝酿全面制裁”",
@@ -15,8 +15,41 @@
             3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时05分 ~ 07时01分]"
+        },
+        {
+          "title": "特朗普回应中美元首会晤",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时05分 ~ 07时01分]"
+        },
+        {
+          "title": "据国会山报：白宫记者团消息透露，美国总统特朗普正在特朗普大厦会见法国总统马克龙。",
+          "url": "https://flash.jin10.com/detail/20260922061913971800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时05分"
+          "time_info": "07时01分"
+        },
+        {
+          "title": "特朗普施压泽连斯基：停止袭击俄罗斯炼厂，“都是柴油、柴油、柴油”",
+          "url": "https://wallstreetcn.com/articles/3782225",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "巴西总统卢拉：若无法与美国达成贸易协议，我们将不得不采取对等反制措施。 已告知总统特朗普，美国不应干涉巴西大选。",
@@ -30,6 +63,28 @@
           "time_info": "03时05分"
         },
         {
+          "title": "特朗普：今日将开会讨论伊朗问题",
+          "url": "https://flash.jin10.com/detail/20260922060620860800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "美国纽约市市长马姆达尼会见特朗普，讨论皇后区Sunnyside Yards住房项目下一阶段推进方案，联邦210亿美元拨款成关键。",
+          "url": "https://wallstreetcn.com/livenews/3168512",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
           "title": "美国总统特朗普周二将会见丹麦和格陵兰领导人。",
           "url": "https://wallstreetcn.com/livenews/3168444",
           "source": "华尔街见闻-快讯",
@@ -39,6 +94,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "特朗普：我今天召开关于伊朗的会议",
+          "url": "https://wallstreetcn.com/livenews/3168509",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         },
         {
           "title": "据路透社/益普索调查：仅有17%的美国人赞同美国总统特朗普对生活成本的处理。",
@@ -96,21 +162,54 @@
           "time_info": "03时05分"
         },
         {
-          "title": "特朗普回应中美元首会晤",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E7%BE%8E%E5%85%83%E9%A6%96%E4%BC%9A%E6%99%A4%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
+          "title": "据美媒透露，在上周特朗普禁止Politico、CNN和MS NOW进入白宫之前，是他的助手娜塔莉·哈普（Natalie Harp）给他看了相关媒体报道的视频片段。哈普是特朗普的特别助理兼执行助理。据悉她被称为人形打印机，因为她习惯随身携带便携打印机，给特朗普打印新闻文章和社交媒体内容（特朗普更喜欢看纸质版）。她还经常帮助管理特朗普的Truth Social账号。",
+          "url": "https://flash.jin10.com/detail/20260922054251236800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "特朗普与纽约市长曼达尼目前在纽约市长官邸回答记者提问。",
+          "url": "https://flash.jin10.com/detail/20260922053428122800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "美国总统特朗普：我认为这些媒体有义务保持公平。如果他们是假新闻，我认为有义务不让他们进入另一个非常特别的地方。",
+          "url": "https://flash.jin10.com/detail/20260922053311550800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗不会拥有核武器，其处境极其糟糕。",
+          "url": "https://flash.jin10.com/detail/20260922052832089800",
+          "source": "金十数据",
           "ranks": [
             30
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时05分"
+          "time_info": "07时01分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "伊朗总统会见巴基斯坦内政部长 期待持续推动双边合作",
@@ -131,8 +230,19 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时05分 ~ 07时01分]"
+        },
+        {
+          "title": "伊朗军方警告美国不要犯错",
+          "url": "https://www.douyin.com/hot/2658626",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时05分"
+          "time_info": "07时01分"
         },
         {
           "title": "伊朗革命卫队：美国和以色列政权必须认识到，他们迟早要接受一个没有他们邪恶和犯罪存在的地区，这一命运是无法逃避的。",
@@ -144,13 +254,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "伊朗外长阿拉格齐率领高级代表团于当地时间周一下午抵达纽约，参加第81届联合国大会。 阿拉格齐在前往纽约途中曾在多哈短暂停留，其间与卡塔尔官员就地区最新局势进行了磋商。（伊朗媒体IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3168492",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "美股收盘：纳指涨超2%再创新高 Meta版“龙虾”点燃行情 AMD市值首次突破万亿美元",
+          "url": "https://www.cls.cn/detail/2489502",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
+        },
         {
           "title": "市场聚焦中美对话，美股高开，科技股普涨，英特尔涨超9%，油价四连跌",
           "url": "https://wallstreetcn.com/articles/3782211",
@@ -167,17 +299,29 @@
           "url": "https://www.cls.cn/detail/2489316",
           "source": "财联社热门",
           "ranks": [
-            5
+            5,
+            8
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时05分 ~ 07时01分]"
+        },
+        {
+          "title": "纳指ETF收涨将近2.9%，与新兴市场ETF领跑美股大类资产类ETF，布油基金跌2.8%",
+          "url": "https://wallstreetcn.com/livenews/3168494",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时05分"
+          "time_info": "07时01分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "【Meta智能体Muse迅速走红，分析师称扎克伯格豪赌AI没有白费】Meta Platforms新推出的人工智能(AI)智能体Muse迅速登上移动应用排行榜榜首，显示这家社交媒体公司正在竞争日益激烈的消费者AI助手市场取得进展。 截至周一，Muse位居美国苹果iOS应用商店和Google Play免费应用榜首位。Sensor Tower的高级分析师Abe Yousef表示，在Meta于9月8日推出Muse后，六天内下载量累计超过90.2万次，而前一代产品Meta AI上线六天内的下载量为77.3万次。 Muse可以在Meta旗下WhatsApp使用，这意味着除独立应用下载用户外，其实际用户数量可能更多。",
@@ -189,6 +333,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        },
+        {
+          "title": "佐治亚电力与谷歌达成协议：预计为客户带来约9亿美元收益",
+          "url": "https://wallstreetcn.com/livenews/3168500",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         }
       ]
     },
@@ -206,6 +361,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时05分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "国际金价跌超0.8%，纽约期铜五天涨约5.9%",
+          "url": "https://wallstreetcn.com/livenews/3168501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时01分"
         }
       ]
     }
