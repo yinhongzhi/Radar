@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-23T01:57:57.827153+08:00",
-  "total_titles_processed": 310,
+  "generated_at": "2026-09-23T05:01:49.929823+08:00",
+  "total_titles_processed": 411,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 18,
       "titles": [
         {
           "title": "美国五大电视网白宫记者团暂停报道特朗普，三大媒体联合起诉",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 05时01分]"
         },
         {
           "title": "特朗普披露7月交易逾1100笔，其中包括各高达2500万美元的微软、亚马逊股票出售",
@@ -30,6 +30,30 @@
           "time_info": "01时57分"
         },
         {
+          "title": "如何看待特朗普禁止三家媒体进入白宫",
+          "url": "https://www.toutiao.com/trending/7688335849867447834/",
+          "source": "今日头条",
+          "ranks": [
+            26,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 05时01分]"
+        },
+        {
+          "title": "特朗普将敦促泽连斯基达成“能源停火” 称俄罗斯已失去对柴油行业的控制",
+          "url": "https://www.cls.cn/detail/2490453",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 05时01分]"
+        },
+        {
           "title": "英国首相伯纳姆：已与特朗普建立“良好关系”",
           "url": "https://flash.jin10.com/detail/20260923012833452800",
           "source": "金十数据",
@@ -39,6 +63,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
+        },
+        {
+          "title": "美国总统特朗普特使史蒂夫・维特科夫与贾里德・库什纳将于今晚在纽约会见乌克兰谈判团队以及英、法、德三国国家安全顾问，商讨乌方提出的俄乌局势缓和协议方案。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3169142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "特朗普：与伊朗的谈判仍在继续，双方或将达成协议",
@@ -52,15 +87,15 @@
           "time_info": "01时57分"
         },
         {
-          "title": "特朗普将敦促泽连斯基达成“能源停火” 称俄罗斯已失去对柴油行业的控制",
-          "url": "https://www.cls.cn/detail/2490453",
-          "source": "财联社热门",
+          "title": "特朗普联大讲话：美国中选后或与伊朗达成协议、油价或大跌，对AI“只鼓励、不限制”",
+          "url": "https://wallstreetcn.com/articles/3782313",
+          "source": "华尔街见闻",
           "ranks": [
-            13
+            10
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时57分"
+          "time_info": "05时01分"
         },
         {
           "title": "特朗普：与伊朗的谈判仍在继续，双方或将达成协议",
@@ -96,6 +131,28 @@
           "time_info": "01时57分"
         },
         {
+          "title": "伊朗武装部队声明：特朗普在联合国大会上有关伊朗的言论属于 “对内宣传工具”。",
+          "url": "https://wallstreetcn.com/livenews/3169126",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "英国首相伯纳姆：我曾就关税问题向特朗普施压。",
+          "url": "https://wallstreetcn.com/livenews/3169125",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
           "title": "美国总统特朗普：日本首相高市早苗表现出色，日本经济发展良好。",
           "url": "https://flash.jin10.com/detail/20260923011007031800",
           "source": "金十数据",
@@ -107,21 +164,54 @@
           "time_info": "01时57分"
         },
         {
-          "title": "如何看待特朗普禁止三家媒体进入白宫",
-          "url": "https://www.toutiao.com/trending/7688335849867447834/",
-          "source": "今日头条",
+          "title": "报道：海湾国家将敦促特朗普避免与伊朗冲突升级",
+          "url": "https://wallstreetcn.com/livenews/3169123",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "英国首相伯纳姆谈及福克兰群岛：面对（包括美国总统特朗普在内的）任何威胁，我们都将坚定立场，捍卫福克兰群岛居民的自决权以及继续作为英国属地的权利。 已与特朗普讨论福克兰群岛问题，阐明了英国立场。",
+          "url": "https://wallstreetcn.com/livenews/3169120",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗（与我）达成一份协议的势头十分强大。 特使Witkoff、库什纳与伊朗的会谈富有成效，相信他们二人会解决掉这件事。 认为伊朗将做一些好事。 伊朗有望迅速地做正确的事。",
+          "url": "https://wallstreetcn.com/livenews/3169118",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时57分"
+          "time_info": "05时01分"
+        },
+        {
+          "title": "特朗普联大发言引起部分代表离场",
+          "url": "https://wallstreetcn.com/livenews/3169115",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 13,
       "titles": [
         {
           "title": "受美国制裁影响，土耳其多家航司取消往返伊朗航班",
@@ -131,8 +221,65 @@
             4
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 05时01分]"
+        },
+        {
+          "title": "据伊朗媒体Fars News：沙特对也门北部发动导弹袭击。",
+          "url": "https://flash.jin10.com/detail/20260923043737259800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时57分"
+          "time_info": "05时01分"
+        },
+        {
+          "title": "伊朗议会国家安全委员会已批准有关霍尔木兹海峡的新法律条款，根据这些条款，违反海峡通行规定的船只，除需缴纳相当于货物价值20%的罚款外，还将被暂时扣押，直至罚款缴清；伊朗将设立专门的司法部门分支确保规定执行，伊朗武装部队将每三个月报告执行情况。",
+          "url": "https://wallstreetcn.com/livenews/3169146",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "伊朗据悉可在7天内重开霍尔木兹海峡 前提是美国缓和军事施压",
+          "url": "https://www.cls.cn/detail/2490361",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 05时01分]"
+        },
+        {
+          "title": "伊朗总统赴联大由美特勤局安保",
+          "url": "https://www.toutiao.com/trending/7688262092155929126/",
+          "source": "今日头条",
+          "ranks": [
+            11,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 05时01分]"
+        },
+        {
+          "title": "中国男篮不敌伊朗无缘领奖台",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365000&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E4%BC%8A%E6%9C%97%E6%97%A0%E7%BC%98%E9%A2%86%E5%A5%96%E5%8F%B0",
+          "source": "贴吧",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 05时01分]"
         },
         {
           "title": "伊朗总统专机在阿尔及利亚进行技术经停",
@@ -140,28 +287,6 @@
           "source": "华尔街见闻-快讯",
           "ranks": [
             6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "伊朗总统赴联大由美特勤局安保",
-          "url": "https://www.toutiao.com/trending/7688262092155929126/",
-          "source": "今日头条",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时57分"
-        },
-        {
-          "title": "伊朗据悉可在7天内重开霍尔木兹海峡 前提是美国缓和军事施压",
-          "url": "https://www.cls.cn/detail/2490361",
-          "source": "财联社热门",
-          "ranks": [
-            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -201,15 +326,76 @@
           "time_info": "01时57分"
         },
         {
-          "title": "中国男篮不敌伊朗无缘领奖台",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365000&amp;topic_name=%E4%B8%AD%E5%9B%BD%E7%94%B7%E7%AF%AE%E4%B8%8D%E6%95%8C%E4%BC%8A%E6%9C%97%E6%97%A0%E7%BC%98%E9%A2%86%E5%A5%96%E5%8F%B0",
-          "source": "贴吧",
+          "title": "“应美方要求”，伊朗外长与美特使在纽约会晤",
+          "url": "https://wallstreetcn.com/livenews/3169121",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            27
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "报道：伊朗方面确认与美方会晤，提出重开海峡的条件",
+          "url": "https://wallstreetcn.com/livenews/3169116",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "伊朗外长Araghchi出席了与美国特使Witkoff、库什纳的会议。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3169114",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "油价回落至100美元下方 美股期指走高 科技股盘前分化 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2490404",
+          "source": "财联社热门",
+          "ranks": [
+            9
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时57分 ~ 05时01分]"
+        },
+        {
+          "title": "美股大类资产类ETF多数收跌，布油基金跌超1.6%",
+          "url": "https://wallstreetcn.com/livenews/3169143",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时57分"
+          "time_info": "05时01分"
+        },
+        {
+          "title": "周二（9月22日），美股行业ETF多数收涨，半导体ETF涨1.92%，生物科技指数ETF涨1.76%，全球科技股指数ETF、科技行业ETF至少涨0.73%，能源业ETF跌1.09%，网络股指数ETF跌1.15%，银行业ETF跌1.27%，金融业ETF跌1.97%。",
+          "url": "https://wallstreetcn.com/livenews/3169139",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         }
       ]
     },
@@ -242,19 +428,19 @@
       ]
     },
     {
-      "keyword_group": "美股",
+      "keyword_group": "美债",
       "match_count": 1,
       "titles": [
         {
-          "title": "油价回落至100美元下方 美股期指走高 科技股盘前分化 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2490404",
-          "source": "财联社热门",
+          "title": "周二（9月22日）纽约尾盘，美国10年期国债收益率跌1.22个基点，报4.9388%。 两年期美债收益率跌1.86个基点，报4.7277%；30年期美债收益率跌0.32个基点，报5.2814%。 2/10年期美债收益率利差涨1.236个基点，报+21.288个基点。 10年期通胀保值国债（TIPS）收益率涨0.74个基点，至2.62%；两年期TIPS收益率跌0.67个基点，至2.3055%；30年期TIPS收益率涨1.59个基点，至3.0450%。",
+          "url": "https://wallstreetcn.com/livenews/3169124",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时57分"
+          "time_info": "05时01分"
         }
       ]
     }
