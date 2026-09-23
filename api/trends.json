@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-23T12:36:38.092311+08:00",
-  "total_titles_processed": 760,
+  "generated_at": "2026-09-23T17:45:39.297802+08:00",
+  "total_titles_processed": 967,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 33,
+      "match_count": 38,
       "titles": [
         {
           "title": "美国五大电视网白宫记者团暂停报道特朗普，三大媒体联合起诉",
@@ -19,6 +19,31 @@
           "time_info": "[01时57分 ~ 08时01分]"
         },
         {
+          "title": "特朗普联大讲话：美国中选后或与伊朗达成协议、油价或大跌，对AI“只鼓励、不限制”",
+          "url": "https://wallstreetcn.com/articles/3782313",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[05时01分 ~ 17时45分]"
+        },
+        {
+          "title": "特朗普：委内瑞拉石油是美军战利品，它属于胜利者",
+          "url": "https://news.ifeng.com/c/8weCZ7eZh3s",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 17时45分]"
+        },
+        {
           "title": "特朗普披露7月交易逾1100笔，其中包括各高达2500万美元的微软、亚马逊股票出售",
           "url": "https://wallstreetcn.com/livenews/3169083",
           "source": "华尔街见闻-快讯",
@@ -30,38 +55,15 @@
           "time_info": "01时57分"
         },
         {
-          "title": "特朗普：委内瑞拉石油是美军战利品，它属于胜利者",
-          "url": "https://news.ifeng.com/c/8weCZ7eZh3s",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
           "title": "日本首相高市早苗：与特朗普就经济安全关系达成共识。 希望日本能够主办人工智能峰会。",
           "url": "https://wallstreetcn.com/livenews/3169302",
           "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
-        },
-        {
-          "title": "特朗普联大讲话：美国中选后或与伊朗达成协议、油价或大跌，对AI“只鼓励、不限制”",
-          "url": "https://wallstreetcn.com/articles/3782313",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时01分 ~ 12时36分]"
         },
         {
           "title": "特朗普称美伊会谈“非常有成效” 纳指再创新高 | 环球市场",
@@ -76,6 +78,17 @@
           "time_info": "[08时01分 ~ 12时36分]"
         },
         {
+          "title": "“我们无路可退”！中东冲击波蔓延，特朗普农村中选基本盘正在“崩塌”",
+          "url": "https://wallstreetcn.com/articles/3782306",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时01分 ~ 17时45分]"
+        },
+        {
           "title": "特朗普将敦促泽连斯基达成“能源停火” 称俄罗斯已失去对柴油行业的控制",
           "url": "https://www.cls.cn/detail/2490453",
           "source": "财联社热门",
@@ -86,6 +99,18 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时57分 ~ 08时01分]"
+        },
+        {
+          "title": "特朗普7月披露逾千笔证券交易：抛售微软、亚马逊，买入英伟达、Marvell与Salesforce",
+          "url": "https://wallstreetcn.com/articles/3782324",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 17时45分]"
         },
         {
           "title": "如何看待特朗普禁止三家媒体进入白宫",
@@ -100,15 +125,15 @@
           "time_info": "[01时57分 ~ 05时01分]"
         },
         {
-          "title": "“我们无路可退”！中东冲击波蔓延，特朗普农村中选基本盘正在“崩塌”",
-          "url": "https://wallstreetcn.com/articles/3782306",
-          "source": "华尔街见闻",
+          "title": "古巴代表没等特朗普说完话直接离场",
+          "url": "https://www.toutiao.com/trending/7688491449217794067/",
+          "source": "今日头条",
           "ranks": [
-            9
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时01分 ~ 12时36分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "特朗普支持禁止柴油出口，贝森特确认：政府正评估全面或部分限制",
@@ -144,15 +169,15 @@
           "time_info": "05时01分"
         },
         {
-          "title": "特朗普7月披露逾千笔证券交易：抛售微软、亚马逊，买入英伟达、Marvell与Salesforce",
-          "url": "https://wallstreetcn.com/articles/3782324",
+          "title": "美伊举行6月以来首次会谈，特朗普边威胁“迅速摧毁伊朗”，边表态“会谈富有成效”、“不排除中选后达成协议”",
+          "url": "https://wallstreetcn.com/articles/3782334",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "17时45分"
         },
         {
           "title": "美伊官员在纽约会晤3小时 特朗普：会谈“非常有建设性”",
@@ -161,7 +186,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -188,13 +213,24 @@
           "time_info": "08时01分"
         },
         {
+          "title": "美国总统特朗普和平委员会将公布24.5亿美元加沙重建计划。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3169501",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
           "title": "特朗普重新定义AI：美国今后将把人工智能称为“超级智能”",
           "url": "https://www.cls.cn/detail/2490554",
           "source": "财联社热门",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -205,7 +241,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -216,7 +252,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -298,6 +334,17 @@
           "time_info": "05时01分"
         },
         {
+          "title": "特朗普在联合国总部“阴阳”CNN：“说好联合抵制我，怎么又来采访”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34126828",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
           "title": "美国总统特朗普：日本首相高市早苗表现出色，日本经济发展良好。",
           "url": "https://flash.jin10.com/detail/20260923011007031800",
           "source": "金十数据",
@@ -353,13 +400,24 @@
           "time_info": "05时01分"
         },
         {
+          "title": "美媒：特朗普“和平委员会”将公布24.5亿美元加沙重建计划",
+          "url": "https://flash.jin10.com/detail/20260923172713732800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
           "title": "委内瑞拉临时总统：我们与美国总统特朗普举行了一次历史性的会议，讨论了加强两国关系以及在能源、矿业、安全等战略领域推进合作议程的事宜。",
           "url": "https://flash.jin10.com/detail/20260923113825957800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -495,13 +553,24 @@
           "time_info": "[01时57分 ~ 08时01分]"
         },
         {
+          "title": "伊朗总统抵达纽约出席联合国大会",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E6%8A%B5%E8%BE%BE%E7%BA%BD%E7%BA%A6%E5%87%BA%E5%B8%AD%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BC%9A",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 17时45分]"
+        },
+        {
           "title": "伊朗外长在纽约会见法国外长，批评法方涉伊立场",
           "url": "https://flash.jin10.com/detail/20260923120658273800",
           "source": "金十数据",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -523,7 +592,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -545,7 +614,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -556,7 +625,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -567,7 +636,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -614,17 +683,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
-        },
-        {
-          "title": "伊朗总统抵达纽约出席联合国大会",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E6%80%BB%E7%BB%9F%E6%8A%B5%E8%BE%BE%E7%BA%BD%E7%BA%A6%E5%87%BA%E5%B8%AD%E8%81%94%E5%90%88%E5%9B%BD%E5%A4%A7%E4%BC%9A",
-          "source": "百度热搜",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
         },
         {
           "title": "据伊朗塔斯尼姆通讯社：沙特阿拉伯首都利雅得传出了强烈的爆炸声。同时，有消息称该市的航班已暂停。",
@@ -685,7 +743,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 8,
       "titles": [
         {
           "title": "【早报】美股存储股，集体上涨；伊外长与美特使在纽约会晤；原油跳水，五连跌；中金公司，今日复牌",
@@ -712,6 +770,17 @@
           "time_info": "[08时01分 ~ 12时36分]"
         },
         {
+          "title": "德银美股主管：无需过度关注地缘政治，三季度业绩将表现亮眼",
+          "url": "https://flash.jin10.com/detail/20260923174054037800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
+        },
+        {
           "title": "油价回落至100美元下方 美股期指走高 科技股盘前分化 | 今夜看点",
           "url": "https://www.cls.cn/detail/2490404",
           "source": "财联社热门",
@@ -733,6 +802,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "AI颠覆再现！Muse的杀伤力有多大：昨夜美股这些板块“遭殃”",
+          "url": "https://www.cls.cn/detail/2490768",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时45分"
         },
         {
           "title": "美股收盘：纳指再创历史新高",
@@ -763,6 +843,30 @@
       "match_count": 4,
       "titles": [
         {
+          "title": "华尔街聚焦：Muse能否成为Meta公司的“ChatGPT时刻”？",
+          "url": "https://www.cls.cn/detail/2490735",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 17时45分]"
+        },
+        {
+          "title": "AI“减速”讨论未歇，OpenAI、Anthropic同日上新，竞逐更低成本",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34130539",
+          "source": "澎湃新闻",
+          "ranks": [
+            17,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 17时45分]"
+        },
+        {
           "title": "OpenAI拟在研发早期引入第三方评估AI模型安全风险",
           "url": "https://wallstreetcn.com/livenews/3169076",
           "source": "华尔街见闻-快讯",
@@ -772,28 +876,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时57分"
-        },
-        {
-          "title": "华尔街聚焦：Muse能否成为Meta公司的“ChatGPT时刻”？",
-          "url": "https://www.cls.cn/detail/2490735",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
-        },
-        {
-          "title": "AI“减速”讨论未歇，OpenAI、Anthropic同日上新，竞逐更低成本",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34130539",
-          "source": "澎湃新闻",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时36分"
         },
         {
           "title": "市场消息：OpenAI将允许外部机构在早期阶段评估AI模型。",
@@ -819,7 +901,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时36分"
         },
@@ -847,9 +929,26 @@
           "ranks": [
             6
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[12时36分 ~ 17时45分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价正与利率逐步脱钩 黄金ETF持仓量升至七个月来最高水平",
+          "url": "https://www.cls.cn/detail/2490887",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时36分"
+          "time_info": "17时45分"
         }
       ]
     }
