@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-25T06:01:32.109535+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-09-25T08:24:55.935098+08:00",
+  "total_titles_processed": 545,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 32,
       "titles": [
         {
           "title": "习近平同特朗普会谈",
@@ -17,6 +17,30 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时13分 ~ 06时01分]"
+        },
+        {
+          "title": "习近平同美国总统特朗普会谈",
+          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E8%B0%88",
+          "source": "百度热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时00分 ~ 08时24分]"
+        },
+        {
+          "title": "特朗普欢迎习近平访美",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AC%A2%E8%BF%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[06时00分 ~ 08时24分]"
         },
         {
           "title": "习近平出席特朗普举行的欢迎仪式",
@@ -41,28 +65,6 @@
           "time_info": "[02时13分 ~ 06时01分]"
         },
         {
-          "title": "习近平同美国总统特朗普会谈",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E8%B0%88",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时00分 ~ 06时01分]"
-        },
-        {
-          "title": "特朗普欢迎习近平访美",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E6%AC%A2%E8%BF%8E%E4%B9%A0%E8%BF%91%E5%B9%B3%E8%AE%BF%E7%BE%8E",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时00分 ~ 06时01分]"
-        },
-        {
           "title": "习近平同美国总统特朗普小范围交流",
           "url": "https://search.bilibili.com/all?keyword=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%BE%8E%E5%9B%BD%E6%80%BB%E7%BB%9F%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%8F%E8%8C%83%E5%9B%B4%E4%BA%A4%E6%B5%81",
           "source": "bilibili 热搜",
@@ -72,6 +74,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时00分 ~ 06时01分]"
+        },
+        {
+          "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎宴会",
+          "url": "https://flive.ifeng.com/live/1017286.html?webkit=1",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
         },
         {
           "title": "习近平出席特朗普举行的欢迎仪式",
@@ -85,6 +98,17 @@
           "time_info": "02时13分"
         },
         {
+          "title": "特朗普夫妇热情迎接习近平夫妇",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E5%A4%AB%E5%A6%87%E7%83%AD%E6%83%85%E8%BF%8E%E6%8E%A5%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%A4%AB%E5%A6%87",
+          "source": "百度热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
           "title": "特朗普总统赴机场，欢迎习近平主席到访",
           "url": "https://wallstreetcn.com/articles/3782407",
           "source": "华尔街见闻",
@@ -96,15 +120,38 @@
           "time_info": "02时13分"
         },
         {
+          "title": "习近平同美国总统特朗普会谈",
+          "url": "https://www.cls.cn/detail/2492836",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
+          "title": "特朗普：这是一次伟大的会晤",
+          "url": "https://www.toutiao.com/trending/7689240553585954350/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
           "title": "特朗普遗憾欢迎晚宴座位不够多",
           "url": "https://www.toutiao.com/trending/7688270536492781092/",
           "source": "今日头条",
           "ranks": [
-            7
+            7,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时13分 ~ 08时24分]"
         },
         {
           "title": "中方回应会否邀请特朗普出席APEC峰会",
@@ -112,11 +159,12 @@
           "source": "今日头条",
           "ranks": [
             20,
-            10
+            10,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时13分 ~ 08时24分]"
         },
         {
           "title": "特朗普总统夫妇在下车处迎候",
@@ -143,6 +191,39 @@
           "time_info": "[02时13分 ~ 06时01分]"
         },
         {
+          "title": "据沙特阿拉比亚电视台：伊朗外长阿拉格齐表示，我们在纽约与美国中东问题特使威特科夫和特朗普高级顾问库什纳举行了富有成果的会晤。与美国的对外接触正通过中间人持续进行。",
+          "url": "https://flash.jin10.com/detail/20260925074117901800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
+          "title": "习近平出席美国总统特朗普举行的欢迎宴会",
+          "url": "https://wallstreetcn.com/livenews/3170652",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
+          "title": "特朗普：这是一次“伟大的会晤”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E8%BF%99%E6%98%AF%E4%B8%80%E6%AC%A1%E2%80%9C%E4%BC%9F%E5%A4%A7%E7%9A%84%E4%BC%9A%E6%99%A4%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
           "title": "据英国金融时报：英国首相伯纳姆面临压力，需要向特朗普政府游说，反对美国实施柴油出口禁令。",
           "url": "https://flash.jin10.com/detail/20260925013156289800",
           "source": "金十数据",
@@ -154,13 +235,35 @@
           "time_info": "02时13分"
         },
         {
+          "title": "美国总统特朗普、众议院议长约翰逊将于9月29日与科技界CEO们开会，讨论AI问题。（Axios）",
+          "url": "https://wallstreetcn.com/livenews/3170647",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
+          "title": "特朗普与中方随行人员握手脱皮手套",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8E%E4%B8%AD%E6%96%B9%E9%9A%8F%E8%A1%8C%E4%BA%BA%E5%91%98%E6%8F%A1%E6%89%8B%E8%84%B1%E7%9A%AE%E6%89%8B%E5%A5%97%23&t=31&band_rank=13&Refer=top",
+          "source": "微博",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
           "title": "特朗普：这是一次“伟大的会晤”",
           "url": "https://flash.jin10.com/detail/20260925050639805800",
           "source": "金十数据",
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -174,6 +277,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：特朗普不断说“我想给伊朗人民一份礼物”，但他们给我们的礼物，是制导导弹、重型武器和毁灭。",
+          "url": "https://flash.jin10.com/detail/20260925065905832800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
+          "title": "习近平和彭丽媛将出席特朗普总统夫妇举行的欢迎宴会",
+          "url": "https://wallstreetcn.com/livenews/3170643",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
+          "title": "图讯｜习近平同美国总统特朗普小范围交流",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34146030",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
         },
         {
           "title": "特朗普说中美携手共创更美好未来",
@@ -193,7 +329,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -207,6 +343,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "据Axios：美国总统特朗普、众议院议长约翰逊及科技公司首席执行官将于9月29日就人工智能召开会议。",
+          "url": "https://flash.jin10.com/detail/20260925064617501800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
         },
         {
           "title": "美国总统特朗普：我们举行了一次很好的会议。",
@@ -223,7 +370,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 22,
       "titles": [
         {
           "title": "以色列官员：恢复对伊朗的打击只是时间问题",
@@ -254,7 +401,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -265,7 +412,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -292,15 +439,37 @@
           "time_info": "02时13分"
         },
         {
+          "title": "内塔尼亚胡称打伊朗是最容易决定",
+          "url": "https://flash.jin10.com/detail/20260925072844708800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
           "title": "哥伦比亚外交部：自2026年9月19日起，哥伦比亚政府正式与伊朗伊斯兰共和国断绝外交关系。",
           "url": "https://flash.jin10.com/detail/20260925052520364800",
           "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：伊朗不断恶化的经济状况是美国政策造成的。我们确实面临经济问题，但我们准备承受任何困难，抵御美国制裁。",
+          "url": "https://flash.jin10.com/detail/20260925071621001800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
         },
         {
           "title": "据伊朗媒体Fars News：伊斯兰革命卫队发言人表示，尽管拥有庞大的海军力量，美国仍未能让霍尔木兹海峡局势恢复到其预期的状态。美军舰艇已后撤至距霍尔木兹海峡区域400公里外，目前仍驻扎在巴林。这是伊朗的重大胜利。",
@@ -309,9 +478,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬： 我们从未谋求战争，现在也不想要战争。 我深信人类不应互相残杀。但凡可以通过对话解决问题，就不该诉诸杀戮。 但在以色列的煽动之下，这场战争被强加于我们。 我们并不希望战事持续。 是否结束冲突，决定权在美国。",
+          "url": "https://wallstreetcn.com/livenews/3170645",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
         },
         {
           "title": "伊朗外长阿拉格齐与英国外交部长米利班德在第81届联合国大会期间举行会面并进行了讨论。",
@@ -336,6 +516,39 @@
           "time_info": "02时13分"
         },
         {
+          "title": "英国外交大臣米利班德警告伊朗外长阿拉格齐，英国“不会容忍在英国领土上的敌对活动”。",
+          "url": "https://wallstreetcn.com/livenews/3170642",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：任何人都可以提出抗议。",
+          "url": "https://flash.jin10.com/detail/20260925065710429800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
+          "title": "伊朗总统佩泽希齐扬：也门胡塞武装队他们自己的行动负责。 并没有与胡塞武装联系并授意对方（针对沙特等）采取行动。 （对于浓缩铀问题）伊朗将遵循国际法。 如果我们遭到（美国+以色列）袭击，我们将自卫。 我们不想要任何核弹。 我们面临经济问题，但会熬过艰难时刻。 愿意接受核查。",
+          "url": "https://wallstreetcn.com/livenews/3170638",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
           "title": "伊朗议会议长卡利巴夫针对美国国债收益率创下新高一事作出回应，并向美国财政部长斯科特·贝森特写道：“恭喜你们国债收益率创下纪录新高！”",
           "url": "https://flash.jin10.com/detail/20260925011008446800",
           "source": "金十数据",
@@ -347,13 +560,24 @@
           "time_info": "02时13分"
         },
         {
+          "title": "哥伦比亚宣布与伊朗断交",
+          "url": "https://www.baidu.com/s?wd=%E5%93%A5%E4%BC%A6%E6%AF%94%E4%BA%9A%E5%AE%A3%E5%B8%83%E4%B8%8E%E4%BC%8A%E6%9C%97%E6%96%AD%E4%BA%A4",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
           "title": "据科威特通讯社：科威特王储表示，自今年2月以来，尽管科威特、海湾合作委员会（GCC）国家以及约旦并非当前地区冲突的一方，却遭到伊朗以弹道导弹、巡航导弹和无人机发动的“罪恶侵略”。这一行为公然违反国际法、国际人道法以及《联合国宪章》。",
           "url": "https://flash.jin10.com/detail/20260925044417511800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -364,7 +588,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -378,12 +602,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "哥伦比亚宣布与伊朗断交",
+          "url": "https://wallstreetcn.com/livenews/3170631",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 6,
+      "match_count": 9,
       "titles": [
         {
           "title": "意外强劲PMI重燃加息预期，美债遭“血洗”！纳指终结四连涨，美元涨黄金跌",
@@ -402,11 +637,34 @@
           "source": "华尔街见闻",
           "ranks": [
             6,
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时13分 ~ 08时24分]"
+        },
+        {
+          "title": "美股收盘：美债风暴持续发酵 油价深夜巨震 Meta涨超4%",
+          "url": "https://www.cls.cn/detail/2492840",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
+          "title": "美债抛售加剧，30年期美债收益率创逾20年新高，美股指承压横盘，美元原油齐升",
+          "url": "https://wallstreetcn.com/articles/3782452",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
         },
         {
           "title": "全球债市抛售加剧，30年期美债收益率创逾20年新高，美股指低开，布油涨破100",
@@ -432,13 +690,24 @@
           "time_info": "[02时13分 ~ 06时01分]"
         },
         {
+          "title": "美债5%失去震慑力，摩根大通称股市断裂阈值或已升至6%",
+          "url": "https://wallstreetcn.com/articles/3782453",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
           "title": "美债暴跌威胁新兴市场套息交易，花旗选择撤退",
           "url": "https://wallstreetcn.com/livenews/3170619",
           "source": "华尔街见闻-快讯",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -449,7 +718,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         }
@@ -457,7 +726,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "OpenAI前数据中心负责人加盟英伟达 负责AI基础设施平台",
@@ -476,11 +745,12 @@
           "source": "澎湃新闻",
           "ranks": [
             18,
-            19
+            19,
+            20
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时13分 ~ 08时24分]"
         },
         {
           "title": "OpenAI、Anthropic被要求在完成白宫测试之前不能给英国分享新模型",
@@ -492,6 +762,39 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时13分"
+        },
+        {
+          "title": "OpenAI正准备在未来几天预览其最新的网络安全专用模型GPT-6 Cyber。 该公司还将发布一款新产品，帮助客户以更安全、自动化的方式部署GPT-6 Cyber。（财富杂志）",
+          "url": "https://wallstreetcn.com/livenews/3170646",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
+          "title": "据《财富》杂志：OpenAI还将推出一款新产品，帮助客户以更安全、更自动化的方式部署GPT-6 Cyber。",
+          "url": "https://flash.jin10.com/detail/20260925064247788800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
+        },
+        {
+          "title": "据《财富》杂志：OpenAI正准备在未来几天预览其最新网络安全专用模型GPT-6 Cyber。",
+          "url": "https://flash.jin10.com/detail/20260925064219213800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时24分"
         }
       ]
     },
@@ -506,7 +809,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -534,7 +837,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         },
@@ -545,7 +848,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         }
@@ -563,8 +866,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时13分 ~ 06时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时13分 ~ 08时24分]"
         }
       ]
     },
@@ -579,7 +882,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时01分"
         }
