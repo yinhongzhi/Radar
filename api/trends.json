@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-27T14:15:17.673251+08:00",
-  "total_titles_processed": 634,
+  "generated_at": "2026-09-27T20:46:46.322884+08:00",
+  "total_titles_processed": 844,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 38,
+      "match_count": 45,
       "titles": [
         {
           "title": "油市重磅：沙特9月出口量创伊朗战争爆发来新高 环比飙升近80%",
@@ -14,11 +14,12 @@
           "ranks": [
             6,
             5,
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时21分 ~ 14时15分]"
+          "appearance_count": 6,
+          "time_info": "[02时21分 ~ 20时46分]"
         },
         {
           "title": "伊拉克总理办公室：伊拉克正与美国谈判，请求为部分伊拉克机场免除针对伊朗航空公司的限制措施。",
@@ -135,9 +136,20 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
+        },
+        {
+          "title": "伊朗捕获第2艘美军无人潜航器",
+          "url": "https://news.ifeng.com/c/8wlYf6gKTFe",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "张本智和爆冷不敌伊朗老将，日本队无缘亚运会乒乓球男单四强",
@@ -362,7 +374,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -384,7 +396,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -395,9 +407,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
+        },
+        {
+          "title": "伊朗武装部队于过去两个夜晚在霍尔木兹海峡打击19艘违反规定的船只。 涉事船只试图采用未经授权的水道。 周五夜间打击12艘船只，周六夜间打击了七艘。（伊朗媒体FARS）",
+          "url": "https://wallstreetcn.com/livenews/3171049",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "伊拉克“伊斯兰最高委员会”方面表示，与伊朗的敌人进行任何合作，以及参与针对伊朗的军事、经济和媒体封锁及侵略行为都是被禁止的，打破这一封锁是应尽的义务。",
@@ -406,9 +429,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
+        },
+        {
+          "title": "伊朗捕获第2艘美军无人潜航器",
+          "url": "https://wallstreetcn.com/livenews/3171045",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "伊朗外交部：伊朗外长阿拉格齐与联合国人道主义事务副秘书长兼紧急救济协调员在第81届联合国大会期间举行会晤并进行会谈。",
@@ -417,9 +451,53 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
+        },
+        {
+          "title": "伊朗革命卫队公布其捕获的美国水下航行器信息",
+          "url": "https://flash.jin10.com/detail/20260927184313452800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "伊朗革命卫队捕获美国自主水下航行器",
+          "url": "https://flash.jin10.com/detail/20260927183635383800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "据伊朗国家媒体：伊朗革命卫队海军称在霍尔木兹海峡捕获一艘美国自主水下航行器。",
+          "url": "https://flash.jin10.com/detail/20260927183311344800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "伊朗经济安全警察局宣布查获43.1万升走私燃料",
+          "url": "https://flash.jin10.com/detail/20260927173113086800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：我们和也门均未参与针对沙特输油管道的袭击。以色列实施这一行动以激化紧张局势并挑起争端的可能性不容排除。",
@@ -458,7 +536,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 20,
+      "match_count": 26,
       "titles": [
         {
           "title": "报道：特朗普拒绝伊朗7天停火提议，预计中期选举后恢复轰炸",
@@ -508,26 +586,49 @@
           "time_info": "[02时21分 ~ 14时15分]"
         },
         {
+          "title": "特朗普：美国和古巴将达成协议，不需要动用军队",
+          "url": "https://original.ifeng.com/c/8wkxyKEyoQn",
+          "source": "凤凰网",
+          "ranks": [
+            5,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 20时46分]"
+        },
+        {
           "title": "特朗普为何安排超高规格礼遇？",
           "url": "https://news.ifeng.com/c/8wknHtlEvaY",
           "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
         {
-          "title": "特朗普：美国和古巴将达成协议，不需要动用军队",
-          "url": "https://original.ifeng.com/c/8wkxyKEyoQn",
-          "source": "凤凰网",
+          "title": "美国总统特朗普：伊朗战争很快就会结束，届时油价将下跌。 昨晚我们从霍尔木兹海峡抽取了创纪录数量的石油。",
+          "url": "https://wallstreetcn.com/livenews/3171062",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            3
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时15分"
+          "time_info": "20时46分"
+        },
+        {
+          "title": "美国总统特朗普：现在在美国工作的人数比我们国家历史上任何时候都要多！",
+          "url": "https://flash.jin10.com/detail/20260927201010346800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "习近平和彭丽媛出席特朗普总统夫妇举行的欢迎国宴",
@@ -649,15 +750,59 @@
           "time_info": "02时21分"
         },
         {
+          "title": "特朗普称美国和古巴会达成协议，而媒体报道“美军正检查兵力部署”",
+          "url": "https://wallstreetcn.com/articles/3782591",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "分析师：特朗普拒绝伊朗七天计划使局势升级风险升高",
+          "url": "https://flash.jin10.com/detail/20260927182823994800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "一周展望：非农与PCE考验美联储利率路径，特朗普一句话再掀地缘波澜？",
           "url": "https://flash.jin10.com/detail/20260927120840508800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
+        },
+        {
+          "title": "特朗普：美国和古巴会达成协议，美方“不需要动用军队”",
+          "url": "https://wallstreetcn.com/livenews/3171053",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-09-27）",
+          "url": "https://flash.jin10.com/detail/20260927181413299800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "日本外务省：日本首相高市早苗在与美国总统特朗普的通话中围绕包括经济安全在内的各项议题交换了意见。两国领导人再次确认了坚如磐石的日美同盟关系，并一致同意共同为地区及世界的和平与稳定作出贡献。",
@@ -666,7 +811,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
@@ -688,7 +833,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         }
@@ -696,29 +841,43 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
-        {
-          "title": "接连发生失控事件，OpenAI再次暂停其最先进模型训练",
-          "url": "https://wallstreetcn.com/livenews/3171021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
-        },
         {
           "title": "OpenAI自曝：AI模型或已在全网秘密植入自我复制提示词，训练已被迫叫停",
           "url": "https://wallstreetcn.com/articles/3782592",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "14时15分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 20时46分]"
+        },
+        {
+          "title": "接连发生失控事件，OpenAI再次暂停其最先进模型训练",
+          "url": "https://wallstreetcn.com/livenews/3171021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 20时46分]"
+        },
+        {
+          "title": "环球下周看点：美债风暴走向何处？星舰试飞、OpenAI开发者日、美光财报、“会飞的特斯拉”接力亮相",
+          "url": "https://www.cls.cn/detail/2493334",
+          "source": "财联社热门",
+          "ranks": [
+            12,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[14时15分 ~ 20时46分]"
         },
         {
           "title": "OpenAI再曝大模型越界行为！盖茨加入AI安全论战：足以导致“十亿人死亡”",
@@ -732,26 +891,59 @@
           "time_info": "[08时15分 ~ 08时16分]"
         },
         {
+          "title": "下周重磅日程：美国非农与中国PMI、OpenAI开发者大会、美光财报",
+          "url": "https://wallstreetcn.com/articles/3782598",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
           "title": "AI杀入科学家“主场”！OpenAI智能体将挑战人类蛋白质设计，原定“人机大战”临时改赛制",
           "url": "https://wallstreetcn.com/articles/3782583",
           "source": "华尔街见闻",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         },
         {
-          "title": "环球下周看点：美债风暴走向何处？星舰试飞、OpenAI开发者日、美光财报、“会飞的特斯拉”接力亮相",
-          "url": "https://www.cls.cn/detail/2493334",
-          "source": "财联社热门",
+          "title": "入侵美澳政府网站！OpenAI暂停最先进模型训练",
+          "url": "https://news.ifeng.com/c/8wlALQRALzW",
+          "source": "凤凰网",
           "ranks": [
-            12
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "14时15分"
+          "time_info": "20时46分"
+        },
+        {
+          "title": "沙盒失守！AI智能体接连失控 OpenAI再次叫停前沿模型开发",
+          "url": "https://www.cls.cn/detail/2493381",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
+        },
+        {
+          "title": "OpenAI再暂停最先进模型训练",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E5%86%8D%E6%9A%82%E5%81%9C%E6%9C%80%E5%85%88%E8%BF%9B%E6%A8%A1%E5%9E%8B%E8%AE%AD%E7%BB%83",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "独立报告：OpenAI智能体攻击联合国网站",
@@ -760,7 +952,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "14时15分"
         }
@@ -802,8 +994,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时21分 ~ 14时15分]"
+          "appearance_count": 6,
+          "time_info": "[02时21分 ~ 20时46分]"
         },
         {
           "title": "即便油价下跌，30年期美债收益率依旧突破了5.5%",
@@ -832,18 +1024,30 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】美股全线收涨，苹果再创历史收盘新高；原油大跌、黄金上涨；港交所：接纳国债等债券作为非现金抵押品；王兴兴发声，事关机器人核心瓶颈",
           "url": "https://www.cls.cn/detail/2493196",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时21分 ~ 14时15分]"
+          "appearance_count": 6,
+          "time_info": "[02时21分 ~ 20时46分]"
+        },
+        {
+          "title": "高盛：别等中期选举，“金发姑娘”行情或提前点燃美股年末行情",
+          "url": "https://wallstreetcn.com/articles/3782600",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时46分"
         },
         {
           "title": "海外资金疯买美股！过去12个月净流入9420亿美元，创1985年以来纪录",
@@ -885,8 +1089,8 @@
             23
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[02时21分 ~ 14时15分]"
+          "appearance_count": 6,
+          "time_info": "[02时21分 ~ 20时46分]"
         }
       ]
     }
