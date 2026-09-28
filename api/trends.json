@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-28T07:41:13.762924+08:00",
-  "total_titles_processed": 470,
+  "generated_at": "2026-09-28T11:47:47.537846+08:00",
+  "total_titles_processed": 680,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 28,
       "titles": [
         {
           "title": "油市重磅：沙特9月出口量创伊朗战争爆发来新高 环比飙升近80%",
@@ -74,6 +74,17 @@
           "time_info": "04时55分"
         },
         {
+          "title": "伊朗外长警告：已为“末日战争”做好准备",
+          "url": "https://news.ifeng.com/c/8wmSMFPHohF",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
           "title": "据沙特阿拉比亚电视台：隶属于伊朗革命卫队的法尔斯通讯社援引当地消息人士报道，一枚海军巡航导弹向一艘在霍尔木兹海峡沿“未经授权航线”航行的船只发射。",
           "url": "https://flash.jin10.com/detail/20260928035101357800",
           "source": "金十数据",
@@ -116,6 +127,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时31分 ~ 04时55分]"
+        },
+        {
+          "title": "如果英国空军基地“重大事件”与伊朗有关，欧洲会出兵吗？",
+          "url": "https://original.ifeng.com/c/8wlnndccQAd",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         },
         {
           "title": "伊朗总统：如果美国接受法律框架及我们的权利，我们便与其无争端；否则，我们绝不退让。",
@@ -245,7 +267,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -278,15 +300,26 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        },
+        {
+          "title": "伊朗总统称愿促胡塞与沙特和谈",
+          "url": "https://www.toutiao.com/trending/7689901300632535562/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "特朗普拒绝重开霍尔木兹方案，伊朗军方称做好迎战准备",
@@ -311,13 +344,24 @@
           "time_info": "04时55分"
         },
         {
+          "title": "【早报】伊朗：已为与美战事重开做好准备；特朗普：预计本周与伊朗谈判；原油高开、黄金下跌；武契奇宣布辞职",
+          "url": "https://www.cls.cn/detail/2493599",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
           "title": "特朗普拒绝伊朗方案，却称本周还要谈：核问题成重启谈判关键",
           "url": "https://flash.jin10.com/detail/20260928071330477800",
           "source": "金十数据",
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -366,6 +410,17 @@
           "time_info": "01时31分"
         },
         {
+          "title": "AI频频“越界”加剧安全担忧，特朗普与Anthropic CEO首次一对一会面",
+          "url": "https://flash.jin10.com/detail/20260928111635877800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
           "title": "特朗普计划与Anthropic CEO共进晚餐 双方关系出现缓和信号",
           "url": "https://flash.jin10.com/detail/20260927233841277800",
           "source": "金十数据",
@@ -383,7 +438,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -405,7 +460,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -416,7 +471,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -427,7 +482,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -438,7 +493,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -449,7 +504,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -482,7 +537,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -523,7 +578,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI自曝：AI模型或已在全网秘密植入自我复制提示词，训练已被迫叫停",
@@ -548,15 +603,27 @@
           "time_info": "[01时31分 ~ 07时41分]"
         },
         {
+          "title": "本周重磅日程：美国非农与中国PMI、OpenAI开发者大会、美光财报、巴西大选",
+          "url": "https://wallstreetcn.com/articles/3782598",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
           "title": "入侵美澳政府网站！OpenAI暂停最先进模型训练",
           "url": "https://news.ifeng.com/c/8wlALQRALzW",
           "source": "凤凰网",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时41分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 11时47分]"
         },
         {
           "title": "沙盒失守！AI智能体接连失控 OpenAI再次叫停前沿模型开发",
@@ -564,11 +631,12 @@
           "source": "财联社热门",
           "ranks": [
             11,
-            10
+            10,
+            7
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时41分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 11时47分]"
         },
         {
           "title": "环球下周看点：美债风暴走向何处？星舰试飞、OpenAI开发者日、美光财报、“会飞的特斯拉”接力亮相",
@@ -580,12 +648,23 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时31分 ~ 07时41分]"
+        },
+        {
+          "title": "迎战Meta Muse，OpenAI紧急推出个人助手，预计周二发布",
+          "url": "https://wallstreetcn.com/articles/3782618",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "高盛：别等中期选举，“金发姑娘”行情或提前点燃美股年末行情",
@@ -595,8 +674,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时41分]"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 11时47分]"
         },
         {
           "title": "【早报】美股全线收涨，苹果再创历史收盘新高；原油大跌、黄金上涨；港交所：接纳国债等债券作为非现金抵押品；王兴兴发声，事关机器人核心瓶颈",
@@ -610,13 +689,24 @@
           "time_info": "[01时31分 ~ 07时41分]"
         },
         {
+          "title": "美股期货跌幅扩大，标普500指数期货跌0.4%，纳斯达克100指数期货跌0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3171197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
           "title": "美股期货走低，标普500指数期货小幅下跌0.3%。",
           "url": "https://wallstreetcn.com/livenews/3171100",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
         },
@@ -627,9 +717,48 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "特朗普拒谈重开海峡，金价4200再次成为考验点",
+          "url": "https://flash.jin10.com/detail/20260928113555700800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
+        },
+        {
+          "title": "金价回落叠加节日促销，黄金零售市场迎来消费旺季",
+          "url": "https://wallstreetcn.com/livenews/3171103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时41分"
+        },
+        {
+          "title": "黄金价格持续下跌",
+          "url": "https://s.weibo.com/weibo?q=%E9%BB%84%E9%87%91%E4%BB%B7%E6%A0%BC%E6%8C%81%E7%BB%AD%E4%B8%8B%E8%B7%8C&t=31&band_rank=12&Refer=top",
+          "source": "微博",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时47分"
         }
       ]
     },
@@ -642,28 +771,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28365570&amp;topic_name=DeepSeek%E5%B0%86%E5%8F%82%E5%8A%A0%E8%81%94%E5%90%88%E5%9B%BD%E4%BC%9A%E8%AE%AE",
           "source": "贴吧",
           "ranks": [
-            26
+            26,
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时31分 ~ 07时41分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价回落叠加节日促销，黄金零售市场迎来消费旺季",
-          "url": "https://wallstreetcn.com/livenews/3171103",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时41分"
+          "appearance_count": 5,
+          "time_info": "[01时31分 ~ 11时47分]"
         }
       ]
     },
