@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-09-29T07:43:53.108229+08:00",
-  "total_titles_processed": 428,
+  "generated_at": "2026-09-29T12:21:52.756055+08:00",
+  "total_titles_processed": 644,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "伊朗外长警告：已为“末日战争”做好准备",
           "url": "https://news.ifeng.com/c/8wmSMFPHohF",
           "source": "凤凰网",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 07时43分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 12时21分]"
         },
         {
           "title": "伊朗媒体：格什姆岛附近传出爆炸声 系警告射击所致",
@@ -25,7 +26,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -36,7 +37,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -92,7 +93,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -103,7 +104,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -114,7 +115,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -136,7 +137,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -147,9 +148,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "伊朗最高领袖：伊朗已变得独立强大",
+          "url": "https://www.toutiao.com/trending/7690566289098293267/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "伊朗外长：周一与调解方进行了会谈，不会留在纽约等待美国回应",
@@ -158,7 +170,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -169,7 +181,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -188,18 +200,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "特朗普说的“Gung Ho”，源自八路军和游击战",
           "url": "https://news.ifeng.com/c/8wnBWmkYo4Z",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 07时43分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 12时21分]"
         },
         {
           "title": "特朗普为何反对“AI减速”？“大空头”：他承受不起随之而来的经济崩溃！",
@@ -213,26 +226,28 @@
           "time_info": "02时28分"
         },
         {
-          "title": "日方官员称特朗普表态让日本不舒服",
-          "url": "https://www.toutiao.com/trending/7690028888260444214/",
-          "source": "今日头条",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时43分"
-        },
-        {
           "title": "特朗普证实美伊代表已交换信息 普京签署总统令再次扩编俄军 | 环球市场",
           "url": "https://www.cls.cn/detail/2494687",
           "source": "财联社热门",
           "ranks": [
-            11
+            11,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时43分 ~ 12时21分]"
+        },
+        {
+          "title": "日方官员称特朗普表态让日本不舒服",
+          "url": "https://www.toutiao.com/trending/7690028888260444214/",
+          "source": "今日头条",
+          "ranks": [
+            8,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时43分 ~ 12时21分]"
         },
         {
           "title": "伊朗私下悲观：11月前难达协议，特朗普否认愿给制裁和资产让步",
@@ -241,9 +256,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
+        },
+        {
+          "title": "中东和平又现曙光？特朗普证实：美伊代表已通过调解方交换信息",
+          "url": "https://www.cls.cn/detail/2494729",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "特朗普称美伊代表已通过调解方交换信息",
@@ -252,7 +278,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -263,7 +289,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -274,7 +300,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -285,7 +311,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -296,7 +322,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         }
@@ -304,7 +330,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "中东局势不明，原油冲高回落，美股指收跌，10年期美债收益率创2007年来新高，黄金重挫",
@@ -313,9 +339,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时43分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时43分 ~ 12时21分]"
+        },
+        {
+          "title": "美股收盘：美伊谈判前景不明 美债风暴不息 三大指数集体收跌",
+          "url": "https://www.cls.cn/detail/2494681",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时43分 ~ 12时21分]"
         },
         {
           "title": "伊朗局势恶化，美股指低开，10年期美债收益率创2007年来最高水平，油价涨幅收窄，贵金属全线承压",
@@ -329,15 +367,26 @@
           "time_info": "02时28分"
         },
         {
-          "title": "美股收盘：美伊谈判前景不明 美债风暴不息 三大指数集体收跌",
-          "url": "https://www.cls.cn/detail/2494681",
-          "source": "财联社热门",
+          "title": "25年来罕见！10年期美债收益率反超标普500盈利收益率",
+          "url": "https://wallstreetcn.com/articles/3782689",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时43分"
+          "time_info": "12时21分"
+        },
+        {
+          "title": "5.27%！10年期美债收益率创2007年以来新高 万物皆在重估？",
+          "url": "https://www.cls.cn/detail/2494747",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "美伊对峙油价维持高位 亚洲债市或跟随美债走低",
@@ -346,7 +395,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -368,7 +417,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -379,7 +428,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         }
@@ -387,7 +436,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "迎战Meta Muse，OpenAI紧急推出个人助手，预计周二发布",
@@ -400,6 +449,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 07时43分]"
+        },
+        {
+          "title": "一起呼吁“AI减速”？OpenAI取消最新模型发布，Anthropic却“两连发”！",
+          "url": "https://www.cls.cn/detail/2494709",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         },
         {
           "title": "怎么看 OpenAI 的 Pro 订阅取消 5x 和 20x 的描述？",
@@ -430,7 +490,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -441,7 +501,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         },
@@ -452,15 +512,55 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时43分"
         }
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "【早报】美股光通信、存储股，集体走弱；金价大幅跳水；多家A股公司，计划回购股份",
+          "url": "https://www.cls.cn/detail/2494700",
+          "source": "财联社热门",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时43分 ~ 12时21分]"
+        },
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=11&Refer=top",
+          "source": "微博",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        },
+        {
+          "title": "金价昨日大跌，长假前的“日历效应”怎么看？",
+          "url": "https://flash.jin10.com/detail/20260929120354266800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "特朗普拒绝伊朗停火条件 美股期指下跌 英伟达盘前涨近2% | 今夜看点",
@@ -471,8 +571,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时28分 ~ 07时43分]"
+          "appearance_count": 3,
+          "time_info": "[02时28分 ~ 12时21分]"
         },
         {
           "title": "高盛警告：美股多数股票已在熊市",
@@ -484,6 +584,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 07时43分]"
+        },
+        {
+          "title": "摩根大通：美股科技七巨头“杀估值”已近尾声，但难再回到“一枝独秀”",
+          "url": "https://wallstreetcn.com/articles/3782662",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时21分"
         }
       ]
     },
@@ -501,23 +612,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[02时28分 ~ 07时43分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "【早报】美股光通信、存储股，集体走弱；金价大幅跳水；多家A股公司，计划回购股份",
-          "url": "https://www.cls.cn/detail/2494700",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时43分"
         }
       ]
     }
