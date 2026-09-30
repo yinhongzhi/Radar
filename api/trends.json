@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-10-01T03:51:56.103006+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-10-01T07:31:16.891574+08:00",
+  "total_titles_processed": 432,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普拒绝为AI监管立法，签署AI\"道德约束\"协议，力推行业自律监管，将成立监督“委员会”",
           "url": "https://wallstreetcn.com/articles/3782769",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 07时31分]"
         },
         {
           "title": "美国总统特朗普：如果我治理委内瑞拉，我会做与被我掳走的总统马杜罗完全相同的事。",
@@ -149,6 +150,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "美国总统特朗普：美国完全控制着霍尔木兹海峡。",
+          "url": "https://wallstreetcn.com/livenews/3173174",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美国总统特朗普谈及出台柴油出口禁令的可能性，声称：正在研究。",
+          "url": "https://wallstreetcn.com/livenews/3173173",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         }
       ]
     },
@@ -236,47 +259,8 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "剑指英伟达CUDA！DeepSeek开源华为昇腾全套组件",
-          "url": "https://www.cls.cn/detail/2496566",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "DeepSeek开源昇腾适配组件",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%98%87%E8%85%BE%E9%80%82%E9%85%8D%E7%BB%84%E4%BB%B6",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        },
-        {
-          "title": "对标英伟达CUDA！DeepSeek开源昇腾版“AI工具箱”，性能接近硬件上限",
-          "url": "https://wallstreetcn.com/articles/3782814",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股三大指数两连跌，30年期美债利率触及2002年高位，原油先涨后跌，黄金反弹",
@@ -290,6 +274,17 @@
           "time_info": "03时51分"
         },
         {
+          "title": "尽管油价走低、尽管美联储高官“放鸽”，美债收益率依旧在走高",
+          "url": "https://wallstreetcn.com/articles/3782785",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
           "title": "PCE低于预期，加息预期降温，美股高开，2年期美债收益率下行，布油涨超2%，黄金涨幅收窄",
           "url": "https://wallstreetcn.com/articles/3782819",
           "source": "华尔街见闻",
@@ -299,29 +294,105 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时51分"
+        },
+        {
+          "title": "10年期美债收益率自2007年以来首次涨穿5.3%，两年期美债收益率三季度涨超71个基点",
+          "url": "https://wallstreetcn.com/livenews/3173195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "剑指英伟达CUDA！DeepSeek开源华为昇腾全套组件",
+          "url": "https://www.cls.cn/detail/2496566",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 07时31分]"
+        },
+        {
+          "title": "对标英伟达CUDA！DeepSeek开源昇腾版“AI工具箱”，性能接近硬件上限",
+          "url": "https://wallstreetcn.com/articles/3782814",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 07时31分]"
+        },
+        {
+          "title": "DeepSeek开源昇腾适配组件",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E5%BC%80%E6%BA%90%E6%98%87%E8%85%BE%E9%80%82%E9%85%8D%E7%BB%84%E4%BB%B6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 07时31分]"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "美国8月PCE低于预期 市场削减加息押注 美股期指上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2496575",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时51分"
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 07时31分]"
+        },
+        {
+          "title": "通胀数据难挡收益率压力，美股指承压，标普录得6月以来最差月度表现，黄金倒V",
+          "url": "https://wallstreetcn.com/articles/3782819",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
+        },
+        {
+          "title": "美股收盘：通胀不及预期缓解加息担忧 三大指数涨跌不一",
+          "url": "https://www.cls.cn/detail/2496732",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时30分 ~ 07时31分]"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 1,
+      "match_count": 3,
       "titles": [
         {
           "title": "“花费23年1.7万亿美元，美国把伊拉克留给了伊朗”",
@@ -331,8 +402,30 @@
             11
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时51分 ~ 07时31分]"
+        },
+        {
+          "title": "美联储Kashkari：伊朗战争所造成的干扰的持续时间超过之前预料。 我已经缓慢地修正自己对中性利率的预期。 希望美联储能通过适度调整来压低通胀。",
+          "url": "https://wallstreetcn.com/livenews/3173196",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时51分"
+          "time_info": "07时31分"
+        },
+        {
+          "title": "美联储卡什卡利：伊朗战争带来的扰动持续时间超出预期，已逐步上调对中性利率的预估。",
+          "url": "https://flash.jin10.com/detail/20261001062758976800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时31分"
         }
       ]
     }
