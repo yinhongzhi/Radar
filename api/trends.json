@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-30T05:54:40.604102+08:00",
-  "total_titles_processed": 403,
+  "generated_at": "2026-09-30T09:06:17.409135+08:00",
+  "total_titles_processed": 571,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "美专家：特朗普或将淡化对台军售问题",
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
         },
@@ -46,11 +46,23 @@
           "source": "今日头条",
           "ranks": [
             9,
-            10
+            10,
+            1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 05时54分]"
+          "appearance_count": 3,
+          "time_info": "[01时41分 ~ 09时06分]"
+        },
+        {
+          "title": "特朗普将把“人工智能”更名为“超级智能” 美国消费者信心跌至十二年以来最低 | 环球市场",
+          "url": "https://www.cls.cn/detail/2495770",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         },
         {
           "title": "美国总统特朗普于周二在白宫发布了与人工智能高管达成一致的文件。",
@@ -59,9 +71,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "特朗普会见多家科技企业负责人，签署人工智能相关文件",
+          "url": "https://news.ifeng.com/c/8wpgpUOO0vj",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         },
         {
           "title": "特朗普即将任命AI主管 情报总监Clayton成潜在人选",
@@ -70,9 +93,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
+        },
+        {
+          "title": "特朗普白宫宴请AI领袖：签署AI协议 提出“自我监管”应对风险",
+          "url": "https://www.cls.cn/detail/2495801",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         },
         {
           "title": "据Axios：美国总统特朗普表示，美国国家情报总监杰伊·克莱顿（Jay Clayton）会是一个不错的人工智能主管。",
@@ -81,7 +115,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
         },
@@ -92,7 +126,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
         },
@@ -103,7 +137,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
         },
@@ -114,7 +148,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
         },
@@ -130,13 +164,24 @@
           "time_info": "01时41分"
         },
         {
+          "title": "特朗普政府推出人工智能驱动的政府网站",
+          "url": "https://wallstreetcn.com/livenews/3172515",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
           "title": "美国总统特朗普对站在身旁的Alphabet首席执行官批评了该公司在芬兰建设数据中心的计划。",
           "url": "https://wallstreetcn.com/livenews/3172458",
           "source": "华尔街见闻-快讯",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
         },
@@ -147,7 +192,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时54分"
         }
@@ -155,7 +200,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 10,
+      "match_count": 16,
       "titles": [
         {
           "title": "OpenAI考虑按1.4万亿美元估值融资300亿美元。",
@@ -169,6 +214,17 @@
           "time_info": "01时41分"
         },
         {
+          "title": "OpenAI Codex支持原生调用GLM-5.3 Flash与Kimi K3等模型",
+          "url": "https://wallstreetcn.com/livenews/3172541",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
           "title": "CrowdStrike将Falcon平台提供至OpenAI的Marketplace。",
           "url": "https://wallstreetcn.com/livenews/3172386",
           "source": "华尔街见闻-快讯",
@@ -178,6 +234,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "OpenAI发布AI助手“Dot”：可自主干活，全天候待命",
+          "url": "https://www.cls.cn/detail/2495744",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         },
         {
           "title": "Meta涨幅扩大至1.8%，刷新日高。 OpenAI举行投资者日活动，发布常驻AI智能体Dots，推出新的500美元付费档位。",
@@ -191,6 +258,17 @@
           "time_info": "01时41分"
         },
         {
+          "title": "OpenAI应战Meta：发布个人AI助手Dots，高端订阅每月500美元，是Muse高阶版的5倍",
+          "url": "https://wallstreetcn.com/articles/3782764",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
           "title": "OpenAI将于今年秋季预览基于机密计算的 “私有推理” 技术。 将ChatGPT部署至Slack与微软Teams，用户无需单独申领许可证。 推出企业市场平台，上线时拥有32家首发合作伙伴，包括Salesforce、Adobe、CrowdStrike。",
           "url": "https://wallstreetcn.com/livenews/3172378",
           "source": "华尔街见闻-快讯",
@@ -200,6 +278,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "怎么看 OpenAI 正式官宣 200 美元订阅用量减半？",
+          "url": "https://www.zhihu.com/question/2088290387425224090",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         },
         {
           "title": "OpenAI推出GPT-6.1 Sol模型，其性能接近Astra，但标准词元价格仅为Astra的五分之一。 GPT‑6.1 Sol自今日起，面向ChatGPT Work与Codex内所有Plus、Pro、Business、Enterprise及Edu用户开放。 GPT‑6.1 Sol标准API定价为每百万输入token2美元，每百万缓存输入token0.10美元，每百万输出token10美元。 将于未来数日推出GPT‑6.1 Sol超快版。",
@@ -222,6 +311,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        },
+        {
+          "title": "如何评价 OpenAI 发布的 GPT-6.1 Sol？",
+          "url": "https://www.zhihu.com/question/2088438061877178615",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         },
         {
           "title": "OpenAI推出全天候自主智能体Dots 挑战Meta Muse",
@@ -257,6 +357,17 @@
           "time_info": "01时41分"
         },
         {
+          "title": "如何评价 OpenAI 在 9 月 30 日召开的 DevDay 2026 中发布的内容？",
+          "url": "https://www.zhihu.com/question/2088428064954901581",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
           "title": "OpenAI无视员工关于其做的不够的警告。 该公司员工们向高管发出警告。（纽约时报）",
           "url": "https://wallstreetcn.com/livenews/3172368",
           "source": "华尔街见闻-快讯",
@@ -270,108 +381,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 5,
-      "titles": [
-        {
-          "title": "白宫人工智能协议：英伟达(NVDA.O)、OpenAI、Anthropic、xAI，谷歌(GOOG.O)将定期讨论人工智能安全标准。",
-          "url": "https://flash.jin10.com/detail/20260930053406969800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "Anthropic在2025年通过亚马逊、谷歌完成47%的销售。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3172493",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "白宫发布关于更名人工智能（AI）的行政令。 每家公司应实施以下四层控制与审计措施。 实施强有力的内部控制以监控模型的性能与校准情况。 授权一支内部团队确保所有管控、监控与检测工作按设计要求正常运行。 委任董事会成立一个独立委员会，负责监督运营内控工作的团队以及内外部审计师与评估机构，接收上述各方提交的报告，并开展相关评估工作。 文件由谷歌、Anthropic、Meta、OpenAI、马斯克、英伟达签署。 英伟达、OpenAI、Anthropic、xAI、谷歌将定期就人工智能安全标准开会。",
-          "url": "https://wallstreetcn.com/livenews/3172489",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "IPO文件显示，2025年Anthropic有47%的销售额来自其分销商亚马逊和谷歌。 Anthropic三分之一的2025年收入来自美国境外。",
-          "url": "https://wallstreetcn.com/livenews/3172475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "Anthropic IPO文件显示，Anthropic 2025年约三分之一营收来自美国以外市场，不到20%的收入来自订阅业务。此外，2025年约47%的销售额来自亚马逊(AMZN.O)和谷歌(GOOG.O)等分销合作伙伴。",
-          "url": "https://flash.jin10.com/detail/20260930045251690800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "美伊谈判牵动市场，纳指开盘小幅上涨，美债收益率高位震荡，布油跌1.6%，金价反弹",
-          "url": "https://wallstreetcn.com/articles/3782726",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "国际金价涨约1.6%，一度刷新日高至4180美元上方",
-          "url": "https://wallstreetcn.com/livenews/3172477",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "05时54分"
-        },
-        {
-          "title": "金价下跌30岁左右年轻人成消费主力",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C30%E5%B2%81%E5%B7%A6%E5%8F%B3%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%88%90%E6%B6%88%E8%B4%B9%E4%B8%BB%E5%8A%9B%23&t=31&band_rank=19&Refer=top",
-          "source": "微博",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时41分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "中东局势不明，原油冲高回落，美股指收跌，10年期美债收益率创2007年来新高，黄金重挫",
@@ -383,6 +394,30 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时41分 ~ 05时54分]"
+        },
+        {
+          "title": "美股三大指数两连跌，30年期美债利率触及2002年高位，原油先涨后跌，黄金反弹",
+          "url": "https://wallstreetcn.com/articles/3782726",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "美债收益率高位回落 美股期指集体走高 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2495520",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            8,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时41分 ~ 09时06分]"
         },
         {
           "title": "25年来罕见！10年期美债收益率反超标普500盈利收益率",
@@ -397,22 +432,143 @@
           "time_info": "[01时41分 ~ 05时54分]"
         },
         {
-          "title": "美债收益率高位回落 美股期指集体走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2495520",
+          "title": "美股收盘：加息预期降温 美债收益率依旧走高 三大指数小幅收跌",
+          "url": "https://www.cls.cn/detail/2495761",
           "source": "财联社热门",
           "ranks": [
-            9,
-            8
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "美债收益率持续走高，机构资产配置寻找更多支点",
+          "url": "https://wallstreetcn.com/livenews/3172514",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "白宫人工智能协议：英伟达(NVDA.O)、OpenAI、Anthropic、xAI，谷歌(GOOG.O)将定期讨论人工智能安全标准。",
+          "url": "https://flash.jin10.com/detail/20260930053406969800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "Anthropic在2025年通过亚马逊、谷歌完成47%的销售。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3172493",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "白宫发布关于更名人工智能（AI）的行政令。 每家公司应实施以下四层控制与审计措施。 实施强有力的内部控制以监控模型的性能与校准情况。 授权一支内部团队确保所有管控、监控与检测工作按设计要求正常运行。 委任董事会成立一个独立委员会，负责监督运营内控工作的团队以及内外部审计师与评估机构，接收上述各方提交的报告，并开展相关评估工作。 文件由谷歌、Anthropic、Meta、OpenAI、马斯克、英伟达签署。 英伟达、OpenAI、Anthropic、xAI、谷歌将定期就人工智能安全标准开会。",
+          "url": "https://wallstreetcn.com/livenews/3172489",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "IPO文件显示，2025年Anthropic有47%的销售额来自其分销商亚马逊和谷歌。 Anthropic三分之一的2025年收入来自美国境外。",
+          "url": "https://wallstreetcn.com/livenews/3172475",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "Anthropic IPO文件显示，Anthropic 2025年约三分之一营收来自美国以外市场，不到20%的收入来自订阅业务。此外，2025年约47%的销售额来自亚马逊(AMZN.O)和谷歌(GOOG.O)等分销合作伙伴。",
+          "url": "https://flash.jin10.com/detail/20260930045251690800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "伊朗革命卫队发言人：美国若想结束战争则必须承认战败",
+          "url": "https://news.ifeng.com/c/8wol8a634cR",
+          "source": "凤凰网",
+          "ranks": [
+            4
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时41分 ~ 05时54分]"
+        },
+        {
+          "title": "“为何美国有那么多穷人”？伊朗革命卫队致信美国人民",
+          "url": "https://news.ifeng.com/c/8wp8WPyYgzE",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "伊朗队主教练问王楚钦怎么看伊朗队",
+          "url": "https://www.toutiao.com/trending/7691097918019403812/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "霍尔木兹甘省南侧航道的一艘船只遭到无人机打击。（伊朗媒体FARS）",
+          "url": "https://wallstreetcn.com/livenews/3172359",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时41分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek Harness桌面端上线",
@@ -436,34 +592,84 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时41分 ~ 05时54分]"
+        },
+        {
+          "title": "如何评价 DeepSeek Harness 桌面版正式发布？",
+          "url": "https://www.zhihu.com/question/2088368253169034470",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 2,
+      "keyword_group": "金价",
+      "match_count": 3,
       "titles": [
         {
-          "title": "伊朗革命卫队发言人：美国若想结束战争则必须承认战败",
-          "url": "https://news.ifeng.com/c/8wol8a634cR",
-          "source": "凤凰网",
+          "title": "美伊谈判牵动市场，纳指开盘小幅上涨，美债收益率高位震荡，布油跌1.6%，金价反弹",
+          "url": "https://wallstreetcn.com/articles/3782726",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时41分 ~ 05时54分]"
+          "appearance_count": 1,
+          "time_info": "05时54分"
         },
         {
-          "title": "霍尔木兹甘省南侧航道的一艘船只遭到无人机打击。（伊朗媒体FARS）",
-          "url": "https://wallstreetcn.com/livenews/3172359",
+          "title": "国际金价涨约1.6%，一度刷新日高至4180美元上方",
+          "url": "https://wallstreetcn.com/livenews/3172477",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            25
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时54分"
+        },
+        {
+          "title": "金价下跌30岁左右年轻人成消费主力",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C30%E5%B2%81%E5%B7%A6%E5%8F%B3%E5%B9%B4%E8%BD%BB%E4%BA%BA%E6%88%90%E6%B6%88%E8%B4%B9%E4%B8%BB%E5%8A%9B%23&t=31&band_rank=19&Refer=top",
+          "source": "微博",
+          "ranks": [
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "【早报】特朗普签署AI文件，美股AI硬件股集体爆发；原油大跌、黄金上涨；重磅政策来了！贷款买房，国家贴息",
+          "url": "https://www.cls.cn/detail/2495782",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
+        },
+        {
+          "title": "美股期货走高，纳斯达克100指数期货上涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3172537",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时06分"
         }
       ]
     }
