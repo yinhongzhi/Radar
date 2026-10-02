@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02T07:01:58.478769+08:00",
-  "total_titles_processed": 414,
+  "generated_at": "2026-10-02T10:09:02.638432+08:00",
+  "total_titles_processed": 593,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 26,
       "titles": [
         {
           "title": "特朗普催账，韩国先掏2000亿美元",
@@ -15,8 +15,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 10时09分]"
         },
         {
           "title": "特朗普计划邀请普京出席G20峰会，波兰外长批评",
@@ -26,8 +26,19 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 10时09分]"
+        },
+        {
+          "title": "特朗普谈及伊朗时表示，伊朗不会拥有核武器；也许我们会达成协议，也许不会。",
+          "url": "https://wallstreetcn.com/livenews/3173580",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "特朗普：如果鲍威尔不辞职，美国政府就应该以起诉他",
@@ -37,8 +48,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 10时09分]"
         },
         {
           "title": "乘客称凭借电视节目知识万米高空救机，特朗普直呼“不可思议”",
@@ -46,11 +57,45 @@
           "source": "澎湃新闻",
           "ranks": [
             11,
-            14
+            14,
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 10时09分]"
+        },
+        {
+          "title": "特朗普黄金手机是什么样的",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E9%BB%84%E9%87%91%E6%89%8B%E6%9C%BA%E6%98%AF%E4%BB%80%E4%B9%88%E6%A0%B7%E7%9A%84",
+          "source": "bilibili 热搜",
+          "ranks": [
+            7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[02时18分 ~ 07时01分]"
+          "time_info": "[10时08分 ~ 10时09分]"
+        },
+        {
+          "title": "特朗普的“AI自我监管”意味着什么？老黄“大获全胜”，幕后带头质问Anthropic Amodei",
+          "url": "https://wallstreetcn.com/articles/3782862",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
+        },
+        {
+          "title": "诺贝尔和平奖揭晓倒计时一周，特朗普再获提名",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34186526",
+          "source": "澎湃新闻",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
         },
         {
           "title": "美国总统特朗普：我永远不会抛弃我们的盟友。",
@@ -59,9 +104,42 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "特朗普重申美国应该拥有全球最低的利率。",
+          "url": "https://wallstreetcn.com/livenews/3173575",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "特朗普重申，如果共和党赢得众议院和参议院，将发放5,000美元。",
+          "url": "https://wallstreetcn.com/livenews/3173573",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
+        },
+        {
+          "title": "美国总统特朗普：加拿大多年来一直在占我们便宜，但今后不会了。",
+          "url": "https://wallstreetcn.com/livenews/3173572",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "美国总统特朗普：我们的海军正在实施封锁，几个月来没有任何伊朗船只能够通过霍尔木兹海峡。",
@@ -70,7 +148,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -81,7 +159,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -92,7 +170,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -103,7 +181,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -125,7 +203,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -136,7 +214,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -147,7 +225,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -169,7 +247,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -180,7 +258,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -191,7 +269,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -202,7 +280,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -213,7 +291,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         }
@@ -223,6 +301,17 @@
       "keyword_group": "美债",
       "match_count": 8,
       "titles": [
+        {
+          "title": "美股10月惊险开门红，美联储二把手放鸽，美债收益率暂别多年高位，美元站上102，油金齐涨",
+          "url": "https://wallstreetcn.com/articles/3782859",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 10时09分]"
+        },
         {
           "title": "30 年期美债收益率冲破 5.6%，到底会带来哪些影响，会如何影响中国资产定价，全球范围内又如何？",
           "url": "https://www.zhihu.com/question/2088560263545078106",
@@ -236,15 +325,17 @@
           "time_info": "[02时18分 ~ 07时01分]"
         },
         {
-          "title": "美股10月惊险开门红，美联储二把手放鸽，美债收益率暂别多年高位，美元站上102，油金齐涨",
-          "url": "https://wallstreetcn.com/articles/3782859",
+          "title": "华尔街机构警告：美联储犯下“原罪”，十年期美债收益率或将迈向8%",
+          "url": "https://wallstreetcn.com/articles/3782880",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            9,
+            8,
+            3
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 10时09分]"
         },
         {
           "title": "美联储Kashkari：即便收益率上行，美债市场仍运转正常。 未在金融体系中看到系统性风险迹象。 市场通胀预期仍锚定于 2%。 供给冲击有望消退，加息旨在抑制价格预期。 根据经济表现，美联储可能需要进行超出市场预期的加息。 市场如今认为美联储主席沃什会采取行动抑制通胀。 对于10月是否加息，我没有强烈看法；对于美联储应该以多快的速度加息，持开放态度。 我9月的利率预测是今年再加息一次，2027年再加息一次。 从现有数据来看，金融条件并未出现实质性收紧。 自美联储 9 月政策会议以来，经济表现超出预期。 根据数据，金融环境并未出现实质性收紧。",
@@ -256,6 +347,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
+        },
+        {
+          "title": "全球债市抛售潮加剧！美债收益率触及2002年高位，英债突破6%创1998年新高",
+          "url": "https://wallstreetcn.com/articles/3782875",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[07时01分 ~ 10时09分]"
         },
         {
           "title": "通胀数据难挡美债压力，标普、道指三连跌，10年期收益率突破5.3%，全球债市Q3重挫",
@@ -270,18 +373,6 @@
           "time_info": "[02时18分 ~ 07时01分]"
         },
         {
-          "title": "华尔街机构警告：美联储犯下“原罪”，十年期美债收益率或将迈向8%",
-          "url": "https://wallstreetcn.com/articles/3782880",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 07时01分]"
-        },
-        {
           "title": "美债收益率直冲24年高位 新交易月伊始美股期指上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2497008",
           "source": "财联社热门",
@@ -289,19 +380,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 07时01分]"
-        },
-        {
-          "title": "全球债市抛售潮加剧！美债收益率触及2002年高位，英债突破6%创1998年新高",
-          "url": "https://wallstreetcn.com/articles/3782875",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时01分"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 10时09分]"
         },
         {
           "title": "两年期美债收益率跌超9.5个基点，10年期美债收益率一度创2002年以来新高",
@@ -310,7 +390,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         }
@@ -318,8 +398,19 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
+        {
+          "title": "【早报】美股光通信、存储芯片股，全线爆发；原油、黄金齐涨；华为与赛力斯达成新五年合作",
+          "url": "https://www.cls.cn/detail/2497140",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
+        },
         {
           "title": "AI热潮顶住债市风暴！美股指数期货重拾涨势，欧股跌幅收窄，美元触及三个月高点",
           "url": "https://wallstreetcn.com/articles/3782859",
@@ -338,7 +429,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -350,8 +441,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 10时09分]"
         },
         {
           "title": "美国8月PCE低于预期 市场削减加息押注 美股期指上涨 | 今夜看点",
@@ -361,8 +452,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 10时09分]"
         },
         {
           "title": "美股三大股指跳水 美光科技跌近3%",
@@ -383,7 +474,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -402,7 +493,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "谈判陷入僵局 鲁比奥要求伊朗代表团立即离美",
@@ -412,8 +503,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 10时09分]"
         },
         {
           "title": "伊朗代表团称离开纽约系既定行程，已提前告知美方",
@@ -423,8 +514,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 10时09分]"
         },
         {
           "title": "伊朗革命卫队顾问内格迪：美国曾多年驻扎在伊拉克并付出了沉重代价，但最终被迫撤离，这些变化表明，美国的实力并不像其宣传的那样强大。",
@@ -433,7 +524,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -444,7 +535,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         },
@@ -454,11 +545,12 @@
           "source": "澎湃新闻",
           "ranks": [
             10,
-            12
+            12,
+            11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 07时01分]"
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 10时09分]"
         },
         {
           "title": "据俄新社：伊朗方面声称，以色列策划了迪拜航班事故。",
@@ -467,9 +559,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        },
+        {
+          "title": "伊朗总统：伊朗不会回避与美国对话",
+          "url": "https://wallstreetcn.com/livenews/3173563",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时09分"
         },
         {
           "title": "【伊朗波斯湾海峡管理局：近期三艘遭袭油轮曾被列入违规名单】10月1日，伊朗“波斯湾海峡管理局”发表声明称，近期霍尔木兹海峡发生多起油轮遇袭事件，其中最近遇袭的三艘油轮均为阿联酋拥有或租赁。调查显示，“Al Ruwais”号、“Sinbad”号和“Mersin Prosperity”号油轮在过去两个月中曾多次通过霍尔木兹海峡，上述三艘油轮的名称曾出现在“波斯湾海峡管理局”最新更新的违规名单中。（央视）",
@@ -478,9 +581,38 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌Gemini 4 Argon多指标SOTA！输出上限破百万token，推广期价格仅竞品1/5",
+          "url": "https://wallstreetcn.com/articles/3782853",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时18分 ~ 07时01分]"
+        },
+        {
+          "title": "Gemini4对比Opus5.5",
+          "url": "https://search.bilibili.com/all?keyword=Gemini4%E5%AF%B9%E6%AF%94Opus5.5",
+          "source": "bilibili 热搜",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时08分 ~ 10时09分]"
         }
       ]
     },
@@ -502,24 +634,6 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌Gemini 4 Argon多指标SOTA！输出上限破百万token，推广期价格仅竞品1/5",
-          "url": "https://wallstreetcn.com/articles/3782853",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时18分 ~ 07时01分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
       "match_count": 1,
       "titles": [
@@ -530,7 +644,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         }
@@ -547,7 +661,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时01分"
         }
