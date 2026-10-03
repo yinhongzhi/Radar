@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-04T03:47:23.884320+08:00",
-  "total_titles_processed": 385,
+  "generated_at": "2026-10-04T06:43:18.006734+08:00",
+  "total_titles_processed": 420,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普威胁韩国再不签费用翻倍",
@@ -16,8 +16,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时43分]"
         },
         {
           "title": "特朗普核心内阁闭门会：一些事已作出决定",
@@ -27,31 +27,43 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时43分]"
+        },
+        {
+          "title": "MSNow白宫记者：（当被问及对重返白宫的头两年是否有任何遗憾时）特朗普表示，“哦，我喜欢。这非常棒，我认为这是总统历史上最有成效的两年。”（当被追问若可以重来，是否有什么想做得更好的地方）他没有回答。",
+          "url": "https://flash.jin10.com/detail/20261004053444751800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
         },
         {
           "title": "特朗普：刚才一桌非常有名望的人士告诉我，他们特别讨厌在强制时间调整后晚上回家，因为那时天黑得伸手不见五指。真是令人沮丧！其中一位先生说：“我就是讨厌摸黑回家。”在犯罪猖獗的民主党执政州，晚上走回家更是危险重重！",
           "url": "https://flash.jin10.com/detail/20261004023301172800",
           "source": "金十数据",
           "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时47分"
-        },
-        {
-          "title": "特朗普：与伊朗的战事将“很快结束”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34194095",
-          "source": "澎湃新闻",
-          "ranks": [
-            6,
-            7
+            4,
+            17
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时47分]"
+          "time_info": "[03时47分 ~ 06时43分]"
+        },
+        {
+          "title": "日本央行加息、特朗普警告都没用？对冲基金重新做空日元",
+          "url": "https://wallstreetcn.com/articles/3782958",
+          "source": "华尔街见闻",
+          "ranks": [
+            8,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时43分]"
         },
         {
           "title": "特朗普发帖：共和党必须赢得中期选举",
@@ -62,8 +74,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时43分]"
         },
         {
           "title": "向中方释放某种信号？特朗普计划出席东盟峰会",
@@ -73,19 +85,21 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时43分]"
         },
         {
-          "title": "日本央行加息、特朗普警告都没用？对冲基金重新做空日元",
-          "url": "https://wallstreetcn.com/articles/3782958",
-          "source": "华尔街见闻",
+          "title": "特朗普：与伊朗的战事将“很快结束”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34194095",
+          "source": "澎湃新闻",
           "ranks": [
-            8
+            6,
+            7,
+            9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时43分]"
         },
         {
           "title": "局势升级！特朗普称中期选举后或加大对伊轰炸 美军大举增兵中东",
@@ -95,8 +109,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时43分]"
         },
         {
           "title": "特朗普威胁韩国：不签字，就加倍收费",
@@ -106,19 +120,31 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时43分]"
         },
         {
           "title": "特朗普最新表态：与伊朗的战事将“很快结束”！此前类似说法已多达几十次",
           "url": "https://wallstreetcn.com/articles/3782955",
           "source": "华尔街见闻",
           "ranks": [
-            10
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 06时43分]"
+        },
+        {
+          "title": "据阿拉比亚电视台：美国国防部长赫格塞思表示，特朗普总统给予伊朗一切机会，并保留所有选项。伊朗必须做出正确的决定，改变其方向。对抗伊朗的任务与以往战争不同，不会无休止地持续下去。",
+          "url": "https://flash.jin10.com/detail/20261004031532526800",
+          "source": "金十数据",
+          "ranks": [
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时47分"
+          "time_info": "06时43分"
         },
         {
           "title": "特朗普：不要再一年改两次时间，让参议院现在就投票！",
@@ -157,18 +183,29 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
-          "title": "伊朗格什姆岛防空系统两次启动",
-          "url": "https://flash.jin10.com/detail/20261004022132202800",
+          "title": "据伊朗塔斯尼姆通讯社：由于也门的导弹袭击，沙特阿拉伯达曼的法赫德国王机场航班出现了中断和停飞。",
+          "url": "https://flash.jin10.com/detail/20261004055724027800",
           "source": "金十数据",
           "ranks": [
-            5
+            1
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时47分"
+          "time_info": "06时43分"
+        },
+        {
+          "title": "据伊朗法尔斯通讯社：阿拉伯消息来源称，也门武装部队对沙特的达曼市发动了攻击。",
+          "url": "https://flash.jin10.com/detail/20261004054603264800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时43分"
         },
         {
           "title": "据伊朗媒体，伊朗格什姆岛附近传出爆炸声。",
@@ -179,8 +216,20 @@
             6
           ],
           "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时43分]"
+        },
+        {
+          "title": "伊朗格什姆岛防空系统两次启动",
+          "url": "https://flash.jin10.com/detail/20261004022132202800",
+          "source": "金十数据",
+          "ranks": [
+            5,
+            18
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时47分]"
+          "time_info": "[03时47分 ~ 06时43分]"
         },
         {
           "title": "美国财长贝森特：本周伊朗海上在途石油将归零。",
@@ -191,41 +240,55 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时43分]"
         },
         {
           "title": "伊朗里亚尔续创新低，据称央行已出手干预汇市",
           "url": "https://flash.jin10.com/detail/20261004021229354800",
           "source": "金十数据",
           "ranks": [
-            6
+            6,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 06时43分]"
         },
         {
           "title": "据塔斯尼姆通讯社：伊朗空中防御系统在南部的格什姆岛击落了一架敌方无人机。",
           "url": "https://flash.jin10.com/detail/20261004013843665800",
           "source": "金十数据",
           "ranks": [
-            7
+            7,
+            20
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "03时47分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 06时43分]"
         },
         {
           "title": "据伊拉克国家通讯社：伊朗与伊拉克纳杰夫之间的航班将于周日恢复运营。",
           "url": "https://flash.jin10.com/detail/20261004012613808800",
           "source": "金十数据",
           "ranks": [
-            11
+            11,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 06时43分]"
+        },
+        {
+          "title": "伊媒：伊朗革命卫队近日对7艘“违规”油轮采取行动",
+          "url": "https://flash.jin10.com/detail/20261004050406700800",
+          "source": "金十数据",
+          "ranks": [
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时47分"
+          "time_info": "06时43分"
         },
         {
           "title": "据悉伊朗正在审议通过卡塔尔转交的美国新提案",
@@ -245,7 +308,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         },
@@ -274,8 +337,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时43分]"
         },
         {
           "title": "美股要“通宵”了！12月起迈入23小时交易时代",
@@ -285,19 +348,20 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时43分]"
         },
         {
           "title": "美国9月非农大幅低于预期 美股三大期指集体上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2497348",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时43分]"
         },
         {
           "title": "美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高",
@@ -307,8 +371,8 @@
             11
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时43分]"
         },
         {
           "title": "美股收盘：光通信、存储概念双双走强 三大指数集体微涨",
@@ -333,11 +397,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            14
+            14,
+            17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时43分]"
         },
         {
           "title": "如何评价 Gemini Flash 和 Pro 模型将于 2026 年 10 月 9 日转入付费模式？",
@@ -365,8 +430,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时43分]"
         },
         {
           "title": "据Business Insider，OpenAI安全系统团队负责人大卫·罗宾逊（David Robinson）已辞职。",
@@ -377,8 +442,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时43分]"
         }
       ]
     },
@@ -422,8 +487,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时01分 ~ 03时47分]"
+          "appearance_count": 3,
+          "time_info": "[01时01分 ~ 06时43分]"
         },
         {
           "title": "非农爆冷挫伤加息预期，美股续涨、英伟达盘中新高，美债收益率走V，G7释储重创原油，金银全周大跌",
@@ -449,7 +514,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "03时47分"
         }
