@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-03T08:57:52.095481+08:00",
-  "total_titles_processed": 570,
+  "generated_at": "2026-10-03T14:08:48.548765+08:00",
+  "total_titles_processed": 758,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 31,
       "titles": [
         {
           "title": "普京谈与特朗普关系",
@@ -20,35 +20,25 @@
           "time_info": "[00时13分 ~ 08时57分]"
         },
         {
+          "title": "美国不禁运柴油了，特朗普：小小G7，轻松拿捏",
+          "url": "https://news.ifeng.com/c/8wui8KprllQ",
+          "source": "凤凰网",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 14时08分]"
+        },
+        {
           "title": "美国总统特朗普：我们将很快填充我们的战略石油储备。",
           "url": "https://flash.jin10.com/detail/20261003081903255800",
           "source": "金十数据",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "美国总统特朗普表示，将很快用委内瑞拉石油填满战略石油储备。",
-          "url": "https://wallstreetcn.com/livenews/3173840",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "特朗普：与伊朗的战事将“很快结束”",
-          "url": "https://wallstreetcn.com/livenews/3173839",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -64,15 +54,28 @@
           "time_info": "00时13分"
         },
         {
-          "title": "美国不禁运柴油了，特朗普：小小G7，轻松拿捏",
-          "url": "https://news.ifeng.com/c/8wui8KprllQ",
-          "source": "凤凰网",
+          "title": "美国总统特朗普表示，将很快用委内瑞拉石油填满战略石油储备。",
+          "url": "https://wallstreetcn.com/livenews/3173840",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            1,
+            19
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 14时08分]"
+        },
+        {
+          "title": "特朗普：与伊朗的战事将“很快结束”",
+          "url": "https://wallstreetcn.com/livenews/3173839",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            2,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 14时08分]"
         },
         {
           "title": "局势升级！特朗普称中期选举后或加大对伊轰炸 美军大举增兵中东",
@@ -83,8 +86,8 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 08时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 14时08分]"
         },
         {
           "title": "康奈尔大学“性侵案”重启刑事调查，特朗普：这是所好学校",
@@ -223,9 +226,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
+        },
+        {
+          "title": "曝特朗普抓马杜罗前曾咨询Grok数小时",
+          "url": "https://www.toutiao.com/trending/7691663537861771290/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         },
         {
           "title": "特朗普：不会实施柴油出口禁令 欧洲将增加柴油供应",
@@ -234,7 +248,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         },
@@ -248,6 +262,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        },
+        {
+          "title": "美媒：特朗普核心内阁成员在戴维营密会数小时，讨论伊朗及胡塞冲突下一步行动",
+          "url": "https://flash.jin10.com/detail/20261003111318434800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "据Axios：特朗普的高级内阁成员周五在戴维营聚集数小时，讨论伊朗战争以及沙特-胡塞冲突的下一步行动。",
+          "url": "https://flash.jin10.com/detail/20261003111034370800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "美国总统特朗普称将向2000多万老年人发放约100美元的医保补贴支票。",
+          "url": "https://flash.jin10.com/detail/20261003105911281800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "特朗普：与伊朗的战事将“很快结束”",
+          "url": "https://www.toutiao.com/trending/7692226568457817642/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         },
         {
           "title": "美国总统特朗普：（关于韩国在美国的投资）我没有在阿拉斯加管道项目上急于行动。",
@@ -283,6 +341,17 @@
           "time_info": "00时13分"
         },
         {
+          "title": "美国总统特朗普周六日程一览",
+          "url": "https://flash.jin10.com/detail/20261003093325664800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
           "title": "美国总统特朗普：欧洲刚刚同意释放大量库存充足的柴油。相关进程将立即启动。",
           "url": "https://wallstreetcn.com/livenews/3173714",
           "source": "华尔街见闻-快讯",
@@ -307,8 +376,21 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 14时08分]"
+        },
+        {
+          "title": "马克龙呼吁G7协调联合抛储，油价应声跳水，欧美股市集体上涨，10年德债收益率跌至三周低位",
+          "url": "https://wallstreetcn.com/articles/3782926",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            6,
+            4
+          ],
+          "is_new": false,
           "appearance_count": 3,
-          "time_info": "[00时13分 ~ 08时57分]"
+          "time_info": "[05时11分 ~ 14时08分]"
         },
         {
           "title": "美国9月非农大幅低于预期 美股三大期指集体上涨 | 今夜看点",
@@ -319,20 +401,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 08时57分]"
-        },
-        {
-          "title": "马克龙呼吁G7协调联合抛储，油价应声跳水，欧美股市集体上涨，10年德债收益率跌至三周低位",
-          "url": "https://wallstreetcn.com/articles/3782926",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时11分 ~ 08时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 14时08分]"
         },
         {
           "title": "周五（10月2日），美股行业ETF普遍上涨，半导体ETF收涨2.07%，全球科技股指数ETF、区域银行ETF、可选消费ETF、银行业ETF、科技行业ETF至多涨1.42%，网络股指数ETF涨0.84%，能源业ETF涨0.19%，医疗业ETF、生物科技指数ETF则至多收跌0.33%。",
@@ -383,6 +453,18 @@
           "time_info": "[05时11分 ~ 08时57分]"
         },
         {
+          "title": "美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高",
+          "url": "https://www.cls.cn/detail/2497450",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 14时08分]"
+        },
+        {
           "title": "美股收盘：光通信、存储概念双双走强 三大指数集体微涨",
           "url": "https://www.cls.cn/detail/2497130",
           "source": "财联社热门",
@@ -412,18 +494,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时57分"
-        },
-        {
-          "title": "美股收盘：英伟达盘中破纪录 纳斯达克100指数收新高",
-          "url": "https://www.cls.cn/detail/2497450",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时57分"
         }
@@ -431,7 +502,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "非农大幅低于预期！美国9月新增就业2.9万，预期9万，美债收益率下行，美股期货上涨",
@@ -442,8 +513,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 08时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 14时08分]"
         },
         {
           "title": "欧洲市场“陷入恐慌”：美债风暴传染，欧债遭遇“黑色星期四”",
@@ -473,11 +544,34 @@
           "url": "https://wallstreetcn.com/livenews/3173827",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            10,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 14时08分]"
+        },
+        {
+          "title": "非农爆冷挫伤加息预期，美股续涨、英伟达盘中新高，美债收益率走V，G7释储重创原油，金银全周大跌",
+          "url": "https://wallstreetcn.com/articles/3782953",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时57分"
+          "time_info": "14时08分"
+        },
+        {
+          "title": "非农爆冷，美债收益率却跌不动：华尔街真正担心的事来了",
+          "url": "https://wallstreetcn.com/articles/3782957",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         },
         {
           "title": "美债一夜掉头 抛压退了吗",
@@ -494,29 +588,42 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "OpenAI的CEO Altman：Cerebras是一个紧密的合作伙伴。",
           "url": "https://wallstreetcn.com/livenews/3173834",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            5,
+            23
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时57分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时57分 ~ 14时08分]"
         },
         {
           "title": "大空头“剑指”Anthropic和OpenAI：市场应狠狠下跌，阻止它们上市！",
           "url": "https://www.cls.cn/detail/2496950",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            12
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 08时57分]"
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 14时08分]"
+        },
+        {
+          "title": "OpenAI模型又闯祸，澳政府机构再遭入侵",
+          "url": "https://news.ifeng.com/c/8wuutZ7kLU3",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         },
         {
           "title": "OpenAI聘请曾担任过美国总统特朗普AI官员的Thomas Lind。（The Information）",
@@ -528,6 +635,84 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谷歌搭载AI芯片测试卫星发射升空",
+          "url": "https://wallstreetcn.com/livenews/3173863",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        },
+        {
+          "title": "谷歌：Spanner Queues正式全面开放，支持智能体工作流中的事务性消息传递。",
+          "url": "https://flash.jin10.com/detail/20261002235716894800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时13分"
+        },
+        {
+          "title": "Gemini调整用户模型访问权限",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%E8%B0%83%E6%95%B4%E7%94%A8%E6%88%B7%E6%A8%A1%E5%9E%8B%E8%AE%BF%E9%97%AE%E6%9D%83%E9%99%90",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "谈判陷入僵局 鲁比奥要求伊朗代表团立即离美",
+          "url": "https://www.cls.cn/detail/2496818",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[00时13分 ~ 14时08分]"
+        },
+        {
+          "title": "伊拉克表示，除马汉航空外，伊朗航空公司已获准每日飞往纳杰夫40个航班。",
+          "url": "https://flash.jin10.com/detail/20261002233139669800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时13分"
+        },
+        {
+          "title": "伊朗地标点亮五星红旗庆祝中国国庆",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%9C%B0%E6%A0%87%E7%82%B9%E4%BA%AE%E4%BA%94%E6%98%9F%E7%BA%A2%E6%97%97%E5%BA%86%E7%A5%9D%E4%B8%AD%E5%9B%BD%E5%9B%BD%E5%BA%86",
+          "source": "百度热搜",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "14时08分"
         }
       ]
     },
@@ -557,51 +742,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时11分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "谈判陷入僵局 鲁比奥要求伊朗代表团立即离美",
-          "url": "https://www.cls.cn/detail/2496818",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[00时13分 ~ 08时57分]"
-        },
-        {
-          "title": "伊拉克表示，除马汉航空外，伊朗航空公司已获准每日飞往纳杰夫40个航班。",
-          "url": "https://flash.jin10.com/detail/20261002233139669800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "谷歌：Spanner Queues正式全面开放，支持智能体工作流中的事务性消息传递。",
-          "url": "https://flash.jin10.com/detail/20261002235716894800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时13分"
         }
       ]
     },
