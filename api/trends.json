@@ -1,8 +1,136 @@
 {
-  "generated_at": "2026-10-06T01:55:56.802015+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-10-06T07:46:53.297927+08:00",
+  "total_titles_processed": 436,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "特朗普",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "【早报】特朗普宣布成立“超级智能特别工作组”；马斯克称“SpaceXAI”将更名为“SpaceXSI”",
+          "url": "https://www.cls.cn/detail/2497778",
+          "source": "财联社热门",
+          "ranks": [
+            2,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 07时46分]"
+        },
+        {
+          "title": "据国会山报：共和党俄亥俄州选情胶着，美国总统特朗普下周一将再赴该州力挺参议员赫斯特德，为月内第二次到访。",
+          "url": "https://flash.jin10.com/detail/20261006012807610800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "据福克斯新闻：美国总统特朗普抵达内布拉斯加州格兰德艾兰，并从“空军一号”上走下，前往参加中期选举集会。随着共和党在11月中期选举前展开竞选造势，特朗普将在一场竞选活动中向支持者发表讲话。",
+          "url": "https://flash.jin10.com/detail/20261006070528815800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "美国总统特朗普：已决定自行投放广告并自掏腰包，同时使用我为Maga Inc.筹集的资金。",
+          "url": "https://wallstreetcn.com/livenews/3174286",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "美国总统特朗普：激进左派对我刊登广告一事感到不满——我认为这些广告是对我们伟大的美国的一种积极宣传，而且我是用美国的钱支付的。这本是再平常不过的做法，但既然他们无论怎样都不会满意，我决定除了其他广告外，还将专门制作爱国广告，并用我个人及为政治行动委员会MAGA Inc.筹集的资金自行支付费用。",
+          "url": "https://flash.jin10.com/detail/20261006063129889800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "美国总统特朗普：如果共和党在2026年中期选举中赢得众议院和参议院的控制权，我将向美国的所有成年公民发放5,000美元，我期待着签署这些支票。",
+          "url": "https://flash.jin10.com/detail/20261006060536017800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "美媒：特朗普拟签行政令降低柴油成本",
+          "url": "https://flash.jin10.com/detail/20261006004532366800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "美国总统特朗普：众多炼油厂是汽油价格上涨的原因。 将汽油价格偏高归咎于关闭美国多家炼油厂。 推高汽油价格的因素已经不再是霍尔木兹海峡，因为现在几乎每天都有创纪录数量的原油外运。 问题出在 “炼油厂”，俄罗斯炼油厂正遭到乌克兰打击，而美国加州这类蓝州的炼油厂被民主党关停。",
+          "url": "https://wallstreetcn.com/livenews/3174181",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "特朗普角逐诺贝尔和平奖，专家称胜算甚低",
+          "url": "https://flash.jin10.com/detail/20261006051508944800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "特朗普称炼油厂问题推高汽油价格",
+          "url": "https://flash.jin10.com/detail/20261006003333471800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "美国总统特朗普将要求财政部为了降低柴油价格而研究方法。 特朗普将呼吁各州解决燃油成本问题。（Politico）",
+          "url": "https://wallstreetcn.com/livenews/3174171",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        }
+      ]
+    },
     {
       "keyword_group": "伊朗",
       "match_count": 9,
@@ -109,80 +237,8 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "【早报】特朗普宣布成立“超级智能特别工作组”；马斯克称“SpaceXAI”将更名为“SpaceXSI”",
-          "url": "https://www.cls.cn/detail/2497778",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "据国会山报：共和党俄亥俄州选情胶着，美国总统特朗普下周一将再赴该州力挺参议员赫斯特德，为月内第二次到访。",
-          "url": "https://flash.jin10.com/detail/20261006012807610800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "美媒：特朗普拟签行政令降低柴油成本",
-          "url": "https://flash.jin10.com/detail/20261006004532366800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "美国总统特朗普：众多炼油厂是汽油价格上涨的原因。 将汽油价格偏高归咎于关闭美国多家炼油厂。 推高汽油价格的因素已经不再是霍尔木兹海峡，因为现在几乎每天都有创纪录数量的原油外运。 问题出在 “炼油厂”，俄罗斯炼油厂正遭到乌克兰打击，而美国加州这类蓝州的炼油厂被民主党关停。",
-          "url": "https://wallstreetcn.com/livenews/3174181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "特朗普称炼油厂问题推高汽油价格",
-          "url": "https://flash.jin10.com/detail/20261006003333471800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "美国总统特朗普将要求财政部为了降低柴油价格而研究方法。 特朗普将呼吁各州解决燃油成本问题。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3174171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
         {
           "title": "OpenAI：在欧盟，我们将于未来数周内开始对来自ChatGPT和Codex的符合条件文本添加水印，以遵守欧盟《人工智能法案》。",
@@ -238,12 +294,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "报道：OpenAI正与阿联酋基金、贝莱德洽谈300亿美元融资轮",
+          "url": "https://wallstreetcn.com/livenews/3174266",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
+          "title": "市场消息：OpenAI已与Thrive、Andreessen Horowitz进行融资谈判；同时正与阿联酋基金及贝莱德商讨300亿美元融资轮。",
+          "url": "https://flash.jin10.com/detail/20261006044845596800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "黄金、白银、美股期指、油价、比特币，全线上涨",
@@ -253,8 +331,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 07时46分]"
         },
         {
           "title": "金十图示：2026年10月05日（周一）美股热门股票行情一览（美股盘中）",
@@ -268,6 +346,17 @@
           "time_info": "01时55分"
         },
         {
+          "title": "周一（10月5日）纽约尾盘，现货黄金涨0.03%，报4142.46美元/盎司，日内呈现出M形走势，北京时间16:16刷新日高至4170.41美元、23:22跌至4123.44美元刷新日低。 现货白银涨1.18%，报61.0753美元/盎司。 COMEX铜期货涨1.36%，报6.6380美元/磅。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌0.32%，报2505.24点，美股开盘之前维持微幅下跌状态、持稳于2510点一线，随后短线跳水、北京时间21:46刷新日低至2467.43点，之后逐步收复失地并一度转涨。 在美股时段交易的费城金银指数大致收平，原材料指数收涨0.86%，金属与矿业指数收涨2.26%。 State Street金属与矿业ETF收涨1.91%，报107.76美元。",
+          "url": "https://wallstreetcn.com/livenews/3174267",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        },
+        {
           "title": "金十图示：2026年10月05日（周一）热门中概股行情一览（美股盘中）",
           "url": "https://flash.jin10.com/detail/20261006003050975800",
           "source": "金十数据",
@@ -277,41 +366,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek Harness国庆假期上新！90后负责人回应：希望做出让世界AI巨头跟进的创新",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34200055",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
         },
         {
-          "title": "都在接DeepSeek、WorkBuddy，券商AI最终靠什么拉开差距？",
-          "url": "https://www.cls.cn/detail/2497673",
-          "source": "财联社热门",
+          "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3174260",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            29
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时55分"
+          "time_info": "07时46分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "一半的股票已进入熊市！美股走到“十字路口”，关键看美债波动率",
+          "url": "https://wallstreetcn.com/articles/3782997",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 07时46分]"
+        },
         {
           "title": "科技股力挺纳指又创盘中新高，30年期美债收益率创24年新高，欧元创17个月新低，布油“过山车”",
           "url": "https://wallstreetcn.com/articles/3782996",
@@ -324,15 +407,61 @@
           "time_info": "01时55分"
         },
         {
-          "title": "一半的股票已进入熊市！美股走到“十字路口”，关键看美债波动率",
-          "url": "https://wallstreetcn.com/articles/3782997",
+          "title": "科技股力挺纳指又创盘中新高，美债抛售持续，欧元创17个月新低，布油“过山车”",
+          "url": "https://wallstreetcn.com/articles/3782996",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时46分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "DeepSeek Harness国庆假期上新！90后负责人回应：希望做出让世界AI巨头跟进的创新",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34200055",
+          "source": "澎湃新闻",
+          "ranks": [
+            3,
+            6
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 07时46分]"
+        },
+        {
+          "title": "都在接DeepSeek、WorkBuddy，券商AI最终靠什么拉开差距？",
+          "url": "https://www.cls.cn/detail/2497673",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 07时46分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美军称遭伊朗袭击后靠谷歌找医院",
+          "url": "https://flash.jin10.com/detail/20261006053407848800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时55分"
+          "time_info": "07时46分"
         }
       ]
     },
@@ -348,8 +477,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 07时46分]"
         }
       ]
     }
