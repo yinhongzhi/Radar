@@ -1,570 +1,105 @@
 {
-  "generated_at": "2026-10-06T19:55:41.768901+08:00",
-  "total_titles_processed": 848,
+  "generated_at": "2026-10-07T01:58:42.581231+08:00",
+  "total_titles_processed": 308,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 18,
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 5,
       "titles": [
         {
-          "title": "【早报】特朗普宣布成立“超级智能特别工作组”；马斯克称“SpaceXAI”将更名为“SpaceXSI”",
-          "url": "https://www.cls.cn/detail/2497778",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时55分 ~ 19时55分]"
-        },
-        {
-          "title": "美军紧急撤回12架轰炸机，特朗普：不想让它们诱敌",
-          "url": "https://original.ifeng.com/c/8x0Kd7TFi3I",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
-        },
-        {
-          "title": "据国会山报：共和党俄亥俄州选情胶着，美国总统特朗普下周一将再赴该州力挺参议员赫斯特德，为月内第二次到访。",
-          "url": "https://flash.jin10.com/detail/20261006012807610800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "俄一名研究员感染不明肺炎死亡，特朗普发声",
-          "url": "https://original.ifeng.com/c/8wzkSeT1gl1",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时00分]"
-        },
-        {
-          "title": "美国总统特朗普：已决定自行投放广告并自掏腰包，同时使用我为Maga Inc.筹集的资金。",
-          "url": "https://wallstreetcn.com/livenews/3174286",
+          "title": "谷歌公司与美国最大核电运营商Constellation Energy达成一项为期20年的核电协议。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3174568",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            7,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时46分 ~ 13时00分]"
-        },
-        {
-          "title": "特朗普竞选集会现场签行政令：拿上来，我就在这里签",
-          "url": "https://news.ifeng.com/c/8x0QX5RIpqe",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
-        },
-        {
-          "title": "据福克斯新闻：美国总统特朗普抵达内布拉斯加州格兰德艾兰，并从“空军一号”上走下，前往参加中期选举集会。随着共和党在11月中期选举前展开竞选造势，特朗普将在一场竞选活动中向支持者发表讲话。",
-          "url": "https://flash.jin10.com/detail/20261006070528815800",
-          "source": "金十数据",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时46分"
+          "time_info": "01时58分"
         },
         {
-          "title": "特朗普：可以让伊朗摧毁洛杉矶或圣迭戈，这只是一个很小的代价",
-          "url": "https://news.ifeng.com/c/8x057HlG52b",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
-        },
-        {
-          "title": "特朗普签署行政令，临时放宽免税柴油公路使用限制",
-          "url": "https://wallstreetcn.com/livenews/3174310",
+          "title": "谷歌：国家域名劫持事件未攻破Chrome",
+          "url": "https://wallstreetcn.com/livenews/3174566",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时00分"
+          "time_info": "01时58分"
         },
         {
-          "title": "美国总统特朗普：激进左派对我刊登广告一事感到不满——我认为这些广告是对我们伟大的美国的一种积极宣传，而且我是用美国的钱支付的。这本是再平常不过的做法，但既然他们无论怎样都不会满意，我决定除了其他广告外，还将专门制作爱国广告，并用我个人及为政治行动委员会MAGA Inc.筹集的资金自行支付费用。",
-          "url": "https://flash.jin10.com/detail/20261006063129889800",
+          "title": "据华尔街日报：谷歌(GOOG.O)与美国最大核电运营商Constellation Energy达成一项为期20年的核电协议。",
+          "url": "https://flash.jin10.com/detail/20261007011716484800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：上周获悉加纳发生了一系列域名劫持事件。",
+          "url": "https://flash.jin10.com/detail/20261007011448269800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时46分"
+          "time_info": "01时58分"
         },
         {
-          "title": "美国总统特朗普：如果共和党在2026年中期选举中赢得众议院和参议院的控制权，我将向美国的所有成年公民发放5,000美元，我期待着签署这些支票。",
-          "url": "https://flash.jin10.com/detail/20261006060536017800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "特朗普将AI改名SI背后有何意图",
-          "url": "https://www.toutiao.com/trending/7693429076979093030/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
-        },
-        {
-          "title": "美国总统特朗普：宣布降低油价的又一举措。 签署行政令，放宽免税柴油仅限非道路用途的限制。 该行政令将允许任何人购买免税柴油。",
-          "url": "https://wallstreetcn.com/livenews/3174296",
+          "title": "谷歌推出Gemini Embedding 2多模态嵌入模型。",
+          "url": "https://wallstreetcn.com/livenews/3174540",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时00分"
-        },
-        {
-          "title": "美媒：特朗普拟签行政令降低柴油成本",
-          "url": "https://flash.jin10.com/detail/20261006004532366800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "美国总统特朗普：众多炼油厂是汽油价格上涨的原因。 将汽油价格偏高归咎于关闭美国多家炼油厂。 推高汽油价格的因素已经不再是霍尔木兹海峡，因为现在几乎每天都有创纪录数量的原油外运。 问题出在 “炼油厂”，俄罗斯炼油厂正遭到乌克兰打击，而美国加州这类蓝州的炼油厂被民主党关停。",
-          "url": "https://wallstreetcn.com/livenews/3174181",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "特朗普角逐诺贝尔和平奖，专家称胜算甚低",
-          "url": "https://flash.jin10.com/detail/20261006051508944800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "特朗普称炼油厂问题推高汽油价格",
-          "url": "https://flash.jin10.com/detail/20261006003333471800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "美国总统特朗普将要求财政部为了降低柴油价格而研究方法。 特朗普将呼吁各州解决燃油成本问题。（Politico）",
-          "url": "https://wallstreetcn.com/livenews/3174171",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 14,
-      "titles": [
-        {
-          "title": "据伊朗媒体Fars News：部分消息人士称，沙特首都利雅得机场遭到也门胡塞武装的导弹袭击。",
-          "url": "https://flash.jin10.com/detail/20261006012331075800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我们击退了伊朗。我们会完成任务。",
-          "url": "https://wallstreetcn.com/livenews/3174196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "伊朗总统称与不断背弃承诺的“敌人”谈判毫无意义",
-          "url": "https://wallstreetcn.com/livenews/3174434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
-        },
-        {
-          "title": "以色列总理内塔尼亚胡：我们击退了伊朗。我们会完成任务。",
-          "url": "https://flash.jin10.com/detail/20261006011938196800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "伊朗陆军发言人：陆军拥有大量新型装备储备。",
-          "url": "https://flash.jin10.com/detail/20261006123333675800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时00分"
-        },
-        {
-          "title": "据伊朗媒体Fars News：伊朗国防部发言人表示，伊朗国防武器和装备的生产能力，相较于“斋月战争”前已提升至2.5倍，部分武器的产量增幅超过3倍。武器研发与生产计划已根据战争形势和武装力量优先需求进行了更新。",
-          "url": "https://flash.jin10.com/detail/20261006190553829800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬：迄今为止，他们在与我们对话后已发动过3次袭击，这表明他们并非寻求对话，而是意在推翻伊朗伊斯兰共和国政权。",
-          "url": "https://flash.jin10.com/detail/20261006010739240800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "伊朗总统佩泽希齐扬：每次核查人员来到伊朗，我们的核设施以及科学家就会被锁定，之后这些核设施遭到轰炸，我们的科学家被刺杀。 与一个每日实施恐怖行径、制裁、施压和威胁的敌人谈判毫无意义。",
-          "url": "https://wallstreetcn.com/livenews/3174191",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "伊朗总统：每次与美国谈判后都会遭遇战争",
-          "url": "https://flash.jin10.com/detail/20261006010126647800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "美国财长贝森特：预计第三季度经济增速将超过3%。 伊朗战争结束抵押贷款利率将会回落。",
-          "url": "https://wallstreetcn.com/livenews/3174301",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时00分"
-        },
-        {
-          "title": "据伊朗媒体FarsNews：沙特首都利雅得发生爆炸，利雅得机场航班暂停。",
-          "url": "https://flash.jin10.com/detail/20261006005819998800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗内政部长抵达多哈。",
-          "url": "https://wallstreetcn.com/livenews/3174175",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "石油巨头称世界其他国家需要分担伊朗冲突的代价",
-          "url": "https://wallstreetcn.com/livenews/3174410",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗内政部长抵达多哈。",
-          "url": "https://flash.jin10.com/detail/20261006002431281800",
-          "source": "金十数据",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "OpenAI：在欧盟，我们将于未来数周内开始对来自ChatGPT和Codex的符合条件文本添加水印，以遵守欧盟《人工智能法案》。",
-          "url": "https://flash.jin10.com/detail/20261006014602944800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "OpenAI：为符合欧盟监管规定，公司将拓展内容溯源方案，对输出文本增加溯源能力。 未来几周内，将在欧盟地区为ChatGPT和Codex生成的符合条件文本添加水印，从而遵守《欧盟人工智能法案》。",
-          "url": "https://wallstreetcn.com/livenews/3174202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "OpenAI Codex产品负责人Tibo：首日更新，我们已对GPT-6 Astra和GPT-6.1 Sol的默认速度完成优化，整体提速约50%。 本次优化覆盖全部订阅用户，以及所有采用ChatGPT账号登录的产品与合作方（包括OpenCode、Pi、Amp、Devin等）。 用户无需进行任何操作，本次优化效果预计将在两小时内生效。 模型吞吐量从30TPS提升至50TPS，同时配备当前最优的分词器。 并且在完成任务所需的token数量方面，这些模型的效率相当出色。",
-          "url": "https://wallstreetcn.com/livenews/3174198",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "OpenAI 启动 28 天计划日更 Codex 与 Work，将带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2090400492539076729",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时00分]"
-        },
-        {
-          "title": "OpenAI正在ChatGPT中植入更多广告。",
-          "url": "https://flash.jin10.com/detail/20261006123419133800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时00分"
-        },
-        {
-          "title": "OpenAI被指在新模型中抄袭“Astra”商标",
-          "url": "https://wallstreetcn.com/livenews/3174182",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "市场消息：AI公司TradeSun起诉OpenAI侵犯“Astra”商标权。",
-          "url": "https://flash.jin10.com/detail/20261006004320743800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "报道：OpenAI正与阿联酋基金、贝莱德洽谈300亿美元融资轮",
-          "url": "https://wallstreetcn.com/livenews/3174266",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "据英国金融时报：保险公司正准备应对因人工智能代理“失控”而引发的数百万美元索赔，人们越来越担心像OpenAI创始人奥尔特曼和Anthropic首席执行官阿莫代伊这样的高管可能会因其AI模型的行为而承担责任。",
-          "url": "https://flash.jin10.com/detail/20261006120434930800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时00分"
-        },
-        {
-          "title": "市场消息：OpenAI已与Thrive、Andreessen Horowitz进行融资谈判；同时正与阿联酋基金及贝莱德商讨300亿美元融资轮。",
-          "url": "https://flash.jin10.com/detail/20261006044845596800",
-          "source": "金十数据",
           "ranks": [
             30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时46分"
+          "time_info": "01时58分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 9,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "科技股力挺纳指又创盘中新高，美债抛售持续，欧元创17个月新低，布油“过山车”",
-          "url": "https://wallstreetcn.com/articles/3782996",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时46分 ~ 19时55分]"
-        },
-        {
-          "title": "一半的股票已进入熊市！美股走到“十字路口”，关键看美债波动率",
-          "url": "https://wallstreetcn.com/articles/3782997",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 07时46分]"
-        },
-        {
-          "title": "科技股力挺纳指又创盘中新高，30年期美债收益率创24年新高，欧元创17个月新低，布油“过山车”",
-          "url": "https://wallstreetcn.com/articles/3782996",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "达利欧再敲警钟：中日资金可能不再接盘美债，未来三年美国或陷债务危机",
-          "url": "https://flash.jin10.com/detail/20261006124739831800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时00分"
-        },
         {
           "title": "临界点逼近：30年期美债收益率破6%“或在本月”，美国借贷成本将超越名义GDP",
           "url": "https://wallstreetcn.com/articles/3783051",
           "source": "华尔街见闻",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
-        },
-        {
-          "title": "桥水基金创始人：美国两大主要海外债权国可能减少对美债的需求",
-          "url": "https://flash.jin10.com/detail/20261006124257638800",
-          "source": "金十数据",
-          "ranks": [
-            5
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时00分"
+          "time_info": "01时58分"
+        },
+        {
+          "title": "科技股力挺纳指又创盘中新高，美债抛售持续，欧元创17个月新低，布油“过山车”",
+          "url": "https://wallstreetcn.com/articles/3782996",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
         },
         {
           "title": "欧洲财政压力正成为美债抛售的新导火索",
           "url": "https://wallstreetcn.com/articles/3783047",
           "source": "华尔街见闻",
           "ranks": [
-            7
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时55分"
+          "time_info": "01时58分"
         },
         {
           "title": "美债期货细则暗藏玄机：30年期收益率逼近6%或引发连锁调仓压力",
@@ -573,224 +108,182 @@
           "ranks": [
             10
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
-        },
-        {
-          "title": "黄金“换锚”再获机构确认：美债收益率涨破5%，债务与央行购金却在托底",
-          "url": "https://flash.jin10.com/detail/20261006121108738800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时00分"
+          "time_info": "01时58分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 4,
       "titles": [
-        {
-          "title": "黄金、白银、美股期指、油价、比特币，全线上涨",
-          "url": "https://www.cls.cn/detail/2497787",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时55分 ~ 19时55分]"
-        },
         {
           "title": "【早报】美股科技股普涨，纳指创收盘新高；美国10年期国债收益率创2002年以来新高",
           "url": "https://www.cls.cn/detail/2498089",
           "source": "财联社热门",
           "ranks": [
-            4,
-            3
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 19时55分]"
+          "appearance_count": 1,
+          "time_info": "01时58分"
         },
         {
           "title": "美股收盘：纳指创下历史新高 SpaceX股价大涨近8% 马斯克身家再度突破1万亿美元",
           "url": "https://www.cls.cn/detail/2498075",
           "source": "财联社热门",
           "ranks": [
-            13,
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时59分 ~ 19时55分]"
+          "appearance_count": 1,
+          "time_info": "01时58分"
         },
         {
           "title": "美股三大股指集体收涨，纳指创收盘新高，纳斯达克金龙中国指数涨1.71%",
           "url": "https://m.thepaper.cn/newsDetail_forward_34204191",
           "source": "澎湃新闻",
           "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
-        },
-        {
-          "title": "金十图示：2026年10月05日（周一）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20261006003119991800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "周一（10月5日）纽约尾盘，现货黄金涨0.03%，报4142.46美元/盎司，日内呈现出M形走势，北京时间16:16刷新日高至4170.41美元、23:22跌至4123.44美元刷新日低。 现货白银涨1.18%，报61.0753美元/盎司。 COMEX铜期货涨1.36%，报6.6380美元/磅。 在全球市场全天交易的纽约证交所ARCA金矿开采商指数跌0.32%，报2505.24点，美股开盘之前维持微幅下跌状态、持稳于2510点一线，随后短线跳水、北京时间21:46刷新日低至2467.43点，之后逐步收复失地并一度转涨。 在美股时段交易的费城金银指数大致收平，原材料指数收涨0.86%，金属与矿业指数收涨2.26%。 State Street金属与矿业ETF收涨1.91%，报107.76美元。",
-          "url": "https://wallstreetcn.com/livenews/3174267",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        },
-        {
-          "title": "金十图示：2026年10月05日（周一）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20261006003050975800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "新兴市场ETF收涨将近1.6%，领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3174260",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时46分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "DeepSeek Harness国庆假期上新！90后负责人回应：希望做出让世界AI巨头跟进的创新",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34200055",
-          "source": "澎湃新闻",
-          "ranks": [
-            3,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 07时46分]"
-        },
-        {
-          "title": "都在接DeepSeek、WorkBuddy，券商AI最终靠什么拉开差距？",
-          "url": "https://www.cls.cn/detail/2497673",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 07时46分]"
-        },
-        {
-          "title": "报道：DeepSeek融资规模超预期冲击800亿人民币，腾讯和宁德时代领投",
-          "url": "https://wallstreetcn.com/articles/3783055",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌与Constellation接近达成十亿美元的核电交易。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3174302",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "13时00分"
+          "time_info": "01时58分"
         },
         {
-          "title": "Constellation Energy美股盘前涨超5%，报道称谷歌母公司Alphabet与其达成890兆瓦的核电产能协议",
-          "url": "https://wallstreetcn.com/livenews/3174425",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时55分"
-        },
-        {
-          "title": "美军称遭伊朗袭击后靠谷歌找医院",
-          "url": "https://flash.jin10.com/detail/20261006053407848800",
+          "title": "金十图示：2026年10月06日（周二）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261007005617351800",
           "source": "金十数据",
           "ranks": [
             20
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时46分"
+          "time_info": "01时58分"
         }
       ]
     },
     {
-      "keyword_group": "金价",
+      "keyword_group": "特朗普",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美军紧急撤回12架轰炸机，特朗普：不想让它们诱敌",
+          "url": "https://original.ifeng.com/c/8x0Kd7TFi3I",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "特朗普竞选集会现场签行政令：拿上来，我就在这里签",
+          "url": "https://news.ifeng.com/c/8x0QX5RIpqe",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "特朗普：可以让伊朗摧毁洛杉矶或圣迭戈，这只是一个很小的代价",
+          "url": "https://news.ifeng.com/c/8x057HlG52b",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "伊朗格什姆岛附近海域传出爆炸声。（IRNA）",
+          "url": "https://wallstreetcn.com/livenews/3174574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "据伊通社（IRNA）：几分钟前，伊朗格什姆岛传出爆炸声，据称来自海上。",
+          "url": "https://flash.jin10.com/detail/20261007012407522800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        },
+        {
+          "title": "俄罗斯总统普京将于10月8日会见土库曼斯坦领导人，届时将会见伊朗总统。（塔斯社）",
+          "url": "https://wallstreetcn.com/livenews/3174543",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
       "match_count": 2,
       "titles": [
         {
-          "title": "金价大跌后国庆上海金店排长队",
-          "url": "https://www.toutiao.com/trending/7693062547020398628/",
-          "source": "今日头条",
+          "title": "OpenAI或将发布400个重大数学成果",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83400%E4%B8%AA%E9%87%8D%E5%A4%A7%E6%95%B0%E5%AD%A6%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
           "ranks": [
-            5
+            22
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 07时46分]"
+          "appearance_count": 1,
+          "time_info": "01时58分"
         },
         {
-          "title": "金价油价下跌",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E6%B2%B9%E4%BB%B7%E4%B8%8B%E8%B7%8C",
-          "source": "百度热搜",
+          "title": "OpenAI：本公司与Atlassian拓展合作伙伴关系。 根据新协议，OpenAI前沿模型将为Atlassian全平台以及Rovo的智能代理提供算力支持。 该协议将扩大Atlassian对OpenAI最新前沿模型的使用权限，包括GPT‑6 Astra以及GPT‑5.6系列。",
+          "url": "https://wallstreetcn.com/livenews/3174541",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            16
+            29
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时00分]"
+          "appearance_count": 1,
+          "time_info": "01时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "报道：DeepSeek融资规模超预期冲击800亿人民币，腾讯和宁德时代领投",
+          "url": "https://wallstreetcn.com/articles/3783055",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时58分"
         }
       ]
     }
