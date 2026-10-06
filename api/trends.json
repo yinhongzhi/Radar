@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-06T13:00:14.648949+08:00",
-  "total_titles_processed": 627,
+  "generated_at": "2026-10-06T19:55:41.768901+08:00",
+  "total_titles_processed": 848,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "【早报】特朗普宣布成立“超级智能特别工作组”；马斯克称“SpaceXAI”将更名为“SpaceXSI”",
@@ -16,8 +16,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 13时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时55分 ~ 19时55分]"
+        },
+        {
+          "title": "美军紧急撤回12架轰炸机，特朗普：不想让它们诱敌",
+          "url": "https://original.ifeng.com/c/8x0Kd7TFi3I",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "据国会山报：共和党俄亥俄州选情胶着，美国总统特朗普下周一将再赴该州力挺参议员赫斯特德，为月内第二次到访。",
@@ -54,6 +65,17 @@
           "time_info": "[07时46分 ~ 13时00分]"
         },
         {
+          "title": "特朗普竞选集会现场签行政令：拿上来，我就在这里签",
+          "url": "https://news.ifeng.com/c/8x0QX5RIpqe",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "据福克斯新闻：美国总统特朗普抵达内布拉斯加州格兰德艾兰，并从“空军一号”上走下，前往参加中期选举集会。随着共和党在11月中期选举前展开竞选造势，特朗普将在一场竞选活动中向支持者发表讲话。",
           "url": "https://flash.jin10.com/detail/20261006070528815800",
           "source": "金十数据",
@@ -65,13 +87,24 @@
           "time_info": "07时46分"
         },
         {
+          "title": "特朗普：可以让伊朗摧毁洛杉矶或圣迭戈，这只是一个很小的代价",
+          "url": "https://news.ifeng.com/c/8x057HlG52b",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "特朗普签署行政令，临时放宽免税柴油公路使用限制",
           "url": "https://wallstreetcn.com/livenews/3174310",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时00分"
         },
@@ -98,13 +131,24 @@
           "time_info": "07时46分"
         },
         {
+          "title": "特朗普将AI改名SI背后有何意图",
+          "url": "https://www.toutiao.com/trending/7693429076979093030/",
+          "source": "今日头条",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "美国总统特朗普：宣布降低油价的又一举措。 签署行政令，放宽免税柴油仅限非道路用途的限制。 该行政令将允许任何人购买免税柴油。",
           "url": "https://wallstreetcn.com/livenews/3174296",
           "source": "华尔街见闻-快讯",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时00分"
         },
@@ -167,7 +211,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 14,
       "titles": [
         {
           "title": "据伊朗媒体Fars News：部分消息人士称，沙特首都利雅得机场遭到也门胡塞武装的导弹袭击。",
@@ -192,6 +236,17 @@
           "time_info": "01时55分"
         },
         {
+          "title": "伊朗总统称与不断背弃承诺的“敌人”谈判毫无意义",
+          "url": "https://wallstreetcn.com/livenews/3174434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
           "title": "以色列总理内塔尼亚胡：我们击退了伊朗。我们会完成任务。",
           "url": "https://flash.jin10.com/detail/20261006011938196800",
           "source": "金十数据",
@@ -209,9 +264,20 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时00分"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗国防部发言人表示，伊朗国防武器和装备的生产能力，相较于“斋月战争”前已提升至2.5倍，部分武器的产量增幅超过3倍。武器研发与生产计划已根据战争形势和武装力量优先需求进行了更新。",
+          "url": "https://flash.jin10.com/detail/20261006190553829800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：迄今为止，他们在与我们对话后已发动过3次袭击，这表明他们并非寻求对话，而是意在推翻伊朗伊斯兰共和国政权。",
@@ -253,7 +319,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时00分"
         },
@@ -278,6 +344,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时55分"
+        },
+        {
+          "title": "石油巨头称世界其他国家需要分担伊朗冲突的代价",
+          "url": "https://wallstreetcn.com/livenews/3174410",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "据伊朗伊斯兰共和国广播电视台（IRIB）：伊朗内政部长抵达多哈。",
@@ -347,7 +424,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时00分"
         },
@@ -391,7 +468,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时00分"
         },
@@ -409,8 +486,113 @@
       ]
     },
     {
+      "keyword_group": "美债",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "科技股力挺纳指又创盘中新高，美债抛售持续，欧元创17个月新低，布油“过山车”",
+          "url": "https://wallstreetcn.com/articles/3782996",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[07时46分 ~ 19时55分]"
+        },
+        {
+          "title": "一半的股票已进入熊市！美股走到“十字路口”，关键看美债波动率",
+          "url": "https://wallstreetcn.com/articles/3782997",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时55分 ~ 07时46分]"
+        },
+        {
+          "title": "科技股力挺纳指又创盘中新高，30年期美债收益率创24年新高，欧元创17个月新低，布油“过山车”",
+          "url": "https://wallstreetcn.com/articles/3782996",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时55分"
+        },
+        {
+          "title": "达利欧再敲警钟：中日资金可能不再接盘美债，未来三年美国或陷债务危机",
+          "url": "https://flash.jin10.com/detail/20261006124739831800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时00分"
+        },
+        {
+          "title": "临界点逼近：30年期美债收益率破6%“或在本月”，美国借贷成本将超越名义GDP",
+          "url": "https://wallstreetcn.com/articles/3783051",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
+          "title": "桥水基金创始人：美国两大主要海外债权国可能减少对美债的需求",
+          "url": "https://flash.jin10.com/detail/20261006124257638800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时00分"
+        },
+        {
+          "title": "欧洲财政压力正成为美债抛售的新导火索",
+          "url": "https://wallstreetcn.com/articles/3783047",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
+          "title": "美债期货细则暗藏玄机：30年期收益率逼近6%或引发连锁调仓压力",
+          "url": "https://wallstreetcn.com/articles/3783043",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
+        },
+        {
+          "title": "黄金“换锚”再获机构确认：美债收益率涨破5%，债务与央行购金却在托底",
+          "url": "https://flash.jin10.com/detail/20261006121108738800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时00分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "黄金、白银、美股期指、油价、比特币，全线上涨",
@@ -421,30 +603,43 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时55分 ~ 13时00分]"
+          "appearance_count": 5,
+          "time_info": "[01时55分 ~ 19时55分]"
         },
         {
           "title": "【早报】美股科技股普涨，纳指创收盘新高；美国10年期国债收益率创2002年以来新高",
           "url": "https://www.cls.cn/detail/2498089",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时00分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 19时55分]"
         },
         {
           "title": "美股收盘：纳指创下历史新高 SpaceX股价大涨近8% 马斯克身家再度突破1万亿美元",
           "url": "https://www.cls.cn/detail/2498075",
           "source": "财联社热门",
           "ranks": [
-            13
+            13,
+            10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时59分 ~ 13时00分]"
+          "appearance_count": 3,
+          "time_info": "[12时59分 ~ 19时55分]"
+        },
+        {
+          "title": "美股三大股指集体收涨，纳指创收盘新高，纳斯达克金龙中国指数涨1.71%",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34204191",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "金十图示：2026年10月05日（周一）美股热门股票行情一览（美股盘中）",
@@ -493,80 +688,8 @@
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "科技股力挺纳指又创盘中新高，美债抛售持续，欧元创17个月新低，布油“过山车”",
-          "url": "https://wallstreetcn.com/articles/3782996",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时46分 ~ 13时00分]"
-        },
-        {
-          "title": "一半的股票已进入熊市！美股走到“十字路口”，关键看美债波动率",
-          "url": "https://wallstreetcn.com/articles/3782997",
-          "source": "华尔街见闻",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时55分 ~ 07时46分]"
-        },
-        {
-          "title": "科技股力挺纳指又创盘中新高，30年期美债收益率创24年新高，欧元创17个月新低，布油“过山车”",
-          "url": "https://wallstreetcn.com/articles/3782996",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时55分"
-        },
-        {
-          "title": "达利欧再敲警钟：中日资金可能不再接盘美债，未来三年美国或陷债务危机",
-          "url": "https://flash.jin10.com/detail/20261006124739831800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时00分"
-        },
-        {
-          "title": "桥水基金创始人：美国两大主要海外债权国可能减少对美债的需求",
-          "url": "https://flash.jin10.com/detail/20261006124257638800",
-          "source": "金十数据",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时00分"
-        },
-        {
-          "title": "黄金“换锚”再获机构确认：美债收益率涨破5%，债务与央行购金却在托底",
-          "url": "https://flash.jin10.com/detail/20261006121108738800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时00分"
-        }
-      ]
-    },
-    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek Harness国庆假期上新！90后负责人回应：希望做出让世界AI巨头跟进的创新",
@@ -590,12 +713,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时55分 ~ 07时46分]"
+        },
+        {
+          "title": "报道：DeepSeek融资规模超预期冲击800亿人民币，腾讯和宁德时代领投",
+          "url": "https://wallstreetcn.com/articles/3783055",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "谷歌与Constellation接近达成十亿美元的核电交易。（彭博）",
@@ -604,9 +738,20 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时00分"
+        },
+        {
+          "title": "Constellation Energy美股盘前涨超5%，报道称谷歌母公司Alphabet与其达成890兆瓦的核电产能协议",
+          "url": "https://wallstreetcn.com/livenews/3174425",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时55分"
         },
         {
           "title": "美军称遭伊朗袭击后靠谷歌找医院",
