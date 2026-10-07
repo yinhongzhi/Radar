@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-07T10:07:09.821437+08:00",
-  "total_titles_processed": 571,
+  "generated_at": "2026-10-07T17:51:21.375003+08:00",
+  "total_titles_processed": 798,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 18,
       "titles": [
         {
           "title": "美军紧急撤回12架轰炸机，特朗普：不想让它们诱敌",
@@ -18,6 +18,39 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时58分 ~ 10时07分]"
+        },
+        {
+          "title": "对伊军事行动如何收尾？特朗普再释放强硬信号",
+          "url": "https://original.ifeng.com/c/8x1jE3AnRUj",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "特朗普称可让伊朗摧毁洛杉矶或圣迭戈，加州州长斥责",
+          "url": "https://original.ifeng.com/c/8x1bAPMGpbB",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "特朗普准许免税柴油上路救急，这招不仅难救火还反而添乱？",
+          "url": "https://flash.jin10.com/detail/20261007172726553800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "特朗普：可以让伊朗摧毁洛杉矶或圣迭戈，这只是一个很小的代价",
@@ -53,15 +86,37 @@
           "time_info": "06时32分"
         },
         {
+          "title": "外媒：特朗普称预计“很快”与普京通话",
+          "url": "https://wallstreetcn.com/livenews/3174761",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
           "title": "特朗普：政府将大量投资“下一代”潜艇造船厂",
           "url": "https://flash.jin10.com/detail/20261007095558801800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "假期要闻汇总：特朗普称对伊军事行动 “必须收尾了”；央行连续第23个月增持黄金",
+          "url": "https://www.cls.cn/detail/2498581",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "特朗普称将很快与普京通话讨论俄疑似鼠疫病例",
@@ -114,7 +169,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -128,6 +183,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
+        },
+        {
+          "title": "特朗普：对伊朗的军事行动 “必须收尾了”",
+          "url": "https://wallstreetcn.com/livenews/3174741",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "美国总统特朗普谈及伊朗：我们必须收尾，问题在于采取何种方式。 很快你们就会知道我们将如何了结伊朗问题。",
@@ -144,7 +210,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "【早报】美股科技股普涨，纳指创收盘新高；美国10年期国债收益率创2002年以来新高",
@@ -155,19 +221,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 10时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 17时51分]"
         },
         {
           "title": "美股收盘：标普、纳指均创历史新高 市场焦点转向财报季",
           "url": "https://www.cls.cn/detail/2498401",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
+          "appearance_count": 3,
+          "time_info": "[10时06分 ~ 17时51分]"
         },
         {
           "title": "美股收盘：纳指创下历史新高 SpaceX股价大涨近8% 马斯克身家再度突破1万亿美元",
@@ -177,8 +244,19 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时58分 ~ 10时07分]"
+          "appearance_count": 6,
+          "time_info": "[01时58分 ~ 17时51分]"
+        },
+        {
+          "title": "全球股市涨势暂歇，美股期指涨跌互现，港股收跌，半导体、大模型股走低，油价上涨",
+          "url": "https://wallstreetcn.com/articles/3783096",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "美股三大期指几无变动 油市多空消息轮番来袭|今夜看点",
@@ -239,7 +317,7 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "谷歌公司与美国最大核电运营商Constellation Energy达成一项为期20年的核电协议。（华尔街日报）",
@@ -262,6 +340,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时58分"
+        },
+        {
+          "title": "谷歌签下科技史上最大核能协议：3590兆瓦锁定20年，Gemini同步嵌入能源运营",
+          "url": "https://wallstreetcn.com/articles/3783087",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "据华尔街日报：谷歌(GOOG.O)与美国最大核电运营商Constellation Energy达成一项为期20年的核电协议。",
@@ -292,7 +381,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -311,7 +400,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "伊朗格什姆岛附近海域传出爆炸声。（IRNA）",
@@ -342,7 +431,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         },
@@ -356,6 +445,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时32分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：赞扬希腊对国防开支的承诺。 宣布与希腊新的安全合作谅解备忘录。 这将加强反恐信息共享。 我们驻希腊的大使一直是一位强有力的使节。 伊朗已失去对霍尔木兹海峡的控制。 通过霍尔木兹海峡的石油量几乎与冲突前一样多。",
+          "url": "https://wallstreetcn.com/livenews/3174752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "伊朗央行行长：通胀增速放缓 已提供近250亿美元进口外汇",
@@ -383,8 +483,31 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明",
+          "url": "https://wallstreetcn.com/articles/3783101",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        },
+        {
+          "title": "如何看待 OpenAI 公开 722 份数学手稿，宣布解决包含「准黎曼猜想」的数百个数学问题？",
+          "url": "https://www.zhihu.com/question/2091064625987170716",
+          "source": "知乎",
+          "ranks": [
+            16,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时06分 ~ 17时51分]"
+        },
         {
           "title": "OpenAI或将发布400个重大数学成果",
           "url": "https://search.bilibili.com/all?keyword=OpenAI%E6%88%96%E5%B0%86%E5%8F%91%E5%B8%83400%E4%B8%AA%E9%87%8D%E5%A4%A7%E6%95%B0%E5%AD%A6%E6%88%90%E6%9E%9C",
@@ -398,26 +521,26 @@
           "time_info": "[01时58分 ~ 06时32分]"
         },
         {
-          "title": "如何看待 OpenAI 公开 722 份数学手稿，宣布解决包含「准黎曼猜想」的数百个数学问题？",
-          "url": "https://www.zhihu.com/question/2091064625987170716",
-          "source": "知乎",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 10时07分]"
-        },
-        {
           "title": "OpenAI通过前沿模型发布新的数学成果",
           "url": "https://wallstreetcn.com/livenews/3174665",
           "source": "华尔街见闻-快讯",
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
+        },
+        {
+          "title": "OpenAI发布722篇数学论文",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83722%E7%AF%87%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87",
+          "source": "bilibili 热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         },
         {
           "title": "OpenAI：本公司与Atlassian拓展合作伙伴关系。 根据新协议，OpenAI前沿模型将为Atlassian全平台以及Rovo的智能代理提供算力支持。 该协议将扩大Atlassian对OpenAI最新前沿模型的使用权限，包括GPT‑6 Astra以及GPT‑5.6系列。",
@@ -487,7 +610,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "报道：DeepSeek融资规模超预期冲击800亿人民币，腾讯和宁德时代领投",
@@ -500,6 +623,34 @@
           "is_new": false,
           "appearance_count": 5,
           "time_info": "[01时58分 ~ 10时07分]"
+        },
+        {
+          "title": "DeepSeek被曝融资至少800亿元",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E8%A2%AB%E6%9B%9D%E8%9E%8D%E8%B5%84%E8%87%B3%E5%B0%91800%E4%BA%BF%E5%85%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "现货钯金价格下跌近3%，报1136.10美元/盎司。",
+          "url": "https://flash.jin10.com/detail/20261007171001858800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时51分"
         }
       ]
     },
@@ -514,7 +665,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "10时07分"
         }
