@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-08T01:17:06.871046+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-10-08T06:45:34.906821+08:00",
+  "total_titles_processed": 424,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
         {
           "title": "伊朗外长阿拉格齐：伊朗代表团借联合国大会之机，阐述了伊朗的创新方案，并提出一项为期7天的计划，以恢复霍尔木兹海峡的安全。",
@@ -14,7 +14,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -25,7 +25,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -36,9 +36,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "美军称伊朗对霍尔木兹海峡拥有“完全控制权”的说法不实",
+          "url": "https://wallstreetcn.com/livenews/3175028",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
         },
         {
           "title": "伊朗外长阿拉格齐：伊朗已将我国的条件和考量以一份精确且切实可行的方案形式转交给调解方。",
@@ -47,9 +58,31 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "WTI原油期货亚太盘初高开0.8%，投资者关注伊朗袭击相关报道和美国（墨西哥湾）风暴。",
+          "url": "https://wallstreetcn.com/livenews/3175024",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
+          "title": "美军驳斥伊朗声称控制海峡 货物及能源正常运输",
+          "url": "https://flash.jin10.com/detail/20261008060353658800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
         },
         {
           "title": "伊朗塔斯尼姆通讯社援引希伯来消息源：海法传出巨大爆炸声。",
@@ -58,7 +91,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -69,9 +102,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "伊朗将通过中间人回应美方提议，伊阿敲定霍尔木兹海峡安全航道方案",
+          "url": "https://wallstreetcn.com/livenews/3175013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
+          "title": "伊朗革命卫队顾问：霍尔木兹海峡仍处于“关闭”状态，非法航道很快将被封锁。",
+          "url": "https://wallstreetcn.com/livenews/3175011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
         },
         {
           "title": "消息人士：美伊调解陷入僵局 华盛顿要求伊朗限制核能力",
@@ -80,7 +135,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -91,15 +146,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "伊朗外交部发言人：伊朗与阿曼已就霍尔木兹海峡安全过境航线的地理坐标，以及该协议的国际对外公布方式达成共识。",
+          "url": "https://wallstreetcn.com/livenews/3174998",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明",
@@ -109,19 +175,31 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 06时45分]"
         },
         {
           "title": "如何看待 OpenAI 公开 722 份数学手稿，宣布解决包含「准黎曼猜想」的数百个数学问题？",
           "url": "https://www.zhihu.com/question/2091064625987170716",
           "source": "知乎",
           "ranks": [
-            11
+            11,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 06时45分]"
+        },
+        {
+          "title": "美媒：博通为OpenAI定制芯片研发寻求逾500亿美元融资",
+          "url": "https://flash.jin10.com/detail/20261008051159387800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
         },
         {
           "title": "OpenAI：面向青少年的ChatGPT即将上线大学规划工具，助力学生开启大学申请流程。 青少年版ChatGPT用户发送的学习相关消息平均比非用户多270万条。 青少年平均每日使用ChatGPT时长不足15分钟，仅有不到2%的青少年会连续使用超过3小时。",
@@ -130,7 +208,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -141,26 +219,49 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "据华尔街日报：博通(AVGO.O)为OpenAI定制AI芯片寻求逾500亿美元融资。",
+          "url": "https://flash.jin10.com/detail/20261008050438360800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
+          "title": "报道：博通正设法为OpenAI所需的芯片安排超过500亿美元融资",
+          "url": "https://wallstreetcn.com/livenews/3175004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "假期要闻汇总：特朗普称对伊军事行动 “必须收尾了”；央行连续第23个月增持黄金",
           "url": "https://www.cls.cn/detail/2498581",
           "source": "财联社热门",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 06时45分]"
         },
         {
           "title": "日方爆料：高市早苗请求特朗普，劝金正恩同意与她会谈",
@@ -170,8 +271,8 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 06时45分]"
         },
         {
           "title": "特朗普“建议”伊朗摧毁洛杉矶？CNN罕见“辟谣”",
@@ -181,8 +282,41 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 06时45分]"
+        },
+        {
+          "title": "美国总统副助理戈尔卡：特朗普总统每天工作20个小时，不仅是为了拯救美国，更是为了拯救我们共同的文明。",
+          "url": "https://flash.jin10.com/detail/20261008060608068800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
+          "title": "特朗普新任AI主管将赴硅谷走访头部AI企业",
+          "url": "https://wallstreetcn.com/livenews/3175021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
+          "title": "特朗普称其配得上诺贝尔和平奖",
+          "url": "https://flash.jin10.com/detail/20261008045210185800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
         },
         {
           "title": "美国总统特朗普：如有冲突，将立即终止外部顾问克里斯·拉西维塔和詹姆斯·布莱尔的服务。",
@@ -191,7 +325,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         }
@@ -199,7 +333,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美股收盘：标普、纳指均创历史新高 市场焦点转向财报季",
@@ -209,8 +343,19 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时16分 ~ 01时17分]"
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 06时45分]"
+        },
+        {
+          "title": "美股加密货币与加密货币关联指数跌5.05%，报69.01点，跳空低开之后持续低位窄幅震荡。 最近24小时，现货比特币跌2.65%，暂报83348.19美元，期内持续下跌、北京时间09:51出现一波短线加速下跌行情。 现货以太坊跌4.68%，报2571.064美元。 MarketVectorTM数字资产100小盘指数跌1.54%，MarketVectorTM数字资产100中盘指数跌0.32%，MarketVector数字资产100指数跌1.03%。",
+          "url": "https://wallstreetcn.com/livenews/3175014",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
         },
         {
           "title": "金十图示：2026年10月07日（周三）美股热门股票行情一览（美股盘中）",
@@ -219,7 +364,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         },
@@ -230,7 +375,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
         }
@@ -238,7 +383,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "美债重启抛售、收益率创2002年来新高，美股高位承压，早盘道指跌超1%，布油盘中涨2%",
@@ -252,15 +397,71 @@
           "time_info": "[01时16分 ~ 01时17分]"
         },
         {
+          "title": "债市风暴重燃，标普纳指自纪录高位回落，30年期美债收益率创2002年新高，原油先涨后跌",
+          "url": "https://wallstreetcn.com/articles/3783096",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
           "title": "华尔街试图窥破美债迷雾，高盛、巴克莱等分歧明显",
           "url": "https://wallstreetcn.com/livenews/3174921",
           "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金价回调引燃国庆购金热潮",
+          "url": "https://www.toutiao.com/trending/7693128996263411758/",
+          "source": "今日头条",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
+          "title": "国际金价跌超1.3%，一度逼近4000美元整数位心理关口",
+          "url": "https://wallstreetcn.com/livenews/3175003",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌被责令暂停在“欧版得州”芬兰的两座数据中心建设",
+          "url": "https://wallstreetcn.com/livenews/3175018",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时45分"
         }
       ]
     }
