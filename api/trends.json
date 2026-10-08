@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-08T06:45:34.906821+08:00",
-  "total_titles_processed": 424,
+  "generated_at": "2026-10-08T10:32:43.912674+08:00",
+  "total_titles_processed": 614,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗外长阿拉格齐：伊朗代表团借联合国大会之机，阐述了伊朗的创新方案，并提出一项为期7天的计划，以恢复霍尔木兹海峡的安全。",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "美媒：美军获令做好再打伊朗准备",
+          "url": "https://news.ifeng.com/c/8x39Z3YirLN",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "伊朗外长阿拉格齐：伊朗在坚定捍卫自身的同时，也认真运用外交手段维护本国利益与安全。 伊朗已通过一份详实且可落地的方案，向调解方阐明我方的条件与考量。",
@@ -47,7 +58,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         },
@@ -63,13 +74,35 @@
           "time_info": "01时17分"
         },
         {
+          "title": "以哈冲突三周年，伊朗官方表态强硬，但伊媒反思两个问题",
+          "url": "https://original.ifeng.com/c/8x34hMEWurE",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "报道称美军获令做好再打伊朗准备",
+          "url": "https://wallstreetcn.com/livenews/3175104",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
           "title": "WTI原油期货亚太盘初高开0.8%，投资者关注伊朗袭击相关报道和美国（墨西哥湾）风暴。",
           "url": "https://wallstreetcn.com/livenews/3175024",
           "source": "华尔街见闻-快讯",
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         },
@@ -80,7 +113,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         },
@@ -113,7 +146,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         },
@@ -124,9 +157,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
+        },
+        {
+          "title": "伊朗F-5战机贴脸袭击美军基地",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97F-5%E6%88%98%E6%9C%BA%E8%B4%B4%E8%84%B8%E8%A2%AD%E5%87%BB%E7%BE%8E%E5%86%9B%E5%9F%BA%E5%9C%B0",
+          "source": "百度热搜",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         },
         {
           "title": "消息人士：美伊调解陷入僵局 华盛顿要求伊朗限制核能力",
@@ -157,26 +201,156 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         }
       ]
     },
     {
+      "keyword_group": "特朗普",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "假期要闻汇总：特朗普称对伊军事行动 “必须收尾了”；央行连续第23个月增持黄金",
+          "url": "https://www.cls.cn/detail/2498581",
+          "source": "财联社热门",
+          "ranks": [
+            1,
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 10时32分]"
+        },
+        {
+          "title": "日方爆料：高市早苗请求特朗普，劝金正恩同意与她会谈",
+          "url": "https://news.ifeng.com/c/8x2Kis6OnpU",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 06时45分]"
+        },
+        {
+          "title": "特朗普“建议”伊朗摧毁洛杉矶？CNN罕见“辟谣”",
+          "url": "https://news.ifeng.com/c/8x2MOFFt6hO",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时16分 ~ 06时45分]"
+        },
+        {
+          "title": "特朗普批准：枪决",
+          "url": "https://news.ifeng.com/c/8x2u6oJQ1bt",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "美媒：特朗普将向马斯克、黄仁勋等科技领袖颁发国家奖章",
+          "url": "https://original.ifeng.com/c/8x38gGZvIzh",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "美国总统副助理戈尔卡：特朗普总统每天工作20个小时，不仅是为了拯救美国，更是为了拯救我们共同的文明。",
+          "url": "https://flash.jin10.com/detail/20261008060608068800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
+          "title": "特朗普新任AI主管将赴硅谷走访头部AI企业",
+          "url": "https://wallstreetcn.com/livenews/3175021",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
+          "title": "特朗普称其配得上诺贝尔和平奖",
+          "url": "https://flash.jin10.com/detail/20261008045210185800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时45分"
+        },
+        {
+          "title": "美国总统特朗普：如有冲突，将立即终止外部顾问克里斯·拉西维塔和詹姆斯·布莱尔的服务。",
+          "url": "https://flash.jin10.com/detail/20261008000617038800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时17分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普表示，美国中东问题特使威特科夫目前正致力于与伊朗达成协议，并取得了非常好的进展。",
+          "url": "https://flash.jin10.com/detail/20261008093956046800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
+          "title": "市场消息：美国总统特朗普表示，伊朗人愿意提供任何条件来阻止当前局势的发展，尽管与他们达成协议“并非我真正想要的选项”。",
+          "url": "https://flash.jin10.com/detail/20261008093851869800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "chatgpt openai",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "数学大爆炸！OpenAI 一夜攻克722个数学难题，准黎曼猜想已被证明",
           "url": "https://wallstreetcn.com/articles/3783101",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 06时45分]"
+          "appearance_count": 4,
+          "time_info": "[01时16分 ~ 10时32分]"
         },
         {
           "title": "如何看待 OpenAI 公开 722 份数学手稿，宣布解决包含「准黎曼猜想」的数百个数学问题？",
@@ -191,13 +365,24 @@
           "time_info": "[01时16分 ~ 06时45分]"
         },
         {
+          "title": "OpenAI全面上线GPT-6",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E5%85%A8%E9%9D%A2%E4%B8%8A%E7%BA%BFGPT-6",
+          "source": "百度热搜",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
           "title": "美媒：博通为OpenAI定制芯片研发寻求逾500亿美元融资",
           "url": "https://flash.jin10.com/detail/20261008051159387800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         },
@@ -230,7 +415,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         },
@@ -241,100 +426,27 @@
           "ranks": [
             25
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "假期要闻汇总：特朗普称对伊军事行动 “必须收尾了”；央行连续第23个月增持黄金",
-          "url": "https://www.cls.cn/detail/2498581",
-          "source": "财联社热门",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 06时45分]"
-        },
-        {
-          "title": "日方爆料：高市早苗请求特朗普，劝金正恩同意与她会谈",
-          "url": "https://news.ifeng.com/c/8x2Kis6OnpU",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 06时45分]"
-        },
-        {
-          "title": "特朗普“建议”伊朗摧毁洛杉矶？CNN罕见“辟谣”",
-          "url": "https://news.ifeng.com/c/8x2MOFFt6hO",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时16分 ~ 06时45分]"
-        },
-        {
-          "title": "美国总统副助理戈尔卡：特朗普总统每天工作20个小时，不仅是为了拯救美国，更是为了拯救我们共同的文明。",
-          "url": "https://flash.jin10.com/detail/20261008060608068800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
-          "title": "特朗普新任AI主管将赴硅谷走访头部AI企业",
-          "url": "https://wallstreetcn.com/livenews/3175021",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
-          "title": "特朗普称其配得上诺贝尔和平奖",
-          "url": "https://flash.jin10.com/detail/20261008045210185800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时45分"
-        },
-        {
-          "title": "美国总统特朗普：如有冲突，将立即终止外部顾问克里斯·拉西维塔和詹姆斯·布莱尔的服务。",
-          "url": "https://flash.jin10.com/detail/20261008000617038800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时17分"
+          "time_info": "06时45分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "【早报】美股热门科技股，上演“冰火两重天”；原油黄金，双双收跌；伊朗：很快将封锁霍尔木兹海峡的“非法”通道",
+          "url": "https://www.cls.cn/detail/2498881",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
         {
           "title": "美股收盘：标普、纳指均创历史新高 市场焦点转向财报季",
           "url": "https://www.cls.cn/detail/2498401",
@@ -347,13 +459,24 @@
           "time_info": "[01时16分 ~ 06时45分]"
         },
         {
+          "title": "美股三季报下周拉开帷幕：标普500每股收益预计增长27%，英伟达和美光两家公司将贡献1/3",
+          "url": "https://wallstreetcn.com/articles/3783100",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
+        },
+        {
           "title": "美股加密货币与加密货币关联指数跌5.05%，报69.01点，跳空低开之后持续低位窄幅震荡。 最近24小时，现货比特币跌2.65%，暂报83348.19美元，期内持续下跌、北京时间09:51出现一波短线加速下跌行情。 现货以太坊跌4.68%，报2571.064美元。 MarketVectorTM数字资产100小盘指数跌1.54%，MarketVectorTM数字资产100中盘指数跌0.32%，MarketVector数字资产100指数跌1.03%。",
           "url": "https://wallstreetcn.com/livenews/3175014",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         },
@@ -383,7 +506,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "美债重启抛售、收益率创2002年来新高，美股高位承压，早盘道指跌超1%，布油盘中涨2%",
@@ -403,7 +526,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         },
@@ -417,6 +540,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时17分"
+        },
+        {
+          "title": "美股收盘：标普指数从历史高位小幅回落 美债收益率高企令市场承压",
+          "url": "https://www.cls.cn/detail/2498861",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时32分"
         }
       ]
     },
@@ -431,7 +565,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         },
@@ -442,7 +576,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         }
@@ -459,7 +593,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时45分"
         }
