@@ -1,8 +1,288 @@
 {
-  "generated_at": "2026-10-09T06:56:17.360873+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-10-09T10:48:52.174741+08:00",
+  "total_titles_processed": 618,
   "failed_sources": [],
   "trends": [
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 13,
+      "titles": [
+        {
+          "title": "OpenAI营收逊色重创AI股，标普、纳指两连跌，芯片指数跌超3%，原油一度涨逾5%",
+          "url": "https://wallstreetcn.com/articles/3783173",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "“AI鬼故事”再现？OpenAI营收低于此前报道 AI概念股纷纷跳水",
+          "url": "https://www.cls.cn/detail/2499956",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "中东局势升级叠加OpenAI收入预警，标普、纳指两连跌，芯片指数跌超3%，光通信股重挫",
+          "url": "https://wallstreetcn.com/articles/3783173",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "相差200亿！OpenAI营收被爆巨大预期差，AI板块遭重创，甲骨文跌逾5%，应用光电跌超10%",
+          "url": "https://wallstreetcn.com/articles/3783220",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "美股收盘：OpenAI年化营收低于此前报道 AI概念股承压 纳指跌逾1%",
+          "url": "https://www.cls.cn/detail/2499973",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[06时56分 ~ 10时48分]"
+        },
+        {
+          "title": "据CNN：OpenAI周四表示，伊朗的特工利用OpenAI模型和虚假身份，在多家美国媒体上发布批评美国对伊战争的新闻报道。",
+          "url": "https://flash.jin10.com/detail/20261009060150763800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "OpenAI发布722篇数学手稿",
+          "url": "https://www.douyin.com/hot/2686054",
+          "source": "抖音",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "如何评价 OpenAI 撤回 3 篇手稿？为什么前沿模型会犯这种错误？",
+          "url": "https://www.zhihu.com/question/2091639092467519549",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "OpenAI预计到2026年底年化收入将达到700亿美元",
+          "url": "https://wallstreetcn.com/livenews/3175954",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "OpenAI 全面上线 GPT-6，有哪些功能亮点和体验提升？",
+          "url": "https://www.zhihu.com/question/2091441800456282491",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "OpenAI发布可交互界面",
+          "url": "https://s.weibo.com/weibo?q=OpenAI%E5%8F%91%E5%B8%83%E5%8F%AF%E4%BA%A4%E4%BA%92%E7%95%8C%E9%9D%A2&t=31&band_rank=24&Refer=top",
+          "source": "微博",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "OpenAI推出GPT-6.1 Sol Ultrafast版",
+          "url": "https://www.baidu.com/s?wd=OpenAI%E6%8E%A8%E5%87%BAGPT-6.1+Sol+Ultrafast%E7%89%88",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "近期，OpenAI公司告诉投资者们，其9月末年化收入将近500亿美元，比原来暗示的低200亿美元。（英国金融时报）",
+          "url": "https://wallstreetcn.com/livenews/3175767",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 11,
+      "titles": [
+        {
+          "title": "中东冲突再升级：沙特机场遇袭、波斯湾油轮中弹，特朗普拟对伊朗再动手，布油站上102美元",
+          "url": "https://wallstreetcn.com/articles/3783182",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 10时48分]"
+        },
+        {
+          "title": "特朗普8月证券交易金额达数亿美元？最高2500万美元买入Meta，签署太空政策前买入SpaceX票据",
+          "url": "https://wallstreetcn.com/articles/3783209",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 10时48分]"
+        },
+        {
+          "title": "特朗普称对伊朗军事行动 “必须收尾了”，媒体爆料美军制定“中选前打击方案”，油价应声上涨",
+          "url": "https://wallstreetcn.com/articles/3783137",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 06时56分]"
+        },
+        {
+          "title": "特朗普：美国不会在中期选举之前攻击伊朗",
+          "url": "https://www.cls.cn/detail/2499941",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "特朗普明确中期选举前不会攻击伊朗，伊朗外长称谈判仍在继续；美乌欧官员欲破俄乌僵局，将于周五举行会谈……当前现货金银维持卖出信号，美油空头占比上升。后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20261009103426551800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "纽约联储报告：若无特朗普关税，许多日常商品价格本应下降",
+          "url": "https://www.cls.cn/detail/2499890",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "特朗普8月证券交易流水出炉：大手笔押中Meta智能体行情",
+          "url": "https://www.cls.cn/detail/2499863",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "白宫：美国总统特朗普将于周五前往纽约州锡拉丘兹。 特朗普将于周五美国东部时间上午11点主持哥伦布日庆祝活动。",
+          "url": "https://wallstreetcn.com/livenews/3175869",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "报道：美军积极筹备中东武力方案，特朗普多次否决",
+          "url": "https://wallstreetcn.com/livenews/3175860",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "美媒：美军积极筹备中东武力方案 特朗普多次否决",
+          "url": "https://flash.jin10.com/detail/20261009050014373800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "据纽约时报：据美国官员透露，尽管特朗普对重启对伊朗的战争态度依然摇摆不定，但美国军方正在准备重启对伊朗大规模作战行动的方案。美国国防部制定了针对伊朗的三天打击新计划 ，三艘航空母舰即将部署在中东。",
+          "url": "https://flash.jin10.com/detail/20261009044546397800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        }
+      ]
+    },
     {
       "keyword_group": "伊朗",
       "match_count": 8,
@@ -80,7 +360,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -91,150 +371,27 @@
           "ranks": [
             29
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 7,
-      "titles": [
-        {
-          "title": "中东冲突再升级：沙特机场遇袭、波斯湾油轮中弹，特朗普拟对伊朗再动手，布油站上102美元",
-          "url": "https://wallstreetcn.com/articles/3783182",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 06时56分]"
-        },
-        {
-          "title": "特朗普称对伊朗军事行动 “必须收尾了”，媒体爆料美军制定“中选前打击方案”，油价应声上涨",
-          "url": "https://wallstreetcn.com/articles/3783137",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 06时56分]"
-        },
-        {
-          "title": "特朗普8月证券交易金额达数亿美元？最高2500万美元买入Meta，签署太空政策前买入SpaceX票据",
-          "url": "https://wallstreetcn.com/articles/3783209",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 06时56分]"
-        },
-        {
-          "title": "白宫：美国总统特朗普将于周五前往纽约州锡拉丘兹。 特朗普将于周五美国东部时间上午11点主持哥伦布日庆祝活动。",
-          "url": "https://wallstreetcn.com/livenews/3175869",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
-          "title": "报道：美军积极筹备中东武力方案，特朗普多次否决",
-          "url": "https://wallstreetcn.com/livenews/3175860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
-          "title": "美媒：美军积极筹备中东武力方案 特朗普多次否决",
-          "url": "https://flash.jin10.com/detail/20261009050014373800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
-          "title": "据纽约时报：据美国官员透露，尽管特朗普对重启对伊朗的战争态度依然摇摆不定，但美国军方正在准备重启对伊朗大规模作战行动的方案。美国国防部制定了针对伊朗的三天打击新计划 ，三艘航空母舰即将部署在中东。",
-          "url": "https://flash.jin10.com/detail/20261009044546397800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "中东局势升级叠加OpenAI收入预警，标普、纳指两连跌，芯片指数跌超3%，光通信股重挫",
-          "url": "https://wallstreetcn.com/articles/3783173",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
-          "title": "据CNN：OpenAI周四表示，伊朗的特工利用OpenAI模型和虚假身份，在多家美国媒体上发布批评美国对伊战争的新闻报道。",
-          "url": "https://flash.jin10.com/detail/20261009060150763800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
-          "title": "美股收盘：OpenAI年化营收低于此前报道 AI概念股承压 纳指跌逾1%",
-          "url": "https://www.cls.cn/detail/2499973",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        },
-        {
-          "title": "近期，OpenAI公司告诉投资者们，其9月末年化收入将近500亿美元，比原来暗示的低200亿美元。（英国金融时报）",
-          "url": "https://wallstreetcn.com/livenews/3175767",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "01时44分"
+          "time_info": "06时56分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "【早报】美股存储、半导体板块，全线重挫；原油飙升、黄金收涨；多家A股公司三季报预增",
+          "url": "https://www.cls.cn/detail/2499995",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
         {
           "title": "美股存储指数跌超4.6%，闪迪跌超6%，SK海力士跌超5%，美光科技、希捷科技跌超4%。",
           "url": "https://wallstreetcn.com/livenews/3175786",
@@ -253,7 +410,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -264,7 +421,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         },
@@ -282,6 +439,95 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "国内金价跌至890元",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E9%87%91%E4%BB%B7%E8%B7%8C%E8%87%B3890%E5%85%83%23&t=31&band_rank=30&Refer=top",
+          "source": "微博",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 06时56分]"
+        },
+        {
+          "title": "金价跌回8字头仍可能继续下跌",
+          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%8C%E5%9B%9E8%E5%AD%97%E5%A4%B4%E4%BB%8D%E5%8F%AF%E8%83%BD%E7%BB%A7%E7%BB%AD%E4%B8%8B%E8%B7%8C%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        },
+        {
+          "title": "国际金价涨0.5%",
+          "url": "https://wallstreetcn.com/livenews/3175862",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时56分"
+        },
+        {
+          "title": "金十图示：2026年10月09日（周五）上海金早盘价为900.79元/克，较国际金价(898.27元/克)，高2.52元/克",
+          "url": "https://flash.jin10.com/detail/20261009102229346800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "债券风暴笼罩：10年期拍卖拯救美债， 欧债“深陷泥潭”",
+          "url": "https://wallstreetcn.com/articles/3783136",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 06时56分]"
+        },
+        {
+          "title": "油价持续飙涨引爆通胀忧虑，美股低开，光通信板块走低、Coherent跌超4%，美债收益率走高",
+          "url": "https://wallstreetcn.com/articles/3783173",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时43分 ~ 01时44分]"
+        },
+        {
+          "title": "信号突变！美债死循环瓦解、看涨期权激增，转折点要来？",
+          "url": "https://www.cls.cn/detail/2500055",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时48分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -291,11 +537,12 @@
           "source": "知乎",
           "ranks": [
             5,
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 06时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 10时48分]"
         },
         {
           "title": "如何看待 DeepSeek 估值已接近 5000 亿元？",
@@ -303,11 +550,12 @@
           "source": "知乎",
           "ranks": [
             19,
-            8
+            8,
+            14
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 06时56分]"
+          "appearance_count": 4,
+          "time_info": "[01时43分 ~ 10时48分]"
         }
       ]
     },
@@ -340,62 +588,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国内金价跌至890元",
-          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E5%86%85%E9%87%91%E4%BB%B7%E8%B7%8C%E8%87%B3890%E5%85%83%23&t=31&band_rank=30&Refer=top",
-          "source": "微博",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 06时56分]"
-        },
-        {
-          "title": "国际金价涨0.5%",
-          "url": "https://wallstreetcn.com/livenews/3175862",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时56分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "债券风暴笼罩：10年期拍卖拯救美债， 欧债“深陷泥潭”",
-          "url": "https://wallstreetcn.com/articles/3783136",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时43分 ~ 06时56分]"
-        },
-        {
-          "title": "油价持续飙涨引爆通胀忧虑，美股低开，光通信板块走低、Coherent跌超4%，美债收益率走高",
-          "url": "https://wallstreetcn.com/articles/3783173",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 01时44分]"
-        }
-      ]
-    },
-    {
       "keyword_group": "美元",
       "match_count": 1,
       "titles": [
@@ -406,7 +598,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时56分"
         }
