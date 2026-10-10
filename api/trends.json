@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-10T17:27:17.179852+08:00",
-  "total_titles_processed": 818,
+  "generated_at": "2026-10-10T23:44:22.314669+08:00",
+  "total_titles_processed": 1030,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 41,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普：俄罗斯将立即向美国供应柴油",
@@ -18,6 +18,18 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[10时06分 ~ 17时27分]"
+        },
+        {
+          "title": "特朗普：与普京通话非常成功，全世界的柴油价格都将大幅、快速下跌！俄方表态；泽连斯基回应",
+          "url": "https://wallstreetcn.com/articles/3783311",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 23时44分]"
         },
         {
           "title": "特朗普改口，宣布11月3日中期选举前不打伊朗",
@@ -49,9 +61,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "特朗普的中期选举策略：发钱，发钱，还是发钱",
+          "url": "https://original.ifeng.com/c/8x72qqdmywa",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "克里姆林宫：俄罗斯总统普京在通话中对美国总统特朗普部分关于缓解乌克兰冲突的提议表示“理解”。",
@@ -60,9 +83,32 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "拳王泰森力挺共和党：特朗普曾在他因强奸入狱时为其辩护",
+          "url": "https://news.ifeng.com/c/8x79mluheP9",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
+          "title": "特朗普称与普京达成协议：俄罗斯将向美国及全球市场供应大量柴油",
+          "url": "https://www.cls.cn/detail/2500977",
+          "source": "财联社热门",
+          "ranks": [
+            6,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[10时06分 ~ 23时44分]"
         },
         {
           "title": "美国总统特朗普：诺贝尔和平奖永远失去了公信力。该奖已经被一小撮反民主、反文明的激进意识形态者彻底抹黑。",
@@ -74,17 +120,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
-        },
-        {
-          "title": "特朗普：与普京通话非常成功，全世界的柴油价格都将大幅、快速下跌！俄方表态；泽连斯基回应",
-          "url": "https://wallstreetcn.com/articles/3783311",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时27分"
         },
         {
           "title": "据华尔街日报：预测市场平台Kalshi已就其平台上涉及特朗普总统新任白宫新闻秘书人选的一系列可疑交易展开调查。",
@@ -109,18 +144,6 @@
           "time_info": "10时06分"
         },
         {
-          "title": "特朗普称与普京达成协议：俄罗斯将向美国及全球市场供应大量柴油",
-          "url": "https://www.cls.cn/detail/2500977",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 17时27分]"
-        },
-        {
           "title": "高市早苗公开反对特朗普",
           "url": "https://news.ifeng.com/c/8x5CxeV6pMm",
           "source": "凤凰网",
@@ -130,6 +153,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时20分 ~ 17时27分]"
+        },
+        {
+          "title": "才一天就改口？特朗普称“可能”中选前对伊朗采取军事行动",
+          "url": "https://wallstreetcn.com/articles/3783305",
+          "source": "华尔街见闻",
+          "ranks": [
+            10,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时27分 ~ 23时44分]"
         },
         {
           "title": "特朗普为什么非要给AI改名字",
@@ -177,6 +212,17 @@
           "time_info": "10时06分"
         },
         {
+          "title": "特朗普找到新“援军”：普京同意俄罗斯向全球市场释放数百万吨柴油",
+          "url": "https://wallstreetcn.com/articles/3783298",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "美国总统特朗普：看看我的和平政绩，这份政绩前无古人。我说这些不是自吹自擂，只是想说明诺贝尔奖这整件事有多黑暗。",
           "url": "https://flash.jin10.com/detail/20261010092008084800",
           "source": "金十数据",
@@ -221,15 +267,15 @@
           "time_info": "10时06分"
         },
         {
-          "title": "才一天就改口？特朗普称“可能”中选前对伊朗采取军事行动",
-          "url": "https://wallstreetcn.com/articles/3783305",
-          "source": "华尔街见闻",
+          "title": "普京向特朗普转达伊朗方面解决冲突构想",
+          "url": "https://wallstreetcn.com/livenews/3176549",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时27分"
+          "time_info": "23时44分"
         },
         {
           "title": "特朗普宣布任命凯蒂·扎卡里亚出任白宫新闻秘书",
@@ -386,6 +432,17 @@
           "time_info": "06时18分"
         },
         {
+          "title": "普京向特朗普转达伊朗方面解决冲突构想",
+          "url": "https://flash.jin10.com/detail/20261010201024020800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
+        },
+        {
           "title": "特朗普宣布中期选举前不打伊朗",
           "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%89%8D%E4%B8%8D%E6%89%93%E4%BC%8A%E6%9C%97",
           "source": "bilibili 热搜",
@@ -406,6 +463,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "06时18分"
+        },
+        {
+          "title": "特朗普宣布新任白宫新闻秘书",
+          "url": "https://www.douyin.com/hot/2688763",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "美国总统特朗普：绝对支持对福特胡德枪手的执行进行直播。",
@@ -450,6 +518,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "10时06分"
+        },
+        {
+          "title": "特朗普谈胡德堡枪手处决直播",
+          "url": "https://www.douyin.com/hot/2689135",
+          "source": "抖音",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "特朗普在白宫成立“超级智能工作组”",
@@ -520,11 +599,12 @@
           "source": "贴吧",
           "ranks": [
             4,
-            7
+            7,
+            10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[06时18分 ~ 17时27分]"
+          "appearance_count": 4,
+          "time_info": "[06时18分 ~ 23时44分]"
         },
         {
           "title": "怎么看OpenAI数学论文撤稿",
@@ -578,7 +658,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股收盘：道指涨逾400点 三大指数周线齐涨 市场静待银行财报与通胀数据",
@@ -586,11 +666,12 @@
           "source": "财联社热门",
           "ranks": [
             7,
-            4
+            4,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 17时27分]"
+          "appearance_count": 3,
+          "time_info": "[10时06分 ~ 23时44分]"
         },
         {
           "title": "美股盘前涨4%！Lumentum CEO：公司光学器件售罄至2029年，部分产品需求缺口达70%",
@@ -616,6 +697,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时20分 ~ 06时18分]"
+        },
+        {
+          "title": "野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击",
+          "url": "https://wallstreetcn.com/articles/3783332",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         },
         {
           "title": "金十图示：2026年10月09日（周五）美股热门股票行情一览（美股盘中）",
@@ -696,7 +788,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
         },
@@ -744,7 +836,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "霍尔木兹危机“拉满”：油轮遇袭事件创战时最高，伊朗打击范围扩大！",
@@ -753,9 +845,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时27分"
+        },
+        {
+          "title": "普京向美方转达伊朗方面解决冲突构想",
+          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%90%91%E7%BE%8E%E6%96%B9%E8%BD%AC%E8%BE%BE%E4%BC%8A%E6%9C%97%E6%96%B9%E9%9D%A2%E8%A7%A3%E5%86%B3%E5%86%B2%E7%AA%81%E6%9E%84%E6%83%B3",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时44分"
         }
       ]
     }
