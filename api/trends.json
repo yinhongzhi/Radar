@@ -1,69 +1,22 @@
 {
-  "generated_at": "2026-10-10T23:44:22.314669+08:00",
-  "total_titles_processed": 1030,
+  "generated_at": "2026-10-11T03:48:01.411393+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 48,
+      "match_count": 16,
       "titles": [
-        {
-          "title": "特朗普：俄罗斯将立即向美国供应柴油",
-          "url": "https://news.ifeng.com/c/8x64PgzVXEo",
-          "source": "凤凰网",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 17时27分]"
-        },
         {
           "title": "特朗普：与普京通话非常成功，全世界的柴油价格都将大幅、快速下跌！俄方表态；泽连斯基回应",
           "url": "https://wallstreetcn.com/articles/3783311",
           "source": "华尔街见闻",
           "ranks": [
-            4,
             1
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时27分 ~ 23时44分]"
-        },
-        {
-          "title": "特朗普改口，宣布11月3日中期选举前不打伊朗",
-          "url": "https://news.ifeng.com/c/8x4dLLeVPpO",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 06时18分]"
-        },
-        {
-          "title": "新晋诺奖得主调侃：如果掌声更响亮，我愿与特朗普分享这个奖",
-          "url": "https://news.ifeng.com/c/8x6JzLLHgbL",
-          "source": "凤凰网",
-          "ranks": [
-            4,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 17时27分]"
-        },
-        {
-          "title": "特朗普或在中期选举后调整内阁，最可能出局是他？",
-          "url": "https://original.ifeng.com/c/8x6QS9EXtWw",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
+          "time_info": "[03时47分 ~ 03时48分]"
         },
         {
           "title": "特朗普的中期选举策略：发钱，发钱，还是发钱",
@@ -72,20 +25,9 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "克里姆林宫：俄罗斯总统普京在通话中对美国总统特朗普部分关于缓解乌克兰冲突的提议表示“理解”。",
-          "url": "https://flash.jin10.com/detail/20261010170618244800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 03时48分]"
         },
         {
           "title": "拳王泰森力挺共和党：特朗普曾在他因强奸入狱时为其辩护",
@@ -94,177 +36,64 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "特朗普称与普京达成协议：俄罗斯将向美国及全球市场供应大量柴油",
-          "url": "https://www.cls.cn/detail/2500977",
-          "source": "财联社热门",
-          "ranks": [
-            6,
-            2
-          ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 23时44分]"
-        },
-        {
-          "title": "美国总统特朗普：诺贝尔和平奖永远失去了公信力。该奖已经被一小撮反民主、反文明的激进意识形态者彻底抹黑。",
-          "url": "https://flash.jin10.com/detail/20261010092801234800",
-          "source": "金十数据",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "据华尔街日报：预测市场平台Kalshi已就其平台上涉及特朗普总统新任白宫新闻秘书人选的一系列可疑交易展开调查。",
-          "url": "https://flash.jin10.com/detail/20261010054902743800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "普京特朗普通话 俄将向全球供应石油",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E8%AF%9D+%E4%BF%84%E5%B0%86%E5%90%91%E5%85%A8%E7%90%83%E4%BE%9B%E5%BA%94%E7%9F%B3%E6%B2%B9",
-          "source": "百度热搜",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "高市早苗公开反对特朗普",
-          "url": "https://news.ifeng.com/c/8x5CxeV6pMm",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 17时27分]"
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 03时48分]"
         },
         {
           "title": "才一天就改口？特朗普称“可能”中选前对伊朗采取军事行动",
           "url": "https://wallstreetcn.com/articles/3783305",
           "source": "华尔街见闻",
           "ranks": [
-            10,
             5
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[17时27分 ~ 23时44分]"
+          "time_info": "[03时47分 ~ 03时48分]"
         },
         {
-          "title": "特朗普为什么非要给AI改名字",
-          "url": "https://www.toutiao.com/trending/7694540783252147775/",
-          "source": "今日头条",
+          "title": "乌克兰外交部长：（回应特朗普关于泽连斯基的言论）泽连斯基值得获得支持。",
+          "url": "https://flash.jin10.com/detail/20261011030707203800",
+          "source": "金十数据",
           "ranks": [
-            27,
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "特朗普谈胡德堡枪手处决直播",
+          "url": "https://www.douyin.com/hot/2689135",
+          "source": "抖音",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 03时48分]"
+        },
+        {
+          "title": "特朗普宣布新任白宫新闻秘书",
+          "url": "https://www.douyin.com/hot/2688763",
+          "source": "抖音",
+          "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时20分 ~ 06时18分]"
+          "time_info": "[03时47分 ~ 03时48分]"
         },
         {
-          "title": "特朗普：与俄罗斯的石油协议是笔大交易 我要感谢普京",
-          "url": "https://flash.jin10.com/detail/20261010054038495800",
+          "title": "美国总统特朗普：愚蠢的民主党人，伙同他们的犯罪同伙——假新闻媒体，正试图制造一种虚假叙事，声称唐纳德·特朗普如此“不受欢迎”，共和党将会输掉选举。事实上情况恰恰相反。我如此“受欢迎”，共和党一定会赢得选举。我们正在举行的一场场创纪录的集会就是证明（包括我很快就会出席的田纳西州集会——待会儿见！）。",
+          "url": "https://flash.jin10.com/detail/20261011030053642800",
           "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "美国总统特朗普：顺便说一句，我还拿下了格陵兰岛，希望你们能为此感到高兴。我们以合适的价格拿下格陵兰岛——零美元。",
-          "url": "https://flash.jin10.com/detail/20261010092030681800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "特朗普：我们不要加拿大的汽车，我们要自己的汽车。",
-          "url": "https://wallstreetcn.com/livenews/3176485",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "特朗普找到新“援军”：普京同意俄罗斯向全球市场释放数百万吨柴油",
-          "url": "https://wallstreetcn.com/articles/3783298",
-          "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "美国总统特朗普：看看我的和平政绩，这份政绩前无古人。我说这些不是自吹自擂，只是想说明诺贝尔奖这整件事有多黑暗。",
-          "url": "https://flash.jin10.com/detail/20261010092008084800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "特朗普政府要求AI公司在发生安全事件后立即上报",
-          "url": "https://wallstreetcn.com/livenews/3176484",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "美国总统特朗普：我们不会忘记挪威，你们没有把诺贝尔和平奖授予美国。",
-          "url": "https://flash.jin10.com/detail/20261010091950212800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "特朗普：纽约本不该让企业迁往得州。 炼油商和零售商应开始降价。 美国已削减逾100万个联邦职位。",
-          "url": "https://wallstreetcn.com/livenews/3176483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
+          "time_info": "03时48分"
         },
         {
           "title": "普京向特朗普转达伊朗方面解决冲突构想",
@@ -275,580 +104,91 @@
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "03时48分"
         },
         {
-          "title": "特朗普宣布任命凯蒂·扎卡里亚出任白宫新闻秘书",
-          "url": "https://flash.jin10.com/detail/20261010052512778800",
+          "title": "美国总统特朗普：我很快将会抵达田纳西州。",
+          "url": "https://flash.jin10.com/detail/20261011024233266800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "俄罗斯政府：在特朗普与普京达成协议后，部分解除柴油出口禁令。",
+          "url": "https://flash.jin10.com/detail/20261011024125575800",
           "source": "金十数据",
           "ranks": [
             11
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时18分"
+          "time_info": "03时48分"
         },
         {
-          "title": "特朗普改口！称：“可能会”在美国中期选举之前对伊朗采取行动",
-          "url": "https://wallstreetcn.com/livenews/3176450",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "美国总统特朗普：俄罗斯同意向我们提供大量石油产品，是柴油。这正是我们真正需要的。所以，谢谢！",
-          "url": "https://flash.jin10.com/detail/20261010085233453800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "美国总统特朗普：汽油价格很快将下跌。",
-          "url": "https://wallstreetcn.com/livenews/3176339",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "美国总统特朗普：炼油公司和零售商应立即开始降低价格，因为我们为他们提供了大量石油。",
-          "url": "https://flash.jin10.com/detail/20261010085105180800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "特朗普与普京达成的柴油协议被指违反俄罗斯制裁法",
-          "url": "https://wallstreetcn.com/livenews/3176479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "美国总统特朗普：多亏了美国军队，我们已经完全控制了霍尔木兹海峡。",
-          "url": "https://flash.jin10.com/detail/20261010085054940800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "美国总统特朗普：如今通过霍尔木兹海峡输送的石油量，比（伊朗）战争爆发前还要多。你敢相信吗？",
-          "url": "https://flash.jin10.com/detail/20261010085042233800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "俄罗斯总统助理乌沙科夫：美国总统特朗普欢迎俄罗斯参与伊朗问题的解决。",
-          "url": "https://flash.jin10.com/detail/20261010051601150800",
+          "title": "据阿拉伯卫星电视台：一名俄罗斯官员表示，特朗普呼吁乌克兰总统泽连斯基下台的言论具有历史性和关键性意义。",
+          "url": "https://flash.jin10.com/detail/20261011021131033800",
           "source": "金十数据",
           "ranks": [
             18
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时18分"
+          "time_info": "03时48分"
         },
         {
-          "title": "特朗普以纽约市地图未标注“小意大利”为由威胁削减资金",
-          "url": "https://wallstreetcn.com/livenews/3176335",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "俄罗斯总统助理乌沙科夫：俄罗斯总统普京告知美国总统特朗普，俄罗斯将考虑何时恢复和平谈判。",
-          "url": "https://flash.jin10.com/detail/20261010051551456800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "俄罗斯总统助理乌沙科夫：俄罗斯总统普京与美国总统特朗普讨论了包括俄罗斯燃料供应在内的大规模经济倡议。",
-          "url": "https://flash.jin10.com/detail/20261010051504893800",
+          "title": "美媒：特朗普要求撤换泽连斯基，双方关系陷入去年白宫争吵以来最严重危机",
+          "url": "https://flash.jin10.com/detail/20261011013543054800",
           "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "芝加哥谷物期货急剧下跌，CBOT玉米期货跌超3%，美国农业部（USDA）库存月报显示特朗普政府上调产量、供应量预期。",
-          "url": "https://wallstreetcn.com/livenews/3176332",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "俄罗斯总统助理乌沙科夫：美国总统特朗普在电话中热烈祝贺俄罗斯总统普京生日快乐，祝愿他成功和健康。",
-          "url": "https://flash.jin10.com/detail/20261010051443348800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "普京向特朗普转达伊朗方面解决冲突构想",
-          "url": "https://flash.jin10.com/detail/20261010201024020800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "03时48分"
         },
         {
-          "title": "特朗普宣布中期选举前不打伊朗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E5%AE%A3%E5%B8%83%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%89%8D%E4%B8%8D%E6%89%93%E4%BC%8A%E6%9C%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "特朗普谈及是否会在中期选举前对伊朗采取行动：有这个可能。",
-          "url": "https://flash.jin10.com/detail/20261010051125512800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "特朗普宣布新任白宫新闻秘书",
-          "url": "https://www.douyin.com/hot/2688763",
-          "source": "抖音",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "美国总统特朗普：绝对支持对福特胡德枪手的执行进行直播。",
-          "url": "https://flash.jin10.com/detail/20261010051018257800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "美国总统特朗普：对沙特阿拉伯被袭击事件感到不满。",
-          "url": "https://flash.jin10.com/detail/20261010051001362800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "美国总统特朗普：刚刚听说了一些关于美国驻希腊大使的消息。",
-          "url": "https://flash.jin10.com/detail/20261010050813128800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "特朗普请求美国最高法院复审其被驳回的诉讼，该诉讼指控希拉里·克林顿在2016年大选中密谋。",
-          "url": "https://flash.jin10.com/detail/20261010080922619800",
+          "title": "特朗普：俄乌战争因决策无能而爆发",
+          "url": "https://flash.jin10.com/detail/20261011010727757800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "10时06分"
+          "time_info": "03时48分"
         },
         {
-          "title": "特朗普谈胡德堡枪手处决直播",
-          "url": "https://www.douyin.com/hot/2689135",
-          "source": "抖音",
+          "title": "特朗普：将评估沙特最新遇袭事件是否改变对伊动武计划",
+          "url": "https://flash.jin10.com/detail/20261011010655867800",
+          "source": "金十数据",
           "ranks": [
             27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "03时48分"
         },
         {
-          "title": "特朗普在白宫成立“超级智能工作组”",
-          "url": "https://www.toutiao.com/trending/7694162030522056747/",
-          "source": "今日头条",
+          "title": "特朗普：可能参与沙特对胡塞武装的打击行动",
+          "url": "https://flash.jin10.com/detail/20261011005846235800",
+          "source": "金十数据",
           "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "OpenAI营收逊色重创AI股，标普、纳指两连跌，芯片指数跌超3%，原油一度涨逾5%",
-          "url": "https://wallstreetcn.com/articles/3783173",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 06时18分]"
-        },
-        {
-          "title": "OpenAI 爆冷，1-9 月年化营收低于预期 200 亿，美股、日经科技板块重挫，如何看其业绩影响？",
-          "url": "https://www.zhihu.com/question/2091810817008259841",
-          "source": "知乎",
-          "ranks": [
-            4,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 06时18分]"
-        },
-        {
-          "title": "相差200亿！OpenAI营收被爆巨大预期差，AI板块遭重创，甲骨文跌逾5%，应用光电跌超10%",
-          "url": "https://wallstreetcn.com/articles/3783220",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "陶哲轩转发多位数学家抵制 OpenAI 的文章，怎么看待该观点？这将对 AI 数学研究带来哪些改变？",
-          "url": "https://www.zhihu.com/question/2091831158468244988",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "OpenAI狂发论文,数学家炮轰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366794&amp;topic_name=OpenAI%E7%8B%82%E5%8F%91%E8%AE%BA%E6%96%87%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%82%AE%E8%BD%B0",
-          "source": "贴吧",
-          "ranks": [
-            4,
-            7,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[06时18分 ~ 23时44分]"
-        },
-        {
-          "title": "怎么看OpenAI数学论文撤稿",
-          "url": "https://search.bilibili.com/all?keyword=%E6%80%8E%E4%B9%88%E7%9C%8BOpenAI%E6%95%B0%E5%AD%A6%E8%AE%BA%E6%96%87%E6%92%A4%E7%A8%BF",
-          "source": "bilibili 热搜",
-          "ranks": [
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 10时06分]"
-        },
-        {
-          "title": "OpenAI营收冲击暂告段落 科技牛股集体反弹 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2500829",
-          "source": "财联社热门",
-          "ranks": [
-            9,
-            8,
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时20分 ~ 17时27分]"
-        },
-        {
-          "title": "AI灾难将在一年内发生？Anthropic、OpenAI私下推演最坏情景",
-          "url": "https://wallstreetcn.com/articles/3783284",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时06分 ~ 17时27分]"
-        },
-        {
-          "title": "人类数学协会抵制OpenAI公开论文",
-          "url": "https://search.bilibili.com/all?keyword=%E6%95%B0%E5%AD%A6%E5%8D%8F%E4%BC%9A%E6%8A%B5%E5%88%B6OpenAI%E5%85%AC%E5%BC%80%E8%AE%BA%E6%96%87",
-          "source": "bilibili 热搜",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 8,
-      "titles": [
-        {
-          "title": "美股收盘：道指涨逾400点 三大指数周线齐涨 市场静待银行财报与通胀数据",
-          "url": "https://www.cls.cn/detail/2500993",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[10时06分 ~ 23时44分]"
-        },
-        {
-          "title": "美股盘前涨4%！Lumentum CEO：公司光学器件售罄至2029年，部分产品需求缺口达70%",
-          "url": "https://wallstreetcn.com/articles/3783261",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时20分 ~ 10时06分]"
-        },
-        {
-          "title": "AI回报疑虑缓解，美股高开，光通信股普涨，Lumentum涨超6%，油价回落，铁矿石连跌三周",
-          "url": "https://wallstreetcn.com/articles/3783254",
-          "source": "华尔街见闻",
-          "ranks": [
-            9,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 06时18分]"
-        },
-        {
-          "title": "野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击",
-          "url": "https://wallstreetcn.com/articles/3783332",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
+            29
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时44分"
-        },
-        {
-          "title": "金十图示：2026年10月09日（周五）美股热门股票行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20261010004247012800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "金十图示：2026年10月09日（周五）热门中概股行情一览（美股盘中）",
-          "url": "https://flash.jin10.com/detail/20261010004231758800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        },
-        {
-          "title": "黄金ETF收涨将近1.6%，与地产ETF、新兴市场ETF领跑美股大类资产类ETF",
-          "url": "https://wallstreetcn.com/livenews/3176436",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "周五（10月9日），美股行业ETF普遍收涨，生物科技指数ETF涨3%，网络股指数ETF涨2.15%，科技行业ETF涨0.51%，能源业ETF跌0.25%，半导体ETF跌0.65%，银行业ETF、区域银行ETF至多跌0.83%。",
-          "url": "https://wallstreetcn.com/livenews/3176433",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "国际金价周五涨1.5%",
-          "url": "https://wallstreetcn.com/livenews/3176449",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "06时18分"
-        },
-        {
-          "title": "金价下跌女儿买10万黄金送父母",
-          "url": "https://www.baidu.com/s?wd=%E9%87%91%E4%BB%B7%E4%B8%8B%E8%B7%8C%E5%A5%B3%E5%84%BF%E4%B9%B010%E4%B8%87%E9%BB%84%E9%87%91%E9%80%81%E7%88%B6%E6%AF%8D",
-          "source": "百度热搜",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时06分"
-        },
-        {
-          "title": "国内金价重回900元",
-          "url": "https://www.douyin.com/hot/2688678",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
-        {
-          "title": "金价下跌金店忙疯",
-          "url": "https://www.toutiao.com/trending/7694600654412795418/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "两年期美债收益率周五涨超2.9个基点，本周与10年期累跌超3个基点",
-          "url": "https://wallstreetcn.com/livenews/3176460",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3,
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时18分 ~ 10时06分]"
-        },
-        {
-          "title": "法债是第一个牺牲品，接着是美债？全球感受“日本加息”的效果了吗？",
-          "url": "https://wallstreetcn.com/articles/3783232",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时20分 ~ 06时18分]"
+          "time_info": "03时48分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
-        {
-          "title": "霍尔木兹危机“拉满”：油轮遇袭事件创战时最高，伊朗打击范围扩大！",
-          "url": "https://www.cls.cn/detail/2501006",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "17时27分"
-        },
         {
           "title": "普京向美方转达伊朗方面解决冲突构想",
           "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%90%91%E7%BE%8E%E6%96%B9%E8%BD%AC%E8%BE%BE%E4%BC%8A%E6%9C%97%E6%96%B9%E9%9D%A2%E8%A7%A3%E5%86%B3%E5%86%B2%E7%AA%81%E6%9E%84%E6%83%B3",
@@ -856,9 +196,87 @@
           "ranks": [
             26
           ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 03时48分]"
+        },
+        {
+          "title": "据Axios：两名美国官员和一名以色列官员表示，美国并未要求以色列在选举前率先对伊朗发动袭击。（金十注：此前有媒体报道称，美国在过去两周曾敦促以色列单独对伊朗发动军事打击，希望以色列赶在本国10月27日选举前率先打击伊朗，从而避免美国直接采取军事行动影响11月3日中期选举。）",
+          "url": "https://flash.jin10.com/detail/20261011024103682800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时44分"
+          "time_info": "03时48分"
+        },
+        {
+          "title": "以媒称美以领导人就再袭伊朗沟通 内塔尼亚胡无意在月底议会选举前行动",
+          "url": "https://flash.jin10.com/detail/20261011022653920800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "据以色列第12频道：一名以色列高级官员表示，以色列不会在10月27日议会选举前对伊朗发动先发制人的打击。",
+          "url": "https://flash.jin10.com/detail/20261011012158839800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        },
+        {
+          "title": "伊朗确认一艘超级油轮在霍尔木兹海峡触雷起火",
+          "url": "https://flash.jin10.com/detail/20261011011329864800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "03时48分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI狂发论文,数学家炮轰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366794&amp;topic_name=OpenAI%E7%8B%82%E5%8F%91%E8%AE%BA%E6%96%87%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%82%AE%E8%BD%B0",
+          "source": "贴吧",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 03时48分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击",
+          "url": "https://wallstreetcn.com/articles/3783332",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时47分 ~ 03时48分]"
         }
       ]
     }
