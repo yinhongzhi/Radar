@@ -1,193 +1,55 @@
 {
-  "generated_at": "2026-10-11T19:13:53.158788+08:00",
-  "total_titles_processed": 829,
+  "generated_at": "2026-10-12T01:22:26.769829+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 49,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "特朗普：与普京通话非常成功，全世界的柴油价格都将大幅、快速下跌！俄方表态；泽连斯基回应",
-          "url": "https://wallstreetcn.com/articles/3783311",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时47分 ~ 07时15分]"
-        },
-        {
-          "title": "特朗普的中期选举策略：发钱，发钱，还是发钱",
-          "url": "https://original.ifeng.com/c/8x72qqdmywa",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时47分 ~ 07时15分]"
-        },
-        {
-          "title": "拳王泰森力挺共和党：特朗普曾在他因强奸入狱时为其辩护",
-          "url": "https://news.ifeng.com/c/8x79mluheP9",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时47分 ~ 07时15分]"
-        },
         {
           "title": "沙特利雅得机场遇袭造成12人死亡309人受伤，特朗普称美国有可能加入对胡塞武装的打击",
           "url": "https://wallstreetcn.com/articles/3783345",
           "source": "华尔街见闻",
           "ranks": [
-            3,
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 19时13分]"
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
-          "title": "才一天就改口？特朗普称“可能”中选前对伊朗采取军事行动",
-          "url": "https://wallstreetcn.com/articles/3783305",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时47分 ~ 03时48分]"
-        },
-        {
-          "title": "沙特首都机场遇袭，特朗普发声",
-          "url": "https://original.ifeng.com/c/8x7wkojLzLk",
+          "title": "特朗普宣布俄乌达成“能源停火”",
+          "url": "https://news.ifeng.com/c/8x90UwKzhnS",
           "source": "凤凰网",
           "ranks": [
             1
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时08分"
+          "time_info": "01时22分"
+        },
+        {
+          "title": "特朗普：俄乌双方同意“能源停火”",
+          "url": "https://wallstreetcn.com/livenews/3176751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
           "title": "沙特首都机场遇袭，特朗普再发声：可怕且不可接受",
           "url": "https://original.ifeng.com/c/8x8Z9alZX8n",
           "source": "凤凰网",
           "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "特朗普：还没决定是否直播处决，但这样做能以儆效尤",
-          "url": "https://news.ifeng.com/c/8x7zpJfdZuP",
-          "source": "凤凰网",
-          "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "俄罗斯根据特朗普与普京的协议，部分解除柴油出口禁令",
-          "url": "https://wallstreetcn.com/livenews/3176563",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "特朗普敦促乌克兰举行选举",
-          "url": "https://wallstreetcn.com/livenews/3176629",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "特朗普宣布新任白宫新闻秘书",
-          "url": "https://www.douyin.com/hot/2688763",
-          "source": "抖音",
-          "ranks": [
-            22,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时47分 ~ 07时15分]"
-        },
-        {
-          "title": "特朗普调侃第一夫人电影走红：一家只能有一个明星",
-          "url": "https://flash.jin10.com/detail/20261011052802812800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时15分 ~ 12时08分]"
-        },
-        {
-          "title": "乌克兰外交部长：（回应特朗普关于泽连斯基的言论）泽连斯基值得获得支持。",
-          "url": "https://flash.jin10.com/detail/20261011030707203800",
-          "source": "金十数据",
-          "ranks": [
-            4,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时48分 ~ 07时15分]"
-        },
-        {
-          "title": "特朗普：乌克兰该换总统了 泽连斯基阻碍俄乌达成和平协议",
-          "url": "https://www.cls.cn/detail/2501388",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 19时13分]"
-        },
-        {
-          "title": "普京向特朗普转达伊朗方面解决冲突构想",
-          "url": "https://wallstreetcn.com/livenews/3176549",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8,
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时48分 ~ 07时15分]"
-        },
-        {
-          "title": "特朗普谈胡德堡枪手处决直播",
-          "url": "https://www.douyin.com/hot/2689135",
-          "source": "抖音",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时47分 ~ 03时48分]"
+          "time_info": "01时22分"
         },
         {
           "title": "特朗普要求乌克兰不能打俄炼油厂，“泽连斯基最好立刻停手，乌克兰该换个新总统”",
@@ -196,9 +58,9 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "01时22分"
         },
         {
           "title": "特朗普提议：把太平洋或大西洋改名为“特朗普洋”",
@@ -207,174 +69,53 @@
           "ranks": [
             6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "美国总统特朗普：我认为法国总统马克龙最近不太高兴。",
-          "url": "https://flash.jin10.com/detail/20261011050909657800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时15分"
+          "time_info": "01时22分"
         },
         {
-          "title": "美国总统特朗普：愚蠢的民主党人，伙同他们的犯罪同伙——假新闻媒体，正试图制造一种虚假叙事，声称唐纳德·特朗普如此“不受欢迎”，共和党将会输掉选举。事实上情况恰恰相反。我如此“受欢迎”，共和党一定会赢得选举。我们正在举行的一场场创纪录的集会就是证明（包括我很快就会出席的田纳西州集会——待会儿见！）。",
-          "url": "https://flash.jin10.com/detail/20261011030053642800",
-          "source": "金十数据",
+          "title": "秋后算账？美司法部调查五大电视网停拍特朗普活动",
+          "url": "https://news.ifeng.com/c/8x8al9ONK7b",
+          "source": "凤凰网",
           "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时48分"
+          "time_info": "01时22分"
         },
         {
-          "title": "美国总统特朗普：（谈加拿大）加拿大从来没有给予我们应有的尊重。他们认为自己理所当然地享有某些东西。但他们并没有这种特权。我们不需要他们拥有的任何东西。",
-          "url": "https://flash.jin10.com/detail/20261011050259483800",
-          "source": "金十数据",
+          "title": "特朗普：俄乌双方同意“能源停火”",
+          "url": "https://www.toutiao.com/trending/7695415667016601098/",
+          "source": "今日头条",
           "ranks": [
-            7
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时15分"
+          "time_info": "01时22分"
         },
         {
-          "title": "特朗普：“乌克兰应该换个总统”",
-          "url": "https://wallstreetcn.com/livenews/3176568",
+          "title": "特朗普：乌克兰该换总统了 泽连斯基阻碍俄乌达成和平协议",
+          "url": "https://www.cls.cn/detail/2501388",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "乌克兰总统泽连斯基：我们已做好能源停火的准备。 选择这位或那位领导人，应由乌克兰自己决定。 特朗普应该要求俄罗斯停止轰炸乌克兰。",
+          "url": "https://wallstreetcn.com/livenews/3176739",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "特朗普：美国有可能加入沙特对胡塞武装的打击行动",
-          "url": "https://wallstreetcn.com/livenews/3176567",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "美国总统特朗普：这太不可思议了。我可以说出最愚蠢的话，而你们却鼓掌。",
-          "url": "https://flash.jin10.com/detail/20261011044834911800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "特朗普任命凯蒂·贝利为白宫立法事务办公室主任",
-          "url": "https://flash.jin10.com/detail/20261011095218850800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "特朗普任命新白宫新闻秘书：曾在北京工作3年，任职中国知名律所，会讲普通话",
-          "url": "https://wallstreetcn.com/articles/3783334",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "美国总统特朗普：我很快将会抵达田纳西州。",
-          "url": "https://flash.jin10.com/detail/20261011024233266800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "美国总统特朗普：我此前考虑改名大西洋或太平洋。我们可以称它为“特朗普洋”（Trump Ocean）或者“美洲洋”（Ocean of the Americas）。",
-          "url": "https://flash.jin10.com/detail/20261011044032435800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "美国总统特朗普周日日程一览",
-          "url": "https://flash.jin10.com/detail/20261011093218673800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "俄罗斯政府：在特朗普与普京达成协议后，部分解除柴油出口禁令。",
-          "url": "https://flash.jin10.com/detail/20261011024125575800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "美国总统特朗普：伊朗可能会在选举前采取更多行动，他们认为这些行动会伤害我们，但我们能够迅速结束这件事。",
-          "url": "https://flash.jin10.com/detail/20261011043639240800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "美国总统特朗普：我们正在考虑将霍尔木兹海峡重新命名为“特朗普海峡”。",
-          "url": "https://flash.jin10.com/detail/20261011043605753800",
-          "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "美国总统特朗普：（谈伊朗）我们可以很快结束这件事。他们根本不知道我一直对他们多好。",
-          "url": "https://flash.jin10.com/detail/20261011043522483800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
+          "time_info": "01时22分"
         },
         {
           "title": "美乌吵起来了！泽连斯基怒斥“软弱”，特朗普称乌克兰该换总统",
@@ -383,364 +124,191 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "01时22分"
         },
         {
-          "title": "美国总统特朗普：（谈伊朗）他们是一个疯狂的国家。他们自己也知道这一点。我一直这么告诉他们。我说：“你们这些家伙简直疯了。”他们确实如此。",
-          "url": "https://flash.jin10.com/detail/20261011043246261800",
-          "source": "金十数据",
+          "title": "美国财长贝森特：我们对伊朗采取了“绝对孤立行动”。 将继续扣押伊朗的加密货币。 伊朗的汽油排队要3-4个小时。 伊朗失去了85-90%的导弹和无人机制造能力。 特朗普预计中期选举前不会发生任何军事冲突。",
+          "url": "https://wallstreetcn.com/livenews/3176737",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时15分"
+          "time_info": "01时22分"
         },
         {
-          "title": "美国总统特朗普：汽油价格低于拜登执政时期的水平，我们还阻止了伊朗获得核武器。",
-          "url": "https://flash.jin10.com/detail/20261011042758835800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "金十提示：美国总统特朗普正在田纳西州克拉克斯维尔集会上发表讲话。",
-          "url": "https://flash.jin10.com/detail/20261011042751523800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "据阿拉伯卫星电视台：一名俄罗斯官员表示，特朗普呼吁乌克兰总统泽连斯基下台的言论具有历史性和关键性意义。",
-          "url": "https://flash.jin10.com/detail/20261011021131033800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "美国内政部长伯格姆：“气候变化”运动的根基已被彻底动摇。在美国总统特朗普的领导下，美国不再将自身工业的未来押注于依赖天气条件的能源。我们正在为经济增长、制造业发展和美国实力的提升提供能源动力。",
-          "url": "https://flash.jin10.com/detail/20261011041338147800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "美媒：特朗普要求撤换泽连斯基，双方关系陷入去年白宫争吵以来最严重危机",
-          "url": "https://flash.jin10.com/detail/20261011013543054800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "美国总统特朗普：对沙特阿拉伯的攻击是可怕的，沙特有能力捍卫自己的国家。我们与胡塞武装有联系，我们将看看会发生什么，但他们所做的事情非常糟糕。我还没有与沙特王储交谈，但我会这样做，发生的事情是不可接受的。",
-          "url": "https://flash.jin10.com/detail/20261011082057024800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "美国总统特朗普：俄罗斯方面希望就乌克兰战争达成协议。",
-          "url": "https://flash.jin10.com/detail/20261011082019217800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "美国总统特朗普：但泽连斯基不想达成协议，他曾有多次机会实现这一目标。",
-          "url": "https://flash.jin10.com/detail/20261011082007408800",
+          "title": "泽连斯基称对特朗普宣布的俄乌“能源停火”安排不知情",
+          "url": "https://flash.jin10.com/detail/20261011232318863800",
           "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时08分"
+          "time_info": "01时22分"
         },
         {
-          "title": "美国总统特朗普：乌克兰应该举行选举，泽连斯基本可以多次达成协议。",
-          "url": "https://flash.jin10.com/detail/20261011081956490800",
+          "title": "泽连斯基回应特朗普：乌克兰领导人应由乌人民决定",
+          "url": "https://flash.jin10.com/detail/20261011231746994800",
           "source": "金十数据",
           "ranks": [
             23
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时08分"
+          "time_info": "01时22分"
         },
         {
-          "title": "外媒：特朗普称胡塞武装袭击利雅得机场“不可接受”，将与沙特王储“对话”",
-          "url": "https://wallstreetcn.com/livenews/3176607",
+          "title": "特朗普提议将太平洋或大西洋更名为 “特朗普洋”。（澎湃）",
+          "url": "https://wallstreetcn.com/livenews/3176725",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时08分"
+          "time_info": "01时22分"
         },
         {
-          "title": "美司法部调查五大电视网对特朗普的共享采访报道模式",
-          "url": "https://flash.jin10.com/detail/20261011081203665800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时08分"
-        },
-        {
-          "title": "特朗普：俄乌战争因决策无能而爆发",
-          "url": "https://flash.jin10.com/detail/20261011010727757800",
+          "title": "伊朗最高安全官员指责特朗普政府在霍尔木兹海峡“走私”石油",
+          "url": "https://flash.jin10.com/detail/20261011231300355800",
           "source": "金十数据",
           "ranks": [
             26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时48分"
+          "time_info": "01时22分"
         },
         {
-          "title": "特朗普：将评估沙特最新遇袭事件是否改变对伊动武计划",
-          "url": "https://flash.jin10.com/detail/20261011010655867800",
-          "source": "金十数据",
+          "title": "特朗普：俄乌双方同意“能源停火”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%BF%84%E4%B9%8C%E5%8F%8C%E6%96%B9%E5%90%8C%E6%84%8F%E2%80%9C%E8%83%BD%E6%BA%90%E5%81%9C%E7%81%AB%E2%80%9D",
+          "source": "百度热搜",
           "ranks": [
             27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时48分"
+          "time_info": "01时22分"
         },
         {
-          "title": "特朗普：可能参与沙特对胡塞武装的打击行动",
-          "url": "https://flash.jin10.com/detail/20261011005846235800",
-          "source": "金十数据",
+          "title": "特朗普为何急着和普京联手",
+          "url": "https://www.toutiao.com/trending/7695373425732226570/",
+          "source": "今日头条",
           "ranks": [
-            29
+            30
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时48分"
+          "time_info": "01时22分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 9,
       "titles": [
         {
-          "title": "报道：伊朗总统在与阿曼苏丹通话中强调外交磋商的重要性",
-          "url": "https://wallstreetcn.com/livenews/3176722",
-          "source": "华尔街见闻-快讯",
+          "title": "据以色列第12频道：以色列当地时间今天下午将举行一次安全会议，讨论包括黎巴嫩、叙利亚、加沙地带以及伊朗在内的多个战线的局势发展。",
+          "url": "https://flash.jin10.com/detail/20261012005435987800",
+          "source": "金十数据",
           "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "普京向美方转达伊朗方面解决冲突构想",
-          "url": "https://www.baidu.com/s?wd=%E6%99%AE%E4%BA%AC%E5%90%91%E7%BE%8E%E6%96%B9%E8%BD%AC%E8%BE%BE%E4%BC%8A%E6%9C%97%E6%96%B9%E9%9D%A2%E8%A7%A3%E5%86%B3%E5%86%B2%E7%AA%81%E6%9E%84%E6%83%B3",
-          "source": "百度热搜",
-          "ranks": [
-            26
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时47分 ~ 07时15分]"
+          "appearance_count": 1,
+          "time_info": "01时22分"
         },
         {
-          "title": "关税加伊朗战事反噬 美国制造商苦水难咽",
-          "url": "https://wallstreetcn.com/livenews/3176714",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗最高安全委员：战争结束掌握在伊朗人民手中",
+          "url": "https://flash.jin10.com/detail/20261012003004335800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：沙特利雅得传出两声爆炸声。",
+          "url": "https://flash.jin10.com/detail/20261012000011637800",
+          "source": "金十数据",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "01时22分"
         },
         {
-          "title": "据Axios：两名美国官员和一名以色列官员表示，美国并未要求以色列在选举前率先对伊朗发动袭击。（金十注：此前有媒体报道称，美国在过去两周曾敦促以色列单独对伊朗发动军事打击，希望以色列赶在本国10月27日选举前率先打击伊朗，从而避免美国直接采取军事行动影响11月3日中期选举。）",
-          "url": "https://flash.jin10.com/detail/20261011024103682800",
+          "title": "伊朗最高安全官员：贝森特在美国被称为“撒谎部长”",
+          "url": "https://flash.jin10.com/detail/20261011235844664800",
           "source": "金十数据",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时48分"
+          "time_info": "01时22分"
         },
         {
-          "title": "以媒称美以领导人就再袭伊朗沟通 内塔尼亚胡无意在月底议会选举前行动",
-          "url": "https://flash.jin10.com/detail/20261011022653920800",
+          "title": "伊朗最高安全官员：美国对伊朗最新提议的回应“并不充分”",
+          "url": "https://flash.jin10.com/detail/20261011235240349800",
           "source": "金十数据",
           "ranks": [
-            14
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时48分"
+          "time_info": "01时22分"
         },
         {
-          "title": "伊朗称不会在外国压力下放弃核技术",
-          "url": "https://flash.jin10.com/detail/20261011164833803800",
+          "title": "伊朗最高安全官员：正在考虑成立“经济战争委员会”",
+          "url": "https://flash.jin10.com/detail/20261011233755339800",
           "source": "金十数据",
           "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：也门胡塞武装在最新行动中，使用自杀式无人机袭击了沙特支持的雇佣军阵地。",
-          "url": "https://flash.jin10.com/detail/20261011084523989800",
-          "source": "金十数据",
-          "ranks": [
-            16
+            18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时08分"
+          "time_info": "01时22分"
         },
         {
-          "title": "据以色列第12频道：一名以色列高级官员表示，以色列不会在10月27日议会选举前对伊朗发动先发制人的打击。",
-          "url": "https://flash.jin10.com/detail/20261011012158839800",
+          "title": "据伊朗法尔斯通讯社：伊朗最高国家安全委员会秘书表示，我们面对的是美国一群没有学习历史的无知、愚蠢之人，他们不了解伊朗人民，因此才导致了目前的局面。",
+          "url": "https://flash.jin10.com/detail/20261011232403989800",
           "source": "金十数据",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时48分"
+          "time_info": "01时22分"
         },
         {
-          "title": "伊朗外交部发言人：美国人民真正的敌人是本国好战统治集团",
-          "url": "https://flash.jin10.com/detail/20261011035429103800",
+          "title": "伊朗最高国家安全委员会秘书：若再爆发战争将展示新能力，打击地区电缆、数据中心等设施",
+          "url": "https://flash.jin10.com/detail/20261011230624407800",
           "source": "金十数据",
           "ranks": [
-            21
+            27
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时15分"
+          "time_info": "01时22分"
         },
         {
-          "title": "伊朗确认一艘超级油轮在霍尔木兹海峡触雷起火",
-          "url": "https://flash.jin10.com/detail/20261011011329864800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时48分"
-        },
-        {
-          "title": "据伊朗法尔斯通讯社援引黎巴嫩广场电视台（Al Mayadeen）报道，一名也门消息人士表示，由于担忧战争长期持续，部分投资者和企业正考虑撤离沙特阿拉伯。",
-          "url": "https://flash.jin10.com/detail/20261011034819988800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时15分"
-        },
-        {
-          "title": "伊朗称不会在外国压力下放弃核技术",
-          "url": "https://wallstreetcn.com/livenews/3176698",
+          "title": "报道：伊朗总统在与阿曼苏丹通话中强调外交磋商的重要性",
+          "url": "https://wallstreetcn.com/livenews/3176722",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "野村警告：美股指数“严重失真”，十只股票贡献标普七成涨幅，警惕柴油带来新冲击",
-          "url": "https://wallstreetcn.com/articles/3783332",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            6,
-            1
+            27
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时47分 ~ 12时08分]"
-        },
-        {
-          "title": "德银：美股7月下旬以来的“第五轮科技股反弹”已到顶，准备迎接“倒V反转”",
-          "url": "https://wallstreetcn.com/articles/3783359",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "“只剩一笔交易”的美股牛市",
-          "url": "https://wallstreetcn.com/articles/3783355",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
-        },
-        {
-          "title": "中信证券： 美股盈利的高增长或已不仅集中于头部科技公司，非科技板块的盈利贡献正在明显增强",
-          "url": "https://flash.jin10.com/detail/20261011172134255800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "01时22分"
         }
       ]
     },
@@ -749,28 +317,54 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "OpenAI狂发论文,数学家炮轰",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366794&amp;topic_name=OpenAI%E7%8B%82%E5%8F%91%E8%AE%BA%E6%96%87%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%82%AE%E8%BD%B0",
-          "source": "贴吧",
-          "ranks": [
-            10,
-            14,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时47分 ~ 19时13分]"
-        },
-        {
           "title": "OpenAI 发布 175 页四维挂谷猜想证明稿，这意味着什么？",
           "url": "https://www.zhihu.com/question/2092197283857175132",
           "source": "知乎",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时13分"
+          "time_info": "01时22分"
+        },
+        {
+          "title": "OpenAI狂发论文,数学家炮轰",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28366794&amp;topic_name=OpenAI%E7%8B%82%E5%8F%91%E8%AE%BA%E6%96%87%2C%E6%95%B0%E5%AD%A6%E5%AE%B6%E7%82%AE%E8%BD%B0",
+          "source": "贴吧",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "德银：美股7月下旬以来的“第五轮科技股反弹”已到顶，准备迎接“倒V反转”",
+          "url": "https://wallstreetcn.com/articles/3783359",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
+        },
+        {
+          "title": "“只剩一笔交易”的美股牛市",
+          "url": "https://wallstreetcn.com/articles/3783355",
+          "source": "华尔街见闻",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时22分"
         }
       ]
     },
@@ -779,15 +373,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "十年期美债收益率逼近5.4%，AI光环难掩标普500\"虚胖\"隐忧",
-          "url": "https://wallstreetcn.com/articles/3783317",
+          "title": "美国市场叙事“剧烈反转”：从“AI通缩论和美债可控论”转向“AI挤爆债市、贝森特控不住长端利率”",
+          "url": "https://wallstreetcn.com/articles/3783366",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时08分"
+          "time_info": "01时22分"
         }
       ]
     }
