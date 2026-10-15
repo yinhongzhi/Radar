@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-15T11:19:28.341482+08:00",
-  "total_titles_processed": 738,
+  "generated_at": "2026-10-15T16:53:30.714781+08:00",
+  "total_titles_processed": 954,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 21,
+      "match_count": 23,
       "titles": [
         {
           "title": "财报季开局银行股分化，美股指收跌，存储股续跌打压科技股，苹果盘中市值突破5万亿",
@@ -106,11 +106,12 @@
           "source": "华尔街见闻",
           "ranks": [
             7,
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时42分 ~ 11时19分]"
+          "appearance_count": 3,
+          "time_info": "[07时42分 ~ 16时53分]"
         },
         {
           "title": "金十图示：2026年10月14日（周三）美股热门股票行情一览（美股收盘）",
@@ -155,6 +156,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "10月15日投资避雷针：加息阴云压顶！纳指重挫近2% 美股芯片股指数六连跌",
+          "url": "https://www.cls.cn/detail/2505154",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "美股科技题材全线下挫 纳指跌近2%",
@@ -243,12 +255,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "07时42分"
+        },
+        {
+          "title": "美股盘前，存储芯片股普跌",
+          "url": "https://wallstreetcn.com/livenews/3179280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 17,
+      "match_count": 18,
       "titles": [
         {
           "title": "特朗普忙“划清界限”：她不是我的家庭成员",
@@ -284,6 +307,29 @@
           "time_info": "[00时35分 ~ 11时19分]"
         },
         {
+          "title": "英国男子闯虎栏身亡后，特朗普发与老虎嬉戏AI视频遭网友痛骂",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34249940",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 16时53分]"
+        },
+        {
+          "title": "承认自己“过火”，特朗普承诺不再斩首伊朗领导人",
+          "url": "https://news.ifeng.com/c/8xF4NVTrNk0",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
           "title": "特朗普称其通胀工作做得好",
           "url": "https://flash.jin10.com/detail/20261015072937006800",
           "source": "金十数据",
@@ -315,17 +361,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
-        },
-        {
-          "title": "英国男子闯虎栏身亡后，特朗普发与老虎嬉戏AI视频遭网友痛骂",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34249940",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
         },
         {
           "title": "马斯克：星盾系统由美国政府控制 使用限制最终由特朗普决定",
@@ -462,7 +497,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -483,11 +518,12 @@
           "url": "https://www.zhihu.com/question/2093575542540875135",
           "source": "知乎",
           "ranks": [
-            9
+            9,
+            12
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 16时53分]"
         },
         {
           "title": "据华尔街日报：OpenAI计算部门负责人将离职。",
@@ -518,7 +554,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -592,7 +628,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "大肥鱼罢工!DeepSeek又崩了",
@@ -601,9 +637,21 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 16时53分]"
+        },
+        {
+          "title": "10 月 15 日 DeepSeek 网页和 App 显示「服务器暂时不可用」，可能是哪些原因导致的？",
+          "url": "https://www.zhihu.com/question/2093997001205445814",
+          "source": "知乎",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时19分 ~ 16时53分]"
         },
         {
           "title": "DeepSeek崩了",
@@ -612,7 +660,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -623,7 +671,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -634,20 +682,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
         {
-          "title": "10 月 15 日 DeepSeek 网页和 App 显示「服务器暂时不可用」，可能是哪些原因导致的？",
-          "url": "https://www.zhihu.com/question/2093997001205445814",
-          "source": "知乎",
+          "title": "DeepSeek优化27倍token教程",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BC%98%E5%8C%9627%E5%80%8Dtoken%E6%95%99%E7%A8%8B",
+          "source": "bilibili 热搜",
           "ranks": [
-            3
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时19分"
+          "time_info": "16时53分"
         },
         {
           "title": "DeepSeek回应服务器异常：已定位原因，正实施修复",
@@ -656,7 +704,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -667,7 +715,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -678,7 +726,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -689,7 +737,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         }
@@ -717,7 +765,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时19分"
         },
@@ -769,7 +817,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 5,
       "titles": [
         {
           "title": "美CPI重燃加息押注，美股低开、AI交易受挫，美银盘中跌近9%，短期美债跳水、美元拉升",
@@ -781,6 +829,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
+        },
+        {
+          "title": "本月第二次！AI领域上演“砸塌美债收益率”式大跌",
+          "url": "https://www.cls.cn/detail/2505522",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        },
+        {
+          "title": "AI泡沫担忧引发资金回流，美债正在重新找回“避险资产”角色",
+          "url": "https://flash.jin10.com/detail/20261015164244312800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
         },
         {
           "title": "大摩发行新债，美债收益率走高之际仍选择入市",
@@ -807,6 +877,34 @@
       ]
     },
     {
+      "keyword_group": "金价",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "金十图示：2026年10月15日（周四）上海金早盘价为893.33元/克，较国际金价(895.03元/克)，低1.7元/克",
+          "url": "https://flash.jin10.com/detail/20261015110058308800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时19分"
+        },
+        {
+          "title": "AI交易退潮、芯片股重挫，美股盘前SK海力士跌约6%，台积电跌2%，金价反弹，美债涨幅扩大",
+          "url": "https://wallstreetcn.com/articles/3783663",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时53分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美元",
       "match_count": 2,
       "titles": [
@@ -819,8 +917,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时42分 ~ 11时19分]"
+          "appearance_count": 3,
+          "time_info": "[07时42分 ~ 16时53分]"
         },
         {
           "title": "美元指数14日上涨",
@@ -832,23 +930,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时28分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金十图示：2026年10月15日（周四）上海金早盘价为893.33元/克，较国际金价(895.03元/克)，低1.7元/克",
-          "url": "https://flash.jin10.com/detail/20261015110058308800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时19分"
         }
       ]
     }
