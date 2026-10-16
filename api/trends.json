@@ -1,12 +1,25 @@
 {
-  "generated_at": "2026-10-16T18:45:44.635624+08:00",
-  "total_titles_processed": 965,
+  "generated_at": "2026-10-16T23:14:01.451466+08:00",
+  "total_titles_processed": 1166,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "已恢复!DeepSeek发故障补偿",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&amp;topic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF",
+          "source": "贴吧",
+          "ranks": [
+            5,
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[02时06分 ~ 23时14分]"
+        },
         {
           "title": "如何评价 DeepSeek 停摆 5 小时后，按最近七日 api 消耗向用户发放补偿赠金？",
           "url": "https://www.zhihu.com/question/2094116217489450760",
@@ -19,19 +32,6 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[02时06分 ~ 08时08分]"
-        },
-        {
-          "title": "已恢复!DeepSeek发故障补偿",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367231&amp;topic_name=%E5%B7%B2%E6%81%A2%E5%A4%8D%21DeepSeek%E5%8F%91%E6%95%85%E9%9A%9C%E8%A1%A5%E5%81%BF",
-          "source": "贴吧",
-          "ranks": [
-            5,
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 6,
-          "time_info": "[02时06分 ~ 18时45分]"
         },
         {
           "title": "DeepSeek宕机5小时：一上新就崩？影响有多大？",
@@ -102,8 +102,31 @@
             16
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[13时28分 ~ 23时14分]"
+        },
+        {
+          "title": "用DeepSeek翻唱人是猫",
+          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8DeepSeek%E7%BF%BB%E5%94%B1%E4%BA%BA%E6%98%AF%E7%8C%AB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            27,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[18时45分 ~ 23时14分]"
+        },
+        {
+          "title": "DeepSeek整合成立产品部",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%95%B4%E5%90%88%E6%88%90%E7%AB%8B%E4%BA%A7%E5%93%81%E9%83%A8",
+          "source": "bilibili 热搜",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[13时28分 ~ 18时45分]"
+          "time_info": "[23时13分 ~ 23时14分]"
         },
         {
           "title": "腾讯WorkBuddy、CodeBuddy团队公布DeepSeek模型服务异常补偿方案",
@@ -134,18 +157,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "18时45分"
-        },
-        {
-          "title": "用DeepSeek翻唱人是猫",
-          "url": "https://search.bilibili.com/all?keyword=%E7%94%A8DeepSeek%E7%BF%BB%E5%94%B1%E4%BA%BA%E6%98%AF%E7%8C%AB",
-          "source": "bilibili 热搜",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -156,15 +168,176 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         }
       ]
     },
     {
+      "keyword_group": "特朗普",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "特朗普：泽连斯基太可耻，我不太喜欢他，不好相处",
+          "url": "https://news.ifeng.com/c/8xGVPM9kRUJ",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时28分 ~ 18时45分]"
+        },
+        {
+          "title": "特朗普发长文痛批泽连斯基",
+          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E9%95%BF%E6%96%87%E7%97%9B%E6%89%B9%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时07分 ~ 08时08分]"
+        },
+        {
+          "title": "俄乌“能源停火”破裂，俄专家：特朗普调停能力减弱",
+          "url": "https://original.ifeng.com/c/8xH0F3ptd5e",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
+        },
+        {
+          "title": "英国首相伯纳姆表示，他将试图帮助「修复」特朗普和泽连斯基二人之间的「（关系）桥梁」。他能做到吗？",
+          "url": "https://www.zhihu.com/question/2093925846901862591",
+          "source": "知乎",
+          "ranks": [
+            17,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时06分 ~ 05时58分]"
+        },
+        {
+          "title": "特朗普称可能打击伊朗镐山核设施",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8F%AF%E8%83%BD%E6%89%93%E5%87%BB%E4%BC%8A%E6%9C%97%E9%95%90%E5%B1%B1%E6%A0%B8%E8%AE%BE%E6%96%BD",
+          "source": "百度热搜",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
+        },
+        {
+          "title": "美国总统特朗普：希望对任何杀害消防员的人判处死刑。",
+          "url": "https://flash.jin10.com/detail/20261016012720335800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时06分"
+        },
+        {
+          "title": "美国总统特朗普： 墨西哥应该打击贩毒集团，但他们做不到。",
+          "url": "https://flash.jin10.com/detail/20261016012404494800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时06分"
+        },
+        {
+          "title": "特朗普政府起诉加州，试图阻止2万张选票被计入",
+          "url": "https://flash.jin10.com/detail/20261016052101575800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "据Axios：特朗普政府正在起诉加利福尼亚州以及两名选举官员。理由是，据称有一些不符合资格的选民收到了用于11月选举的邮寄选票。",
+          "url": "https://flash.jin10.com/detail/20261016051554430800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "特朗普称美国可能会对伊朗镐山核设施发动打击",
+          "url": "https://wallstreetcn.com/livenews/3180330",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "美方称特朗普并未下令限制乌克兰使用SpaceX卫星服务",
+          "url": "https://wallstreetcn.com/livenews/3179701",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时58分"
+        },
+        {
+          "title": "美国财政部发布与委内瑞拉相关的60A通用许可证。 特朗普政府授权就近期地震向委内瑞拉提供资金支持。",
+          "url": "https://wallstreetcn.com/livenews/3180324",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时14分"
+        },
+        {
+          "title": "特朗普AI工作组首次会议聚焦网络与生物安全，拟建立模型安全风险预警机制",
+          "url": "https://flash.jin10.com/detail/20261016124416915800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "13时28分"
+        },
+        {
+          "title": "特朗普称不会直播对胡德堡枪击案凶手的枪决",
+          "url": "https://wallstreetcn.com/livenews/3179615",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时06分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "美股收盘：惊魂逆转！科技股深夜上演绝境反击",
@@ -235,6 +408,17 @@
           "time_info": "05时58分"
         },
         {
+          "title": "沃什IMF年会上未释放加息信号 美股三大期指窄幅震荡 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2507212",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
+        },
+        {
           "title": "周四（10月15日），美股行业ETF多数收涨，全球航空业ETF收涨2.79%，生物科技指数ETF涨2.05%，医疗业ETF、区域银行ETF、可选消费ETF等至多涨1.86%，科技行业ETF收跌0.65%，全球科技股指数ETF跌0.84%，半导体ETF跌1.04%。",
           "url": "https://wallstreetcn.com/livenews/3179699",
           "source": "华尔街见闻-快讯",
@@ -263,7 +447,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -285,132 +469,15 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         }
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "特朗普：泽连斯基太可耻，我不太喜欢他，不好相处",
-          "url": "https://news.ifeng.com/c/8xGVPM9kRUJ",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[13时28分 ~ 18时45分]"
-        },
-        {
-          "title": "特朗普发长文痛批泽连斯基",
-          "url": "https://s.weibo.com/weibo?q=%E7%89%B9%E6%9C%97%E6%99%AE%E5%8F%91%E9%95%BF%E6%96%87%E7%97%9B%E6%89%B9%E6%B3%BD%E8%BF%9E%E6%96%AF%E5%9F%BA&t=31&band_rank=4&Refer=top",
-          "source": "微博",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时07分 ~ 08时08分]"
-        },
-        {
-          "title": "英国首相伯纳姆表示，他将试图帮助「修复」特朗普和泽连斯基二人之间的「（关系）桥梁」。他能做到吗？",
-          "url": "https://www.zhihu.com/question/2093925846901862591",
-          "source": "知乎",
-          "ranks": [
-            17,
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[02时06分 ~ 05时58分]"
-        },
-        {
-          "title": "美国总统特朗普：希望对任何杀害消防员的人判处死刑。",
-          "url": "https://flash.jin10.com/detail/20261016012720335800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "美国总统特朗普： 墨西哥应该打击贩毒集团，但他们做不到。",
-          "url": "https://flash.jin10.com/detail/20261016012404494800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        },
-        {
-          "title": "特朗普政府起诉加州，试图阻止2万张选票被计入",
-          "url": "https://flash.jin10.com/detail/20261016052101575800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "据Axios：特朗普政府正在起诉加利福尼亚州以及两名选举官员。理由是，据称有一些不符合资格的选民收到了用于11月选举的邮寄选票。",
-          "url": "https://flash.jin10.com/detail/20261016051554430800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "美方称特朗普并未下令限制乌克兰使用SpaceX卫星服务",
-          "url": "https://wallstreetcn.com/livenews/3179701",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时58分"
-        },
-        {
-          "title": "特朗普AI工作组首次会议聚焦网络与生物安全，拟建立模型安全风险预警机制",
-          "url": "https://flash.jin10.com/detail/20261016124416915800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "13时28分"
-        },
-        {
-          "title": "特朗普称不会直播对胡德堡枪击案凶手的枪决",
-          "url": "https://wallstreetcn.com/livenews/3179615",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 11,
       "titles": [
         {
           "title": "美以就打击伊朗预案进行磋商",
@@ -470,6 +537,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[08时07分 ~ 13时28分]"
+        },
+        {
+          "title": "伊朗称新型武器装备投入使用",
+          "url": "https://news.ifeng.com/c/8xH7iOj4L3T",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[23时13分 ~ 23时14分]"
         },
         {
           "title": "美国财政部宣布新一轮伊朗及古巴制裁 调整卢克石油交易许可",
@@ -539,7 +617,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         },
@@ -639,11 +717,12 @@
           "source": "华尔街见闻",
           "ranks": [
             1,
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[08时07分 ~ 18时45分]"
+          "appearance_count": 6,
+          "time_info": "[08时07分 ~ 23时14分]"
         },
         {
           "title": "周四（10月15日，美国CPI通胀数据发布次日）纽约尾盘，美国10年期基准国债收益率跌12.74个基点，报5.0580%，日内交投于5.1561%-5.0351%区间，亚太盘初跳空低开，在持续下跌的行情中、（美国PPI数据发布之后）北京时间21:58逼近9月23日底部4.9307%，10:00以来主要交投于5.1%关口附近。 两年期美债收益率跌6.13个基点，报4.7382%，日内交投于4.7848%-4.6791%区间，PPI数据发布后上蹿下跳——刷新日高之后迅速刷新日低。",
@@ -663,7 +742,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "18时45分"
         }
