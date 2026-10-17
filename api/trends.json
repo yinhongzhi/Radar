@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-18T04:10:26.189027+08:00",
-  "total_titles_processed": 368,
+  "generated_at": "2026-10-18T06:55:03.389577+08:00",
+  "total_titles_processed": 418,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 19,
+      "match_count": 20,
       "titles": [
         {
           "title": "“特朗普暂停对俄制裁，是历史性时刻”",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 04时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 06时55分]"
         },
         {
           "title": "白宫宴会厅捐款名单曝光，曾说要捐钱的特朗普未在其中",
@@ -26,30 +26,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 04时10分]"
-        },
-        {
-          "title": "内塔尼亚胡力挺特朗普对伊朗政策，警告德黑兰威胁美国城市",
-          "url": "https://flash.jin10.com/detail/20261018035926415800",
-          "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时10分"
-        },
-        {
-          "title": "特朗普称第二任期权力更大：我能做到令人难以置信的事情",
-          "url": "https://flash.jin10.com/detail/20261018035254781800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "04时10分"
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 06时55分]"
         },
         {
           "title": "特朗普：希望能在G20峰会见到普京",
@@ -59,19 +37,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 04时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 06时55分]"
         },
         {
           "title": "上任仅5天 白宫新闻秘书遭特朗普“劝退”",
           "url": "https://www.cls.cn/detail/2507355",
           "source": "财联社热门",
           "ranks": [
-            10
+            10,
+            9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 04时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 06时55分]"
         },
         {
           "title": "被问是否被特朗普当成替罪羊？泽连斯基神秘微笑",
@@ -79,11 +58,48 @@
           "source": "澎湃新闻",
           "ranks": [
             19,
-            15
+            15,
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 06时55分]"
+        },
+        {
+          "title": "内塔尼亚胡力挺特朗普对伊朗政策，警告德黑兰威胁美国城市",
+          "url": "https://flash.jin10.com/detail/20261018035926415800",
+          "source": "金十数据",
+          "ranks": [
+            1,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时10分 ~ 06时55分]"
+        },
+        {
+          "title": "特朗普称第二任期权力更大：我能做到令人难以置信的事情",
+          "url": "https://flash.jin10.com/detail/20261018035254781800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时10分 ~ 06时55分]"
+        },
+        {
+          "title": "特朗普：我不知道普京是否会来参加G20峰会，但我希望能见到他",
+          "url": "https://wallstreetcn.com/livenews/3180574",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16,
+            21
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时50分 ~ 04时10分]"
+          "time_info": "[01时51分 ~ 06时55分]"
         },
         {
           "title": "特朗普签署行政令豁免对俄多项制裁",
@@ -96,17 +112,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时50分 ~ 04时10分]"
-        },
-        {
-          "title": "特朗普：我不知道普京是否会来参加G20峰会，但我希望能见到他",
-          "url": "https://wallstreetcn.com/livenews/3180574",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 04时10分]"
         },
         {
           "title": "俄官员称特朗普放松对俄制裁有“历史意义”",
@@ -126,7 +131,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
         },
@@ -137,7 +142,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
         },
@@ -148,7 +153,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
         },
@@ -159,7 +164,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
         },
@@ -170,7 +175,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
         },
@@ -181,9 +186,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
+        },
+        {
+          "title": "特朗普重申伊朗战争将很快结束，汽油价格将会回落",
+          "url": "https://flash.jin10.com/detail/20261018040202035800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         },
         {
           "title": "美国总统特朗普：我们终将与加拿大达成一项令人瞩目的协议。",
@@ -192,7 +208,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
         },
@@ -203,7 +219,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
         },
@@ -214,7 +230,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
         }
@@ -222,7 +238,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 16,
       "titles": [
         {
           "title": "凤凰记者：伊朗强硬表态，意在迫使美方放弃动武念头",
@@ -232,19 +248,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 04时10分]"
-        },
-        {
-          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊祝贺伊朗U23国家古典式摔跤队在美国拉斯维加斯举行的世界U23古典式摔跤锦标赛上夺得冠军。",
-          "url": "https://wallstreetcn.com/livenews/3180590",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时51分 ~ 04时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 06时55分]"
         },
         {
           "title": "伊朗外交部发言人巴加埃：不过，伊朗与巴基斯坦相关部门一直保持密切联系，正在研究并协商解决这一问题，力争尽快恢复边境口岸的正常运行。",
@@ -256,6 +261,18 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊祝贺伊朗U23国家古典式摔跤队在美国拉斯维加斯举行的世界U23古典式摔跤锦标赛上夺得冠军。",
+          "url": "https://wallstreetcn.com/livenews/3180590",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 06时55分]"
         },
         {
           "title": "伊朗外交部发言人巴加埃：（回应有关伊朗与巴基斯坦陆地边境关闭的报道）由于出现一些技术问题，且需要采取预防措施，边境通行及往来暂时中止。",
@@ -284,11 +301,24 @@
           "url": "https://wallstreetcn.com/livenews/3180571",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            19,
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时51分 ~ 06时55分]"
+        },
+        {
+          "title": "据法尔斯通讯社：德黑兰市长扎卡尼在节目中表示，伊朗在谈判问题上的一个失误，是曾认为达成谅解备忘录能够为伊朗带来安全并结束战争，但事实并非如此。他强调，只有伊朗变得强大，战争才能结束。没必要等到战争结束后再谈判。",
+          "url": "https://flash.jin10.com/detail/20261018032840697800",
+          "source": "金十数据",
+          "ranks": [
+            8,
+            28
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时51分 ~ 04时10分]"
+          "time_info": "[04时10分 ~ 06时55分]"
         },
         {
           "title": "伊朗有意在沙特与胡塞武装之间斡旋",
@@ -302,15 +332,15 @@
           "time_info": "[01时51分 ~ 04时10分]"
         },
         {
-          "title": "据法尔斯通讯社：德黑兰市长扎卡尼在节目中表示，伊朗在谈判问题上的一个失误，是曾认为达成谅解备忘录能够为伊朗带来安全并结束战争，但事实并非如此。他强调，只有伊朗变得强大，战争才能结束。没必要等到战争结束后再谈判。",
-          "url": "https://flash.jin10.com/detail/20261018032840697800",
+          "title": "伊朗外长：伊朗愿意协助结束沙特与也门冲突",
+          "url": "https://flash.jin10.com/detail/20261018045054335800",
           "source": "金十数据",
           "ranks": [
-            8
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时10分"
+          "time_info": "06时55分"
         },
         {
           "title": "也门外长谴责伊朗借“调解”之名干涉也门",
@@ -322,6 +352,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "伊朗外长会见土耳其外长，讨论霍尔木兹海峡及地区局势",
+          "url": "https://flash.jin10.com/detail/20261018044329875800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         },
         {
           "title": "巴基斯坦暂时关闭与伊朗的边境贸易通道",
@@ -341,7 +382,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
         },
@@ -355,6 +396,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "美国中央司令部：美国海军“拉斐尔·佩拉尔塔”号驱逐舰在区域海域航行，支持针对伊朗港口的海上封锁行动。",
+          "url": "https://flash.jin10.com/detail/20261018041004978800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
+        },
+        {
+          "title": "伊朗外长重申七天通航方案：下一步行动取决于美国",
+          "url": "https://flash.jin10.com/detail/20261018040443957800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时55分"
         }
       ]
     },
@@ -367,11 +430,12 @@
           "url": "https://www.zhihu.com/question/2094773240036061683",
           "source": "知乎",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 04时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 06时55分]"
         },
         {
           "title": "“许愿式”编程能力升级！DeepSeek上新：开放自研搜索API，千次调用仅5元",
@@ -381,8 +445,8 @@
             13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 04时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 06时55分]"
         },
         {
           "title": "用DeepSeek翻唱人是猫",
@@ -393,8 +457,8 @@
             17
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 04时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 06时55分]"
         },
         {
           "title": "已恢复!DeepSeek发故障补偿",
@@ -404,8 +468,8 @@
             22
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 04时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 06时55分]"
         }
       ]
     },
@@ -421,8 +485,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 04时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 06时55分]"
         },
         {
           "title": "【早报】美股纳指大跌超500点，半导体、存储股全线跳水；黄仁勋谈“AI市场震荡”；国际油价大涨；胜宏科技、豪威集团等计划回购股份",
@@ -432,8 +496,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 04时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 06时55分]"
         },
         {
           "title": "美股最危险的分化：普通股票已经跌惨，AI巨头还能撑多久？",
@@ -444,19 +508,20 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 04时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 06时55分]"
         },
         {
           "title": "美股收盘：科技重挫纳指跌超2% 红利、能源巨头再创新高",
           "url": "https://www.cls.cn/detail/2507375",
           "source": "财联社热门",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 04时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 06时55分]"
         }
       ]
     },
@@ -471,7 +536,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "04时10分"
         }
@@ -489,8 +554,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 04时10分]"
+          "appearance_count": 5,
+          "time_info": "[01时50分 ~ 06时55分]"
         }
       ]
     }
