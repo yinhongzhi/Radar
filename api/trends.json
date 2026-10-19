@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-19T06:47:48.027273+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-10-19T08:50:30.704212+08:00",
+  "total_titles_processed": 573,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 23,
+      "match_count": 24,
       "titles": [
         {
           "title": "阿赫拉基出任伊朗新任防长",
@@ -15,8 +15,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 06时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时51分 ~ 08时50分]"
         },
         {
           "title": "法国骚乱持续升级，伊朗警告马克龙：参与“邪恶联盟”终将自食其果",
@@ -54,6 +54,18 @@
           "time_info": "[01时51分 ~ 06时47分]"
         },
         {
+          "title": "伊朗武装部队开火",
+          "url": "https://wallstreetcn.com/articles/3783852",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时51分 ~ 08时50分]"
+        },
+        {
           "title": "据伊朗学生通讯社（ISNA）消息，巴基斯坦陆军参谋长阿西姆·穆尼尔可能于本周访问德黑兰。此行据称将延续伊朗与巴基斯坦在双边事务及安全领域的密切合作，并涉及巴基斯坦在地区局势和伊朗与美国谈判中的作用。",
           "url": "https://flash.jin10.com/detail/20261019013046076800",
           "source": "金十数据",
@@ -78,17 +90,6 @@
           "time_info": "[01时51分 ~ 04时08分]"
         },
         {
-          "title": "伊朗武装部队开火",
-          "url": "https://wallstreetcn.com/articles/3783852",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 06时47分]"
-        },
-        {
           "title": "冲突外溢，伊朗被曝深度介入也门冲突，埃及即将参战？",
           "url": "https://m.thepaper.cn/newsDetail_forward_34274890",
           "source": "澎湃新闻",
@@ -97,8 +98,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 06时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时51分 ~ 08时50分]"
         },
         {
           "title": "伊朗：已针对可能的新“冒险行径”制定应对方案，不再遵循对方所熟悉的规则",
@@ -129,7 +130,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         },
@@ -195,7 +196,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         },
@@ -206,7 +207,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         },
@@ -217,7 +218,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         },
@@ -228,7 +229,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         },
@@ -255,6 +256,17 @@
           "time_info": "01时51分"
         },
         {
+          "title": "伊朗总统：绝不屈服于“侵略性”国家无理要求与霸凌",
+          "url": "https://flash.jin10.com/detail/20261019075156097800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时50分"
+        },
+        {
           "title": "伊朗革命卫队副总司令：伊朗已赢得战场较量，舆论造势无法改变战局结果",
           "url": "https://flash.jin10.com/detail/20261018235011866800",
           "source": "金十数据",
@@ -269,18 +281,19 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 12,
       "titles": [
         {
           "title": "公开施压！泽连斯基称“星链”限速“有意为之，仅针对乌克兰”，特朗普签署行政令豁免对俄多项制裁",
           "url": "https://wallstreetcn.com/articles/3783843",
           "source": "华尔街见闻",
           "ranks": [
-            5
+            5,
+            7
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 06时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时51分 ~ 08时50分]"
         },
         {
           "title": "特朗普发文支持内塔尼亚胡竞选连任总理 能扭转选情吗？",
@@ -289,7 +302,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         },
@@ -369,9 +382,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
+        },
+        {
+          "title": "特朗普新任白宫发言人上任仅 5 天就被解雇，创下史上最短纪录，为什么会这样？",
+          "url": "https://www.zhihu.com/question/2094636010722411929",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时50分"
         },
         {
           "title": "伊朗军方高层嘲讽特朗普“老到站不起身”，警告美以勿再误判",
@@ -391,7 +415,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         }
@@ -399,18 +423,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】两部门：支持体育运动进影院；DeepSeek新模型登场",
           "url": "https://www.cls.cn/detail/2507548",
           "source": "财联社热门",
           "ranks": [
-            3
+            3,
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 06时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时51分 ~ 08时50分]"
         },
         {
           "title": "网传 DeepSeek V4.1 Flash 1017 指纹测出 GPT-6 Astra，这是怎么回事？",
@@ -435,6 +460,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时51分 ~ 04时08分]"
+        },
+        {
+          "title": "DeepSeek新模型有哪些优势",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B%E6%9C%89%E5%93%AA%E4%BA%9B%E4%BC%98%E5%8A%BF",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时50分"
         }
       ]
     },
@@ -460,7 +496,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时47分"
         },
@@ -481,7 +517,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "马斯克反思白宫往事 称美债问题只能靠AI和机器人解决",
@@ -491,8 +527,36 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时51分 ~ 06时47分]"
+          "appearance_count": 4,
+          "time_info": "[01时51分 ~ 08时50分]"
+        },
+        {
+          "title": "AI投资从“通胀引擎”变“需求拖累”？美债对冲功能重获青睐",
+          "url": "https://flash.jin10.com/detail/20261019081145351800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时50分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌将 TPU 送上太空却因散热难题停机，太空算力中心前景如何？",
+          "url": "https://www.zhihu.com/question/2094251044960211894",
+          "source": "知乎",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时50分"
         }
       ]
     }
