@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T17:08:55.586292+08:00",
-  "total_titles_processed": 831,
+  "generated_at": "2026-10-20T22:41:28.935885+08:00",
+  "total_titles_processed": 1052,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "伊朗外交部发言人巴加埃：也门问题只能通过对话和各方商定的路线图解决，任何新的外部干预都将使局势更加复杂。",
@@ -14,9 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
+        },
+        {
+          "title": "据以色列列第12频道：巴基斯坦陆军参谋长今日向伊朗高级官员提交的提案已获得美国批准，伊朗方面也已初步同意。",
+          "url": "https://flash.jin10.com/detail/20261020221318778800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "伊朗塔斯尼姆通讯社：也门无人机袭击沙特达曼，达曼机场运营暂停。",
@@ -102,7 +113,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -113,7 +124,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -140,6 +151,28 @@
           "time_info": "07时19分"
         },
         {
+          "title": "【美国待售房屋销量降至历史低点，抵押贷款利率上升】美国9月现有住房待售销量跌至历史最低水平，高企的抵押贷款利率持续压制购房需求。 周二公布的数据显示，美国全国房地产经纪人协会（NAR）的成屋签约指数上月下跌7.3%，至66，为2001年有记录以来最低。 这一惨淡数据是最新一系列报告显示美国房地产市场在高借贷成本和房价压力下仍陷入僵局的最新例证。自伊朗战争爆发以来，抵押贷款利率持续攀升，目前已接近三年来的最高水平。 根据未经季节性调整的数据，签约量较去年同期下降近13%。 美国各地区的待售房屋销量均大幅下滑。西部地区跌幅最大，达9.2%；而南部——最大的房屋销售地区——下跌8.2%。",
+          "url": "https://wallstreetcn.com/livenews/3181977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "以色列国防部长卡茨： 倘若真主党配合伊朗一同袭击以色列，它将遭受沉重打击。以色列国防军准备向纳巴蒂耶、利塔尼河谷更多区域推进 。",
+          "url": "https://flash.jin10.com/detail/20261020220044418800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "卡塔尔呼吁海湾国家与伊朗开展广泛对话",
           "url": "https://wallstreetcn.com/livenews/3181448",
           "source": "华尔街见闻-快讯",
@@ -157,7 +190,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -179,7 +212,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -223,7 +256,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -253,8 +286,20 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 19,
       "titles": [
+        {
+          "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
+          "url": "https://news.ifeng.com/c/8xMyNrph5V3",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时31分 ~ 22时41分]"
+        },
         {
           "title": "普京提议中美俄三方会谈，特朗普表态",
           "url": "https://original.ifeng.com/c/8xN6E5hd4IF",
@@ -267,26 +312,38 @@
           "time_info": "[11时31分 ~ 17时08分]"
         },
         {
-          "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
-          "url": "https://news.ifeng.com/c/8xMyNrph5V3",
+          "title": "特朗普对与中俄举行三方会谈态度积极，外交部回应",
+          "url": "https://news.ifeng.com/c/8xNT3u1JB1s",
           "source": "凤凰网",
           "ranks": [
-            2
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时31分 ~ 17时08分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "美国中期选举在即，特朗普连共和党铁盘都快守不住了",
+          "url": "https://news.ifeng.com/c/8xNa7mI3a46",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         },
         {
           "title": "特朗普：中方在乌问题上立场很公允",
           "url": "https://www.toutiao.com/trending/7697897058136604715/",
           "source": "今日头条",
           "ranks": [
-            2
+            2,
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时08分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 22时41分]"
         },
         {
           "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
@@ -324,13 +381,25 @@
           "time_info": "[11时31分 ~ 17时08分]"
         },
         {
+          "title": "新华社：特朗普为何此时“力挺”内塔尼亚胡",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34285005",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 22时41分]"
+        },
+        {
           "title": "如何看待特朗普再推80亿美元柴油补贴",
           "url": "https://www.toutiao.com/trending/7698633967376797225/",
           "source": "今日头条",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -341,7 +410,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -374,18 +443,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时08分"
-        },
-        {
-          "title": "新华社：特朗普为何此时“力挺”内塔尼亚胡",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34285005",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -396,7 +454,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
@@ -421,13 +479,47 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "特朗普：中方在乌问题上立场很公允",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E4%B8%AD%E6%96%B9%E5%9C%A8%E4%B9%8C%E9%97%AE%E9%A2%98%E4%B8%8A%E7%AB%8B%E5%9C%BA%E5%BE%88%E5%85%AC%E5%85%81",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "特朗普公开支持以总理连任有何考量",
+          "url": "https://www.toutiao.com/trending/7698684709220188681/",
+          "source": "今日头条",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 9,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "美国政府指示各机构停用DeepSeek，外交部：反对将科技经贸问题政治化",
+          "url": "https://www.cls.cn/detail/2509748",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 22时41分]"
+        },
         {
           "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
           "url": "https://www.zhihu.com/question/2095476625228019430",
@@ -446,20 +538,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         },
         {
-          "title": "美国政府指示各机构停用DeepSeek，外交部：反对将科技经贸问题政治化",
-          "url": "https://www.cls.cn/detail/2509748",
-          "source": "财联社热门",
+          "title": "如何看待 DeepSeek 开源的大规模云服务推理框架 DeepInfer ？",
+          "url": "https://www.zhihu.com/question/2095922064804636469",
+          "source": "知乎",
           "ranks": [
             4
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "17时08分"
+          "time_info": "22时41分"
         },
         {
           "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
@@ -496,6 +588,17 @@
           "time_info": "[03时02分 ~ 11时31分]"
         },
         {
+          "title": "无理打压中企！美国政府下令全面移除DeepSeek技术",
+          "url": "https://original.ifeng.com/c/8xNeD5i09FW",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "如何评价美国国土安全部将 DeepSeek 及相关第三方产品排除出联邦文职采购？",
           "url": "https://www.zhihu.com/question/2095646780692099465",
           "source": "知乎",
@@ -524,7 +627,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         }
@@ -532,7 +635,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 10,
       "titles": [
         {
           "title": "【早报】美股存储、半导体股，全线爆发；首批18只主动ETF获批；10余家A股公司宣布回购",
@@ -570,6 +673,28 @@
           "time_info": "[07时19分 ~ 11时31分]"
         },
         {
+          "title": "韩国AI新股上市首日暴跌 美股科技题材再度承压 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2510214",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "美股市值前十公司盘初股价全线下跌",
+          "url": "https://www.toutiao.com/trending/7698236248431050795/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "美股超跌反弹能否持续？本周科技巨头财报将检验AI盈利成色",
           "url": "https://flash.jin10.com/detail/20261020105637135800",
           "source": "金十数据",
@@ -581,15 +706,98 @@
           "time_info": "11时31分"
         },
         {
+          "title": "美股深夜反攻纳指涨超1%",
+          "url": "https://www.douyin.com/hot/2703663",
+          "source": "抖音",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
           "title": "美股盘前，存储芯片股普跌，SK海力士跌约4%，西部数据跌约2%，闪迪跌约2%，美光科技跌约2%，希捷科技跌约2%。",
           "url": "https://wallstreetcn.com/livenews/3181703",
           "source": "华尔街见闻-快讯",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
+        },
+        {
+          "title": "美股盘初，主要行业ETF涨跌不一，医疗业ETF涨近2%，区域银行业ETF、银行业ETF涨超1%，半导体ETF跌近2%，科技行业ETF跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3181965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "美股盘初：费城半导体指数跌1.75%，存储芯片股、光通信股普跌，通用汽车跌约6%",
+          "url": "https://wallstreetcn.com/livenews/3181960",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "谷歌云：多个谷歌云服务在欧洲西部2区域出现错误率上升及间歇性网络故障。",
+          "url": "https://flash.jin10.com/detail/20261020163731000800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "17时08分"
+        },
+        {
+          "title": "报道：谷歌在伦敦的云服务中断，多家银行与金融公司受影响，谷歌致歉",
+          "url": "https://wallstreetcn.com/livenews/3181980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
+        {
+          "title": "谷歌(GOOG.O)前首席执行官埃里克·施密特在Anthropic公司拥有约1%的股份。",
+          "url": "https://flash.jin10.com/detail/20261020053341203800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "原谷歌CEO Eric Schmidt对Anthropic持股大约1%。",
+          "url": "https://wallstreetcn.com/livenews/3181434",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
         }
       ]
     },
@@ -637,55 +845,27 @@
           "ranks": [
             14
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时08分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "谷歌云：多个谷歌云服务在欧洲西部2区域出现错误率上升及间歇性网络故障。",
-          "url": "https://flash.jin10.com/detail/20261020163731000800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "17时08分"
-        },
-        {
-          "title": "谷歌(GOOG.O)前首席执行官埃里克·施密特在Anthropic公司拥有约1%的股份。",
-          "url": "https://flash.jin10.com/detail/20261020053341203800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "原谷歌CEO Eric Schmidt对Anthropic持股大约1%。",
-          "url": "https://wallstreetcn.com/livenews/3181434",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "17时08分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "OpenAI前工程师涉嫌窃密，疑似与沙特政界交往甚密",
+          "url": "https://news.ifeng.com/c/8xNZBdFHgMK",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时41分"
+        },
         {
           "title": "赶在Anthropic IPO前：OpenAI据悉加速融资 估值或超1.4万亿美元",
           "url": "https://www.cls.cn/detail/2509215",
@@ -693,7 +873,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "17时08分"
         }
