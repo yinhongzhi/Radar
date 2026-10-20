@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T07:19:44.404345+08:00",
-  "total_titles_processed": 416,
+  "generated_at": "2026-10-20T11:31:58.982926+08:00",
+  "total_titles_processed": 629,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 16,
       "titles": [
         {
           "title": "伊朗塔斯尼姆通讯社：也门无人机袭击沙特达曼，达曼机场运营暂停。",
@@ -58,9 +58,20 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
+        },
+        {
+          "title": "以色列总理称已下达“推翻伊朗政权”指令",
+          "url": "https://news.ifeng.com/c/8xMtGPaQbmS",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
           "title": "伊朗总统佩泽希齐扬：伊朗与地区国家不存在根本性分歧，愿通过对话解决现存问题。",
@@ -91,7 +102,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -102,7 +113,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -140,13 +151,35 @@
           "time_info": "03时02分"
         },
         {
+          "title": "伊朗警告可将封锁范围扩至苏伊士运河，美国原油维持空头占优，现货金银多头占比仍高于90%。后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
+          "url": "https://flash.jin10.com/detail/20261020104939931800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "以色列总理下令推翻伊朗政权",
+          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%80%BB%E7%90%86%E4%B8%8B%E4%BB%A4%E6%8E%A8%E7%BF%BB%E4%BC%8A%E6%9C%97%E6%94%BF%E6%9D%83",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "伊朗波斯湾海峡管理局：122艘船舶被列入违规名单",
           "url": "https://flash.jin10.com/detail/20261020050245371800",
           "source": "金十数据",
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         }
@@ -154,8 +187,30 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 9,
       "titles": [
+        {
+          "title": "普京提议中美俄三方会谈，特朗普表态",
+          "url": "https://original.ifeng.com/c/8xN6E5hd4IF",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "特朗普：也许泽连斯基是时候找别人来谈判了",
+          "url": "https://news.ifeng.com/c/8xMyNrph5V3",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
         {
           "title": "不满豁免对俄制裁，担心更坏事情发生，美媒称泽连斯基决定“公开对抗特朗普”",
           "url": "https://wallstreetcn.com/articles/3783873",
@@ -181,13 +236,35 @@
           "time_info": "[03时02分 ~ 07时19分]"
         },
         {
+          "title": "特朗普称该换人代表乌克兰谈判 以色列总理下令推翻伊朗政权 | 环球市场",
+          "url": "https://www.cls.cn/detail/2509123",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
+          "title": "花活+1，特朗普呼吁：新墨西哥州应更名为“新美国州”",
+          "url": "https://news.ifeng.com/c/8xMwKeUNLmT",
+          "source": "凤凰网",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "据伊朗伊斯兰共和国通讯社（IRNA）报道，伊朗常驻联合国代表团临时代办古拉姆侯赛因·达尔齐致函联合国秘书长及安理会，就美国总统特朗普和以色列方面发出的“傲慢威胁”提出警告。",
           "url": "https://flash.jin10.com/detail/20261020062204017800",
           "source": "金十数据",
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -217,8 +294,19 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "如何评价 DeepSeek V4.1 Flash 1017 登顶「史上最差 AI 模型名称排行榜」?",
+          "url": "https://www.zhihu.com/question/2095476625228019430",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
         {
           "title": "梁文锋和 DeepSeek，为什么配得上 「 国运级 」 三个字？",
           "url": "https://www.zhihu.com/question/2093628371448217836",
@@ -242,6 +330,29 @@
           "time_info": "[03时02分 ~ 07时19分]"
         },
         {
+          "title": "实测Deepseek v4.1动画效果",
+          "url": "https://www.douyin.com/hot/2703379",
+          "source": "抖音",
+          "ranks": [
+            20,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时02分 ~ 11时31分]"
+        },
+        {
+          "title": "如何评价美国国土安全部将 DeepSeek 及相关第三方产品排除出联邦文职采购？",
+          "url": "https://www.zhihu.com/question/2095646780692099465",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        },
+        {
           "title": "Deepseek对传统搜索的冲击有多大？",
           "url": "https://www.zhihu.com/question/13453602540",
           "source": "知乎",
@@ -251,17 +362,97 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "【早报】美股存储、半导体股，全线爆发；首批18只主动ETF获批；10余家A股公司宣布回购",
+          "url": "https://www.cls.cn/detail/2509124",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         },
         {
-          "title": "实测Deepseek v4.1动画效果",
-          "url": "https://www.douyin.com/hot/2703379",
-          "source": "抖音",
+          "title": "美股科技题材集体反弹 关键半导体指数有望结束连跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2508914",
+          "source": "财联社热门",
           "ranks": [
-            20
+            7,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[03时02分 ~ 11时31分]"
+        },
+        {
+          "title": "美股收盘：AI概念回暖纳指涨超1% 存储、芯片板块明显反弹",
+          "url": "https://www.cls.cn/detail/2509104",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[07时19分 ~ 11时31分]"
+        },
+        {
+          "title": "美股超跌反弹能否持续？本周科技巨头财报将检验AI盈利成色",
+          "url": "https://flash.jin10.com/detail/20261020105637135800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "科技巨头护盘，油价与美债压制反弹，美股周一震荡收高，黄金冲高转跌",
+          "url": "https://wallstreetcn.com/articles/3783911",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "07时19分"
+        },
+        {
+          "title": "芯片股反弹，纳指开盘涨1.3%，费城半导体指数涨超3%，油价高位回落，美债走高",
+          "url": "https://wallstreetcn.com/articles/3783911",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时02分"
+        },
+        {
+          "title": "美媒调查：美债收益率短期内将维持高位，Q3经济预测大幅上调",
+          "url": "https://flash.jin10.com/detail/20261020105813496800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时31分"
         }
       ]
     },
@@ -276,7 +467,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         },
@@ -287,65 +478,26 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "07时19分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 2,
+      "keyword_group": "金价",
+      "match_count": 1,
       "titles": [
         {
-          "title": "科技巨头护盘，油价与美债压制反弹，美股周一震荡收高，黄金冲高转跌",
-          "url": "https://wallstreetcn.com/articles/3783911",
-          "source": "华尔街见闻",
+          "title": "金十图示：2026年10月20日（周二）上海金早盘价为889.95元/克，较国际金价(888.73元/克)，高1.22元/克",
+          "url": "https://flash.jin10.com/detail/20261020110156452800",
+          "source": "金十数据",
           "ranks": [
-            3
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "07时19分"
-        },
-        {
-          "title": "芯片股反弹，纳指开盘涨1.3%，费城半导体指数涨超3%，油价高位回落，美债走高",
-          "url": "https://wallstreetcn.com/articles/3783911",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "美股科技题材集体反弹 关键半导体指数有望结束连跌 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2508914",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时02分 ~ 07时19分]"
-        },
-        {
-          "title": "美股收盘：AI概念回暖纳指涨超1% 存储、芯片板块明显反弹",
-          "url": "https://www.cls.cn/detail/2509104",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "07时19分"
+          "time_info": "11时31分"
         }
       ]
     }
