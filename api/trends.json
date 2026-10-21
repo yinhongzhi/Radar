@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T02:24:26.532680+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-10-22T06:07:36.596544+08:00",
+  "total_titles_processed": 398,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 12,
       "titles": [
         {
           "title": "美消息人士：数十架以色列军机曾飞近伊朗边境 背后目的引关注",
@@ -63,6 +63,17 @@
           "time_info": "02时24分"
         },
         {
+          "title": "伊朗威胁称：若再遭袭击，将考虑把“美国政治目标”作为打击目标",
+          "url": "https://wallstreetcn.com/livenews/3182977",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
           "title": "美国财长贝森特：无论你是在海上从事非法石油转运，还是坐在律所的角落办公室里，只要你在支持伊朗政权，我们就一定会找到你并实施制裁。伊朗的帮凶必须做出选择：要么与我们站在一起，要么与我们为敌。我们清楚你是谁，清楚你在做什么，且将持续采取行动。",
           "url": "https://flash.jin10.com/detail/20261022012224738800",
           "source": "金十数据",
@@ -74,11 +85,144 @@
           "time_info": "02时24分"
         },
         {
+          "title": "伊朗阿拉克的伊朗铝业公司（IRALCO）6号厂区出现火情以及疑似爆炸画面，消息称起因是生产线上锅炉爆裂。 阿拉克省长否认发生“爆炸、安全事件或蓄意破坏”，称该事故只是“电力系统技术故障”。",
+          "url": "https://wallstreetcn.com/livenews/3182974",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "法国总统访问卡塔尔，两国对伊朗针对地区国家发动的袭击表示谴责",
+          "url": "https://flash.jin10.com/detail/20261022044952358800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "伊朗已有超 3 万名女性忍者，熟练使用弓、剑、飞镖等武器等训练画面走热，背后是怎样的社会文化环境？",
+          "url": "https://www.zhihu.com/question/2095115972684112468",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
           "title": "据伊朗Press TV：伊朗总统佩泽希齐扬表示，伊朗从未寻求战争，也无意发动战争，但绝不会屈服于武力或欺凌。",
           "url": "https://flash.jin10.com/detail/20261022010621643800",
           "source": "金十数据",
           "ranks": [
             18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "02时24分"
+        },
+        {
+          "title": "伊朗官员：若袭击恢复 将把美国政治目标列为打击对象",
+          "url": "https://flash.jin10.com/detail/20261022044051737800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "强劲季报提振AI交易，美股开盘走高，SpaceX涨幅扩大至10%，英伟达涨约2%，油价再度走高",
+          "url": "https://wallstreetcn.com/articles/3784116",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 06时07分]"
+        },
+        {
+          "title": "纳指ETF收涨1%，与可转债ETF领跑美股大类资产类ETF",
+          "url": "https://wallstreetcn.com/livenews/3182984",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "周三（10月21日），美股行业ETF多数收涨，半导体ETF涨1.89%，全球科技股指数ETF、科技行业ETF至少涨1.67%，银行业ETF跌0.09%。",
+          "url": "https://wallstreetcn.com/livenews/3182982",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "Meta Platforms的CEO扎克伯格预计Muse AI的单用户收入可能高于旗下应用家族Family of APPs。 现有应用家族每用户每年创造数百美元收入，预计Muse随着时间的推移将达到更高水平。 公司还在研发即将推出的更小型模型，这些模型将以更高效率带来令人惊叹的智能水平。 Muse将于下个月开始在MetaGlasses上线。 即将推出Muse Charm。 新浪财经 Meta美股盘后涨幅超过6.5%，该公司正进行分析师电话会议。",
+          "url": "https://wallstreetcn.com/livenews/3182958",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "据The Information：谷歌(GOOG.O)将不再要求当地官员在讨论数据中心建设项目时签署保密协议。此前，批评者认为保密协议阻碍官员向公众披露项目对当地的影响。谷歌此举旨在减少建设数据中心的阻力。",
+          "url": "https://flash.jin10.com/detail/20261022045449605800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "谷歌停止在数据中心项目中使用保密协议",
+          "url": "https://wallstreetcn.com/livenews/3182965",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "美国参议员就人工智能对学龄儿童的认知影响向谷歌公司寻求解释，此前已展开相关调查。（华尔街日报）",
+          "url": "https://wallstreetcn.com/livenews/3182871",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -95,11 +239,12 @@
           "url": "https://www.toutiao.com/trending/7697961005829668883/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            25
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 06时07分]"
         },
         {
           "title": "周鸿祎谈美国“封杀”DeepSeek",
@@ -115,42 +260,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "美国参议员就人工智能对学龄儿童的认知影响向谷歌公司寻求解释，此前已展开相关调查。（华尔街日报）",
-          "url": "https://wallstreetcn.com/livenews/3182871",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "强劲季报提振AI交易，美股开盘走高，SpaceX涨幅扩大至10%，英伟达涨约2%，油价再度走高",
-          "url": "https://wallstreetcn.com/articles/3784116",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "02时24分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "泽连斯基和特朗普，彻底决裂了？",
@@ -160,8 +271,19 @@
             1
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[02时24分 ~ 06时07分]"
+        },
+        {
+          "title": "美国前国务卿希拉里：十年后回看，我们正实时目睹我当年所警告的一切，以及所有证据所证实的一切：特朗普对普京的忠诚，远超他对自由、民主，乃至美国国家安全的承诺。",
+          "url": "https://flash.jin10.com/detail/20261022052906788800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "02时24分"
+          "time_info": "06时07分"
         }
       ]
     }
