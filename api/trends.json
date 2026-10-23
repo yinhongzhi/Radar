@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-23T06:07:10.708882+08:00",
-  "total_titles_processed": 402,
+  "generated_at": "2026-10-23T09:13:59.785410+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "特朗普痛批詹姆斯",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%97%9B%E6%89%B9%E8%A9%B9%E5%A7%86%E6%96%AF%23&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
         {
           "title": "乌克兰总统泽连斯基：（谈及与特朗普的关系）重要的是保持清晰和坦诚。",
           "url": "https://flash.jin10.com/detail/20261023013338549800",
@@ -25,7 +36,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -36,7 +47,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -47,7 +58,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -58,7 +69,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -80,7 +91,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -91,7 +102,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -113,7 +124,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -124,7 +135,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -135,7 +146,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -157,7 +168,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -168,7 +179,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         }
@@ -176,7 +187,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 9,
+      "match_count": 14,
       "titles": [
         {
           "title": "AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌超6%，CoreWeave大跌10%",
@@ -188,6 +199,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[06时06分 ~ 06时07分]"
+        },
+        {
+          "title": "【早报】美股半导体、存储、芯片股，全线跳水；布油飙升4%、国际金银遭重挫；5家基金自购旗下主动ETF",
+          "url": "https://www.cls.cn/detail/2512907",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "AI交易熄火、中东局势恶化，美股跌幅扩大，费城半导体跌近6%，CoreWeave大跌8%",
@@ -207,9 +229,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "美股收盘：芯片、存储、光概念大幅回落 纳指重挫2.6％",
+          "url": "https://www.cls.cn/detail/2512879",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "美股芯片、光通信股深夜跳水",
@@ -236,13 +269,24 @@
           "time_info": "[02时18分 ~ 06时07分]"
         },
         {
+          "title": "美股科技股大跌",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1%E7%A7%91%E6%8A%80%E8%82%A1%E5%A4%A7%E8%B7%8C&t=31&band_rank=8&Refer=top",
+          "source": "微博",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
           "title": "美股市场重新评估AI热潮的可持续性，纳指创6月以来最大跌幅",
           "url": "https://flash.jin10.com/detail/20261023044233847800",
           "source": "金十数据",
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -253,9 +297,31 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "美股收盘：SpaceX跌超9%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98%EF%BC%9ASpaceX%E8%B7%8C%E8%B6%859%25",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
+        {
+          "title": "阿克曼看好2027年美股：若战争与通胀降温，市场将迎来强劲一年",
+          "url": "https://flash.jin10.com/detail/20261023082040858800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "马斯克旗下太空探索公司SpaceX收跌9.1%，市值单日蒸发1980亿美元。 10月22日美股盘后，该公司披露报告，称三季度从特斯拉采购价值1.51亿美元的Megapack产品。",
@@ -264,7 +330,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -275,7 +341,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         }
@@ -283,8 +349,31 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 10,
       "titles": [
+        {
+          "title": "叫板美国“炸弹之母”，伊朗军方准备推出“炸弹之父”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34309586",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 09时13分]"
+        },
+        {
+          "title": "新闻蒸馏器｜美以被曝制定中期选举后再袭伊朗计划，以战机飞近边境模拟打击",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34306120",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 09时13分]"
+        },
         {
           "title": "伊朗伊斯兰革命卫队发言人：我们准备推出有史以来威力最大炸弹——“炸弹之父”",
           "url": "https://www.cls.cn/detail/2512367",
@@ -298,26 +387,26 @@
           "time_info": "[02时18分 ~ 06时07分]"
         },
         {
-          "title": "新闻蒸馏器｜美以被曝制定中期选举后再袭伊朗计划，以战机飞近边境模拟打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34306120",
-          "source": "澎湃新闻",
+          "title": "美以密谋新一轮打击？伊朗最高领袖罕见露面，军方警告祭出“炸弹之父”，海底电缆也可能是反击目标",
+          "url": "https://wallstreetcn.com/articles/3784215",
+          "source": "华尔街见闻",
           "ranks": [
-            11
+            6
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 06时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
-          "title": "叫板美国“炸弹之母”，伊朗军方准备推出“炸弹之父”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34309586",
-          "source": "澎湃新闻",
+          "title": "伊朗议会议长：若与伊开战 美国将承担苦涩后果 | 环球市场",
+          "url": "https://www.cls.cn/detail/2512918",
+          "source": "财联社热门",
           "ranks": [
-            16
+            6
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 06时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "伊朗议会议长：若与伊开战 美国将承担苦涩后果",
@@ -351,74 +440,46 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "02时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 5,
-      "titles": [
+        },
         {
-          "title": "OpenAI接近完成新一轮融资",
-          "url": "https://flash.jin10.com/detail/20261023043113744800",
+          "title": "分析：伊朗警告若美以重启空袭，将扩大打击海湾地区民用目标",
+          "url": "https://flash.jin10.com/detail/20261023081134260800",
           "source": "金十数据",
           "ranks": [
-            17
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时07分"
+          "time_info": "09时13分"
         },
         {
-          "title": "据CNBC：OpenAI拟于下周结束前完成协议签署。",
-          "url": "https://flash.jin10.com/detail/20261023042224194800",
-          "source": "金十数据",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "据CNBC：OpenAI正就一项商业协议进行谈判，以从阿联酋获得更多算力。来自阿联酋的投资者和Coatue正牵头为OpenAI融资。",
-          "url": "https://flash.jin10.com/detail/20261023042212475800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "据CNBC：OpenAI即将完成由阿联酋投资者领投的至多300亿美元融资，估值达1.25万亿美元。",
-          "url": "https://flash.jin10.com/detail/20261023042002244800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "06时07分"
-        },
-        {
-          "title": "OpenAI即将完成一轮由阿联酋投资者领投的融资，规模最高达300亿美元，估值1.25万亿美元。 OpenAI正洽谈从阿联酋获取更多算力。（CNBC）",
-          "url": "https://wallstreetcn.com/livenews/3183964",
+          "title": "伊朗国家电视台展示新型无人机",
+          "url": "https://wallstreetcn.com/livenews/3184040",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            24
+            27
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "06时07分"
+          "time_info": "09时13分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 4,
+      "match_count": 6,
       "titles": [
+        {
+          "title": "AI融资担忧重创科技股，纳指跌超2%，10年期美债收益率跌破5%，黄金重挫，原油大涨",
+          "url": "https://wallstreetcn.com/articles/3784189",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
+        },
         {
           "title": "2/10年期美债收益率周四跌超16个基点，抛售AI概念股让投资者寻求避险",
           "url": "https://wallstreetcn.com/livenews/3183991",
@@ -426,9 +487,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "Meta成“最后一根稻草”，纳指“终于”崩了，美债应声大涨",
+          "url": "https://wallstreetcn.com/articles/3784246",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         },
         {
           "title": "DoubleLine Capital副首席投资官Jeff Sherman：低配长端美国国债。 仍然看空久期偏长的美债。 美国政府大幅举债和需求疲软将继续打压债市。（彭博电视）",
@@ -466,8 +538,69 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "OpenAI接近完成新一轮融资",
+          "url": "https://flash.jin10.com/detail/20261023043113744800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "据CNBC：OpenAI拟于下周结束前完成协议签署。",
+          "url": "https://flash.jin10.com/detail/20261023042224194800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "据CNBC：OpenAI正就一项商业协议进行谈判，以从阿联酋获得更多算力。来自阿联酋的投资者和Coatue正牵头为OpenAI融资。",
+          "url": "https://flash.jin10.com/detail/20261023042212475800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "据CNBC：OpenAI即将完成由阿联酋投资者领投的至多300亿美元融资，估值达1.25万亿美元。",
+          "url": "https://flash.jin10.com/detail/20261023042002244800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        },
+        {
+          "title": "OpenAI即将完成一轮由阿联酋投资者领投的融资，规模最高达300亿美元，估值1.25万亿美元。 OpenAI正洽谈从阿联酋获取更多算力。（CNBC）",
+          "url": "https://wallstreetcn.com/livenews/3183964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "06时07分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "如何评价 SemiAnalysis 认为 DeepSeek 与华为已形成共生关系？",
@@ -479,6 +612,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[02时18分 ~ 06时07分]"
+        },
+        {
+          "title": "“DeepSeek才是真正的OpenAI”",
+          "url": "https://news.ifeng.com/c/8xQqgcTDXjq",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[02时18分 ~ 09时13分]"
         },
         {
           "title": "DeepSeek完成1000亿融资",
@@ -493,15 +637,15 @@
           "time_info": "[02时18分 ~ 06时07分]"
         },
         {
-          "title": "“DeepSeek才是真正的OpenAI”",
-          "url": "https://news.ifeng.com/c/8xQqgcTDXjq",
-          "source": "凤凰网",
+          "title": "玉渊谭天：商务部政策公布以来，DeepSeek、MiniMax两家头部企业已顺利履行登记手续，并完成开源和海外授权使用",
+          "url": "https://wallstreetcn.com/livenews/3184059",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            11
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[02时18分 ~ 06时07分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         }
       ]
     },
@@ -516,7 +660,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -527,7 +671,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         },
@@ -538,7 +682,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
         }
@@ -546,7 +690,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "国际金价跌2.7%，逼近4000美元整数位心理关口",
@@ -555,9 +699,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时07分"
+        },
+        {
+          "title": "金价企稳三个月低位附近，市场关注流动性抛售与反弹可能",
+          "url": "https://flash.jin10.com/detail/20261023082354712800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时13分"
         }
       ]
     }
