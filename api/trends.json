@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T01:44:13.208570+08:00",
-  "total_titles_processed": 307,
+  "generated_at": "2026-10-24T05:01:43.809155+08:00",
+  "total_titles_processed": 414,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 7,
+      "match_count": 15,
       "titles": [
         {
           "title": "比起特朗普，美国年轻人更喜欢美式“社会主义”？",
@@ -15,8 +15,19 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 05时01分]"
+        },
+        {
+          "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动",
+          "url": "https://wallstreetcn.com/livenews/3185026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "特朗普谈到法国骚乱没忍住笑：还有人想去法国吗？",
@@ -26,8 +37,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 05时01分]"
         },
         {
           "title": "特朗普怒喷詹姆斯不尊重美国",
@@ -37,8 +48,8 @@
             12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 05时01分]"
         },
         {
           "title": "如何评价特朗普发文痛批詹姆斯在奏国歌时做「高尔夫挥杆动作」，并要求其道歉？",
@@ -48,19 +59,20 @@
             19
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 05时01分]"
         },
         {
           "title": "泽连斯基：和特朗普之间没有个人恩怨",
           "url": "https://www.toutiao.com/trending/7699682763926061619/",
           "source": "今日头条",
           "ranks": [
-            26
+            26,
+            30
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 05时01分]"
         },
         {
           "title": "伊朗央行行长：尽管华盛顿施加经济压力，伊朗仍有能力为进口提供资金，且这一能力可延续至美国总统特朗普任期之后。",
@@ -69,9 +81,20 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "特朗普在政治集会上讲话的原文摘录",
+          "url": "https://wallstreetcn.com/livenews/3185011",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "据相关信函：美国民主党联邦通信委员会委员敦促广播行业更积极地对抗特朗普政府“恐吓”广播机构的做法。",
@@ -80,9 +103,169 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
+        },
+        {
+          "title": "美国总统特朗普：我们可能对伊朗采取另一次行动。",
+          "url": "https://wallstreetcn.com/livenews/3185006",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "白宫：美国总统特朗普签署公告，调整对加拿大产品征收特定关税的适用范围。",
+          "url": "https://flash.jin10.com/detail/20261024035516784800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗伊斯兰共和国会告诉你，我们拥有最好的军事装备。",
+          "url": "https://wallstreetcn.com/livenews/3185005",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美国总统特朗普：我想把“新墨西哥州”改名叫“新美国州”。",
+          "url": "https://flash.jin10.com/detail/20261024035505525800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "特朗普：可能再来一次小规模的“史诗狂怒行动”",
+          "url": "https://flash.jin10.com/detail/20261024035146675800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美国总统特朗普：我们有望很快结束俄乌战争。",
+          "url": "https://flash.jin10.com/detail/20261024034200638800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "伊朗战机紧急升空巡逻，紧盯美以F-35战机敌对动向",
+          "url": "https://original.ifeng.com/c/8xSRQpqdPtX",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 05时01分]"
+        },
+        {
+          "title": "据伊朗媒体Fars News：伊朗代理石油部长将陪同伊朗总统佩泽希齐扬出席10月27日在莫斯科举行的第八届天然气出口国峰会。",
+          "url": "https://flash.jin10.com/detail/20261024041839115800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "报道：伊朗已制定打击海湾海底电缆的详细计划",
+          "url": "https://wallstreetcn.com/livenews/3184964",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
+          "title": "报道：伊朗已制定打击海湾海底电缆的详细计划",
+          "url": "https://flash.jin10.com/detail/20261024011015135800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
+          "title": "据路透社：两名伊朗高级安全官员表示，伊朗已制定详细计划，一旦美国和以色列再次袭击伊朗，将打击海湾地区的海底通信电缆。",
+          "url": "https://flash.jin10.com/detail/20261024005458015800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时44分"
+        },
+        {
+          "title": "伊朗称两艘超级油轮在霍尔木兹海峡南部触雷爆炸",
+          "url": "https://wallstreetcn.com/livenews/3185009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "伊朗革命卫队称，两艘油轮在试图经由霍尔木兹海峡以南一条未经授权的航线通行时触雷。",
+          "url": "https://wallstreetcn.com/livenews/3185004",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "伊朗称两艘超级油轮在霍尔木兹海峡南部触雷爆炸",
+          "url": "https://flash.jin10.com/detail/20261024034320320800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         }
       ]
     },
@@ -98,8 +281,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 05时01分]"
         },
         {
           "title": "Meta成“最后一根稻草”，纳指“终于”崩了，美债应声大涨",
@@ -109,8 +292,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 05时01分]"
         },
         {
           "title": "AI崩了，法债爆了，急需美债“避险”！10年期美债收益率创“硅谷银行危机”来最大跌幅",
@@ -120,8 +303,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 05时01分]"
         },
         {
           "title": "富国：中期选举前宜押注美债上涨、做空美元",
@@ -130,7 +313,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时44分"
         },
@@ -142,86 +325,99 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 05时01分]"
         },
         {
           "title": "加拿大专家驳斥中国借道买美债阴谋论",
           "url": "https://www.toutiao.com/trending/7699793212264874506/",
           "source": "今日头条",
           "ranks": [
-            19
+            19,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 05时01分]"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 4,
+      "keyword_group": "美股",
+      "match_count": 5,
       "titles": [
         {
-          "title": "伊朗战机紧急升空巡逻，紧盯美以F-35战机敌对动向",
-          "url": "https://original.ifeng.com/c/8xSRQpqdPtX",
-          "source": "凤凰网",
+          "title": "道指ETF收跌超1.2%，领跌美股大类资产类ETF，布油基金涨3%",
+          "url": "https://wallstreetcn.com/livenews/3185030",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            1
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 01时44分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
-          "title": "报道：伊朗已制定打击海湾海底电缆的详细计划",
-          "url": "https://wallstreetcn.com/livenews/3184964",
+          "title": "周五（10月23日），美股行业ETF多数下跌，全球航空业ETF收跌2.5%，可选消费ETF、金融业ETF、工业指数ETF、医疗业ETF至多跌1.66%，科技行业ETF涨0.49%，半导体ETF涨0.74%，能源业ETF涨2.6%。 2026年迄今，能源业ETF累涨58.14%，半导体ETF涨46.39%，全球科技股指数ETF涨30.60%，科技行业ETF、生物科技指数ETF至多涨27.73%，可选消费ETF则跌4.7%，航空业ETF跌7.02%。",
+          "url": "https://wallstreetcn.com/livenews/3185024",
           "source": "华尔街见闻-快讯",
           "ranks": [
             7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时44分"
+          "time_info": "05时01分"
         },
         {
-          "title": "报道：伊朗已制定打击海湾海底电缆的详细计划",
-          "url": "https://flash.jin10.com/detail/20261024011015135800",
+          "title": "金十图示：2026年10月23日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20261024040627608800",
           "source": "金十数据",
           "ranks": [
-            12
+            14
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时44分"
+          "time_info": "05时01分"
         },
         {
-          "title": "据路透社：两名伊朗高级安全官员表示，伊朗已制定详细计划，一旦美国和以色列再次袭击伊朗，将打击海湾地区的海底通信电缆。",
-          "url": "https://flash.jin10.com/detail/20261024005458015800",
+          "title": "金十图示：2026年10月23日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20261024040626102800",
           "source": "金十数据",
           "ranks": [
-            21
+            15
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "01时44分"
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美股收盘：三大股指低收",
+          "url": "https://flash.jin10.com/detail/20261024040315187800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         }
       ]
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
           "url": "https://www.zhihu.com/question/2096713518582179306",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 05时01分]"
         },
         {
           "title": "曝DeepSeek完成千亿融资",
@@ -231,8 +427,64 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 05时01分]"
+        },
+        {
+          "title": "DeepSeek又要拿到一笔巨额融资了",
+          "url": "https://www.toutiao.com/trending/7699822969706515994/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美元",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "周五（10月23日）纽约尾盘，ICE美元指数涨0.19%，报101.805点，本周大致持平，交投区间为102.080-101.446点。 彭博美元指数涨0.06%，报1220.97点，本周累跌0.12%，整体交投区间为1224.03-1218.40点。",
+          "url": "https://wallstreetcn.com/livenews/3185013",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        },
+        {
+          "title": "美元指数23日上涨",
+          "url": "https://flash.jin10.com/detail/20261024034944156800",
+          "source": "金十数据",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "特朗普自曝打电话给谷歌CEO皮查伊：我想把大西洋改成美国洋，再把霍尔木兹海峡改成特朗普海峡",
+          "url": "https://wallstreetcn.com/livenews/3185017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         }
       ]
     },
@@ -248,8 +500,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时43分 ~ 01时44分]"
+          "appearance_count": 3,
+          "time_info": "[01时43分 ~ 05时01分]"
         }
       ]
     },
