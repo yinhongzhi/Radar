@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-24T08:16:49.782099+08:00",
-  "total_titles_processed": 546,
+  "generated_at": "2026-10-24T13:24:17.712746+08:00",
+  "total_titles_processed": 733,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 25,
       "titles": [
         {
           "title": "比起特朗普，美国年轻人更喜欢美式“社会主义”？",
@@ -15,8 +15,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 08时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时43分 ~ 13时24分]"
+        },
+        {
+          "title": "梅拉尼娅促成俄乌一地停火，特朗普回应",
+          "url": "https://news.ifeng.com/c/8xTc5pBGjmE",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "特朗普谈到法国骚乱没忍住笑：还有人想去法国吗？",
+          "url": "https://news.ifeng.com/c/8xSeHafFCKO",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时43分 ~ 13时24分]"
         },
         {
           "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动",
@@ -30,27 +52,29 @@
           "time_info": "05时01分"
         },
         {
-          "title": "特朗普谈到法国骚乱没忍住笑：还有人想去法国吗？",
-          "url": "https://news.ifeng.com/c/8xSeHafFCKO",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 08时16分]"
-        },
-        {
           "title": "特朗普怒喷詹姆斯不尊重美国",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367970&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E5%96%B7%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8D%E5%B0%8A%E9%87%8D%E7%BE%8E%E5%9B%BD",
           "source": "贴吧",
           "ranks": [
             12,
-            13
+            13,
+            21
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 08时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时43分 ~ 13时24分]"
+        },
+        {
+          "title": "【早报】特朗普：或对伊发动小规模“史诗怒火”；证监会：核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报",
+          "url": "https://www.cls.cn/detail/2514116",
+          "source": "财联社热门",
+          "ranks": [
+            9,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时16分 ~ 13时24分]"
         },
         {
           "title": "如何评价特朗普发文痛批詹姆斯在奏国歌时做「高尔夫挥杆动作」，并要求其道歉？",
@@ -82,20 +106,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
         {
-          "title": "【早报】特朗普：或对伊发动小规模“史诗怒火”；证监会：核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报",
-          "url": "https://www.cls.cn/detail/2514116",
+          "title": "美伊“风向”生变？特朗普暗示或再打击伊朗，美方已做好长期对峙准备！",
+          "url": "https://www.cls.cn/detail/2514121",
           "source": "财联社热门",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时16分"
+          "time_info": "13时24分"
         },
         {
           "title": "古巴外长驳斥特朗普“顺道解决古巴”言论",
@@ -104,9 +128,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
+        },
+        {
+          "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动 | 环球市场",
+          "url": "https://www.cls.cn/detail/2514115",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "美驻土耳其大使称周末可能打击伊朗，特朗普称对此不知情",
@@ -115,7 +150,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -126,7 +161,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -159,7 +194,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -181,7 +216,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -255,7 +290,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 11,
+      "match_count": 19,
       "titles": [
         {
           "title": "巴克莱：伊朗冲突恐难迅速平息，这使得本已紧张的石油现货市场更趋紧绷。",
@@ -264,9 +299,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
+        },
+        {
+          "title": "美官员称美准备好与伊朗长期对峙",
+          "url": "https://wallstreetcn.com/livenews/3185099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "伊朗战机紧急升空巡逻，紧盯美以F-35战机敌对动向",
@@ -278,6 +324,18 @@
           "is_new": false,
           "appearance_count": 4,
           "time_info": "[01时43分 ~ 08时16分]"
+        },
+        {
+          "title": "伊朗向中东国家发出最后通牒：一旦美伊重燃战火，必须停止对美方的一切支持，否则将被列为“敌对国家”",
+          "url": "https://wallstreetcn.com/articles/3784332",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时16分 ~ 13时24分]"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗代理石油部长将陪同伊朗总统佩泽希齐扬出席10月27日在莫斯科举行的第八届天然气出口国峰会。",
@@ -302,15 +360,37 @@
           "time_info": "01时44分"
         },
         {
-          "title": "伊朗向中东国家发出最后通牒：一旦美伊重燃战火，必须停止对美方的一切支持，否则将被列为“敌对国家”",
-          "url": "https://wallstreetcn.com/articles/3784332",
-          "source": "华尔街见闻",
+          "title": "伊朗武装部队：绝不允许美国军舰再次进入波斯湾",
+          "url": "https://flash.jin10.com/detail/20261024122446383800",
+          "source": "金十数据",
           "ranks": [
-            9
+            8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时16分"
+          "time_info": "13时24分"
+        },
+        {
+          "title": "美媒：美方称伊朗威胁升至开战以来最高水平，部分使馆开始缩减人员",
+          "url": "https://flash.jin10.com/detail/20261024121734668800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "伊朗总统将于下周访俄并与普京会谈",
+          "url": "https://wallstreetcn.com/livenews/3185094",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "报道：伊朗已制定打击海湾海底电缆的详细计划",
@@ -330,9 +410,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
+        },
+        {
+          "title": "出于对伊朗因素的担忧，美国削减4个中东大使馆的人员配置，受影响的美国大使馆位于约旦、黎巴嫩、卡塔尔和阿联酋。（美联社）",
+          "url": "https://wallstreetcn.com/livenews/3185087",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "据路透社：两名伊朗高级安全官员表示，伊朗已制定详细计划，一旦美国和以色列再次袭击伊朗，将打击海湾地区的海底通信电缆。",
@@ -346,6 +437,17 @@
           "time_info": "01时44分"
         },
         {
+          "title": "市场消息：伊朗方面在联合国称，任何国家都无权修改《不扩散核武器条约》来剥夺德黑兰的核能权利。",
+          "url": "https://flash.jin10.com/detail/20261024105333532800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "伊朗称两艘超级油轮在霍尔木兹海峡南部触雷爆炸",
           "url": "https://wallstreetcn.com/livenews/3185009",
           "source": "华尔街见闻-快讯",
@@ -355,6 +457,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
+        },
+        {
+          "title": "邵永灵：伊朗培养小弟有一套",
+          "url": "https://www.toutiao.com/trending/7700083708006501924/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "国际原子能机构确认已准备好核查伊朗核活动",
+          "url": "https://flash.jin10.com/detail/20261024103956190800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
         },
         {
           "title": "伊朗革命卫队称，两艘油轮在试图经由霍尔木兹海峡以南一条未经授权的航线通行时触雷。",
@@ -424,11 +548,12 @@
           "url": "https://wallstreetcn.com/articles/3784279",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            2,
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时16分 ~ 13时24分]"
         },
         {
           "title": "富国：中期选举前宜押注美债上涨、做空美元",
@@ -471,7 +596,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         }
@@ -497,11 +622,12 @@
           "url": "https://www.cls.cn/detail/2514112",
           "source": "财联社热门",
           "ranks": [
-            7
+            7,
+            4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时16分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时16分 ~ 13时24分]"
         },
         {
           "title": "周五（10月23日），美股行业ETF多数下跌，全球航空业ETF收跌2.5%，可选消费ETF、金融业ETF、工业指数ETF、医疗业ETF至多跌1.66%，科技行业ETF涨0.49%，半导体ETF涨0.74%，能源业ETF涨2.6%。 2026年迄今，能源业ETF累涨58.14%，半导体ETF涨46.39%，全球科技股指数ETF涨30.60%，科技行业ETF、生物科技指数ETF至多涨27.73%，可选消费ETF则跌4.7%，航空业ETF跌7.02%。",
@@ -543,7 +669,7 @@
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -582,11 +708,12 @@
           "source": "贴吧",
           "ranks": [
             7,
-            8
+            8,
+            17
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[01时43分 ~ 08时16分]"
+          "appearance_count": 5,
+          "time_info": "[01时43分 ~ 13时24分]"
         },
         {
           "title": "DeepSeek又要拿到一笔巨额融资了",
@@ -602,36 +729,8 @@
       ]
     },
     {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "英国宣布1亿英镑资金，用于与OpenAI、Anthropic、谷歌Deepmind成立AI生物安全实验室。",
-          "url": "https://wallstreetcn.com/livenews/3185068",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时16分"
-        },
-        {
-          "title": "特朗普自曝打电话给谷歌CEO皮查伊：我想把大西洋改成美国洋，再把霍尔木兹海峡改成特朗普海峡",
-          "url": "https://wallstreetcn.com/livenews/3185017",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
-        }
-      ]
-    },
-    {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "国际金价暴跌因获利了结",
@@ -645,15 +744,54 @@
           "time_info": "[01时43分 ~ 01时44分]"
         },
         {
+          "title": "现货金价跌破4000美元关口 避险市场下资金为何抛售黄金？",
+          "url": "https://www.cls.cn/detail/2514076",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
           "title": "国际金价周五跌0.7%失守4000美元关口，纽约白银期货本周跌超6%",
           "url": "https://wallstreetcn.com/livenews/3185050",
           "source": "华尔街见闻-快讯",
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "英国宣布1亿英镑资金，用于与OpenAI、Anthropic、谷歌Deepmind成立AI生物安全实验室。",
+          "url": "https://wallstreetcn.com/livenews/3185068",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时16分"
+        },
+        {
+          "title": "特朗普自曝打电话给谷歌CEO皮查伊：我想把大西洋改成美国洋，再把霍尔木兹海峡改成特朗普海峡",
+          "url": "https://wallstreetcn.com/livenews/3185017",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         }
       ]
     },
