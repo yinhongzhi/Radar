@@ -1,22 +1,23 @@
 {
-  "generated_at": "2026-10-24T13:24:17.712746+08:00",
-  "total_titles_processed": 733,
+  "generated_at": "2026-10-24T18:19:59.241834+08:00",
+  "total_titles_processed": 922,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 25,
+      "match_count": 26,
       "titles": [
         {
           "title": "比起特朗普，美国年轻人更喜欢美式“社会主义”？",
           "url": "https://news.ifeng.com/c/8xStQ7mt6Rr",
           "source": "凤凰网",
           "ranks": [
-            5
+            5,
+            9
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 13时24分]"
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 18时19分]"
         },
         {
           "title": "梅拉尼娅促成俄乌一地停火，特朗普回应",
@@ -25,31 +26,9 @@
           "ranks": [
             2
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
-          "title": "特朗普谈到法国骚乱没忍住笑：还有人想去法国吗？",
-          "url": "https://news.ifeng.com/c/8xSeHafFCKO",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 13时24分]"
-        },
-        {
-          "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动",
-          "url": "https://wallstreetcn.com/livenews/3185026",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时01分"
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 18时19分]"
         },
         {
           "title": "特朗普怒喷詹姆斯不尊重美国",
@@ -58,7 +37,19 @@
           "ranks": [
             12,
             13,
-            21
+            21,
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 18时19分]"
+        },
+        {
+          "title": "特朗普谈到法国骚乱没忍住笑：还有人想去法国吗？",
+          "url": "https://news.ifeng.com/c/8xSeHafFCKO",
+          "source": "凤凰网",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 5,
@@ -73,8 +64,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时16分 ~ 13时24分]"
+          "appearance_count": 3,
+          "time_info": "[08时16分 ~ 18时19分]"
+        },
+        {
+          "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动",
+          "url": "https://wallstreetcn.com/livenews/3185026",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时01分"
         },
         {
           "title": "如何评价特朗普发文痛批詹姆斯在奏国歌时做「高尔夫挥杆动作」，并要求其道歉？",
@@ -100,6 +102,40 @@
           "time_info": "[01时43分 ~ 05时01分]"
         },
         {
+          "title": "美伊“风向”生变？特朗普暗示或再打击伊朗，美方已做好长期对峙准备！",
+          "url": "https://www.cls.cn/detail/2514121",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 18时19分]"
+        },
+        {
+          "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动 | 环球市场",
+          "url": "https://www.cls.cn/detail/2514115",
+          "source": "财联社热门",
+          "ranks": [
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 18时19分]"
+        },
+        {
+          "title": "特朗普：结束伊朗战事后，顺道解决古巴",
+          "url": "https://news.ifeng.com/c/8xU7eotOY7u",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "美驻土耳其大使称周末可能打击伊朗 特朗普称对此不知情",
           "url": "https://flash.jin10.com/detail/20261024055620089800",
           "source": "金十数据",
@@ -111,17 +147,6 @@
           "time_info": "08时16分"
         },
         {
-          "title": "美伊“风向”生变？特朗普暗示或再打击伊朗，美方已做好长期对峙准备！",
-          "url": "https://www.cls.cn/detail/2514121",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
           "title": "古巴外长驳斥特朗普“顺道解决古巴”言论",
           "url": "https://flash.jin10.com/detail/20261024053430135800",
           "source": "金十数据",
@@ -131,17 +156,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
-        },
-        {
-          "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动 | 环球市场",
-          "url": "https://www.cls.cn/detail/2514115",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
         },
         {
           "title": "美驻土耳其大使称周末可能打击伊朗，特朗普称对此不知情",
@@ -290,7 +304,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
         {
           "title": "巴克莱：伊朗冲突恐难迅速平息，这使得本已紧张的石油现货市场更趋紧绷。",
@@ -304,17 +318,6 @@
           "time_info": "08时16分"
         },
         {
-          "title": "美官员称美准备好与伊朗长期对峙",
-          "url": "https://wallstreetcn.com/livenews/3185099",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
-        },
-        {
           "title": "伊朗战机紧急升空巡逻，紧盯美以F-35战机敌对动向",
           "url": "https://original.ifeng.com/c/8xSRQpqdPtX",
           "source": "凤凰网",
@@ -326,6 +329,18 @@
           "time_info": "[01时43分 ~ 08时16分]"
         },
         {
+          "title": "美官员称美准备好与伊朗长期对峙",
+          "url": "https://wallstreetcn.com/livenews/3185099",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5,
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 18时19分]"
+        },
+        {
           "title": "伊朗向中东国家发出最后通牒：一旦美伊重燃战火，必须停止对美方的一切支持，否则将被列为“敌对国家”",
           "url": "https://wallstreetcn.com/articles/3784332",
           "source": "华尔街见闻",
@@ -334,8 +349,30 @@
             8
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时16分 ~ 13时24分]"
+          "appearance_count": 3,
+          "time_info": "[08时16分 ~ 18时19分]"
+        },
+        {
+          "title": "伊朗驻德国大使：谈判并非政治姿态；必须承认德黑兰的正当利益与关切。",
+          "url": "https://flash.jin10.com/detail/20261024175620194800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
+          "title": "美削减中东多国使馆人员，防伊朗威胁",
+          "url": "https://news.ifeng.com/c/8xU7l9ERVqX",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "据伊朗媒体Fars News：伊朗代理石油部长将陪同伊朗总统佩泽希齐扬出席10月27日在莫斯科举行的第八届天然气出口国峰会。",
@@ -366,7 +403,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -377,7 +414,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -388,7 +425,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -415,15 +452,37 @@
           "time_info": "08时16分"
         },
         {
+          "title": "伊朗股市大幅收跌",
+          "url": "https://flash.jin10.com/detail/20261024172730302800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "出于对伊朗因素的担忧，美国削减4个中东大使馆的人员配置，受影响的美国大使馆位于约旦、黎巴嫩、卡塔尔和阿联酋。（美联社）",
           "url": "https://wallstreetcn.com/livenews/3185087",
           "source": "华尔街见闻-快讯",
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "伊朗军方誓言阻止美国军舰进入波斯湾。（伊朗伊斯兰共和国通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3185108",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "据路透社：两名伊朗高级安全官员表示，伊朗已制定详细计划，一旦美国和以色列再次袭击伊朗，将打击海湾地区的海底通信电缆。",
@@ -443,7 +502,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -459,13 +518,24 @@
           "time_info": "05时01分"
         },
         {
+          "title": "美情报称伊朗加大对美官员行动力度",
+          "url": "https://wallstreetcn.com/livenews/3185106",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
+        },
+        {
           "title": "邵永灵：伊朗培养小弟有一套",
           "url": "https://www.toutiao.com/trending/7700083708006501924/",
           "source": "今日头条",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
         },
@@ -476,9 +546,20 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "13时24分"
+        },
+        {
+          "title": "伊朗迈赫尔通讯社：沙特阿拉伯吉达和达曼机场的航班已暂停。",
+          "url": "https://flash.jin10.com/detail/20261024165204549800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "伊朗革命卫队称，两艘油轮在试图经由霍尔木兹海峡以南一条未经授权的航线通行时触雷。",
@@ -506,7 +587,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "Meta成“最后一根稻草”，纳指“终于”崩了，美债应声大涨",
@@ -552,8 +633,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时16分 ~ 13时24分]"
+          "appearance_count": 3,
+          "time_info": "[08时16分 ~ 18时19分]"
+        },
+        {
+          "title": "AI“跌倒”，美债“吃饱”！全球“资本争夺战”，市场给出答案",
+          "url": "https://wallstreetcn.com/articles/3784376",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "18时19分"
         },
         {
           "title": "富国：中期选举前宜押注美债上涨、做空美元",
@@ -607,6 +699,19 @@
       "match_count": 7,
       "titles": [
         {
+          "title": "美股收盘：油价暴涨压制市场情绪 三大指数集体收低",
+          "url": "https://www.cls.cn/detail/2514112",
+          "source": "财联社热门",
+          "ranks": [
+            7,
+            4,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[08时16分 ~ 18时19分]"
+        },
+        {
           "title": "道指ETF收跌超1.2%，领跌美股大类资产类ETF，布油基金涨3%",
           "url": "https://wallstreetcn.com/livenews/3185030",
           "source": "华尔街见闻-快讯",
@@ -616,18 +721,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时01分"
-        },
-        {
-          "title": "美股收盘：油价暴涨压制市场情绪 三大指数集体收低",
-          "url": "https://www.cls.cn/detail/2514112",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时16分 ~ 13时24分]"
         },
         {
           "title": "周五（10月23日），美股行业ETF多数下跌，全球航空业ETF收跌2.5%，可选消费ETF、金融业ETF、工业指数ETF、医疗业ETF至多跌1.66%，科技行业ETF涨0.49%，半导体ETF涨0.74%，能源业ETF涨2.6%。 2026年迄今，能源业ETF累涨58.14%，半导体ETF涨46.39%，全球科技股指数ETF涨30.60%，科技行业ETF、生物科技指数ETF至多涨27.73%，可选消费ETF则跌4.7%，航空业ETF跌7.02%。",
@@ -691,6 +784,20 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "曝DeepSeek完成千亿融资",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367960&amp;topic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84",
+          "source": "贴吧",
+          "ranks": [
+            7,
+            8,
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[01时43分 ~ 18时19分]"
+        },
+        {
           "title": "DeepSeek 拟新融资 1000 亿元，腾讯、宁德时代出资最多，这会不会改写国内大模型的竞争格局？",
           "url": "https://www.zhihu.com/question/2096713518582179306",
           "source": "知乎",
@@ -701,19 +808,6 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时43分 ~ 05时01分]"
-        },
-        {
-          "title": "曝DeepSeek完成千亿融资",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367960&amp;topic_name=%E6%9B%9DDeepSeek%E5%AE%8C%E6%88%90%E5%8D%83%E4%BA%BF%E8%9E%8D%E8%B5%84",
-          "source": "贴吧",
-          "ranks": [
-            7,
-            8,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[01时43分 ~ 13时24分]"
         },
         {
           "title": "DeepSeek又要拿到一笔巨额融资了",
@@ -733,6 +827,18 @@
       "match_count": 3,
       "titles": [
         {
+          "title": "现货金价跌破4000美元关口 避险市场下资金为何抛售黄金？",
+          "url": "https://www.cls.cn/detail/2514076",
+          "source": "财联社热门",
+          "ranks": [
+            10,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[13时24分 ~ 18时19分]"
+        },
+        {
           "title": "国际金价暴跌因获利了结",
           "url": "https://s.weibo.com/weibo?q=%E5%9B%BD%E9%99%85%E9%87%91%E4%BB%B7%E6%9A%B4%E8%B7%8C%E5%9B%A0%E8%8E%B7%E5%88%A9%E4%BA%86%E7%BB%93&t=31&band_rank=17&Refer=top",
           "source": "微博",
@@ -742,17 +848,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时43分 ~ 01时44分]"
-        },
-        {
-          "title": "现货金价跌破4000美元关口 避险市场下资金为何抛售黄金？",
-          "url": "https://www.cls.cn/detail/2514076",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "13时24分"
         },
         {
           "title": "国际金价周五跌0.7%失守4000美元关口，纽约白银期货本周跌超6%",
