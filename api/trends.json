@@ -1,116 +1,11 @@
 {
-  "generated_at": "2026-10-25T01:51:08.155238+08:00",
-  "total_titles_processed": 314,
+  "generated_at": "2026-10-25T04:16:07.284034+08:00",
+  "total_titles_processed": 380,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "【早报】特朗普：或对伊发动小规模“史诗怒火”；证监会：核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报",
-          "url": "https://www.cls.cn/detail/2514116",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 01时51分]"
-        },
-        {
-          "title": "特朗普：结束伊朗战事后，顺道解决古巴",
-          "url": "https://news.ifeng.com/c/8xU7eotOY7u",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 01时51分]"
-        },
-        {
-          "title": "美伊“风向”生变？特朗普暗示或再打击伊朗，美方已做好长期对峙准备！",
-          "url": "https://www.cls.cn/detail/2514121",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 01时51分]"
-        },
-        {
-          "title": "特朗普脸上出现神秘新淤青，在社交平台发布隐晦消息(图)",
-          "url": "https://news.ifeng.com/c/8xUG1Vp70iY",
-          "source": "凤凰网",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 01时51分]"
-        },
-        {
-          "title": "特朗普怒喷詹姆斯不尊重美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367970&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E5%96%B7%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8D%E5%B0%8A%E9%87%8D%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 01时51分]"
-        },
-        {
-          "title": "美国白宫发布特朗普海报，并配文“让美国再次安全”。",
-          "url": "https://flash.jin10.com/detail/20261025004301977800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "伊朗革命卫队发言人穆赫比：特朗普夸张的言论和威胁都是无稽之谈。",
-          "url": "https://flash.jin10.com/detail/20261025002000384800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "特朗普在Truth Social上评论白宫新闻发布室：可能会将新闻（发布会）移至另一地点。",
-          "url": "https://wallstreetcn.com/livenews/3185142",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        },
-        {
-          "title": "美国白宫：特朗普总统正在全方位严厉打击欺诈行为。",
-          "url": "https://flash.jin10.com/detail/20261024234920462800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "01时51分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 19,
       "titles": [
         {
           "title": "伊朗总统佩泽希齐扬：许多伊朗民众正面临获取食物的困难，呼吁结束当前“不战不和”的局面。",
@@ -119,9 +14,42 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "伊朗议会国家安全委员会主席：敌人要清楚，如果采取任何危及伊朗安全和国家利益的行动，我们将在不到一小时内使被占领领土不适宜居住。",
+          "url": "https://flash.jin10.com/detail/20261025040210408800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊拉克关闭与伊朗的边境口岸，无异于对自身实施制裁。",
+          "url": "https://flash.jin10.com/detail/20261025034900435800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "美国前总统奥巴马：对伊朗的战争爆发7个月以来，已有数百名美国人伤亡，美国的导弹库存也正接近耗尽。",
+          "url": "https://flash.jin10.com/detail/20261025034511701800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
         },
         {
           "title": "美削减中东多国使馆人员，防伊朗威胁",
@@ -131,8 +59,52 @@
             7
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 04时16分]"
+        },
+        {
+          "title": "八国外长“史无前例”齐聚土耳其，反对对伊朗采取军事行动",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34325583",
+          "source": "澎湃新闻",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时50分 ~ 01时51分]"
+          "time_info": "[04时15分 ~ 04时16分]"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：呼吁欧洲国家遵守国际法，放弃对伊朗采取强制性措施和非法制裁，以证明其推动外交解决问题的诚意。",
+          "url": "https://flash.jin10.com/detail/20261025033115259800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "伊朗外交部发言人巴加埃：地区会议有必要深入探讨波斯湾和霍尔木兹海峡不安全局势的根本原因。",
+          "url": "https://flash.jin10.com/detail/20261025033106166800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "据阿拉比亚电视台援引安全部门消息人士报道，一架无人机袭击了位于伊拉克埃尔比勒郊区巴利桑的伊朗反对派库尔德斯坦科马拉党总部。",
+          "url": "https://flash.jin10.com/detail/20261025032236009800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
         },
         {
           "title": "据伊朗媒体：伊朗司法总监与最高领袖穆杰塔巴表示，必须就美以方面犯罪行为造成的物质和精神损害寻求赔偿。",
@@ -141,7 +113,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -152,7 +124,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -163,9 +135,42 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
+        },
+        {
+          "title": "伊朗据悉向美国提出谈判方案 愿开放霍尔木兹海峡",
+          "url": "https://flash.jin10.com/detail/20261025025123863800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：巴基斯坦经济形势严峻，加之其与伊朗以外邻国的关系并不十分融洽，进一步增加了巴基斯坦与伊朗发生对抗的风险。",
+          "url": "https://flash.jin10.com/detail/20261025024953026800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗表示，巴基斯坦任何一届政府都无法承担与伊朗对抗的风险。",
+          "url": "https://flash.jin10.com/detail/20261025024809758800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
         },
         {
           "title": "伊朗外交部议会与法律事务总司负责人努拉巴迪：根据伊朗的宗教理念，与敌人谈判本身也是一种战争，战争与谈判并非相互对立，而是相互衔接、相互补充的手段。",
@@ -174,7 +179,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -185,7 +190,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -196,7 +201,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         },
@@ -207,7 +212,145 @@
           "ranks": [
             26
           ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 12,
+      "titles": [
+        {
+          "title": "【早报】特朗普：或对伊发动小规模“史诗怒火”；证监会：核准设立花旗证券（中国）有限公司；A股多家龙头公司发布三季报",
+          "url": "https://www.cls.cn/detail/2514116",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 04时16分]"
+        },
+        {
+          "title": "美国国务卿鲁比奥：特朗普总统富有远见，敢于设想别人认为不可能实现的事情。面对那些被认为‘以前从未做过，所以我们做不到’的事情，他不仅敢于想象，还能将其变为现实。",
+          "url": "https://flash.jin10.com/detail/20261025040907410800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
           "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "特朗普：结束伊朗战事后，顺道解决古巴",
+          "url": "https://news.ifeng.com/c/8xU7eotOY7u",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 04时16分]"
+        },
+        {
+          "title": "美伊“风向”生变？特朗普暗示或再打击伊朗，美方已做好长期对峙准备！",
+          "url": "https://www.cls.cn/detail/2514121",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 04时16分]"
+        },
+        {
+          "title": "特朗普脸上出现神秘新淤青，在社交平台发布隐晦消息(图)",
+          "url": "https://news.ifeng.com/c/8xUG1Vp70iY",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 04时16分]"
+        },
+        {
+          "title": "特朗普怒喷詹姆斯不尊重美国",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28367970&amp;topic_name=%E7%89%B9%E6%9C%97%E6%99%AE%E6%80%92%E5%96%B7%E8%A9%B9%E5%A7%86%E6%96%AF%E4%B8%8D%E5%B0%8A%E9%87%8D%E7%BE%8E%E5%9B%BD",
+          "source": "贴吧",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 04时16分]"
+        },
+        {
+          "title": "特朗普在Truth Social上评论白宫新闻发布室：可能会将新闻（发布会）移至另一地点。",
+          "url": "https://wallstreetcn.com/livenews/3185142",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[01时51分 ~ 04时16分]"
+        },
+        {
+          "title": "美国前总统奥巴马：特朗普已将白宫改造成一个虚浮、奢华的场所。",
+          "url": "https://flash.jin10.com/detail/20261025034454052800",
+          "source": "金十数据",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "美国白宫发布特朗普海报，并配文“让美国再次安全”。",
+          "url": "https://flash.jin10.com/detail/20261025004301977800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "克里姆林宫发言人佩斯科夫表示，在就亚历山德罗夫卡人道主义任务达成一致后，俄罗斯总统普京与美国总统特朗普目前没有计划举行新的会谈。与美方的接触仍在工作层面继续进行。",
+          "url": "https://flash.jin10.com/detail/20261025031502102800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "04时16分"
+        },
+        {
+          "title": "伊朗革命卫队发言人穆赫比：特朗普夸张的言论和威胁都是无稽之谈。",
+          "url": "https://flash.jin10.com/detail/20261025002000384800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时51分"
+        },
+        {
+          "title": "美国白宫：特朗普总统正在全方位严厉打击欺诈行为。",
+          "url": "https://flash.jin10.com/detail/20261024234920462800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "01时51分"
         }
@@ -222,11 +365,12 @@
           "url": "https://wallstreetcn.com/articles/3784386",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 04时16分]"
         },
         {
           "title": "曝DeepSeek完成千亿融资",
@@ -236,8 +380,36 @@
             26
           ],
           "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 04时16分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
+          "url": "https://www.cls.cn/detail/2514203",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 04时16分]"
+        },
+        {
+          "title": "为什么 chatgpt 和 claude 防不住蒸馏？",
+          "url": "https://www.zhihu.com/question/2097291551575749628",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
           "appearance_count": 2,
-          "time_info": "[01时50分 ~ 01时51分]"
+          "time_info": "[04时15分 ~ 04时16分]"
         }
       ]
     },
@@ -253,8 +425,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 04时16分]"
         },
         {
           "title": "油价飙升引发通胀忧虑，美股美债双双承压，苹果市值一度超英伟达，黄金周跌4%",
@@ -264,25 +436,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 01时51分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI、Anthropic齐参与！全球首个AI生物安全实验室将问世",
-          "url": "https://www.cls.cn/detail/2514203",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 04时16分]"
         }
       ]
     },
@@ -298,8 +453,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 04时16分]"
         }
       ]
     },
@@ -315,8 +470,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[01时50分 ~ 01时51分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 04时16分]"
         }
       ]
     }
