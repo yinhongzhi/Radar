@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T05:38:46.514477+08:00",
-  "total_titles_processed": 434,
+  "generated_at": "2026-10-27T09:22:25.179276+08:00",
+  "total_titles_processed": 625,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 15,
       "titles": [
         {
           "title": "特朗普狂喷：挪威是“粪坑国家”",
@@ -25,9 +25,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "中期选举倒计时！特朗普支持率止跌回升，但民主党仍保持领先",
+          "url": "https://flash.jin10.com/detail/20261027085246672800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "“美军已做好打击准备，只等特朗普下令”",
@@ -37,19 +48,20 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 05时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 09时22分]"
         },
         {
           "title": "特朗普当众轻佻评论女歌手身材，“希望她没觉得被冒犯”",
           "url": "https://m.thepaper.cn/newsDetail_forward_34332295",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            14,
+            12
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 05时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 09时22分]"
         },
         {
           "title": "路透社/益普斯调查显示，美国总统特朗普的公众支持率升至32%，一周前曾创下历史低点。",
@@ -58,7 +70,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -69,7 +81,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -83,6 +95,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "特朗普时期油价超过拜登任期平均水平",
+          "url": "https://www.toutiao.com/trending/7700151907554230313/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "美国财长贝森特：特朗普总统的税收、贸易和监管政策正在为企业在美国建厂、投资和招聘扫清障碍。今年以来，我们已新增7.2万个制造业就业岗位，而拜登任期最后两年则流失了逾20万个。蓝领制造业工人的收入也在增加：自特朗普总统上任以来，经通胀调整后的周薪上涨了3.5%。",
@@ -102,7 +125,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -116,6 +139,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "特朗普称“是伊朗对我们发动了战争”，伊媒塔斯尼姆通讯社置评：无耻。",
+          "url": "https://flash.jin10.com/detail/20261027081703459800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "美国财政部：美国制造业连续九个月扩张，2026年截至9月新增72,000个制造业岗位。特朗普总统的经济议程正在重建美国的工业基础。",
@@ -143,7 +177,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 10,
+      "match_count": 13,
       "titles": [
         {
           "title": "美股期指集体回暖 SK海力士据报将推巨额股东回报 | 今夜看点",
@@ -156,6 +190,39 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 05时38分]"
+        },
+        {
+          "title": "【早报】科技股回暖，美股全线上涨；国际油价，从六个月高点回落；药明康德、中信证券发布三季报",
+          "url": "https://www.cls.cn/detail/2515908",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "美股收盘：Anthropic招股书点燃AI行情 三大指数集体上涨",
+          "url": "https://www.cls.cn/detail/2515881",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "美股期货小幅走高，标普500指数期货上涨0.2%，纳斯达克100指数期货上涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3186536",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "金十图示：2026年10月26日（周一）美股热门股票行情一览（美股盘中）",
@@ -186,7 +253,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -197,7 +264,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -208,7 +275,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -219,7 +286,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -230,7 +297,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -241,7 +308,7 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -260,7 +327,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "伊拉克否认按美方指令关闭对伊朗边境口岸",
@@ -269,7 +336,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -291,7 +358,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -324,9 +391,20 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：阿拉伯消息人士称，位于沙特东部城市达曼的国际机场已暂停航班。",
+          "url": "https://flash.jin10.com/detail/20261027081801029800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         },
         {
           "title": "伊朗最高国家安全委员会副秘书巴盖里：最高领袖遇害是不可接受、不可原谅的行为。最高领袖遇害开创了不应被默许的先例，因为其他国家的领导人也可能成为下一个目标。",
@@ -335,7 +413,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -364,6 +442,45 @@
       ]
     },
     {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "OpenAI公布三项科学成果",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%85%AC%E5%B8%83%E4%B8%89%E9%A1%B9%E7%A7%91%E5%AD%A6%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "卢拉意外连任引发巴西资产暴跌 OpenAI公布数学、计算机、物理领域新成果 | 环球市场",
+          "url": "https://www.cls.cn/detail/2515893",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "如何评价 OpenAI 发布的 GPT-6.1 Terra？",
+          "url": "https://www.zhihu.com/question/2098252387312058852",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -385,11 +502,12 @@
           "source": "bilibili 热搜",
           "ranks": [
             5,
-            29
+            29,
+            14
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[00时58分 ~ 05时38分]"
+          "appearance_count": 3,
+          "time_info": "[00时58分 ~ 09时22分]"
         }
       ]
     },
@@ -404,7 +522,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         },
@@ -415,7 +533,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "05时38分"
         }
@@ -423,7 +541,7 @@
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "Anthropic提交IPO申请，费城半导体涨3%，美股走高，巴西石油跌超17%，油价回落，美债走强",
@@ -435,6 +553,34 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 05时38分]"
+        },
+        {
+          "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",
+          "url": "https://wallstreetcn.com/articles/3784464",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "黄金",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "中信证券：黄金买盘韧性支撑价格，铜价关注低库存与年底关税节点",
+          "url": "https://flash.jin10.com/detail/20261027082505516800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时22分"
         }
       ]
     },
