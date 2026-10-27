@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T15:20:43.478815+08:00",
-  "total_titles_processed": 841,
+  "generated_at": "2026-10-27T22:28:45.503973+08:00",
+  "total_titles_processed": 1075,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 16,
+      "match_count": 17,
       "titles": [
         {
           "title": "特朗普狂喷：挪威是“粪坑国家”",
@@ -81,9 +81,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "美国两位主教与特朗普同框后，懊悔了",
+          "url": "https://news.ifeng.com/c/8xZRUzsoyDA",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "加拿大总理卡尼：不愿意在特朗普政府8月份提供的美国贸易协议上签字。 我们与美国在贸易磋商中的关系（一度）略微紧张。",
@@ -188,7 +199,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 14,
+      "match_count": 17,
       "titles": [
         {
           "title": "据伊媒报道，伊朗议会就近期物价上涨问题质询经济部长，议员们对其答复表示不满。最终，议会认为经济部长的答复未能令人信服，共有120名议员投下反对票。",
@@ -197,7 +208,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -208,7 +219,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -241,7 +252,7 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -268,6 +279,17 @@
           "time_info": "00时58分"
         },
         {
+          "title": "伊朗伊斯兰革命卫队称捣毁两个恐怖组织团伙",
+          "url": "https://wallstreetcn.com/livenews/3187754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "普京将会见伊朗卡塔尔领导人",
           "url": "https://wallstreetcn.com/livenews/3186379",
           "source": "华尔街见闻-快讯",
@@ -285,9 +307,20 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "伊朗称一艘油轮在霍尔木兹海峡东部触雷起火",
+          "url": "https://wallstreetcn.com/livenews/3187751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         },
         {
           "title": "伊朗高官：伊朗是连接巴土沙三国、推动地区安全的纽带",
@@ -343,12 +376,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "00时58分"
+        },
+        {
+          "title": "伊朗安全负责人雷扎伊会见也门大使。",
+          "url": "https://wallstreetcn.com/livenews/3187736",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 13,
+      "match_count": 14,
       "titles": [
         {
           "title": "美股期指集体回暖 SK海力士据报将推巨额股东回报 | 今夜看点",
@@ -429,6 +473,17 @@
           "time_info": "05时38分"
         },
         {
+          "title": "美股小幅高开，道指涨0.09%，标普500指数涨0.3%，纳指涨0.47%。波音跌2.5%，公司Q3亏损大于预期。通用汽车涨超3%，将从纽交所转板至纳斯达克上市。博通上涨3.6%，此前D.A. Davidson上调了其评级。美股Neocloud公司上涨，Nebius涨3.8%。",
+          "url": "https://wallstreetcn.com/livenews/3187749",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
           "title": "美股大类资产类ETF涨跌各异，纳指100 ETF涨1.1%，布油基金跌1.3%",
           "url": "https://wallstreetcn.com/livenews/3186465",
           "source": "华尔街见闻-快讯",
@@ -498,7 +553,7 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
+      "match_count": 7,
       "titles": [
         {
           "title": "卢拉意外连任引发巴西资产暴跌 OpenAI公布数学、计算机、物理领域新成果 | 环球市场",
@@ -529,9 +584,21 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
+        },
+        {
+          "title": "OpenAI 10 月 26 日宣布证明所有维度局部光滑猜想，一举推平调和分析四大猜想，如何理解这一事件？",
+          "url": "https://www.zhihu.com/question/2098331248469062137",
+          "source": "知乎",
+          "ranks": [
+            12,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[15时20分 ~ 22时28分]"
         },
         {
           "title": "如何看待 ETH（指数时间猜想）猜想被 OpenAI 证伪？",
@@ -540,7 +607,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         },
@@ -556,15 +623,54 @@
           "time_info": "09时22分"
         },
         {
-          "title": "OpenAI 10 月 26 日宣布证明所有维度局部光滑猜想，一举推平调和分析四大猜想，如何理解这一事件？",
-          "url": "https://www.zhihu.com/question/2098331248469062137",
+          "title": "为什么 OpenAi 和 Anthropic 不用自己的顶级 AI 去炒股？就像幻方量化一样？",
+          "url": "https://www.zhihu.com/question/2096860633161545316",
           "source": "知乎",
           "ranks": [
-            12
+            17
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "15时20分"
+          "time_info": "22时28分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "国际金价涨0.5%，窄幅震荡于4000美元整数位心理关口附近",
+          "url": "https://wallstreetcn.com/livenews/3186483",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "AI交易热情重燃，美股小幅高开，纳指涨0.47%，油价续跌，金价再跌破4000",
+          "url": "https://wallstreetcn.com/articles/3784535",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时28分"
+        },
+        {
+          "title": "全球央行黄金储备现分化！分析师：影响有限，不改金价长期上涨趋势",
+          "url": "https://www.cls.cn/detail/2515552",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时38分"
         }
       ]
     },
@@ -600,34 +706,6 @@
       ]
     },
     {
-      "keyword_group": "金价",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "国际金价涨0.5%，窄幅震荡于4000美元整数位心理关口附近",
-          "url": "https://wallstreetcn.com/livenews/3186483",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "全球央行黄金储备现分化！分析师：影响有限，不改金价长期上涨趋势",
-          "url": "https://www.cls.cn/detail/2515552",
-          "source": "财联社热门",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
       "match_count": 2,
       "titles": [
@@ -640,8 +718,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时22分 ~ 15时20分]"
+          "appearance_count": 3,
+          "time_info": "[09时22分 ~ 22时28分]"
         },
         {
           "title": "Anthropic提交IPO申请，费城半导体涨3%，美股走高，巴西石油跌超17%，油价回落，美债走强",
@@ -667,7 +745,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时20分"
         }
