@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T09:22:25.179276+08:00",
-  "total_titles_processed": 625,
+  "generated_at": "2026-10-27T15:20:43.478815+08:00",
+  "total_titles_processed": 841,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 15,
+      "match_count": 16,
       "titles": [
         {
           "title": "特朗普狂喷：挪威是“粪坑国家”",
@@ -36,7 +36,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -75,6 +75,17 @@
           "time_info": "05时38分"
         },
         {
+          "title": "奥巴马称白宫修得像连锁餐厅，特朗普很不爽",
+          "url": "https://news.ifeng.com/c/8xYriizED1y",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
           "title": "加拿大总理卡尼：不愿意在特朗普政府8月份提供的美国贸易协议上签字。 我们与美国在贸易磋商中的关系（一度）略微紧张。",
           "url": "https://wallstreetcn.com/livenews/3186474",
           "source": "华尔街见闻-快讯",
@@ -103,7 +114,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -147,7 +158,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -168,6 +179,166 @@
           "source": "bilibili 热搜",
           "ranks": [
             30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时58分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "据伊媒报道，伊朗议会就近期物价上涨问题质询经济部长，议员们对其答复表示不满。最终，议会认为经济部长的答复未能令人信服，共有120名议员投下反对票。",
+          "url": "https://flash.jin10.com/detail/20261027145418247800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "伊朗议会议长卡利巴夫披露与最高领袖会晤细节",
+          "url": "https://flash.jin10.com/detail/20261027144956544800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "伊拉克否认按美方指令关闭对伊朗边境口岸",
+          "url": "https://wallstreetcn.com/livenews/3186478",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：伊朗的强国地位建立在科学与技术实力之上，这是伊朗参与全球新秩序和国际格局的重要支柱。近期战争的经验表明，伊朗必须推动新一轮科技发展，以更快速度、更大力度突破科学研究与技术应用的瓶颈，减少对西方科技主导地位的依赖。",
+          "url": "https://flash.jin10.com/detail/20261027003259742800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时58分"
+        },
+        {
+          "title": "伊朗武装部队总参谋长视察备战情况",
+          "url": "https://wallstreetcn.com/livenews/3186706",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "伊拉克否认按美方指令关闭对伊朗边境口岸",
+          "url": "https://flash.jin10.com/detail/20261027044524363800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "德黑兰会谈联合声明：伊朗、土耳其、巴基斯坦、沙特同意继续谈判。 四国同意加强合作。（伊朗媒体IRIB）",
+          "url": "https://wallstreetcn.com/livenews/3186380",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时58分"
+        },
+        {
+          "title": "普京将会见伊朗卡塔尔领导人",
+          "url": "https://wallstreetcn.com/livenews/3186379",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时58分"
+        },
+        {
+          "title": "伊朗确认拖欠基本商品进口商40.7亿欧元外汇款项",
+          "url": "https://flash.jin10.com/detail/20261027143936437800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "伊朗高官：伊朗是连接巴土沙三国、推动地区安全的纽带",
+          "url": "https://flash.jin10.com/detail/20261027040904661800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：阿拉伯消息人士称，位于沙特东部城市达曼的国际机场已暂停航班。",
+          "url": "https://flash.jin10.com/detail/20261027081801029800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时22分"
+        },
+        {
+          "title": "伊朗最高国家安全委员会副秘书巴盖里：最高领袖遇害是不可接受、不可原谅的行为。最高领袖遇害开创了不应被默许的先例，因为其他国家的领导人也可能成为下一个目标。",
+          "url": "https://flash.jin10.com/detail/20261027040659681800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时38分"
+        },
+        {
+          "title": "伊朗总统：伊朗的目标是发展多边主义",
+          "url": "https://wallstreetcn.com/livenews/3186367",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时58分"
+        },
+        {
+          "title": "伊朗、沙特、土耳其、巴基斯坦之间的会议结束。（伊朗媒体IRIB）",
+          "url": "https://wallstreetcn.com/livenews/3186365",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -198,7 +369,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -209,7 +380,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -220,7 +391,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         },
@@ -326,136 +497,9 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 10,
-      "titles": [
-        {
-          "title": "伊拉克否认按美方指令关闭对伊朗边境口岸",
-          "url": "https://wallstreetcn.com/livenews/3186478",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "伊朗最高领袖穆杰塔巴·哈梅内伊：伊朗的强国地位建立在科学与技术实力之上，这是伊朗参与全球新秩序和国际格局的重要支柱。近期战争的经验表明，伊朗必须推动新一轮科技发展，以更快速度、更大力度突破科学研究与技术应用的瓶颈，减少对西方科技主导地位的依赖。",
-          "url": "https://flash.jin10.com/detail/20261027003259742800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "伊拉克否认按美方指令关闭对伊朗边境口岸",
-          "url": "https://flash.jin10.com/detail/20261027044524363800",
-          "source": "金十数据",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "德黑兰会谈联合声明：伊朗、土耳其、巴基斯坦、沙特同意继续谈判。 四国同意加强合作。（伊朗媒体IRIB）",
-          "url": "https://wallstreetcn.com/livenews/3186380",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "普京将会见伊朗卡塔尔领导人",
-          "url": "https://wallstreetcn.com/livenews/3186379",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "伊朗高官：伊朗是连接巴土沙三国、推动地区安全的纽带",
-          "url": "https://flash.jin10.com/detail/20261027040904661800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：阿拉伯消息人士称，位于沙特东部城市达曼的国际机场已暂停航班。",
-          "url": "https://flash.jin10.com/detail/20261027081801029800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
-        {
-          "title": "伊朗最高国家安全委员会副秘书巴盖里：最高领袖遇害是不可接受、不可原谅的行为。最高领袖遇害开创了不应被默许的先例，因为其他国家的领导人也可能成为下一个目标。",
-          "url": "https://flash.jin10.com/detail/20261027040659681800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时38分"
-        },
-        {
-          "title": "伊朗总统：伊朗的目标是发展多边主义",
-          "url": "https://wallstreetcn.com/livenews/3186367",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        },
-        {
-          "title": "伊朗、沙特、土耳其、巴基斯坦之间的会议结束。（伊朗媒体IRIB）",
-          "url": "https://wallstreetcn.com/livenews/3186365",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时58分"
-        }
-      ]
-    },
-    {
       "keyword_group": "chatgpt openai",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
-        {
-          "title": "OpenAI公布三项科学成果",
-          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%85%AC%E5%B8%83%E4%B8%89%E9%A1%B9%E7%A7%91%E5%AD%A6%E6%88%90%E6%9E%9C",
-          "source": "bilibili 热搜",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时22分"
-        },
         {
           "title": "卢拉意外连任引发巴西资产暴跌 OpenAI公布数学、计算机、物理领域新成果 | 环球市场",
           "url": "https://www.cls.cn/detail/2515893",
@@ -463,9 +507,42 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 15时20分]"
+        },
+        {
+          "title": "OpenAI公布三项科学成果",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%85%AC%E5%B8%83%E4%B8%89%E9%A1%B9%E7%A7%91%E5%AD%A6%E6%88%90%E6%9E%9C",
+          "source": "bilibili 热搜",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "如何评价 OpenAI 宣布证明四维杨–米尔斯理论的存在性？这项结果的意义有多大？",
+          "url": "https://www.zhihu.com/question/2098328780846655325",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
+        },
+        {
+          "title": "如何看待 ETH（指数时间猜想）猜想被 OpenAI 证伪？",
+          "url": "https://www.zhihu.com/question/2098291700204622696",
+          "source": "知乎",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         },
         {
           "title": "如何评价 OpenAI 发布的 GPT-6.1 Terra？",
@@ -474,9 +551,20 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
+        },
+        {
+          "title": "OpenAI 10 月 26 日宣布证明所有维度局部光滑猜想，一举推平调和分析四大猜想，如何理解这一事件？",
+          "url": "https://www.zhihu.com/question/2098331248469062137",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时20分"
         }
       ]
     },
@@ -544,6 +632,18 @@
       "match_count": 2,
       "titles": [
         {
+          "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",
+          "url": "https://wallstreetcn.com/articles/3784464",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时22分 ~ 15时20分]"
+        },
+        {
           "title": "Anthropic提交IPO申请，费城半导体涨3%，美股走高，巴西石油跌超17%，油价回落，美债走强",
           "url": "https://wallstreetcn.com/articles/3784464",
           "source": "华尔街见闻",
@@ -553,17 +653,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[00时58分 ~ 05时38分]"
-        },
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
         {
-          "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",
-          "url": "https://wallstreetcn.com/articles/3784464",
-          "source": "华尔街见闻",
+          "title": "谷歌 CEO 称「宁可牺牲云业务利润，也要打赢前沿大模型生死战」，大模型对于谷歌有多重要？",
+          "url": "https://www.zhihu.com/question/2097989360473694568",
+          "source": "知乎",
           "ranks": [
-            3
+            7
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时22分"
+          "time_info": "15时20分"
         }
       ]
     },
@@ -578,7 +684,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时22分"
         }
