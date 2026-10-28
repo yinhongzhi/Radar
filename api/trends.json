@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-10-28T19:00:08.235028+08:00",
-  "total_titles_processed": 895,
+  "generated_at": "2026-10-29T01:06:34.761701+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "如果共和党中期选举输了怎么办？特朗普回应",
+          "url": "https://news.ifeng.com/c/8xabEL09CAG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        },
         {
           "title": "特朗普力挺内塔尼亚胡，万斯为何不跟？",
           "url": "https://original.ifeng.com/c/8xagHUQBnzH",
@@ -15,8 +26,8 @@
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 19时00分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
         },
         {
           "title": "特朗普：很快将安排普京与泽连斯基的会晤",
@@ -26,322 +37,30 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 19时00分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
         },
         {
-          "title": "据华盛顿邮报：美国总统特朗普将宣布放宽石油公司甲烷泄漏相关规定。",
-          "url": "https://flash.jin10.com/detail/20261028031517828800",
+          "title": "WTI原油日内涨幅达3.0%，报102.91美元/桶。 此前，特朗普政府告诉海湾地区盟友们，准备好面对美国在中期选举过后袭击伊朗。",
+          "url": "https://wallstreetcn.com/livenews/3189278",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        },
+        {
+          "title": "据以色列今日报：美国高级外交官员表示，美国总统特朗普仍决心彻底消除伊朗军事核计划，并消除对霍尔木兹海峡及伊朗邻国的军事威胁。",
+          "url": "https://flash.jin10.com/detail/20261029002138531800",
           "source": "金十数据",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "特朗普：委内瑞拉或成为美国第51个州",
-          "url": "https://news.ifeng.com/c/8xaJYjqF2cZ",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "美国两位主教与特朗普同框后，懊悔了",
-          "url": "https://news.ifeng.com/c/8xZRUzsoyDA",
-          "source": "凤凰网",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 07时32分]"
-        },
-        {
-          "title": "美国消费者信心10月意外大幅反弹 中期选举前特朗普仍难摆脱高物价困局",
-          "url": "https://www.cls.cn/detail/2517100",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 12时06分]"
-        },
-        {
-          "title": "如果共和党中期选举输了怎么办？特朗普回应",
-          "url": "https://news.ifeng.com/c/8xabEL09CAG",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 19时00分]"
-        },
-        {
-          "title": "特朗普炮轰：“AI”一词糟糕且不准确 将很快禁用！",
-          "url": "https://www.cls.cn/detail/2517911",
-          "source": "财联社热门",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 19时00分]"
-        },
-        {
-          "title": "国台办回应特朗普涉台言论",
-          "url": "https://www.toutiao.com/trending/7701604359507608091/",
-          "source": "今日头条",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 19时00分]"
-        },
-        {
-          "title": "国台办回应特朗普最新涉台表态",
-          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%80%E6%96%B0%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
-          "source": "百度热搜",
           "ranks": [
             26
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 19时00分]"
-        },
-        {
-          "title": "据CNN：博索纳罗盟友称特朗普政府已发出庇护信号。",
-          "url": "https://flash.jin10.com/detail/20261028025934496800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "特朗普的夫人：俄乌奥列什基停火提前生效，范围已扩大",
-          "url": "https://wallstreetcn.com/livenews/3187874",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "美媒：特朗普批准博索纳罗入境美国",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%AA%92%EF%BC%9A%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%B9%E5%87%86%E5%8D%9A%E7%B4%A2%E7%BA%B3%E7%BD%97%E5%85%A5%E5%A2%83%E7%BE%8E%E5%9B%BD",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "特朗普：美国将接收首批100万桶委内瑞拉原油，后续供应规模将达数十亿桶",
-          "url": "https://wallstreetcn.com/livenews/3187853",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "普京会晤伊朗总统讨论中东局势",
-          "url": "https://www.douyin.com/hot/2716809",
-          "source": "抖音",
-          "ranks": [
-            2,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时06分 ~ 19时00分]"
-        },
-        {
-          "title": "伊朗最高领袖重申结束战争须满足伊方条件 博索纳罗之子被曝赴美“流亡” | 环球市场",
-          "url": "https://www.cls.cn/detail/2517209",
-          "source": "财联社热门",
-          "ranks": [
-            8,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 12时06分]"
-        },
-        {
-          "title": "美媒爆料美国告知多个海湾国家：中期选举后或对伊朗实施“短暂而激烈”的打击",
-          "url": "https://www.cls.cn/detail/2517715",
-          "source": "财联社热门",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[18时59分 ~ 19时00分]"
-        },
-        {
-          "title": "联合利华警告：伊朗战争推高成本，未来将进一步涨价",
-          "url": "https://flash.jin10.com/detail/20261028182945166800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时00分"
-        },
-        {
-          "title": "市场消息：伊朗总统佩泽希齐扬已离开俄罗斯。",
-          "url": "https://flash.jin10.com/detail/20261028025336139800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "美国能源部长赖特：与伊朗的战争时机不幸。",
-          "url": "https://flash.jin10.com/detail/20261028024744551800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国家天然气公司首席执行官表示，萨拉杰储气库创下新的储气纪录，天然气注入作业以超出计划约3%的表现提前完成。此外，该储气库的天然气储量较去年增加了逾5000万立方米。",
-          "url": "https://flash.jin10.com/detail/20261028182657545800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时00分"
-        },
-        {
-          "title": "据福克斯新闻：美国能源部长赖特：伊朗战争已付出代价。",
-          "url": "https://flash.jin10.com/detail/20261028024425539800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "阿曼向美以发出警告：放弃针对伊朗",
-          "url": "https://flash.jin10.com/detail/20261028181654231800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时00分"
-        },
-        {
-          "title": "IAEA：伊朗核设施未见修复迹象 但核材料状况仍无法核实",
-          "url": "https://flash.jin10.com/detail/20261028023154429800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        },
-        {
-          "title": "伊朗外交部：伊朗外长与巴西外长通电话",
-          "url": "https://wallstreetcn.com/livenews/3187860",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时21分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美联储决议前夕，AI热情驱动科技股反弹，CoreWeave涨8%，油价续跌，金价涨1%",
-          "url": "https://wallstreetcn.com/articles/3784535",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[07时31分 ~ 19时00分]"
-        },
-        {
-          "title": "AI交易热情重燃，美股小幅高开，纳指涨0.47%，油价续跌，金价再跌破4000",
-          "url": "https://wallstreetcn.com/articles/3784535",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 03时21分]"
-        },
-        {
-          "title": "男子趁金价下跌给媳妇买金镯子",
-          "url": "https://www.toutiao.com/trending/7700881630416093220/",
-          "source": "今日头条",
-          "ranks": [
-            19,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 07时32分]"
-        },
-        {
-          "title": "印度珠宝商押注金价继续下跌，旺季将至仍不急于补货！四季度黄金进口量或腰斩",
-          "url": "https://flash.jin10.com/detail/20261028112748369800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
+          "time_info": "01时06分"
         }
       ]
     },
@@ -350,105 +69,87 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "【早报】深夜发力，美股半导体指数大涨超3%；国际油价，继续回落；PCB产业链上市公司集中披露三季报",
-          "url": "https://www.cls.cn/detail/2517219",
-          "source": "财联社热门",
+          "title": "美联储决议考验市场，美股小幅高开，SK海力士涨约8%，油价止跌",
+          "url": "https://wallstreetcn.com/articles/3784634",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时06分"
+          "time_info": "01时06分"
         },
         {
-          "title": "SK海力士(SKHY.O)美股盘后涨1.4%。",
-          "url": "https://flash.jin10.com/detail/20261028073105835800",
+          "title": "美股最可靠的警报灯亮了！历史两次闪烁后，都迎来大熊市",
+          "url": "https://wallstreetcn.com/articles/3784679",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        },
+        {
+          "title": "金十图示：2026年10月28日（周三）美股热门股票行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261029003130830800",
           "source": "金十数据",
           "ranks": [
-            2
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时32分"
+          "time_info": "01时06分"
         },
         {
-          "title": "美股收盘：AI反弹行情延续 费城半导体指数大涨3.6% 纳指涨超1%",
-          "url": "https://www.cls.cn/detail/2517192",
-          "source": "财联社热门",
+          "title": "金十图示：2026年10月28日（周三）热门中概股行情一览（美股盘中）",
+          "url": "https://flash.jin10.com/detail/20261029003047749800",
+          "source": "金十数据",
           "ranks": [
-            6,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 12时06分]"
-        },
-        {
-          "title": "Ge Vernova第三季度营收126.4亿美元，预期为119.9亿美元。 第三季度每股收益4.81美元，去年同期为1.64美元。 第三季度调整后息税折旧摊销前利润（EBITDA）为19.4亿美元，预期为16.8亿美元。 Ge Vernova预计全年营收为465亿至475亿美元，此前预期为455亿至465亿美元。 Ge Vernova美股盘前涨超3%。",
-          "url": "https://wallstreetcn.com/livenews/3188882",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时00分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "DeepSeek 新版模型单周调用量登顶全球首位，环比暴增 801%，该模型为什么能实现登顶？意味着什么？",
-          "url": "https://www.zhihu.com/question/2098096577525172086",
-          "source": "知乎",
-          "ranks": [
-            2
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "DeepSeek七款工具同题实测",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%B8%83%E6%AC%BE%E5%B7%A5%E5%85%B7%E5%90%8C%E9%A2%98%E5%AE%9E%E6%B5%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时31分 ~ 07时32分]"
+          "time_info": "01时06分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
-          "title": "谷歌Genie 4亮相：一句话创造虚拟世界、敲键盘自由探索",
-          "url": "https://www.cls.cn/detail/2517161",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时06分"
-        },
-        {
-          "title": "谷歌发布世界模型Genie 4",
-          "url": "https://search.bilibili.com/all?keyword=%E8%B0%B7%E6%AD%8C%E5%8F%91%E5%B8%83%E4%B8%96%E7%95%8C%E6%A8%A1%E5%9E%8BGenie%204",
-          "source": "bilibili 热搜",
+          "title": "谷歌云：Cloud SQL的PostgreSQL蓝绿部署支持即将推出。",
+          "url": "https://flash.jin10.com/detail/20261029004138186800",
+          "source": "金十数据",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时06分"
+          "time_info": "01时06分"
+        },
+        {
+          "title": "谷歌云：宣布推出面向MySQL的Cloud SQL全托管蓝绿部署预览版。",
+          "url": "https://flash.jin10.com/detail/20261029004100496800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：宣布面向红帽和容器的AlloyDB Omni Web UI正式可用。",
+          "url": "https://flash.jin10.com/detail/20261029002953231800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
         }
       ]
     },
@@ -457,61 +158,71 @@
       "match_count": 2,
       "titles": [
         {
-          "title": "为什么 OpenAi 和 Anthropic 不用自己的顶级 AI 去炒股？就像幻方量化一样？",
-          "url": "https://www.zhihu.com/question/2096860633161545316",
-          "source": "知乎",
+          "title": "31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34351416",
+          "source": "澎湃新闻",
           "ranks": [
-            9,
-            5
+            8
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 07时32分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
         },
         {
-          "title": "OpenAI 10 月 26 日宣布证明所有维度局部光滑猜想，一举推平调和分析四大猜想，如何理解这一事件？",
-          "url": "https://www.zhihu.com/question/2098331248469062137",
-          "source": "知乎",
+          "title": "Anthropic招股书解析：OpenAI两大潜在优势浮现",
+          "url": "https://www.cls.cn/detail/2518311",
+          "source": "财联社热门",
           "ranks": [
-            15
+            11
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时20分 ~ 07时32分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
         }
       ]
     },
     {
-      "keyword_group": "美债",
-      "match_count": 1,
+      "keyword_group": "伊朗",
+      "match_count": 2,
       "titles": [
         {
-          "title": "Anthropic IPO重燃AI情绪，美股指反弹，芯片指数涨近3%，美债、油价齐回落",
-          "url": "https://wallstreetcn.com/articles/3784464",
-          "source": "华尔街见闻",
+          "title": "普京会晤伊朗总统讨论中东局势",
+          "url": "https://www.douyin.com/hot/2716809",
+          "source": "抖音",
           "ranks": [
             4
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时20分 ~ 03时21分]"
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        },
+        {
+          "title": "以媒：美官员称对伊朗后续打击不受以色列组阁进程影响",
+          "url": "https://flash.jin10.com/detail/20261029003538139800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "周二（10月27日）纽约尾盘，ICE美元指数涨0.3%，报102.302点，日内交投区间为101.986-102.331点，整体持续上涨。 彭博美元指数涨0.24%，报1225.23点，日内交投区间为1222.04-1225.55点，北京时间12:00以来也持续上涨。",
-          "url": "https://wallstreetcn.com/livenews/3187887",
-          "source": "华尔街见闻-快讯",
+          "title": "美联储决议前夕，AI热情驱动科技股反弹，CoreWeave涨8%，油价续跌，金价涨1%",
+          "url": "https://wallstreetcn.com/articles/3784535",
+          "source": "华尔街见闻",
           "ranks": [
-            2
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时21分"
+          "time_info": "01时06分"
         }
       ]
     }
