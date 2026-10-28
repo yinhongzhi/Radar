@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-10-28T12:06:44.012172+08:00",
-  "total_titles_processed": 644,
+  "generated_at": "2026-10-28T19:00:08.235028+08:00",
+  "total_titles_processed": 895,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "特朗普力挺内塔尼亚胡，万斯为何不跟？",
+          "url": "https://original.ifeng.com/c/8xagHUQBnzH",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
+        },
+        {
+          "title": "特朗普：很快将安排普京与泽连斯基的会晤",
+          "url": "https://news.ifeng.com/c/8xanNarKZSI",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
+        },
         {
           "title": "据华盛顿邮报：美国总统特朗普将宣布放宽石油公司甲烷泄漏相关规定。",
           "url": "https://flash.jin10.com/detail/20261028031517828800",
@@ -25,7 +47,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -52,6 +74,50 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时31分 ~ 12时06分]"
+        },
+        {
+          "title": "如果共和党中期选举输了怎么办？特朗普回应",
+          "url": "https://news.ifeng.com/c/8xabEL09CAG",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
+        },
+        {
+          "title": "特朗普炮轰：“AI”一词糟糕且不准确 将很快禁用！",
+          "url": "https://www.cls.cn/detail/2517911",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
+        },
+        {
+          "title": "国台办回应特朗普涉台言论",
+          "url": "https://www.toutiao.com/trending/7701604359507608091/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
+        },
+        {
+          "title": "国台办回应特朗普最新涉台表态",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E5%8F%B0%E5%8A%9E%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%80%E6%96%B0%E6%B6%89%E5%8F%B0%E8%A1%A8%E6%80%81",
+          "source": "百度热搜",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
         },
         {
           "title": "据CNN：博索纳罗盟友称特朗普政府已发出庇护信号。",
@@ -82,7 +148,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -101,18 +167,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 7,
+      "match_count": 11,
       "titles": [
         {
           "title": "普京会晤伊朗总统讨论中东局势",
           "url": "https://www.douyin.com/hot/2716809",
           "source": "抖音",
           "ranks": [
-            2
+            2,
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时06分"
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[12时06分 ~ 19时00分]"
         },
         {
           "title": "伊朗最高领袖重申结束战争须满足伊方条件 博索纳罗之子被曝赴美“流亡” | 环球市场",
@@ -125,6 +192,28 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时31分 ~ 12时06分]"
+        },
+        {
+          "title": "美媒爆料美国告知多个海湾国家：中期选举后或对伊朗实施“短暂而激烈”的打击",
+          "url": "https://www.cls.cn/detail/2517715",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[18时59分 ~ 19时00分]"
+        },
+        {
+          "title": "联合利华警告：伊朗战争推高成本，未来将进一步涨价",
+          "url": "https://flash.jin10.com/detail/20261028182945166800",
+          "source": "金十数据",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
         },
         {
           "title": "市场消息：伊朗总统佩泽希齐扬已离开俄罗斯。",
@@ -149,6 +238,17 @@
           "time_info": "03时21分"
         },
         {
+          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗国家天然气公司首席执行官表示，萨拉杰储气库创下新的储气纪录，天然气注入作业以超出计划约3%的表现提前完成。此外，该储气库的天然气储量较去年增加了逾5000万立方米。",
+          "url": "https://flash.jin10.com/detail/20261028182657545800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
+        },
+        {
           "title": "据福克斯新闻：美国能源部长赖特：伊朗战争已付出代价。",
           "url": "https://flash.jin10.com/detail/20261028024425539800",
           "source": "金十数据",
@@ -158,6 +258,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时21分"
+        },
+        {
+          "title": "阿曼向美以发出警告：放弃针对伊朗",
+          "url": "https://flash.jin10.com/detail/20261028181654231800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
         },
         {
           "title": "IAEA：伊朗核设施未见修复迹象 但核材料状况仍无法核实",
@@ -195,8 +306,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[07时31分 ~ 12时06分]"
+          "appearance_count": 5,
+          "time_info": "[07时31分 ~ 19时00分]"
         },
         {
           "title": "AI交易热情重燃，美股小幅高开，纳指涨0.47%，油价续跌，金价再跌破4000",
@@ -228,7 +339,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         }
@@ -236,7 +347,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】深夜发力，美股半导体指数大涨超3%；国际油价，继续回落；PCB产业链上市公司集中披露三季报",
@@ -245,7 +356,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -271,6 +382,17 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[07时31分 ~ 12时06分]"
+        },
+        {
+          "title": "Ge Vernova第三季度营收126.4亿美元，预期为119.9亿美元。 第三季度每股收益4.81美元，去年同期为1.64美元。 第三季度调整后息税折旧摊销前利润（EBITDA）为19.4亿美元，预期为16.8亿美元。 Ge Vernova预计全年营收为465亿至475亿美元，此前预期为455亿至465亿美元。 Ge Vernova美股盘前涨超3%。",
+          "url": "https://wallstreetcn.com/livenews/3188882",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "19时00分"
         }
       ]
     },
@@ -285,7 +407,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -313,7 +435,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         },
@@ -324,7 +446,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时06分"
         }
