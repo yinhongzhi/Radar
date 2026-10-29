@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-10-29T06:13:01.138484+08:00",
-  "total_titles_processed": 422,
+  "generated_at": "2026-10-29T10:07:18.190327+08:00",
+  "total_titles_processed": 612,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 19,
+      "match_count": 25,
       "titles": [
+        {
+          "title": "美联储按兵不动，美股指三连涨，甲骨文大涨11%，盘后谷歌大跌10%、微软走强",
+          "url": "https://wallstreetcn.com/articles/3784634",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "【早报】美联储按兵不动，沃什宣布：减少议息频次；美股存储芯片板块，全线爆发；谷歌业绩不及预期，盘后大跌",
+          "url": "https://www.cls.cn/detail/2518583",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
         {
           "title": "谷歌将TPUs（产品）视作将会出售的平台，甚至为了竞争也会这样做。 谷歌将在云领域加速新的客户部署。 CEO Pichai说，安全、信任是用户使用agents的头等顾虑。",
           "url": "https://wallstreetcn.com/livenews/3189431",
@@ -14,9 +36,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "Gemini 4 Carbon发布",
+          "url": "https://search.bilibili.com/all?keyword=Gemini%204%20Carbon%E5%8F%91%E5%B8%83",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
           "title": "谷歌侧重于改善TPU的利润率。",
@@ -25,7 +58,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -36,9 +69,20 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "谷歌大跌！Q3业绩不及预期，自由现金流大幅下降，AI投入回报质疑加剧｜财报见闻",
+          "url": "https://wallstreetcn.com/articles/3784714",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
           "title": "Alphabet(GOOG.O)CEO皮查伊：Gemini 4 Carbon将于今年晚些时候向消费者开放。",
@@ -47,7 +91,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -69,9 +113,20 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "10月29日投资避雷针：AI巨额投资未产生足够回报 谷歌业绩不及预期盘后跌近10%",
+          "url": "https://www.cls.cn/detail/2518619",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
           "title": "谷歌云：宣布推出面向MySQL的Cloud SQL全托管蓝绿部署预览版。",
@@ -91,7 +146,7 @@
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -102,9 +157,20 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "如何看待谷歌推出 Gemini 4 Carbon，在多个榜单拿下全球第一？",
+          "url": "https://www.zhihu.com/question/2098949045934880103",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
           "title": "谷歌母公司Alphabet未来承诺、租赁、采购金额已经突破1万亿美元。",
@@ -113,7 +179,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -135,7 +201,7 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -146,7 +212,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -157,7 +223,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -168,7 +234,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -179,7 +245,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -190,7 +256,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -201,7 +267,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -212,7 +278,7 @@
           "ranks": [
             29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         }
@@ -220,7 +286,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 10,
       "titles": [
         {
           "title": "如果共和党中期选举输了怎么办？特朗普回应",
@@ -230,19 +296,20 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 06时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 10时07分]"
         },
         {
           "title": "特朗普力挺内塔尼亚胡，万斯为何不跟？",
           "url": "https://original.ifeng.com/c/8xagHUQBnzH",
           "source": "凤凰网",
           "ranks": [
-            4
+            4,
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 06时13分]"
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 10时07分]"
         },
         {
           "title": "特朗普：很快将安排普京与泽连斯基的会晤",
@@ -262,7 +329,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -273,7 +340,7 @@
           "ranks": [
             9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -284,9 +351,20 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
+        },
+        {
+          "title": "美国总统特朗普周四日程一览",
+          "url": "https://flash.jin10.com/detail/20261029094631341800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
           "title": "WTI原油日内涨幅达3.0%，报102.91美元/桶。 此前，特朗普政府告诉海湾地区盟友们，准备好面对美国在中期选举过后袭击伊朗。",
@@ -306,7 +384,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -325,7 +403,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 8,
       "titles": [
         {
           "title": "美股最可靠的警报灯亮了！历史两次闪烁后，都迎来大熊市",
@@ -333,11 +411,24 @@
           "source": "华尔街见闻",
           "ranks": [
             10,
+            5,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 10时07分]"
+        },
+        {
+          "title": "美股收盘：三大指数小幅收涨 甲骨文现金流指引提振AI云计算股",
+          "url": "https://www.cls.cn/detail/2518554",
+          "source": "财联社热门",
+          "ranks": [
+            10,
             5
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时06分 ~ 06时13分]"
+          "time_info": "[06时12分 ~ 10时07分]"
         },
         {
           "title": "美联储决议考验市场，美股小幅高开，SK海力士涨约8%，油价止跌",
@@ -351,15 +442,15 @@
           "time_info": "[01时06分 ~ 06时13分]"
         },
         {
-          "title": "美股收盘：三大指数小幅收涨 甲骨文现金流指引提振AI云计算股",
-          "url": "https://www.cls.cn/detail/2518554",
+          "title": "丹麦Genmab抗癌药物试验报捷 美股股价涨约30%创新高",
+          "url": "https://www.cls.cn/detail/2518474",
           "source": "财联社热门",
           "ranks": [
-            10
+            13
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时12分 ~ 06时13分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
         },
         {
           "title": "金十图示：2026年10月28日（周三）美股热门股票行情一览（美股盘中）",
@@ -390,7 +481,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         },
@@ -401,44 +492,15 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34351416",
-          "source": "澎湃新闻",
-          "ranks": [
-            8,
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时06分 ~ 06时13分]"
-        },
-        {
-          "title": "Anthropic招股书解析：OpenAI两大潜在优势浮现",
-          "url": "https://www.cls.cn/detail/2518311",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时06分"
-        }
-      ]
-    },
-    {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
         {
           "title": "普京会晤伊朗总统讨论中东局势",
@@ -453,11 +515,63 @@
           "time_info": "[01时06分 ~ 06时13分]"
         },
         {
+          "title": "万斯致信伊朗安全高官试图重启谈判 欧洲天然气近四年来首破100欧元 | 环球市场",
+          "url": "https://www.cls.cn/detail/2518584",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
+          "title": "伊朗伊通社（IRNA）报道，沙特媒体消息人士称，该国东部省及西南部纳季兰地区传出多起爆炸声。此外，根据航班追踪网站 Flightradar 发布的信息，位于沙特东部城市达曼的法赫德国王国际机场已暂停空中活动。",
+          "url": "https://flash.jin10.com/detail/20261029095933067800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "10时07分"
+        },
+        {
           "title": "以媒：美官员称对伊朗后续打击不受以色列组阁进程影响",
           "url": "https://flash.jin10.com/detail/20261029003538139800",
           "source": "金十数据",
           "ranks": [
             14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时06分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "31岁亚马逊前华人女工程师听GPT建议自行停药后死亡，父母起诉OpenAI",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34351416",
+          "source": "澎湃新闻",
+          "ranks": [
+            8,
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时06分 ~ 10时07分]"
+        },
+        {
+          "title": "Anthropic招股书解析：OpenAI两大潜在优势浮现",
+          "url": "https://www.cls.cn/detail/2518311",
+          "source": "财联社热门",
+          "ranks": [
+            11
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -493,7 +607,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时13分"
         }
