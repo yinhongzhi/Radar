@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-11-02T04:12:34.490641+08:00",
-  "total_titles_processed": 312,
+  "generated_at": "2026-11-02T08:16:19.814522+08:00",
+  "total_titles_processed": 440,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 13,
+      "match_count": 18,
       "titles": [
-        {
-          "title": "伊朗外长：希望美方保持理性",
-          "url": "https://wallstreetcn.com/livenews/3192097",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
-        },
         {
           "title": "伊朗：美国若再发动战事，将立即遭到“毁灭性回击”",
           "url": "https://news.ifeng.com/c/8xhh7srd39s",
@@ -26,8 +15,8 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
+          "appearance_count": 2,
+          "time_info": "[04时12分 ~ 08时16分]"
         },
         {
           "title": "据伊朗学生通讯社：伊朗议会议员穆塔基（Mottaki）表示，所谓“不受地理范围限制”，意味着伊朗导弹将能够打到欧洲。",
@@ -41,15 +30,28 @@
           "time_info": "04时12分"
         },
         {
+          "title": "伊朗外长：希望美方保持理性",
+          "url": "https://wallstreetcn.com/livenews/3192097",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1,
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时12分 ~ 08时16分]"
+        },
+        {
           "title": "伊朗正研究万斯提议，外长称暂无会谈计划，军方称将“高强度且不受地理限制”对抗美以",
           "url": "https://wallstreetcn.com/articles/3784928",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
+          "appearance_count": 2,
+          "time_info": "[04时12分 ~ 08时16分]"
         },
         {
           "title": "伊朗议会议员Mottak表示，伊朗具备提升导弹射程的能力，可以根据自身需要扩大导弹射程。",
@@ -74,6 +76,17 @@
           "time_info": "04时12分"
         },
         {
+          "title": "伊朗披露斡旋进展抛出“两天计划”",
+          "url": "https://www.toutiao.com/trending/7703345543170231871/",
+          "source": "今日头条",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
+        },
+        {
           "title": "海湾国家担忧美以再袭伊朗将引发更大规模地区战争",
           "url": "https://flash.jin10.com/detail/20261102022118697800",
           "source": "金十数据",
@@ -96,6 +109,17 @@
           "time_info": "04时12分"
         },
         {
+          "title": "伊朗称两艘油轮未经授权穿越霍尔木兹海峡触雷爆炸",
+          "url": "https://wallstreetcn.com/livenews/3192100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
+        },
+        {
           "title": "伊朗外长：磋商是否能取得成果取决于美国的答复",
           "url": "https://wallstreetcn.com/livenews/3192082",
           "source": "华尔街见闻-快讯",
@@ -105,6 +129,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "伊朗外长披露“两天计划”，美方履约方能重启伊美谈判",
+          "url": "https://wallstreetcn.com/livenews/3192101",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
         },
         {
           "title": "伊朗外长阿拉格齐：与调解方的磋商正在进行中。 能否取得成果取决于美国的答复。",
@@ -118,6 +153,17 @@
           "time_info": "04时12分"
         },
         {
+          "title": "海湾国家急阻美以重启对伊打击！伊朗警告报复不设地域限制，下一轮战争恐更具破坏性",
+          "url": "https://flash.jin10.com/detail/20261102064710756800",
+          "source": "金十数据",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
+        },
+        {
           "title": "伊朗外长：伊朗已做好防御与外交两方面的准备",
           "url": "https://flash.jin10.com/detail/20261102012616897800",
           "source": "金十数据",
@@ -127,6 +173,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "据伊朗迈赫尔通讯社援引叙利亚消息来源报道，以色列军队在过去24小时内对叙利亚南部的多个地区进行了21次攻击。",
+          "url": "https://flash.jin10.com/detail/20261102062636722800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
         },
         {
           "title": "伊朗外长阿拉格齐表示，目前正在进行的讨论围绕一项为期7天的提议展开。",
@@ -154,7 +211,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 10,
+      "match_count": 12,
       "titles": [
         {
           "title": "特朗普：支持马斯克执掌CNN",
@@ -164,8 +221,19 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时12分"
+          "appearance_count": 2,
+          "time_info": "[04时12分 ~ 08时16分]"
+        },
+        {
+          "title": "特朗普称将邀请泽连斯基参加G20",
+          "url": "https://news.ifeng.com/c/8xhUYqF4JRG",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时12分 ~ 08时16分]"
         },
         {
           "title": "特朗普称不希望以总理干扰美伊谈判",
@@ -201,15 +269,15 @@
           "time_info": "04时12分"
         },
         {
-          "title": "特朗普称将邀请泽连斯基参加G20",
-          "url": "https://news.ifeng.com/c/8xhUYqF4JRG",
-          "source": "凤凰网",
+          "title": "特朗普：我们之所以还没彻底解决伊朗问题，仅仅是因为我想表现得友善一些。如果可以的话，我希望能尽力挽救那些生命。但到了某个节点，我们终究得给他们沉重的一击。",
+          "url": "https://flash.jin10.com/detail/20261102072932344800",
+          "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时12分"
+          "time_info": "08时16分"
         },
         {
           "title": "白宫国家经济委员会主任哈塞特：即使民主党掌控国会，政府仍能做很多事。 希望特朗普政府能与掌控国会的任何一方合作。",
@@ -232,6 +300,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "特朗普称不希望以总理干扰美伊谈判",
+          "url": "https://wallstreetcn.com/livenews/3192103",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
         },
         {
           "title": "中期选举对特朗普有多重要",
@@ -269,26 +348,20 @@
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
+      "keyword_group": "美股",
+      "match_count": 3,
       "titles": [
         {
-          "title": "怎么看百度搜索降价千次 4.9 元，这是针对 DeepSeek 搜索的千次 5 元吗？",
-          "url": "https://www.zhihu.com/question/2099967799934313950",
-          "source": "知乎",
+          "title": "周一亚市盘初，美股期货小幅走高，标普500指数期货涨0.3%，纳斯达克100指数期货涨0.4%。",
+          "url": "https://wallstreetcn.com/livenews/3192114",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            4
+            5
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时12分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 1,
-      "titles": [
+          "time_info": "08时16分"
+        },
         {
           "title": "美股AI暴跌,万亿市值蒸发",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368651&amp;topic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
@@ -297,8 +370,82 @@
             17
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时12分 ~ 08时16分]"
+        },
+        {
+          "title": "美股三大股指期货周一高开，其中纳指期货涨0.3%。",
+          "url": "https://flash.jin10.com/detail/20261102070101145800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时12分"
+          "time_info": "08时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "怎么看百度搜索降价千次 4.9 元，这是针对 DeepSeek 搜索的千次 5 元吗？",
+          "url": "https://www.zhihu.com/question/2099967799934313950",
+          "source": "知乎",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时12分 ~ 08时16分]"
+        },
+        {
+          "title": "DeepSeek亮出“超级智能体”架构",
+          "url": "https://www.toutiao.com/trending/7703258129567321638/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI计划将数据中心称为“算力园区” 试图重塑公众形象",
+          "url": "https://flash.jin10.com/detail/20261102063954509800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "华尔街严阵以待：美债发行指引或迎近三年来最大调整",
+          "url": "https://flash.jin10.com/detail/20261102074017866800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "08时16分"
         }
       ]
     }
