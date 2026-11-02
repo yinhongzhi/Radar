@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-02T08:16:19.814522+08:00",
-  "total_titles_processed": 440,
+  "generated_at": "2026-11-02T15:15:23.381522+08:00",
+  "total_titles_processed": 675,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 18,
+      "match_count": 20,
       "titles": [
         {
           "title": "伊朗：美国若再发动战事，将立即遭到“毁灭性回击”",
@@ -17,6 +17,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时12分 ~ 08时16分]"
+        },
+        {
+          "title": "伊朗为何将矛头指向英国？",
+          "url": "https://original.ifeng.com/c/8xil7bMQ9tQ",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "据伊朗学生通讯社：伊朗议会议员穆塔基（Mottaki）表示，所谓“不受地理范围限制”，意味着伊朗导弹将能够打到欧洲。",
@@ -82,7 +93,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -115,7 +126,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -137,7 +148,7 @@
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -159,7 +170,7 @@
           "ranks": [
             20
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -175,13 +186,24 @@
           "time_info": "04时12分"
         },
         {
+          "title": "阿联酋ADNOC首席执行官：霍尔木兹海峡中断以来，全球库存已消耗近10亿桶。 全球供应缓冲已大幅消耗。 部分市场柴油库存处于35年来同期低点。 中断后，航运和物流成本占每桶原油成本的30%以上。 物流和航运成本已从伊朗战争前的5%升至每桶成本的30%。 这一新现实意味着需在消费市场附近扩大战略储备和灵活炼油产能。",
+          "url": "https://wallstreetcn.com/livenews/3192276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
           "title": "据伊朗迈赫尔通讯社援引叙利亚消息来源报道，以色列军队在过去24小时内对叙利亚南部的多个地区进行了21次攻击。",
           "url": "https://flash.jin10.com/detail/20261102062636722800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -211,7 +233,7 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 19,
       "titles": [
         {
           "title": "特朗普：支持马斯克执掌CNN",
@@ -258,6 +280,17 @@
           "time_info": "04时12分"
         },
         {
+          "title": "美国一公务机在居民区坠毁致 9 死，距特朗普的海湖庄园仅七八公里，具体情况如何？可能是什么原因？",
+          "url": "https://www.zhihu.com/question/2100501083466326367",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
           "title": "消息人士透露：特朗普正计划在美国中期选举之后恢复对伊朗的打击，打击最快可能会发生在11月4日",
           "url": "https://www.cls.cn/detail/2521560",
           "source": "财联社热门",
@@ -269,15 +302,60 @@
           "time_info": "04时12分"
         },
         {
+          "title": "美伊局势追踪：伊朗提出“两日重启计划”，特朗普暗示和谈顺利！",
+          "url": "https://www.cls.cn/detail/2521947",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
           "title": "特朗普：我们之所以还没彻底解决伊朗问题，仅仅是因为我想表现得友善一些。如果可以的话，我希望能尽力挽救那些生命。但到了某个节点，我们终究得给他们沉重的一击。",
           "url": "https://flash.jin10.com/detail/20261102072932344800",
           "source": "金十数据",
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
+        },
+        {
+          "title": "中期选举对特朗普有多重要",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81",
+          "source": "bilibili 热搜",
+          "ranks": [
+            16,
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时12分 ~ 15时15分]"
+        },
+        {
+          "title": "特朗普万圣节扮“特朗普”：有钱人花9个小时打扮，我只有10分钟",
+          "url": "https://news.ifeng.com/c/8xixkoq17yj",
+          "source": "凤凰网",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "期中“烤”｜“拒绝数据中心会输给中国”？美国社区挑战特朗普AI雄心",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34375606",
+          "source": "澎湃新闻",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "白宫国家经济委员会主任哈塞特：即使民主党掌控国会，政府仍能做很多事。 希望特朗普政府能与掌控国会的任何一方合作。",
@@ -289,6 +367,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "一图世界·期中“烤”｜特朗普会成“跛脚鸭”吗？先看懂这些问题",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34383514",
+          "source": "澎湃新闻",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
         },
         {
           "title": "内塔尼亚胡敦促特朗普中期选举后立即打击伊朗",
@@ -308,20 +397,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
         {
-          "title": "中期选举对特朗普有多重要",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%AF%B9%E7%89%B9%E6%9C%97%E6%99%AE%E6%9C%89%E5%A4%9A%E9%87%8D%E8%A6%81",
-          "source": "bilibili 热搜",
+          "title": "你认为特朗普和共和党能赢下今年的中期选举吗？",
+          "url": "https://www.zhihu.com/question/2008641759798894962",
+          "source": "知乎",
           "ranks": [
             16
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时12分"
+          "time_info": "15时15分"
         },
         {
           "title": "美媒：卢拉和米莱的胜利归功于特朗普",
@@ -344,6 +433,107 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时12分"
+        },
+        {
+          "title": "美飞机坠毁地点在特朗普私宅附近",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E9%A3%9E%E6%9C%BA%E5%9D%A0%E6%AF%81%E5%9C%B0%E7%82%B9%E5%9C%A8%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%81%E5%AE%85%E9%99%84%E8%BF%91",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "DeepSeek Agent小白教程",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Agent%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B",
+          "source": "bilibili 热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "怎么看百度搜索降价千次 4.9 元，这是针对 DeepSeek 搜索的千次 5 元吗？",
+          "url": "https://www.zhihu.com/question/2099967799934313950",
+          "source": "知乎",
+          "ranks": [
+            4,
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时12分 ~ 08时16分]"
+        },
+        {
+          "title": "DeepSeek 主打性价比而 Kimi 瞄准高价，这种定价分歧反映出怎样的商业逻辑？",
+          "url": "https://www.zhihu.com/question/2099804149479223383",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "DeepSeek亮出“超级智能体”架构",
+          "url": "https://www.toutiao.com/trending/7703258129567321638/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时16分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "阿布扎比国家石油公司携手G42与OpenAI，推进能源业务AI整合",
+          "url": "https://flash.jin10.com/detail/20261102144250118800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "OpenAI奥特曼：人工智能将改变全球能源的充裕程度与效率。 能源是人工智能领域目前面临的挑战之一。",
+          "url": "https://wallstreetcn.com/livenews/3192280",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时15分"
+        },
+        {
+          "title": "OpenAI计划将数据中心称为“算力园区” 试图重塑公众形象",
+          "url": "https://flash.jin10.com/detail/20261102063954509800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "08时16分"
         }
       ]
     },
@@ -358,7 +548,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         },
@@ -367,11 +557,12 @@
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28368651&amp;topic_name=%E7%BE%8E%E8%82%A1AI%E6%9A%B4%E8%B7%8C%2C%E4%B8%87%E4%BA%BF%E5%B8%82%E5%80%BC%E8%92%B8%E5%8F%91",
           "source": "贴吧",
           "ranks": [
-            17
+            17,
+            23
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时12分 ~ 08时16分]"
+          "appearance_count": 3,
+          "time_info": "[04时12分 ~ 15时15分]"
         },
         {
           "title": "美股三大股指期货周一高开，其中纳指期货涨0.3%。",
@@ -380,55 +571,26 @@
           "ranks": [
             17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "08时16分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "怎么看百度搜索降价千次 4.9 元，这是针对 DeepSeek 搜索的千次 5 元吗？",
-          "url": "https://www.zhihu.com/question/2099967799934313950",
-          "source": "知乎",
-          "ranks": [
-            4,
-            15
-          ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时12分 ~ 08时16分]"
-        },
-        {
-          "title": "DeepSeek亮出“超级智能体”架构",
-          "url": "https://www.toutiao.com/trending/7703258129567321638/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "08时16分"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
+      "keyword_group": "金价",
       "match_count": 1,
       "titles": [
         {
-          "title": "OpenAI计划将数据中心称为“算力园区” 试图重塑公众形象",
-          "url": "https://flash.jin10.com/detail/20261102063954509800",
-          "source": "金十数据",
+          "title": "金价震荡下的“黄金生意”",
+          "url": "https://www.toutiao.com/trending/7703392010274606634/",
+          "source": "今日头条",
           "ranks": [
-            23
+            30
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "08时16分"
+          "time_info": "15时15分"
         }
       ]
     },
@@ -443,7 +605,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时16分"
         }
