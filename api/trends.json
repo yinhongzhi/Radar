@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-03T08:33:10.899911+08:00",
-  "total_titles_processed": 475,
+  "generated_at": "2026-11-03T15:34:54.603308+08:00",
+  "total_titles_processed": 714,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 12,
+      "match_count": 20,
       "titles": [
         {
           "title": "特朗普：没了结伊朗的唯一原因是想“做个好人”",
@@ -30,6 +30,17 @@
           "time_info": "[08时32分 ~ 08时33分]"
         },
         {
+          "title": "曾支持特朗普的蓝领工人，变了",
+          "url": "https://original.ifeng.com/c/8xkAIzPlrxi",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
           "title": "美国一公务机在居民区坠毁致 9 死，距特朗普的海湖庄园仅七八公里，具体情况如何？可能是什么原因？",
           "url": "https://www.zhihu.com/question/2100501083466326367",
           "source": "知乎",
@@ -39,6 +50,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "特朗普谈中期选举：如果我们输了，美国就完了",
+          "url": "https://news.ifeng.com/c/8xkSdrMQQky",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "期中“烤”｜“拒绝数据中心会输给中国”？美国社区挑战特朗普AI雄心",
@@ -98,6 +120,50 @@
           "time_info": "01时50分"
         },
         {
+          "title": "特朗普对伊态度明显软化：不会在中期选举后发动打击，协议可能达成！",
+          "url": "https://www.cls.cn/detail/2523193",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "期中“烤”｜战争、物价与流量：一手托起特朗普的美国播客开始冷落他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34382628",
+          "source": "澎湃新闻",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "美伊局势再添迷雾：特朗普淡化战争风险之际 美袭击伊朗格什姆岛",
+          "url": "https://www.cls.cn/detail/2523349",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "草皮、管道和倒影池：不谈通胀，特朗普选前收官演讲成了“装修报告”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34393113",
+          "source": "澎湃新闻",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
           "title": "美国贸易代表格里尔：总统特朗普认定卢旺达和南非政府正在采取不符合《非洲增长与机会法案》资格标准的行为。 其打算根据《非洲增长与机会法案》，暂停南非和卢旺达对美国市场的免税准入资格。",
           "url": "https://wallstreetcn.com/livenews/3192762",
           "source": "华尔街见闻-快讯",
@@ -115,7 +181,7 @@
           "ranks": [
             14
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时33分"
         },
@@ -126,9 +192,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时33分"
+        },
+        {
+          "title": "特朗普选前收官演讲成“装修报告”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%89%E5%89%8D%E6%94%B6%E5%AE%98%E6%BC%94%E8%AE%B2%E6%88%90%E2%80%9C%E8%A3%85%E4%BF%AE%E6%8A%A5%E5%91%8A%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "美国总统特朗普政府请求美国最高法院介入一诉讼，该诉讼旨在阻止加利福尼亚州统计某些邮寄选票。",
@@ -140,12 +217,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "特朗普面临“期中考试”",
+          "url": "https://www.toutiao.com/trending/7703792633482579483/",
+          "source": "今日头条",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 6,
+      "match_count": 18,
       "titles": [
         {
           "title": "伊朗称已组建首支“为伊朗捐躯”旅",
@@ -167,8 +255,19 @@
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时50分 ~ 08时33分]"
+          "appearance_count": 4,
+          "time_info": "[01时50分 ~ 15时34分]"
+        },
+        {
+          "title": "美官员称美袭击伊朗格什姆岛",
+          "url": "https://www.douyin.com/hot/2726467",
+          "source": "抖音",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         },
         {
           "title": "伊朗最高领袖赋予政府谈判权限",
@@ -193,6 +292,61 @@
           "time_info": "[08时32分 ~ 08时33分]"
         },
         {
+          "title": "伊朗与美国距离达成结束战争的协议还很遥远，斡旋方正努力缩小伊朗和美国之间的分歧。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3193129",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "伊朗称俘获2架美军侦察无人机",
+          "url": "https://news.ifeng.com/c/8xkW39gjaAv",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "美官员称美袭击伊朗格什姆岛",
+          "url": "https://www.toutiao.com/trending/7703152934749618219/",
+          "source": "今日头条",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "美借俄乌和谈为伊朗谈判争取时间？",
+          "url": "https://flash.jin10.com/detail/20261103145555003800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "伊朗议长要求严管战时物价：不能让投机者发战争财",
+          "url": "https://flash.jin10.com/detail/20261103145019342800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
           "title": "伊朗称已组建首支“为伊朗捐躯”旅",
           "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%B7%B2%E7%BB%84%E5%BB%BA%E9%A6%96%E6%94%AF%E2%80%9C%E4%B8%BA%E4%BC%8A%E6%9C%97%E6%8D%90%E8%BA%AF%E2%80%9D%E6%97%85",
           "source": "百度热搜",
@@ -204,6 +358,61 @@
           "time_info": "01时50分"
         },
         {
+          "title": "伊朗高级官员：美国若想重开霍尔木兹海峡，就必须满足德黑兰的条件，此后才能启动核谈判。",
+          "url": "https://flash.jin10.com/detail/20261103144507015800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "伊朗高级官员：调解方正努力缩小德黑兰与华盛顿之间的分歧。",
+          "url": "https://flash.jin10.com/detail/20261103144435723800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "伊朗高级官员：德黑兰不会接受美国的过分要求。",
+          "url": "https://flash.jin10.com/detail/20261103144424058800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "万斯称没有就恢复打击伊朗设最后期限",
+          "url": "https://wallstreetcn.com/livenews/3193095",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "伊朗高级官员：美伊距离达成协议还很遥远",
+          "url": "https://flash.jin10.com/detail/20261103144343384800",
+          "source": "金十数据",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
           "title": "伊朗外长：与美国的间接磋商“非常密集”",
           "url": "https://wallstreetcn.com/livenews/3192744",
           "source": "华尔街见闻-快讯",
@@ -213,6 +422,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时50分"
+        },
+        {
+          "title": "伊朗：美国任何进一步侵略都将立即遭到回应",
+          "url": "https://wallstreetcn.com/livenews/3193089",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
         }
       ]
     },
@@ -228,8 +448,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[08时32分 ~ 08时33分]"
+          "appearance_count": 3,
+          "time_info": "[08时32分 ~ 15时34分]"
         },
         {
           "title": "美股",
@@ -272,7 +492,7 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时33分"
         }
@@ -300,7 +520,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时33分"
         },
@@ -311,7 +531,7 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时33分"
         },
@@ -322,9 +542,59 @@
           "ranks": [
             30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "08时33分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "金价暴跌，全球央行却加速买入！世界黄金协会上调全年购金预期",
+          "url": "https://flash.jin10.com/detail/20261103150336698800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时34分"
+        },
+        {
+          "title": "伊朗最高领袖释放与美国进一步谈判信号 国际油价应声大跌金价跳涨2%",
+          "url": "https://www.cls.cn/detail/2523079",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[08时32分 ~ 08时33分]"
+        },
+        {
+          "title": "油价回落提振情绪，美股全线上涨，WTI原油日内下跌6%，金价徘徊3900美元关口",
+          "url": "https://wallstreetcn.com/articles/3784983",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
+        },
+        {
+          "title": "黄金价格暴跌背后的全球资本巨变",
+          "url": "https://www.toutiao.com/trending/7703560216603790867/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时50分"
         }
       ]
     },
@@ -360,50 +630,12 @@
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Agent%E5%B0%8F%E7%99%BD%E6%95%99%E7%A8%8B",
           "source": "bilibili 热搜",
           "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "伊朗最高领袖释放与美国进一步谈判信号 国际油价应声大跌金价跳涨2%",
-          "url": "https://www.cls.cn/detail/2523079",
-          "source": "财联社热门",
-          "ranks": [
-            13
+            13,
+            19
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[08时32分 ~ 08时33分]"
-        },
-        {
-          "title": "油价回落提振情绪，美股全线上涨，WTI原油日内下跌6%，金价徘徊3900美元关口",
-          "url": "https://wallstreetcn.com/articles/3784983",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
-        },
-        {
-          "title": "黄金价格暴跌背后的全球资本巨变",
-          "url": "https://www.toutiao.com/trending/7703560216603790867/",
-          "source": "今日头条",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "01时50分"
+          "time_info": "[01时50分 ~ 15时34分]"
         }
       ]
     },
