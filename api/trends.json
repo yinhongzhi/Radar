@@ -1,11 +1,382 @@
 {
-  "generated_at": "2026-11-04T09:54:58.208022+08:00",
-  "total_titles_processed": 514,
+  "generated_at": "2026-11-04T16:39:15.447943+08:00",
+  "total_titles_processed": 758,
   "failed_sources": [],
   "trends": [
     {
+      "keyword_group": "特朗普",
+      "match_count": 33,
+      "titles": [
+        {
+          "title": "伊朗拒绝开放霍尔木兹，要求美国回应七项条件，特朗普称美军发动“小规模攻击”",
+          "url": "https://wallstreetcn.com/articles/3785095",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[05时31分 ~ 16时39分]"
+        },
+        {
+          "title": "中期选举惨败特朗普将面对什么",
+          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E6%83%A8%E8%B4%A5%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E9%9D%A2%E5%AF%B9%E4%BB%80%E4%B9%88",
+          "source": "bilibili 热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
+        {
+          "title": "2026 年美国中期选举，美民主党称夺回参议院，特朗普被指全面惨败，如何理解当前的选情？未来要关注什么？",
+          "url": "https://www.zhihu.com/question/2100904648848810346",
+          "source": "知乎",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
+        {
+          "title": "特朗普：祝贺民主党人",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%EF%BC%9A%E7%A5%9D%E8%B4%BA%E6%B0%91%E4%B8%BB%E5%85%9A%E4%BA%BA",
+          "source": "百度热搜",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
+        {
+          "title": "美国国会彻底变天，对特朗普的核心影响有哪些？",
+          "url": "https://original.ifeng.com/c/8xmB2KMQipf",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
+        {
+          "title": "特朗普欲阻止加州清点2万多张选票，美最高法驳回",
+          "url": "https://original.ifeng.com/c/8xkm9r1gXqn",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 05时32分]"
+        },
+        {
+          "title": "特朗普：民主党在中期选举中取得优势，但我有完全否决权、共和党输一大原因是伊朗",
+          "url": "https://wallstreetcn.com/articles/3785146",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
+        {
+          "title": "哈里斯“复出”猛批特朗普，直言“美国民众已经等不起了”",
+          "url": "https://news.ifeng.com/c/8xku0TfY0Pg",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 05时32分]"
+        },
+        {
+          "title": "特朗普称将结束每年约40亿美元对以援助，以方：感到惊讶",
+          "url": "https://news.ifeng.com/c/8xm2MMHEIth",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
+        {
+          "title": "国会大变天特朗普剩余任期怎么办",
+          "url": "https://s.weibo.com/weibo?q=%23%E5%9B%BD%E4%BC%9A%E5%A4%A7%E5%8F%98%E5%A4%A9%E7%89%B9%E6%9C%97%E6%99%AE%E5%89%A9%E4%BD%99%E4%BB%BB%E6%9C%9F%E6%80%8E%E4%B9%88%E5%8A%9E%23&t=31&band_rank=5&Refer=top",
+          "source": "微博",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
+        {
+          "title": "如何看待 2026 年美国中期选举特朗普两院尽丢？得州翻蓝又意味着什么？",
+          "url": "https://www.zhihu.com/question/2101271124130666068",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
+        {
+          "title": "美媒体人称特朗普或用核武",
+          "url": "https://www.toutiao.com/trending/7703989043054251561/",
+          "source": "今日头条",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "特朗普：美国没有立即打击伊朗的计划",
+          "url": "https://news.ifeng.com/c/8xlqlo2dH7V",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "草皮、管道和倒影池：不谈通胀，特朗普选前收官演讲成了“装修报告”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34393113",
+          "source": "澎湃新闻",
+          "ranks": [
+            10,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时31分 ~ 09时54分]"
+        },
+        {
+          "title": "胡锡进：若特朗普真对伊朗使用核武器，世界政治规则将被改写",
+          "url": "https://news.ifeng.com/c/8xkkQ0ZW9YI",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 05时32分]"
+        },
+        {
+          "title": "期中“烤”｜战争、物价与流量：一手托起特朗普的美国播客开始冷落他",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34382628",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 05时32分]"
+        },
+        {
+          "title": "特朗普祝贺民主党获胜",
+          "url": "https://www.douyin.com/hot/2728616",
+          "source": "抖音",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
+        {
+          "title": "特朗普称将停止对以色列援助",
+          "url": "https://www.douyin.com/hot/2728182",
+          "source": "抖音",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
+        {
+          "title": "中期选举结果如何影响特朗普",
+          "url": "https://www.douyin.com/hot/2728533",
+          "source": "抖音",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
+        {
+          "title": "如何看待美参议院民主党领袖称民主党人赢得了参议院，对特朗普执政有何掣肘？",
+          "url": "https://www.zhihu.com/question/2101259727464408521",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
+        {
+          "title": "期中“烤”｜在特朗普时代吃低保：每月300美元变57美元，她说“政府把我往水底按”",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34366567",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
+        {
+          "title": "特朗普承认伊朗战事影响中期选举",
+          "url": "https://www.toutiao.com/trending/7703163902487117865/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
+        {
+          "title": "特朗普承认民主党取得优势",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E6%89%BF%E8%AE%A4%E6%B0%91%E4%B8%BB%E5%85%9A%E5%8F%96%E5%BE%97%E4%BC%98%E5%8A%BF",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
+        {
+          "title": "特朗普称对伊朗战争是选举失利原因",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%AF%B9%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%89%E6%98%AF%E9%80%89%E4%B8%BE%E5%A4%B1%E5%88%A9%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=22&Refer=top",
+          "source": "微博",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
+        {
+          "title": "特朗普回应中期选举魔咒",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E9%AD%94%E5%92%92%23&t=31&band_rank=29&Refer=top",
+          "source": "微博",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 05时32分]"
+        },
+        {
+          "title": "特朗普祝贺民主党人赢得选举",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A5%9D%E8%B4%BA%E6%B0%91%E4%B8%BB%E5%85%9A%E4%BA%BA%E8%B5%A2%E5%BE%97%E9%80%89%E4%B8%BE",
+          "source": "bilibili 热搜",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
+        {
+          "title": "特朗普宣布停止每年40亿美元对以军援：以色列已不再需要这笔钱",
+          "url": "https://www.cls.cn/detail/2524374",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "特朗普称美国暂无立即打击伊朗计划",
+          "url": "https://www.toutiao.com/trending/7703514755981639721/",
+          "source": "今日头条",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "特朗普会干预联合国选举吗",
+          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E5%B9%B2%E9%A2%84%E8%81%94%E5%90%88%E5%9B%BD%E9%80%89%E4%B8%BE%E5%90%97",
+          "source": "bilibili 热搜",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "参众两院全线失守，特朗普的清算时刻将至",
+          "url": "https://flash.jin10.com/detail/20261104162140814800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "特朗普民调支持率曾一度跌至 31%，创下历史最低纪录，问题出在哪里？该如何「翻盘」？",
+          "url": "https://www.zhihu.com/question/2099492639410058219",
+          "source": "知乎",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时54分"
+        },
+        {
+          "title": "特朗普称不后悔发动伊朗战事",
+          "url": "https://wallstreetcn.com/livenews/3194002",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
+          "title": "据CNN：消息人士透露，美国总统特朗普今晚将在白宫东厅与一小批盟友及内阁成员一同观看中期选举结果，而特朗普的政治运作机构MAGA公司已分别在白宫园区内及附近设立竞选战情室，实时监测选举结果。",
+          "url": "https://flash.jin10.com/detail/20261104050159646800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时32分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 17,
+      "match_count": 19,
       "titles": [
         {
           "title": "美国中选“最可能剧本”，将是美股“最危险剧本”？",
@@ -69,7 +440,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -130,6 +501,17 @@
           "time_info": "05时32分"
         },
         {
+          "title": "美股股指期货持续走高，纳指期货、标普500指数期货均转涨，道指期货涨0.45%。此前纳指期货一度跌约2.4%。",
+          "url": "https://wallstreetcn.com/livenews/3194016",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
+        },
+        {
           "title": "超微电脑(SMCI.O)美股盘后涨6%。",
           "url": "https://flash.jin10.com/detail/20261104050914090800",
           "source": "金十数据",
@@ -180,9 +562,20 @@
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
+        },
+        {
+          "title": "特斯拉与SpaceX在Tradegate交易平台较美股昨日收盘价下跌5%。",
+          "url": "https://wallstreetcn.com/livenews/3193988",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "16时39分"
         },
         {
           "title": "AMD将于美股盘后公布财报。",
@@ -198,160 +591,94 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 14,
+      "keyword_group": "伊朗",
+      "match_count": 8,
       "titles": [
         {
-          "title": "特朗普欲阻止加州清点2万多张选票，美最高法驳回",
-          "url": "https://original.ifeng.com/c/8xkm9r1gXqn",
-          "source": "凤凰网",
+          "title": "伊朗军方提出五项和平原则：解除制裁、战争赔偿，还要霍尔木兹海峡主权......",
+          "url": "https://wallstreetcn.com/articles/3785079",
+          "source": "华尔街见闻",
           "ranks": [
-            4
+            5,
+            6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 05时32分]"
+          "appearance_count": 5,
+          "time_info": "[05时31分 ~ 16时39分]"
         },
         {
-          "title": "哈里斯“复出”猛批特朗普，直言“美国民众已经等不起了”",
-          "url": "https://news.ifeng.com/c/8xku0TfY0Pg",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 05时32分]"
-        },
-        {
-          "title": "美媒体人称特朗普或用核武",
-          "url": "https://www.toutiao.com/trending/7703989043054251561/",
+          "title": "伊朗议长：美选举结果表明对战争说不",
+          "url": "https://www.toutiao.com/trending/7704196344864620598/",
           "source": "今日头条",
           "ranks": [
             4
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
         },
         {
-          "title": "伊朗拒绝开放霍尔木兹，要求美国回应七项条件，特朗普称美军发动“小规模攻击”",
-          "url": "https://wallstreetcn.com/articles/3785095",
-          "source": "华尔街见闻",
+          "title": "美伊停战谈判仍存重大分歧！伊朗坚持七项条件：否则霍尔木兹海峡不会重开",
+          "url": "https://www.cls.cn/detail/2524356",
+          "source": "财联社热门",
           "ranks": [
-            9,
             4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 09时54分]"
-        },
-        {
-          "title": "特朗普：美国没有立即打击伊朗的计划",
-          "url": "https://news.ifeng.com/c/8xlqlo2dH7V",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
         {
-          "title": "草皮、管道和倒影池：不谈通胀，特朗普选前收官演讲成了“装修报告”",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34393113",
-          "source": "澎湃新闻",
+          "title": "边谈边打！报道：美军中选前夕袭击了伊朗格什姆岛，谈判信号同步推进",
+          "url": "https://wallstreetcn.com/articles/3785059",
+          "source": "华尔街见闻",
           "ranks": [
             10,
-            7
+            9
           ],
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[05时31分 ~ 09时54分]"
         },
         {
-          "title": "胡锡进：若特朗普真对伊朗使用核武器，世界政治规则将被改写",
-          "url": "https://news.ifeng.com/c/8xkkQ0ZW9YI",
+          "title": "伊朗民众举行反美集会，要求报复美国",
+          "url": "https://original.ifeng.com/c/8xm4CfGG2jG",
           "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 05时32分]"
-        },
-        {
-          "title": "期中“烤”｜战争、物价与流量：一手托起特朗普的美国播客开始冷落他",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34382628",
-          "source": "澎湃新闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[05时31分 ~ 05时32分]"
+          "time_info": "[16时38分 ~ 16时39分]"
         },
         {
-          "title": "特朗普回应中期选举魔咒",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E9%AD%94%E5%92%92%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
+          "title": "前白宫官员：伊朗局势短期难迎外交突破 共和党未来或陷路线之争",
+          "url": "https://www.cls.cn/detail/2524170",
+          "source": "财联社热门",
           "ranks": [
-            29
+            11
           ],
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[05时31分 ~ 05时32分]"
         },
         {
-          "title": "特朗普宣布停止每年40亿美元对以军援：以色列已不再需要这笔钱",
-          "url": "https://www.cls.cn/detail/2524374",
-          "source": "财联社热门",
+          "title": "美官员称美袭击伊朗格什姆岛",
+          "url": "https://www.douyin.com/hot/2726467",
+          "source": "抖音",
           "ranks": [
-            6
+            17
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[05时31分 ~ 05时32分]"
         },
         {
-          "title": "特朗普称美国暂无立即打击伊朗计划",
-          "url": "https://www.toutiao.com/trending/7703514755981639721/",
-          "source": "今日头条",
+          "title": "两名地区消息人士透露，美国和伊朗之间的谈判陷入僵局。（耶路撒冷邮报）",
+          "url": "https://wallstreetcn.com/livenews/3193559",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "特朗普会干预联合国选举吗",
-          "url": "https://search.bilibili.com/all?keyword=%E7%89%B9%E6%9C%97%E6%99%AE%E4%BC%9A%E5%B9%B2%E9%A2%84%E8%81%94%E5%90%88%E5%9B%BD%E9%80%89%E4%B8%BE%E5%90%97",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "特朗普民调支持率曾一度跌至 31%，创下历史最低纪录，问题出在哪里？该如何「翻盘」？",
-          "url": "https://www.zhihu.com/question/2099492639410058219",
-          "source": "知乎",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "据CNN：消息人士透露，美国总统特朗普今晚将在白宫东厅与一小批盟友及内阁成员一同观看中期选举结果，而特朗普的政治运作机构MAGA公司已分别在白宫园区内及附近设立竞选战情室，实时监测选举结果。",
-          "url": "https://flash.jin10.com/detail/20261104050159646800",
-          "source": "金十数据",
-          "ranks": [
-            24
+            28
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -435,82 +762,31 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "伊朗军方提出五项和平原则：解除制裁、战争赔偿，还要霍尔木兹海峡主权......",
-          "url": "https://wallstreetcn.com/articles/3785079",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 09时54分]"
-        },
-        {
-          "title": "美伊停战谈判仍存重大分歧！伊朗坚持七项条件：否则霍尔木兹海峡不会重开",
-          "url": "https://www.cls.cn/detail/2524356",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时54分"
-        },
-        {
-          "title": "边谈边打！报道：美军中选前夕袭击了伊朗格什姆岛，谈判信号同步推进",
-          "url": "https://wallstreetcn.com/articles/3785059",
-          "source": "华尔街见闻",
-          "ranks": [
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[05时31分 ~ 09时54分]"
-        },
-        {
-          "title": "前白宫官员：伊朗局势短期难迎外交突破 共和党未来或陷路线之争",
-          "url": "https://www.cls.cn/detail/2524170",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 05时32分]"
-        },
-        {
-          "title": "美官员称美袭击伊朗格什姆岛",
-          "url": "https://www.douyin.com/hot/2726467",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[05时31分 ~ 05时32分]"
-        },
-        {
-          "title": "两名地区消息人士透露，美国和伊朗之间的谈判陷入僵局。（耶路撒冷邮报）",
-          "url": "https://wallstreetcn.com/livenews/3193559",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时32分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "历史性大胜！民主党赢下两院、还要横扫州长选举，美股期货V型反弹，韩股转涨，美债上涨，黄金站上4000美元",
+          "url": "https://wallstreetcn.com/articles/3785134",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
+        {
+          "title": "美财政部今夜有重磅声明！摩根资管提前喊话：取消20年期美债",
+          "url": "https://www.cls.cn/detail/2524451",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
+        },
         {
           "title": "两年期美债收益率下跌6个基点至4.573%，联邦基金利率期货小幅上升。",
           "url": "https://flash.jin10.com/detail/20261104092408138800",
@@ -518,7 +794,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时54分"
         },
@@ -532,6 +808,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时32分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价回落消费者趁机购金",
+          "url": "https://www.douyin.com/hot/2727919",
+          "source": "抖音",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[16时38分 ~ 16时39分]"
         }
       ]
     },
