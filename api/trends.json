@@ -1,23 +1,12 @@
 {
-  "generated_at": "2026-11-05T06:26:00.204060+08:00",
-  "total_titles_processed": 421,
+  "generated_at": "2026-11-05T11:14:36.185047+08:00",
+  "total_titles_processed": 633,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 23,
       "titles": [
-        {
-          "title": "特朗普态度转折，称渴望与民主党达成协议",
-          "url": "https://news.ifeng.com/c/8xmRq6xG2Qj",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 06时26分]"
-        },
         {
           "title": "特朗普：民主党在中期选举中取得优势，但我有完全否决权、共和党输一大原因是伊朗",
           "url": "https://wallstreetcn.com/articles/3785146",
@@ -25,6 +14,17 @@
           "ranks": [
             4,
             5
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 11时14分]"
+        },
+        {
+          "title": "特朗普态度转折，称渴望与民主党达成协议",
+          "url": "https://news.ifeng.com/c/8xmRq6xG2Qj",
+          "source": "凤凰网",
+          "ranks": [
+            2
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -42,6 +42,28 @@
           "time_info": "[01时02分 ~ 06时26分]"
         },
         {
+          "title": "历史性惨败后，特朗普找到最重要原因",
+          "url": "https://news.ifeng.com/c/8xnYAZTWnQ9",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "原油盘中暴跌10%！“切割特朗普”，万斯称“输在伊朗战争”，民主党领袖誓言阻止关税和战争",
+          "url": "https://wallstreetcn.com/articles/3785203",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "据美国哥伦比亚广播公司（CBS）：消息人士称，美国总统特朗普正在询问顾问美国国防部长赫格塞思是否应该离职。",
           "url": "https://flash.jin10.com/detail/20261105004312484800",
           "source": "金十数据",
@@ -51,6 +73,29 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "高市早苗曾嫌弃特朗普周边档次低",
+          "url": "https://www.toutiao.com/trending/7703556804298539062/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "特朗普承认伊朗战事影响中期选举",
+          "url": "https://www.toutiao.com/trending/7703163902487117865/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 11时14分]"
         },
         {
           "title": "特朗普：我不后悔",
@@ -64,16 +109,16 @@
           "time_info": "[01时02分 ~ 06时26分]"
         },
         {
-          "title": "特朗普承认伊朗战事影响中期选举",
-          "url": "https://www.toutiao.com/trending/7703163902487117865/",
-          "source": "今日头条",
+          "title": "中选惨败后，特朗普对伊朗态度软化，称“可能没必要再打”",
+          "url": "https://wallstreetcn.com/articles/3785177",
+          "source": "华尔街见闻",
           "ranks": [
-            21,
-            22
+            10,
+            7
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[01时02分 ~ 06时26分]"
+          "time_info": "[06时25分 ~ 11时14分]"
         },
         {
           "title": "特朗普称将停止对以色列援助",
@@ -81,17 +126,6 @@
           "source": "抖音",
           "ranks": [
             9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[06时25分 ~ 06时26分]"
-        },
-        {
-          "title": "中选惨败后，特朗普对伊朗态度软化，称“可能没必要再打”",
-          "url": "https://wallstreetcn.com/articles/3785177",
-          "source": "华尔街见闻",
-          "ranks": [
-            10
           ],
           "is_new": false,
           "appearance_count": 2,
@@ -109,6 +143,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "特朗普中期选举失利后首次露面 承认伊朗战争拖累共和党但坚称决策正确",
+          "url": "https://www.cls.cn/detail/2525608",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "民主党夺下美国参议院，特朗普重塑美联储之路再添屏障随",
           "url": "https://wallstreetcn.com/livenews/3194393",
           "source": "华尔街见闻-快讯",
@@ -118,6 +163,28 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "特朗普中期选举受挫，反数据中心势力悄然崛起",
+          "url": "https://wallstreetcn.com/articles/3785179",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "特朗普称不惧民主党弹劾 国际原油价格一度暴跌10% | 环球市场",
+          "url": "https://www.cls.cn/detail/2525653",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         },
         {
           "title": "美国参议院民主党党领袖舒默和民主党参议院竞选委员会为密西西比州参议员竞选派遣监督员。 舒默表示：（民主党横扫参众两院之后）尚未与总统特朗普交谈。 无论有没有美国总统特朗普，都将推动成本下降。 我们将结束这场战争，一些共和党人已加入我们。 若特朗普违背民众意愿，将启动调查。 存在如此严重的腐败，必须展开调查。 我将再次当选多数党领袖。",
@@ -131,6 +198,17 @@
           "time_info": "01时02分"
         },
         {
+          "title": "特朗普宣布将停止每年约 40 亿美元对以色列援助，背后原因是什么？将对美以关系和中东局势产生什么影响？",
+          "url": "https://www.zhihu.com/question/2101246252964917912",
+          "source": "知乎",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "美国参议院少数党领袖舒默：无论有没有美国总统特朗普，我们都将推动成本下降。",
           "url": "https://flash.jin10.com/detail/20261105002939714800",
           "source": "金十数据",
@@ -142,13 +220,24 @@
           "time_info": "01时02分"
         },
         {
+          "title": "特朗普中期选举失利后首次露面",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%AD%E6%9C%9F%E9%80%89%E4%B8%BE%E5%A4%B1%E5%88%A9%E5%90%8E%E9%A6%96%E6%AC%A1%E9%9C%B2%E9%9D%A2",
+          "source": "百度热搜",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "施罗德（Schroders）高级经济学家布朗（George Brown）表示，考虑到美国财政赤字约占经济总量的6%，且公众持有的债务已超过32万亿美元（不包括政府欠医疗保险和社会保障等计划的资金），再加上特朗普政府和即将上任的民主党国会都承诺增加新的支出，“这一假设值得重新审视”。 “如果政治妥协日益意味着更大的赤字而非财政巩固，投资者可能会要求更高的期限溢价来持有长期国债。” 这可能会导致收益率曲线变得更加陡峭。",
           "url": "https://wallstreetcn.com/livenews/3194501",
           "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         },
@@ -159,15 +248,26 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "美国总统特朗普周四日程一览",
+          "url": "https://flash.jin10.com/detail/20261105101925321800",
+          "source": "金十数据",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 14,
       "titles": [
         {
           "title": "民主党横扫国会！美股三大指数上涨，存储普跌，SpaceX跌超5%，黄金站上4000美元",
@@ -179,6 +279,39 @@
           "is_new": false,
           "appearance_count": 3,
           "time_info": "[01时02分 ~ 06时26分]"
+        },
+        {
+          "title": "民主党横扫国会！美股债齐涨，光通信与数据中心股下挫，原油一度暴跌10%，金银大涨",
+          "url": "https://wallstreetcn.com/articles/3785134",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "【早报】深夜巨震，油价重挫超8%，黄金大涨超3%；美股剧烈分化，中概股集体爆发；亨通光电、凯莱英、三环集团拟回购公司股份",
+          "url": "https://www.cls.cn/detail/2525668",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
+          "title": "美股收盘：政治不确定性消退叠加油价暴跌 道指大涨逾1500点 AI数据中心股遭重挫",
+          "url": "https://www.cls.cn/detail/2525646",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         },
         {
           "title": "美股",
@@ -193,15 +326,37 @@
           "time_info": "[01时02分 ~ 06时26分]"
         },
         {
+          "title": "美股科技上演“次贷危机”",
+          "url": "https://www.toutiao.com/trending/7704443460459171337/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "黄金ETF收涨将近3.7%，与地产ETF领跑美股大类资产类ETF，布油基金跌超8.6%",
           "url": "https://wallstreetcn.com/livenews/3194519",
           "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "美股史诗级暴涨",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%8F%B2%E8%AF%97%E7%BA%A7%E6%9A%B4%E6%B6%A8%23&t=31&band_rank=9&Refer=top",
+          "source": "微博",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         },
         {
           "title": "周三（11月4日），美股行业ETF多数收涨，全球航空业ETF收涨6.7%，可选消费ETF涨4.26%，金融业ETF涨3.51%，网络股指数ETF涨2.36%，科技行业ETF、全球科技股指数ETF至多跌0.44%，半导体ETF跌2.75%，能源业ETF跌4.74%。",
@@ -210,7 +365,7 @@
           "ranks": [
             12
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         },
@@ -232,9 +387,20 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "美股收盘 中国资产爆发",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%94%B6%E7%9B%98+%E4%B8%AD%E5%9B%BD%E8%B5%84%E4%BA%A7%E7%88%86%E5%8F%91",
+          "source": "百度热搜",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         },
         {
           "title": "美股费城半导体指数日内跌3.01%，英伟达跌1.62%，博通跌1.67%，美光跌4.91%，英特尔跌4.29%，AMD涨0.32%，高通涨2.29%，台积电跌1.15%，阿斯麦跌3.23%。",
@@ -246,42 +412,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "网传 DeepSeek V5 已经做出来了但官方未发布，是真的吗？可能什么时候发布？",
-          "url": "https://www.zhihu.com/question/2099896271318397900",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 06时26分]"
         },
         {
-          "title": "DeepSeek Harness零基础全流程教学",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%95%99%E5%AD%A6",
-          "source": "bilibili 热搜",
+          "title": "美股涨了 三星电子与SK海力士却因AI监管担忧同步暴跌",
+          "url": "https://flash.jin10.com/detail/20261105102019425800",
+          "source": "金十数据",
           "ranks": [
-            23,
-            12
+            28
           ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时02分 ~ 06时26分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "金价",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=4&Refer=top",
+          "source": "微博",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
         {
           "title": "国际金价涨超3.3%，现货白银涨约4.9%",
           "url": "https://wallstreetcn.com/livenews/3194521",
@@ -289,9 +448,20 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
+        },
+        {
+          "title": "金十图示：2026年11月05日（周四）上海金早盘价为886.69元/克，较国际金价(884.24元/克)，高2.45元/克",
+          "url": "https://flash.jin10.com/detail/20261105103344739800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         },
         {
           "title": "国际金价 直线拉升",
@@ -303,13 +473,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "金价急涨买还是卖",
+          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7%E6%80%A5%E6%B6%A8%E4%B9%B0%E8%BF%98%E6%98%AF%E5%8D%96&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 2,
+      "match_count": 5,
       "titles": [
+        {
+          "title": "万斯“甩锅”伊朗战争",
+          "url": "https://news.ifeng.com/c/8xn8h8wAVzX",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
         {
           "title": "伊朗议长：美选举结果表明对战争说不",
           "url": "https://www.toutiao.com/trending/7704196344864620598/",
@@ -323,6 +515,17 @@
           "time_info": "[01时02分 ~ 06时26分]"
         },
         {
+          "title": "记者直击伊朗大规模反美集会",
+          "url": "https://www.toutiao.com/trending/7704274306884567076/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        },
+        {
           "title": "美国将对伊朗国家紧急状态延长至2027年11月。",
           "url": "https://flash.jin10.com/detail/20261105002115510800",
           "source": "金十数据",
@@ -332,6 +535,75 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "01时02分"
+        },
+        {
+          "title": "伊朗官宣已采购苏-35有何意味",
+          "url": "https://www.toutiao.com/trending/7704160947543215679/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "DeepSeek Harness零基础全流程教学",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%95%99%E5%AD%A6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            23,
+            12,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[01时02分 ~ 11时14分]"
+        },
+        {
+          "title": "网传 DeepSeek V5 已经做出来了但官方未发布，是真的吗？可能什么时候发布？",
+          "url": "https://www.zhihu.com/question/2099896271318397900",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[01时02分 ~ 06时26分]"
+        },
+        {
+          "title": "如何评价 DeepSeek 工程师高熙说的「AI 竞赛中，真正的对手不是其他大模型公司，而是时间」？",
+          "url": "https://www.zhihu.com/question/2101053619059389232",
+          "source": "知乎",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI发布Images 2.6",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E5%8F%91%E5%B8%83Images%202.6",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时14分"
         }
       ]
     },
@@ -346,7 +618,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "06时26分"
         }
