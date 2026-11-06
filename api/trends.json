@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-06T15:41:05.444431+08:00",
-  "total_titles_processed": 717,
+  "generated_at": "2026-11-06T23:41:18.377715+08:00",
+  "total_titles_processed": 958,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "美股",
-      "match_count": 27,
+      "match_count": 35,
       "titles": [
         {
           "title": "【早报】深夜闪崩，美股现史诗级抛售；费城半导体指数重挫12%，创2020年来最大跌幅；国际油价，大幅走高",
@@ -24,18 +24,6 @@
           "source": "知乎",
           "ranks": [
             1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[08时45分 ~ 15时41分]"
-        },
-        {
-          "title": "AI交易大撤退、美股创纪录“血洗”2.8万亿！纳指跌近6%、芯片指数狂泻超10%，数据中心产业链跳水",
-          "url": "https://wallstreetcn.com/articles/3785294",
-          "source": "华尔街见闻",
-          "ranks": [
-            4,
-            2
           ],
           "is_new": false,
           "appearance_count": 3,
@@ -65,6 +53,19 @@
           "time_info": "[08时45分 ~ 15时41分]"
         },
         {
+          "title": "AI交易大撤退、美股创纪录“血洗”2.8万亿！纳指跌近6%、芯片指数狂泻超10%，数据中心产业链跳水",
+          "url": "https://wallstreetcn.com/articles/3785294",
+          "source": "华尔街见闻",
+          "ranks": [
+            4,
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[08时45分 ~ 23时41分]"
+        },
+        {
           "title": "民主党横扫国会！美股债齐涨，光通信与数据中心股下挫，原油一度暴跌10%，金银大涨",
           "url": "https://wallstreetcn.com/articles/3785134",
           "source": "华尔街见闻",
@@ -76,17 +77,6 @@
           "time_info": "[03时39分 ~ 03时40分]"
         },
         {
-          "title": "民主党提出超级 AI 禁令，美股迎来 1896 年以来中期选举后表现最差的第二个交易日，影响有多大？",
-          "url": "https://www.zhihu.com/question/2101977105504235968",
-          "source": "知乎",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 15时41分]"
-        },
-        {
           "title": "美股暴跌 遭遇历史性抛售",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E6%9A%B4%E8%B7%8C+%E9%81%AD%E9%81%87%E5%8E%86%E5%8F%B2%E6%80%A7%E6%8A%9B%E5%94%AE",
           "source": "百度热搜",
@@ -96,6 +86,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
+        },
+        {
+          "title": "非农大超预期，美股盘前芯片股领涨，闪迪涨8%，黄金承压回落",
+          "url": "https://wallstreetcn.com/articles/3785315",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "美股",
@@ -122,6 +123,29 @@
           "time_info": "[03时39分 ~ 08时45分]"
         },
         {
+          "title": "民主党提出超级 AI 禁令，美股迎来 1896 年以来中期选举后表现最差的第二个交易日，影响有多大？",
+          "url": "https://www.zhihu.com/question/2101977105504235968",
+          "source": "知乎",
+          "ranks": [
+            3,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 23时41分]"
+        },
+        {
+          "title": "撞上AI崩盘！今晚，一份强劲非农报告，或给美股又一重击",
+          "url": "https://wallstreetcn.com/articles/3785351",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "美股创纪录“血洗”2.8万亿美元",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E5%88%9B%E7%BA%AA%E5%BD%95%E2%80%9C%E8%A1%80%E6%B4%97%E2%80%9D2.8%E4%B8%87%E4%BA%BF%E7%BE%8E%E5%85%83",
           "source": "百度热搜",
@@ -133,6 +157,17 @@
           "time_info": "08时45分"
         },
         {
+          "title": "近百亿美股持仓遭遇大跌，但斌回应：AI就此落幕，可能极小",
+          "url": "https://www.cls.cn/detail/2527369",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "美股崩跌原因",
           "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%B4%A9%E8%B7%8C%E5%8E%9F%E5%9B%A0%23&t=31&band_rank=5&Refer=top",
           "source": "微博",
@@ -142,6 +177,30 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
+        },
+        {
+          "title": "隔夜美股崩盘：一场由1000亿美元“抢跑”引爆的反身性风暴",
+          "url": "https://wallstreetcn.com/articles/3785338",
+          "source": "华尔街见闻",
+          "ranks": [
+            9,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 23时41分]"
+        },
+        {
+          "title": "美股大跌特朗普甩锅民主党",
+          "url": "https://www.douyin.com/hot/2731913",
+          "source": "抖音",
+          "ranks": [
+            17,
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[15时40分 ~ 23时41分]"
         },
         {
           "title": "美股暴跌，华尔街全线溃败、无处可藏",
@@ -177,17 +236,6 @@
           "time_info": "[15时40分 ~ 15时41分]"
         },
         {
-          "title": "隔夜美股崩盘：一场由1000亿美元“抢跑”引爆的反身性风暴",
-          "url": "https://wallstreetcn.com/articles/3785338",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 15时41分]"
-        },
-        {
           "title": "美股",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1",
           "source": "百度热搜",
@@ -208,17 +256,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[03时39分 ~ 03时40分]"
-        },
-        {
-          "title": "美股大跌特朗普甩锅民主党",
-          "url": "https://www.douyin.com/hot/2731913",
-          "source": "抖音",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[15时40分 ~ 15时41分]"
         },
         {
           "title": "美股史诗级暴跌，单日蒸发约 2.8 万亿美元，AI 产业链集体崩盘，是单纯监管预期利空还是大行情拐点？",
@@ -276,6 +313,17 @@
           "time_info": "08时45分"
         },
         {
+          "title": "高盛大砍黄金目标价！美联储政策立场趋鹰 美股暴跌亦成拖累",
+          "url": "https://www.cls.cn/detail/2527406",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "美股三大指数集体大幅收跌",
           "url": "https://www.douyin.com/hot/2731825",
           "source": "抖音",
@@ -298,6 +346,28 @@
           "time_info": "08时45分"
         },
         {
+          "title": "美股存储芯片指数涨超8%，成分股拉姆研究涨10%，闪迪涨7.8%，应用材料、泰瑞达、Rambus、美光至少涨超5%。此前报道称，台积电考虑进军存储芯片市场。 费城半导体指数涨幅扩大至将近7%。台积电一度涨约7.8%，英伟达涨7.3%（周四跌9.3%）。 纳斯达克100指数涨2.4%，纳指涨2%，标普涨1.1%，道指跌幅收窄至0.15%。",
+          "url": "https://wallstreetcn.com/livenews/3196085",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "美股遭遇「黑色星期四」，AI 板块重挫，SOX 指数下跌超 12%，国际原油大涨超 3%，后市怎么看？",
+          "url": "https://www.zhihu.com/question/2101923145217209086",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "纳指期货现涨0.4%，部分美股科技股在盘后反弹，闪迪(SNDK.O)和美光科技(MU.O)涨4%，AMD(AMD.O)涨2%，英伟达(NVDA.O)涨1%。",
           "url": "https://flash.jin10.com/detail/20261106081812960800",
           "source": "金十数据",
@@ -307,12 +377,34 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "08时45分"
+        },
+        {
+          "title": "半导体ETF反弹超4.5%，在美股盘初领跑行业ETF，全球科技股指数ETF、科技行业ETF至少涨超2.3%，能源业ETF、银行业ETF跌约0.7%。",
+          "url": "https://wallstreetcn.com/livenews/3196072",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "美股开盘：道指跌1%，纳斯达克100指数涨1.5%，半导体指数涨5.4%",
+          "url": "https://wallstreetcn.com/livenews/3196069",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 13,
+      "match_count": 17,
       "titles": [
         {
           "title": "万斯发长文与特朗普切割？特朗普回应",
@@ -381,6 +473,28 @@
           "time_info": "03时40分"
         },
         {
+          "title": "民主党计划调查苹果、Meta和马斯克，特朗普的硅谷盟友面临“清算”！",
+          "url": "https://wallstreetcn.com/articles/3785375",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "特朗普沉迷白宫装修 共和党内部不满情绪升温",
+          "url": "https://flash.jin10.com/detail/20261106232404920800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "历史性失利后特朗普首次亮相：一场关于吊灯、钢梁与大理石的导览",
           "url": "https://m.thepaper.cn/newsDetail_forward_34409961",
           "source": "澎湃新闻",
@@ -415,6 +529,28 @@
           "time_info": "03时40分"
         },
         {
+          "title": "白宫顾问哈塞特：将针对（美国总统特朗普控告）美联储理事库克一事发布一份“基于证据的报告”。 特朗普将审阅报告，并决定库克（的去留）。",
+          "url": "https://wallstreetcn.com/livenews/3196084",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "特朗普签发公告：禁止擅改总统办公室",
+          "url": "https://www.toutiao.com/trending/7704977918354653746/",
+          "source": "今日头条",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "万斯“与特朗普切割” 特朗普回应",
           "url": "https://www.baidu.com/s?wd=%E4%B8%87%E6%96%AF%E2%80%9C%E4%B8%8E%E7%89%B9%E6%9C%97%E6%99%AE%E5%88%87%E5%89%B2%E2%80%9D+%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94",
           "source": "百度热搜",
@@ -432,7 +568,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         },
@@ -462,8 +598,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 14,
       "titles": [
+        {
+          "title": "美以已做好打击准备，伊朗外长紧急连线6国",
+          "url": "https://original.ifeng.com/c/8xpoaSSvEl8",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
         {
           "title": "据塔斯尼姆通讯社：伊朗油气产区马斯杰德苏莱曼附近数分钟前发生4.1级地震。",
           "url": "https://flash.jin10.com/detail/20261106032850349800",
@@ -532,6 +679,17 @@
           "time_info": "03时40分"
         },
         {
+          "title": "据沙特阿拉比亚电视台引述以色列媒体：以色列的目标是推翻伊朗政权，而不仅仅是改善谈判条件。",
+          "url": "https://flash.jin10.com/detail/20261106231253433800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "据伊朗国家媒体：伊朗外长阿拉格齐与阿联酋外长讨论地区局势及维护稳定的外交努力。",
           "url": "https://flash.jin10.com/detail/20261106030925958800",
           "source": "金十数据",
@@ -560,9 +718,31 @@
           "ranks": [
             17
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
+        },
+        {
+          "title": "伊朗为美军潜在核打击做准备 当地已发布核爆避难指引",
+          "url": "https://flash.jin10.com/detail/20261106230132017800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
+          "title": "伊朗革命卫队称又击落一架美军MQ-1无人机",
+          "url": "https://wallstreetcn.com/livenews/3196081",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         },
         {
           "title": "FGE：伊朗石油出口几近停摆，短期内达成和平协议希望渺茫",
@@ -571,7 +751,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
         }
@@ -579,7 +759,7 @@
     },
     {
       "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "DeepSeek最新Super Agent实测",
@@ -604,6 +784,17 @@
           "time_info": "[15时40分 ~ 15时41分]"
         },
         {
+          "title": "如何评价 DeepSeek Harness 公布日活用户达 150 万？这会影响 AI 编程和智能体市场的竞争吗？",
+          "url": "https://www.zhihu.com/question/2101823381955990842",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "DeepSeek Harness零基础全流程教学",
           "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness%E6%95%99%E5%AD%A6",
           "source": "bilibili 热搜",
@@ -618,7 +809,7 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "国际金价接连收复4000美元、4100美元关口，这轮反弹能走多远？",
@@ -632,15 +823,43 @@
           "time_info": "[08时45分 ~ 15时41分]"
         },
         {
+          "title": "美股历史性暴跌或影响金价",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%BE%8E%E8%82%A1%E5%8E%86%E5%8F%B2%E6%80%A7%E6%9A%B4%E8%B7%8C%E6%88%96%E5%BD%B1%E5%93%8D%E9%87%91%E4%BB%B7%23&t=31&band_rank=7&Refer=top",
+          "source": "微博",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
+        },
+        {
           "title": "金十图示：2026年11月06日（周五）上海金午盘价为868.44元/克，较国际金价(867.12元/克)，高1.32元/克",
           "url": "https://flash.jin10.com/detail/20261106150819596800",
           "source": "金十数据",
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "15时41分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "“新云”概念股CoreWeave一度涨约9.2%，Nebius Group一度涨13.7%。 美股超大规模云服务商（Hyperscalers）指数维持超过1.3%的涨幅，成分股Meta、甲骨文、谷歌A涨1.8%，亚马逊涨0.8%，微软跌1.2%。 北美科技软件股指数ETF转而重新涨超0.1%，美股盘初一度涨约0.9%。",
+          "url": "https://wallstreetcn.com/livenews/3196100",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时41分"
         }
       ]
     },
