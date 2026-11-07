@@ -1,22 +1,296 @@
 {
-  "generated_at": "2026-11-07T05:17:40.727717+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-11-07T09:38:04.160517+08:00",
+  "total_titles_processed": 494,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 10,
+      "keyword_group": "特朗普",
+      "match_count": 20,
       "titles": [
         {
-          "title": "撞上AI崩盘！今晚，一份强劲非农报告，或给美股又一重击",
-          "url": "https://wallstreetcn.com/articles/3785351",
+          "title": "特朗普任命新白宫办公厅主任",
+          "url": "https://news.ifeng.com/c/8xqWagzSy9p",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 09时38分]"
+        },
+        {
+          "title": "民主党计划调查苹果、Meta和马斯克，特朗普的硅谷盟友面临“清算”！",
+          "url": "https://wallstreetcn.com/articles/3785375",
           "source": "华尔街见闻",
+          "ranks": [
+            5,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 09时38分]"
+        },
+        {
+          "title": "特朗普称正在与伊朗进行沟通",
+          "url": "https://wallstreetcn.com/livenews/3196224",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             3
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "特朗普签发公告：禁止擅改总统办公室",
+          "url": "https://www.toutiao.com/trending/7704977918354653746/",
+          "source": "今日头条",
+          "ranks": [
+            21,
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 09时38分]"
+        },
+        {
+          "title": "特朗普称正在与伊朗进行沟通 Anthropic上市估值预期据悉进一步打折 | 环球市场",
+          "url": "https://www.cls.cn/detail/2527972",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
+        },
+        {
+          "title": "曝民主党准备调查特朗普企业盟友",
+          "url": "https://www.toutiao.com/trending/7705004884818526771/",
+          "source": "今日头条",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
+        },
+        {
+          "title": "特朗普称美方对伊朗实施“小型打击”",
+          "url": "https://wallstreetcn.com/livenews/3196288",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "特朗普称美方对伊朗实施“小型打击”",
+          "url": "https://flash.jin10.com/detail/20261107085546481800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "特朗普被告知再袭伊朗时间窗口有限",
+          "url": "https://wallstreetcn.com/livenews/3196283",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "特朗普被告知再袭伊朗时间窗口有限",
+          "url": "https://flash.jin10.com/detail/20261107084136533800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "美国总统特朗普：俄罗斯和乌克兰都希望解决问题。",
+          "url": "https://flash.jin10.com/detail/20261107083756128800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "美国总统特朗普：伊朗造了一些防空设备，我们把它摧毁了。",
+          "url": "https://flash.jin10.com/detail/20261107083744860800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "特朗普：安排了很多与俄罗斯有关的会议。 在与俄罗斯、乌克兰方面取得很大进展。 可能在移民和税收问题上与民主党合作。 米勒忠诚、聪明。 预计未来几个月内离职的人会很少。 希望Thune能让参议院采取行动。 （谈伊朗）我们进行了小规模打击。 （谈俄罗斯、乌克兰）今天已经通了电话，周一、周二有会议。",
+          "url": "https://wallstreetcn.com/livenews/3196276",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "美国总统特朗普：正在与伊朗人打交道，看看结果如何。预计内阁将有“很少”人员离职。",
+          "url": "https://flash.jin10.com/detail/20261107083243341800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "美国总统特朗普将股市下跌归咎于投票结果。",
+          "url": "https://wallstreetcn.com/livenews/3196204",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "美国总统特朗普：新白宫幕僚长米勒在政治上很懂行，他是一位优秀的经理人。 我想做出改变。 我希望米勒能把事情办好。",
+          "url": "https://wallstreetcn.com/livenews/3196203",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "美国总统特朗普：就业数据非常惊人。",
+          "url": "https://wallstreetcn.com/livenews/3196202",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "美国总统特朗普谈伊朗：我们正在与伊朗对话。",
+          "url": "https://wallstreetcn.com/livenews/3196201",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "05时17分"
+        },
+        {
+          "title": "特朗普设法在美国中期选举问题上翻篇，称会解雇一些人",
+          "url": "https://wallstreetcn.com/livenews/3196271",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "特朗普权衡对伊下一步行动，顾问团队意见现分歧",
+          "url": "https://flash.jin10.com/detail/20261107081811100800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 14,
+      "titles": [
+        {
+          "title": "撞上AI崩盘！今晚，一份强劲非农报告，或给美股又一重击",
+          "url": "https://wallstreetcn.com/articles/3785351",
+          "source": "华尔街见闻",
+          "ranks": [
+            3,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 09时38分]"
+        },
+        {
+          "title": "强劲非农提振加息预期，美元大涨，美股分化道指收跌，芯片股技术性反弹，AMD涨11%",
+          "url": "https://wallstreetcn.com/articles/3785315",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
+        },
+        {
+          "title": "【早报】美股芯片股反弹，AMD涨超11%，中概股集体走强；多家券商启动第三批互换便利首批股票买入",
+          "url": "https://www.cls.cn/detail/2527975",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
+        },
+        {
+          "title": "美股收盘：AI概念股止跌反弹 纳指收涨1% 仍难逃周线四连跌",
+          "url": "https://www.cls.cn/detail/2527967",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
+        },
+        {
+          "title": "隔夜美股崩盘：一场由1000亿美元“抢跑”引爆的反身性风暴",
+          "url": "https://wallstreetcn.com/articles/3785338",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 09时38分]"
         },
         {
           "title": "金十图示：2026年11月06日（周五）美股热门股票行情一览（美股收盘）",
@@ -30,15 +304,15 @@
           "time_info": "05时17分"
         },
         {
-          "title": "隔夜美股崩盘：一场由1000亿美元“抢跑”引爆的反身性风暴",
-          "url": "https://wallstreetcn.com/articles/3785338",
-          "source": "华尔街见闻",
+          "title": "美股收盘：AI概念股止跌反弹",
+          "url": "https://www.toutiao.com/trending/7705199330826653247/",
+          "source": "今日头条",
           "ranks": [
-            6
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
         },
         {
           "title": "金十图示：2026年11月06日（周五）热门中概股行情一览（美股收盘）",
@@ -120,96 +394,118 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 8,
+      "keyword_group": "伊朗",
+      "match_count": 10,
       "titles": [
         {
-          "title": "特朗普任命新白宫办公厅主任",
-          "url": "https://news.ifeng.com/c/8xqWagzSy9p",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "特朗普称正在与伊朗进行沟通",
-          "url": "https://wallstreetcn.com/livenews/3196224",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "民主党计划调查苹果、Meta和马斯克，特朗普的硅谷盟友面临“清算”！",
-          "url": "https://wallstreetcn.com/articles/3785375",
-          "source": "华尔街见闻",
+          "title": "2枚导弹击中伊朗格什姆岛 或是美空袭",
+          "url": "https://www.toutiao.com/trending/7705210412316233279/",
+          "source": "今日头条",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
         },
         {
-          "title": "美国总统特朗普将股市下跌归咎于投票结果。",
-          "url": "https://wallstreetcn.com/livenews/3196204",
+          "title": "卡塔尔首相：伊朗问题不能悬而未决，我们承受不起又一轮升级",
+          "url": "https://flash.jin10.com/detail/20261107091519700800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "初步报告显示两枚导弹击中伊朗格什姆岛",
+          "url": "https://news.ifeng.com/c/8xqmIVwyIdl",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
+        },
+        {
+          "title": "俄外交部建议本国公民暂缓赴伊朗旅行",
+          "url": "https://www.toutiao.com/trending/7704698028103451187/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
+        },
+        {
+          "title": "伊朗媒体：格什姆岛遭导弹袭击 一架美无人机被击落",
+          "url": "https://wallstreetcn.com/livenews/3196280",
           "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "2枚导弹击中伊朗格什姆岛",
+          "url": "https://flash.jin10.com/detail/20261107083111499800",
+          "source": "金十数据",
           "ranks": [
             20
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时17分"
+          "time_info": "09时38分"
         },
         {
-          "title": "特朗普签发公告：禁止擅改总统办公室",
-          "url": "https://www.toutiao.com/trending/7704977918354653746/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
-        },
-        {
-          "title": "美国总统特朗普：新白宫幕僚长米勒在政治上很懂行，他是一位优秀的经理人。 我想做出改变。 我希望米勒能把事情办好。",
-          "url": "https://wallstreetcn.com/livenews/3196203",
+          "title": "美国就伊朗核计划悬赏2000万美元",
+          "url": "https://wallstreetcn.com/livenews/3196273",
           "source": "华尔街见闻-快讯",
           "ranks": [
             21
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时17分"
+          "time_info": "09时38分"
         },
         {
-          "title": "美国总统特朗普：就业数据非常惊人。",
-          "url": "https://wallstreetcn.com/livenews/3196202",
-          "source": "华尔街见闻-快讯",
+          "title": "美国就伊朗核计划悬赏2000万美元",
+          "url": "https://flash.jin10.com/detail/20261107082402643800",
+          "source": "金十数据",
           "ranks": [
             22
           ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
+        },
+        {
+          "title": "美国宣布新一轮与伊朗相关的制裁措施",
+          "url": "https://wallstreetcn.com/livenews/3196226",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
         },
         {
-          "title": "美国总统特朗普谈伊朗：我们正在与伊朗对话。",
-          "url": "https://wallstreetcn.com/livenews/3196201",
+          "title": "2枚导弹击中伊朗格什姆岛",
+          "url": "https://wallstreetcn.com/livenews/3196266",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            26
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "05时17分"
+          "time_info": "09时38分"
         }
       ]
     },
@@ -243,24 +539,36 @@
     },
     {
       "keyword_group": "金价",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "男子预判金价能到 2000 元 / 克，花光积蓄买 7 斤黄金，9 个月亏 114 万元，急用钱无奈割肉，如何看待此事？",
           "url": "https://www.zhihu.com/question/2101426752694261522",
           "source": "知乎",
           "ranks": [
-            13
+            13,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
+          "appearance_count": 3,
+          "time_info": "[05时17分 ~ 09时38分]"
+        },
+        {
+          "title": "油价暴跌20%，金价为何逆势大涨？高盛：黄金成为\"反向石油交易\"",
+          "url": "https://wallstreetcn.com/articles/3785336",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
           "title": "非农大超预期，美股芯片领涨，费半大涨7%，美债收益率走高，黄金承压回落",
@@ -272,23 +580,51 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时17分"
+        },
+        {
+          "title": "两年期美债收益率在非农日涨超4.9个基点，本周因中期选举结果而跌7.6个基点",
+          "url": "https://wallstreetcn.com/livenews/3196262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "09时38分"
         }
       ]
     },
     {
-      "keyword_group": "伊朗",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "美国宣布新一轮与伊朗相关的制裁措施",
-          "url": "https://wallstreetcn.com/livenews/3196226",
-          "source": "华尔街见闻-快讯",
+          "title": "DeepSeek Harness基础教学",
+          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness",
+          "source": "bilibili 热搜",
           "ranks": [
-            24
+            9
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "05时17分"
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌传奇工程师给智能爆炸泼冷水",
+          "url": "https://www.toutiao.com/trending/7705096641107201587/",
+          "source": "今日头条",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时37分 ~ 09时38分]"
         }
       ]
     }
