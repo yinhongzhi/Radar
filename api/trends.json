@@ -1,23 +1,251 @@
 {
-  "generated_at": "2026-11-08T03:53:55.557103+08:00",
-  "total_titles_processed": 311,
+  "generated_at": "2026-11-08T07:26:44.437240+08:00",
+  "total_titles_processed": 399,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "特朗普",
-      "match_count": 11,
+      "keyword_group": "伊朗",
+      "match_count": 21,
       "titles": [
         {
-          "title": "“蓝潮”无碍数据中心建设！白宫高官安抚市场 特朗普称100%支持SI",
-          "url": "https://www.cls.cn/detail/2527984",
-          "source": "财联社热门",
+          "title": "美中央司令部成立特遣队 阻止伊朗通过陆路运输先进武器",
+          "url": "https://wallstreetcn.com/livenews/3196432",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            5
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 07时26分]"
+        },
+        {
+          "title": "伊朗外长48小时与12国通话",
+          "url": "https://news.ifeng.com/c/8xrQh7xLyiI",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 07时26分]"
+        },
+        {
+          "title": "美国将成立工作组限制伊朗使用陆路通道和里海。（路透）",
+          "url": "https://wallstreetcn.com/livenews/3196429",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 07时26分]"
+        },
+        {
+          "title": "据伊朗学生通讯社：伊朗格什姆岛传出爆炸声。",
+          "url": "https://flash.jin10.com/detail/20261108033425932800",
+          "source": "金十数据",
+          "ranks": [
+            2,
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 07时26分]"
+        },
+        {
+          "title": "两枚导弹击中伊朗格什姆岛",
+          "url": "https://www.douyin.com/hot/2733694",
+          "source": "抖音",
+          "ranks": [
+            5,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 07时26分]"
+        },
+        {
+          "title": "伊朗革命卫队称已解除导弹射程限制",
+          "url": "https://wallstreetcn.com/livenews/3196423",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 07时26分]"
+        },
+        {
+          "title": "伊朗称一艘油轮在霍尔木兹海峡起火停航",
+          "url": "https://wallstreetcn.com/livenews/3196413",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 07时26分]"
+        },
+        {
+          "title": "伊朗海军声称，一艘油轮周六在霍尔木兹海峡触雷。（法尔斯通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3196405",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 07时26分]"
+        },
+        {
+          "title": "美中央司令部成立特遣队，阻止伊朗通过陆路运输先进武器",
+          "url": "https://wallstreetcn.com/articles/3785463",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "伊朗称两艘油轮在霍尔木兹海峡触雷起火",
+          "url": "https://flash.jin10.com/detail/20261108051219204800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡触雷起火。",
+          "url": "https://flash.jin10.com/detail/20261108051057785800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美国中央司令部：美国军机向该货船船尾发射精确制导弹药，使其失去航行能力。行动前，美国中央司令部部队已要求船员撤离被指定为打击目标的区域。这艘货船此前曾停靠伊朗港口，随后试图驶离该地区海域。",
+          "url": "https://flash.jin10.com/detail/20261108044039132800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "美国中央司令部：周六美军在阿曼湾使一艘商船失去航行能力。此前，该船民用船员多次无视美方警告，并试图多次违反针对伊朗的海上封锁。",
+          "url": "https://flash.jin10.com/detail/20261108043827362800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：伊朗央行行长表示，在过去7个月零15天里，已为基本商品、药品和生产单位所需原材料的进口提供了近300亿美元外汇，这一进程将继续推进，以满足国家需求。",
+          "url": "https://flash.jin10.com/detail/20261108024322057800",
+          "source": "金十数据",
+          "ranks": [
+            15
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "03时53分"
         },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：以色列特拉维夫爆发了反对内塔尼亚胡政府的抗议活动。抗议参与者要求更换其政府，并组建有阿拉伯政党参与的新政府。",
+          "url": "https://flash.jin10.com/detail/20261108023409498800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        },
+        {
+          "title": "据伊朗国家电视台：伊朗南部的爆炸事件可能与伊朗军方在霍尔木兹海峡的活动有关。",
+          "url": "https://flash.jin10.com/detail/20261108042432008800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "伊朗南部多地传出爆炸声",
+          "url": "https://flash.jin10.com/detail/20261108042150019800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "据伊朗国家电视台：伊朗南部贾斯克、锡里克、阿巴斯港和格什姆岛传出爆炸声，原因尚不明确。",
+          "url": "https://flash.jin10.com/detail/20261108041602655800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "据沙特阿拉比亚电视台：伊朗媒体称，霍尔木兹港传出战斗机的声音。",
+          "url": "https://flash.jin10.com/detail/20261108041004065800",
+          "source": "金十数据",
+          "ranks": [
+            22
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "伊朗驻维也纳联合国代表团指控美国以“正义悬赏”计划为名招募同伙，企图袭击伊朗核科学家和核设施，并警告称，任何提供相关信息的主体（包括国际原子能机构在内）都可能面临法律后果。",
+          "url": "https://flash.jin10.com/detail/20261108035516954800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "据伊朗塔斯尼姆通讯社：以色列左翼民主党领袖亚伊尔·戈兰呼吁推翻以色列总理内塔尼亚胡并组建新政府。",
+          "url": "https://flash.jin10.com/detail/20261108021129788800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "03时53分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 14,
+      "titles": [
         {
           "title": "特朗普为何容忍万斯的“攻击”？专家：他不想下台后就坐牢",
           "url": "https://v.ifeng.com/c/8xrIPvD29En",
@@ -26,30 +254,54 @@
             5
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 07时26分]"
+        },
+        {
+          "title": "消息人士：达纳·怀特拒绝特朗普邀请其出任白宫新闻秘书",
+          "url": "https://flash.jin10.com/detail/20261108054754829800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "03时53分"
+          "time_info": "07时26分"
+        },
+        {
+          "title": "据CNN：消息人士称，UFC首席执行官达纳·怀特拒绝了特朗普提出的邀请，未接受出任白宫新闻秘书一职。",
+          "url": "https://flash.jin10.com/detail/20261108054125488800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
         },
         {
           "title": "不改变政策路线！特朗普撤换白宫幕僚长，任命“强硬派”Stephen Miller",
           "url": "https://wallstreetcn.com/articles/3785431",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 07时26分]"
         },
         {
-          "title": "据以色列第12频道：美国总统特朗普的亲信要求以色列反对派领导人艾森科特迅速组建政府并取代内塔尼亚胡。",
-          "url": "https://flash.jin10.com/detail/20261108031225387800",
-          "source": "金十数据",
+          "title": "“蓝潮”无碍数据中心建设！白宫高官安抚市场 特朗普称100%支持SI",
+          "url": "https://www.cls.cn/detail/2527984",
+          "source": "财联社热门",
           "ranks": [
+            5,
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 07时26分]"
         },
         {
           "title": "特朗普称正在与伊朗进行沟通 Anthropic上市估值预期据悉进一步打折 | 环球市场",
@@ -59,15 +311,38 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 07时26分]"
         },
         {
           "title": "美方对伊朗发动小规模打击！特朗普证实、伊朗称两枚导弹击中格什姆岛",
           "url": "https://wallstreetcn.com/articles/3785419",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            8,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 07时26分]"
+        },
+        {
+          "title": "特朗普邀格斗界大佬出任白宫新闻秘书",
+          "url": "https://news.ifeng.com/c/8xs5ZHVK3YV",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "07时26分"
+        },
+        {
+          "title": "据以色列第12频道：美国总统特朗普的亲信要求以色列反对派领导人艾森科特迅速组建政府并取代内塔尼亚胡。",
+          "url": "https://flash.jin10.com/detail/20261108031225387800",
+          "source": "金十数据",
+          "ranks": [
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -131,133 +406,6 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
-      "match_count": 11,
-      "titles": [
-        {
-          "title": "美中央司令部成立特遣队 阻止伊朗通过陆路运输先进武器",
-          "url": "https://wallstreetcn.com/livenews/3196432",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "伊朗外长48小时与12国通话",
-          "url": "https://news.ifeng.com/c/8xrQh7xLyiI",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗格什姆岛传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20261108033425932800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "美国将成立工作组限制伊朗使用陆路通道和里海。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3196429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "两枚导弹击中伊朗格什姆岛",
-          "url": "https://www.douyin.com/hot/2733694",
-          "source": "抖音",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "伊朗革命卫队称已解除导弹射程限制",
-          "url": "https://wallstreetcn.com/livenews/3196423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗央行行长表示，在过去7个月零15天里，已为基本商品、药品和生产单位所需原材料的进口提供了近300亿美元外汇，这一进程将继续推进，以满足国家需求。",
-          "url": "https://flash.jin10.com/detail/20261108024322057800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：以色列特拉维夫爆发了反对内塔尼亚胡政府的抗议活动。抗议参与者要求更换其政府，并组建有阿拉伯政党参与的新政府。",
-          "url": "https://flash.jin10.com/detail/20261108023409498800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "伊朗称一艘油轮在霍尔木兹海峡起火停航",
-          "url": "https://wallstreetcn.com/livenews/3196413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：以色列左翼民主党领袖亚伊尔·戈兰呼吁推翻以色列总理内塔尼亚胡并组建新政府。",
-          "url": "https://flash.jin10.com/detail/20261108021129788800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "伊朗海军声称，一艘油轮周六在霍尔木兹海峡触雷。（法尔斯通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3196405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美股",
       "match_count": 4,
       "titles": [
@@ -269,24 +417,24 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "强劲非农提振加息预期，美元大涨，美股分化道指收跌，芯片股技术性反弹，AMD涨11%",
-          "url": "https://wallstreetcn.com/articles/3785315",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 07时26分]"
         },
         {
           "title": "美股收盘：AI概念股止跌反弹 纳指收涨1% 仍难逃周线四连跌",
           "url": "https://www.cls.cn/detail/2527967",
           "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 07时26分]"
+        },
+        {
+          "title": "强劲非农提振加息预期，美元大涨，美股分化道指收跌，芯片股技术性反弹，AMD涨11%",
+          "url": "https://wallstreetcn.com/articles/3785315",
+          "source": "华尔街见闻",
           "ranks": [
             4
           ],
@@ -302,8 +450,8 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 07时26分]"
         }
       ]
     },
@@ -316,11 +464,12 @@
           "url": "https://www.zhihu.com/question/2102422630783571434",
           "source": "知乎",
           "ranks": [
-            2
+            2,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 07时26分]"
         },
         {
           "title": "DeepSeek Harness基础教学",
@@ -330,8 +479,8 @@
             14
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 07时26分]"
         }
       ]
     },
@@ -347,8 +496,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
+          "appearance_count": 2,
+          "time_info": "[03时53分 ~ 07时26分]"
         }
       ]
     }
