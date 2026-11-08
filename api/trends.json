@@ -1,104 +1,66 @@
 {
-  "generated_at": "2026-11-08T19:42:37.816615+08:00",
-  "total_titles_processed": 826,
+  "generated_at": "2026-11-09T01:38:51.617323+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 34,
+      "match_count": 12,
       "titles": [
         {
-          "title": "伊朗外长48小时与12国通话",
-          "url": "https://news.ifeng.com/c/8xrQh7xLyiI",
-          "source": "凤凰网",
+          "title": "伊朗外长：现在轮到白宫作出选择了",
+          "url": "https://flash.jin10.com/detail/20261109011330000800",
+          "source": "金十数据",
           "ranks": [
-            2,
-            3
+            1
           ],
           "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[03时53分 ~ 12时34分]"
+          "appearance_count": 1,
+          "time_info": "01时38分"
         },
         {
-          "title": "美中央司令部成立特遣队，阻止伊朗通过陆路运输先进武器",
-          "url": "https://wallstreetcn.com/articles/3785463",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 4,
-          "time_info": "[07时26分 ~ 19时42分]"
-        },
-        {
-          "title": "伊朗解除导弹射程限制",
-          "url": "https://news.ifeng.com/c/8xsUfJlVD5E",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 12时34分]"
-        },
-        {
-          "title": "伊朗称当天三艘油轮在霍尔木兹海峡爆炸起火",
-          "url": "https://wallstreetcn.com/livenews/3196477",
+          "title": "伊朗外长：美国选民已作出选择，现在该白宫作出自己的选择了。 其提出的为期两天的方案依然有效，若满足各项要求，包括在所有战线停止战争，就将看到成效。若选择战争，则将看到地狱降临。",
+          "url": "https://wallstreetcn.com/livenews/3196495",
           "source": "华尔街见闻-快讯",
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时42分"
+          "time_info": "01时38分"
         },
         {
-          "title": "伊朗革命卫队发言人：我们对霍尔木兹海峡的控制已在全球范围内产生明显影响",
-          "url": "https://flash.jin10.com/detail/20261108192638363800",
+          "title": "伊朗外长阿拉格齐：美国选民已经做出了他们的选择。现在轮到白宫做选择了。",
+          "url": "https://flash.jin10.com/detail/20261109011126133800",
           "source": "金十数据",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时42分"
+          "time_info": "01时38分"
         },
         {
-          "title": "美中央司令部成立特遣队 阻止伊朗通过陆路运输先进武器",
-          "url": "https://wallstreetcn.com/livenews/3196432",
+          "title": "伊朗海军称霍尔木兹海峡东部一违规油轮触雷起火",
+          "url": "https://wallstreetcn.com/livenews/3196494",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            1,
-            8
+            2
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 12时34分]"
-        },
-        {
-          "title": "伊朗革命卫队：美军特遣部队无法达到施压伊朗目的",
-          "url": "https://wallstreetcn.com/livenews/3196475",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
           "appearance_count": 1,
-          "time_info": "19时42分"
+          "time_info": "01时38分"
         },
         {
-          "title": "伊朗解除导弹射程限制",
-          "url": "https://www.douyin.com/hot/2734868",
-          "source": "抖音",
+          "title": "伊朗海军称霍尔木兹海峡东部一违规油轮触雷起火",
+          "url": "https://flash.jin10.com/detail/20261109010420005800",
+          "source": "金十数据",
           "ranks": [
-            4,
-            9
+            4
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 19时42分]"
+          "appearance_count": 1,
+          "time_info": "01时38分"
         },
         {
           "title": "美中央司令部成立铁门特遣队，阻击伊朗陆路运输",
@@ -107,449 +69,103 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时42分"
+          "time_info": "01时38分"
         },
         {
-          "title": "伊朗称当天三艘油轮在霍尔木兹海峡爆炸起火",
-          "url": "https://flash.jin10.com/detail/20261108190712918800",
-          "source": "金十数据",
+          "title": "伊朗海军称一艘油轮在霍尔木兹海峡以东触雷起火。",
+          "url": "https://wallstreetcn.com/livenews/3196490",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "美国将成立工作组限制伊朗使用陆路通道和里海。（路透）",
-          "url": "https://wallstreetcn.com/livenews/3196429",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 12时34分]"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗格什姆岛传出爆炸声。",
-          "url": "https://flash.jin10.com/detail/20261108033425932800",
-          "source": "金十数据",
-          "ranks": [
-            2,
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 07时26分]"
-        },
-        {
-          "title": "两枚导弹击中伊朗格什姆岛",
-          "url": "https://www.douyin.com/hot/2733694",
-          "source": "抖音",
-          "ranks": [
-            5,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 07时26分]"
-        },
-        {
-          "title": "伊朗革命卫队称已解除导弹射程限制",
-          "url": "https://wallstreetcn.com/livenews/3196423",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10,
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 12时34分]"
-        },
-        {
-          "title": "伊朗称一艘油轮在霍尔木兹海峡起火停航",
-          "url": "https://wallstreetcn.com/livenews/3196413",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[03时53分 ~ 12时34分]"
-        },
-        {
-          "title": "美军扩大对伊朗封锁范围 从海上石油出口转向陆上军事供应链",
-          "url": "https://www.cls.cn/detail/2528163",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时33分 ~ 12时34分]"
-        },
-        {
-          "title": "伊朗海军声称，一艘油轮周六在霍尔木兹海峡触雷。（法尔斯通讯社）",
-          "url": "https://wallstreetcn.com/livenews/3196405",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 07时26分]"
-        },
-        {
-          "title": "伊朗革命卫队发言人警告：水雷正在等待违规船只",
-          "url": "https://flash.jin10.com/detail/20261108190119521800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "伊朗称两艘油轮在霍尔木兹海峡触雷起火",
-          "url": "https://flash.jin10.com/detail/20261108051219204800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时26分"
+          "time_info": "01时38分"
         },
         {
-          "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡触雷起火。",
-          "url": "https://flash.jin10.com/detail/20261108051057785800",
+          "title": "据伊朗媒体：伊朗海军称，一艘油轮在霍尔木兹海峡以东触雷起火。",
+          "url": "https://flash.jin10.com/detail/20261109002812216800",
           "source": "金十数据",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时26分"
+          "time_info": "01时38分"
         },
         {
-          "title": "伊朗革命卫队：第三艘油轮违规油轮在霍尔木兹海峡爆炸",
-          "url": "https://flash.jin10.com/detail/20261108183404189800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "美国中央司令部：美国军机向该货船船尾发射精确制导弹药，使其失去航行能力。行动前，美国中央司令部部队已要求船员撤离被指定为打击目标的区域。这艘货船此前曾停靠伊朗港口，随后试图驶离该地区海域。",
-          "url": "https://flash.jin10.com/detail/20261108044039132800",
-          "source": "金十数据",
+          "title": "以色列国防部长称对伊朗任务“尚未完成”",
+          "url": "https://wallstreetcn.com/livenews/3196480",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时26分"
+          "time_info": "01时38分"
         },
         {
-          "title": "美国中央司令部：周六美军在阿曼湾使一艘商船失去航行能力。此前，该船民用船员多次无视美方警告，并试图多次违反针对伊朗的海上封锁。",
-          "url": "https://flash.jin10.com/detail/20261108043827362800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：伊朗央行行长表示，在过去7个月零15天里，已为基本商品、药品和生产单位所需原材料的进口提供了近300亿美元外汇，这一进程将继续推进，以满足国家需求。",
-          "url": "https://flash.jin10.com/detail/20261108024322057800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "以色列国防部长卡茨：针对伊朗的行动任务尚未完成。",
-          "url": "https://flash.jin10.com/detail/20261108180033540800",
-          "source": "金十数据",
+          "title": "伊朗称当天三艘油轮在霍尔木兹海峡爆炸起火",
+          "url": "https://wallstreetcn.com/livenews/3196477",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             16
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时42分"
+          "time_info": "01时38分"
         },
         {
-          "title": "以色列国防部长卡茨：伊朗正试图重启其获取核武器的努力，同时还进行着其他严重威胁以色列安全的行动。我们绝不能接受这些威胁。",
-          "url": "https://flash.jin10.com/detail/20261108175940107800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：以色列特拉维夫爆发了反对内塔尼亚胡政府的抗议活动。抗议参与者要求更换其政府，并组建有阿拉伯政党参与的新政府。",
-          "url": "https://flash.jin10.com/detail/20261108023409498800",
-          "source": "金十数据",
+          "title": "伊朗革命卫队：美军特遣部队无法达到施压伊朗目的",
+          "url": "https://wallstreetcn.com/livenews/3196475",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时53分"
+          "time_info": "01时38分"
         },
         {
-          "title": "据伊朗国家电视台：伊朗南部的爆炸事件可能与伊朗军方在霍尔木兹海峡的活动有关。",
-          "url": "https://flash.jin10.com/detail/20261108042432008800",
-          "source": "金十数据",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "伊朗南部多地传出爆炸声",
-          "url": "https://flash.jin10.com/detail/20261108042150019800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "据伊朗国家电视台：伊朗南部贾斯克、锡里克、阿巴斯港和格什姆岛传出爆炸声，原因尚不明确。",
-          "url": "https://flash.jin10.com/detail/20261108041602655800",
-          "source": "金十数据",
+          "title": "伊朗多地传出爆炸声",
+          "url": "https://www.douyin.com/hot/2735104",
+          "source": "抖音",
           "ranks": [
             21
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "据沙特阿拉比亚电视台：伊朗媒体称，霍尔木兹港传出战斗机的声音。",
-          "url": "https://flash.jin10.com/detail/20261108041004065800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "伊朗驻维也纳联合国代表团指控美国以“正义悬赏”计划为名招募同伙，企图袭击伊朗核科学家和核设施，并警告称，任何提供相关信息的主体（包括国际原子能机构在内）都可能面临法律后果。",
-          "url": "https://flash.jin10.com/detail/20261108035516954800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "据伊朗塔斯尼姆通讯社：以色列左翼民主党领袖亚伊尔·戈兰呼吁推翻以色列总理内塔尼亚胡并组建新政府。",
-          "url": "https://flash.jin10.com/detail/20261108021129788800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "伊朗革命卫队发言人驳斥美国收紧对伊经济施压的新计划，称其只是“文字游戏”",
-          "url": "https://flash.jin10.com/detail/20261108172155307800",
-          "source": "金十数据",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
+          "time_info": "01时38分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 22,
+      "match_count": 10,
       "titles": [
         {
           "title": "“共和党惨败后，万斯开始与特朗普保持距离”",
           "url": "https://news.ifeng.com/c/8xsU8AGPBWp",
           "source": "凤凰网",
           "ranks": [
-            2,
             3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 19时42分]"
-        },
-        {
-          "title": "“蓝潮”无碍数据中心建设！白宫高官安抚市场 特朗普称100%支持SI",
-          "url": "https://www.cls.cn/detail/2527984",
-          "source": "财联社热门",
-          "ranks": [
-            5,
-            6,
-            8,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时53分 ~ 19时42分]"
-        },
-        {
-          "title": "特朗普为何容忍万斯的“攻击”？专家：他不想下台后就坐牢",
-          "url": "https://v.ifeng.com/c/8xrIPvD29En",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 07时26分]"
-        },
-        {
-          "title": "特朗普政府人事调整启动，白宫副幕僚长沃尔特斯将离职",
-          "url": "https://flash.jin10.com/detail/20261108113353196800",
-          "source": "金十数据",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时34分"
+          "time_info": "01时38分"
         },
         {
-          "title": "特朗普邀请UFC掌门人出任白宫新闻秘书遭拒绝",
-          "url": "https://wallstreetcn.com/livenews/3196438",
+          "title": "美国总统特朗普：可能会对政府进行一些调整，但目前不想透露具体人选。",
+          "url": "https://wallstreetcn.com/livenews/3196488",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时34分"
-        },
-        {
-          "title": "特朗普称正在与伊朗进行沟通 Anthropic上市估值预期据悉进一步打折 | 环球市场",
-          "url": "https://www.cls.cn/detail/2527972",
-          "source": "财联社热门",
-          "ranks": [
-            7,
-            10,
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时53分 ~ 19时42分]"
-        },
-        {
-          "title": "消息人士：达纳·怀特拒绝特朗普邀请其出任白宫新闻秘书",
-          "url": "https://flash.jin10.com/detail/20261108054754829800",
-          "source": "金十数据",
-          "ranks": [
-            1,
-            27
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时26分 ~ 12时34分]"
-        },
-        {
-          "title": "不改变政策路线！特朗普撤换白宫幕僚长，任命“强硬派”Stephen Miller",
-          "url": "https://wallstreetcn.com/articles/3785431",
-          "source": "华尔街见闻",
-          "ranks": [
-            6,
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 07时26分]"
-        },
-        {
-          "title": "据CNN：消息人士称，UFC首席执行官达纳·怀特拒绝了特朗普提出的邀请，未接受出任白宫新闻秘书一职。",
-          "url": "https://flash.jin10.com/detail/20261108054125488800",
-          "source": "金十数据",
-          "ranks": [
-            3,
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[07时26分 ~ 12时34分]"
-        },
-        {
-          "title": "UFC总裁将与特朗普面谈",
-          "url": "https://wallstreetcn.com/livenews/3196440",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            4,
-            30
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时34分 ~ 19时42分]"
-        },
-        {
-          "title": "美方对伊朗发动小规模打击！特朗普证实、伊朗称两枚导弹击中格什姆岛",
-          "url": "https://wallstreetcn.com/articles/3785419",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 07时26分]"
-        },
-        {
-          "title": "特朗普邀格斗界大佬出任白宫新闻秘书",
-          "url": "https://news.ifeng.com/c/8xs5ZHVK3YV",
-          "source": "凤凰网",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "07时26分"
-        },
-        {
-          "title": "据以色列第12频道：美国总统特朗普的亲信要求以色列反对派领导人艾森科特迅速组建政府并取代内塔尼亚胡。",
-          "url": "https://flash.jin10.com/detail/20261108031225387800",
-          "source": "金十数据",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
+          "time_info": "01时38分"
         },
         {
           "title": "带六名格斗冠军上岗？特朗普让UFC总裁当白宫新闻秘书遭拒",
@@ -558,222 +174,142 @@
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时42分"
+          "time_info": "01时38分"
         },
         {
-          "title": "金十数据整理：特朗普过去24小时都忙了什么？（2026-11-08）",
-          "url": "https://flash.jin10.com/detail/20261108182831188800",
+          "title": "特朗普称可能调整政府团队，重申对战争部长赫格塞思的信任",
+          "url": "https://flash.jin10.com/detail/20261109002712246800",
           "source": "金十数据",
           "ranks": [
-            13
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "19时42分"
+          "time_info": "01时38分"
         },
         {
-          "title": "特朗普呼吁向司法部或其本人举报民主党“非法威胁”",
-          "url": "https://flash.jin10.com/detail/20261108025002193800",
+          "title": "美国总统特朗普：我们在委内瑞拉和伊朗的战争中获胜，获得了数十亿美元。",
+          "url": "https://flash.jin10.com/detail/20261109001952730800",
           "source": "金十数据",
           "ranks": [
             14
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时53分"
+          "time_info": "01时38分"
         },
         {
-          "title": "特朗普邀请UFC总裁达纳·怀特担任白宫新闻秘书",
-          "url": "https://flash.jin10.com/detail/20261108024303729800",
+          "title": "美国总统特朗普：我信任赫格塞思，目前他的职位暂时没有危险。",
+          "url": "https://flash.jin10.com/detail/20261109001819510800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美国总统特朗普：我信任美国国防部长赫格塞思， 我们在委内瑞拉和伊朗进行了两场战争，并且取得了胜利。",
+          "url": "https://flash.jin10.com/detail/20261109001745129800",
           "source": "金十数据",
           "ranks": [
             16
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时53分"
+          "time_info": "01时38分"
         },
         {
-          "title": "美国总统特朗普：达纳·怀特已获邀出任新闻秘书一职。",
-          "url": "https://flash.jin10.com/detail/20261108024111249800",
+          "title": "据美国哥伦比亚广播公司（CBS）：美国总统特朗普表示，我可能会对我的政府进行调整。",
+          "url": "https://flash.jin10.com/detail/20261109001722091800",
           "source": "金十数据",
           "ranks": [
             17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时53分"
+          "time_info": "01时38分"
         },
         {
-          "title": "特朗普拟邀请UFC总裁出任白宫新闻秘书 双方计划周一会面",
-          "url": "https://flash.jin10.com/detail/20261108084240523800",
+          "title": "特朗普将接受《60分钟》采访：希望节目展示过去两年的施政成果",
+          "url": "https://flash.jin10.com/detail/20261109000222851800",
           "source": "金十数据",
           "ranks": [
-            22
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时34分"
+          "time_info": "01时38分"
         },
         {
-          "title": "特朗普下令司法部彻查民主党“敲诈勒索”，指控其滥用弹劾与监禁威胁",
-          "url": "https://flash.jin10.com/detail/20261108015435230800",
+          "title": "据沙特阿拉比亚电视台：消息人士透露，一个伊拉克代表团在德黑兰会见了伊朗官员，据悉该整个任务持续约8小时，代表团还向德黑兰转交了美方的信息。伊拉克代表团此次访问德黑兰，发生在美国总统特朗普与伊拉克总理扎伊迪通电话、美国特使汤姆·巴拉克访问巴格达之后。",
+          "url": "https://flash.jin10.com/detail/20261108234754421800",
           "source": "金十数据",
           "ranks": [
-            25
+            24
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "美国总统特朗普：民主党人四处威胁许多人，包括美国司法部长和其他人，扬言要弹劾他们。这是最高级别的敲诈勒索，他们应该为此被追究责任。",
-          "url": "https://flash.jin10.com/detail/20261108014720001800",
-          "source": "金十数据",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "03时53分"
-        },
-        {
-          "title": "特朗普下令美国司法部调查民主党人“威胁弹劾”行为",
-          "url": "https://wallstreetcn.com/livenews/3196444",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "19时42分"
+          "time_info": "01时38分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 3,
       "titles": [
-        {
-          "title": "【早报】美股芯片股反弹，AMD涨超11%，中概股集体走强；多家券商启动第三批互换便利首批股票买入",
-          "url": "https://www.cls.cn/detail/2527975",
-          "source": "财联社热门",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时53分 ~ 19时42分]"
-        },
-        {
-          "title": "美股收盘：AI概念股止跌反弹 纳指收涨1% 仍难逃周线四连跌",
-          "url": "https://www.cls.cn/detail/2527967",
-          "source": "财联社热门",
-          "ranks": [
-            4,
-            6,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时53分 ~ 19时42分]"
-        },
         {
           "title": "九年来首次！美股科技股迈入“比大盘便宜”时代",
           "url": "https://www.cls.cn/detail/2528180",
           "source": "财联社热门",
           "ranks": [
-            7,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 19时42分]"
-        },
-        {
-          "title": "强劲非农提振加息预期，美元大涨，美股分化道指收跌，芯片股技术性反弹，AMD涨11%",
-          "url": "https://wallstreetcn.com/articles/3785315",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
+            3
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "03时53分"
+          "time_info": "01时38分"
+        },
+        {
+          "title": "美股暴跌后，“木头姐”：市场越担忧我越乐观，牛市未完",
+          "url": "https://wallstreetcn.com/articles/3785486",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "01时38分"
         },
         {
           "title": "美国女议员戳破美股AI泡沫",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369406&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
           "source": "贴吧",
           "ranks": [
-            6,
-            12,
-            17
+            20
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时53分 ~ 19时42分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "如何看待 11 月 7 日 DeepSeek 再次崩溃？",
-          "url": "https://www.zhihu.com/question/2102422630783571434",
-          "source": "知乎",
-          "ranks": [
-            2,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 07时26分]"
-        },
-        {
-          "title": "DeepSeek Harness基础教学",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%20Harness",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[03时53分 ~ 07时26分]"
+          "appearance_count": 1,
+          "time_info": "01时38分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
           "title": "AI风向生变？OpenAI融资、估值双双大缩水 110亿美元首期款项据悉已到账",
           "url": "https://www.cls.cn/detail/2528016",
           "source": "财联社热门",
           "ranks": [
-            1,
-            3
+            5
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[03时53分 ~ 19时42分]"
-        },
-        {
-          "title": "据传 ChatGPT 开始大规模封号，是真的吗？原因可能是什么？",
-          "url": "https://www.zhihu.com/question/2102508937723565758",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[12时33分 ~ 19时42分]"
+          "appearance_count": 1,
+          "time_info": "01时38分"
         }
       ]
     }
