@@ -1,12 +1,34 @@
 {
-  "generated_at": "2026-11-09T09:26:57.857967+08:00",
-  "total_titles_processed": 574,
+  "generated_at": "2026-11-09T17:09:06.929532+08:00",
+  "total_titles_processed": 833,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 27,
+      "match_count": 35,
       "titles": [
+        {
+          "title": "“这是美国民主党和建制派搞黄仁勋，进而搞特朗普的一种方式”",
+          "url": "https://news.ifeng.com/c/8xuSTiEyxK7",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
+        },
+        {
+          "title": "“铁门”封锁陆路！特朗普称“目前几乎没有物资能够进出伊朗”，若谈判取得进展，再次发动打击可能性极低",
+          "url": "https://wallstreetcn.com/articles/3785498",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
+        },
         {
           "title": "特朗普回应黄仁勋出轨",
           "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%9B%9E%E5%BA%94%E9%BB%84%E4%BB%81%E5%8B%8B%E5%87%BA%E8%BD%A8%23&t=31&band_rank=1&Refer=top",
@@ -14,7 +36,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -25,7 +47,7 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -36,7 +58,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -65,6 +87,28 @@
           "time_info": "[01时38分 ~ 09时26分]"
         },
         {
+          "title": "事关AI交易走向，硅谷、华尔街热议“黄仁勋绯闻”，马斯克力挺、特朗普也发声",
+          "url": "https://wallstreetcn.com/articles/3785517",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
+        },
+        {
+          "title": "伊朗向特朗普发48小时最后通牒",
+          "url": "https://original.ifeng.com/c/8xub7UOarEQ",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
+        },
+        {
           "title": "美国总统特朗普：可能会对政府进行一些调整，但目前不想透露具体人选。",
           "url": "https://wallstreetcn.com/livenews/3196488",
           "source": "华尔街见闻-快讯",
@@ -75,6 +119,28 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 05时42分]"
+        },
+        {
+          "title": "外交努力持续！今日，特朗普和万斯将在白宫会见美伊关键调解人",
+          "url": "https://www.cls.cn/detail/2528621",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
+        },
+        {
+          "title": "前白宫顾问爆料幕僚把特朗普当婴儿",
+          "url": "https://www.toutiao.com/trending/7705968566742302729/",
+          "source": "今日头条",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
         },
         {
           "title": "美国总统特朗普在周四与以色列总理内塔尼亚胡的通话中表示，希望内塔尼亚胡采取措施，推动落实其加沙和平计划。（Axios）",
@@ -171,7 +237,7 @@
           "ranks": [
             15
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -215,7 +281,7 @@
           "ranks": [
             18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -237,7 +303,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -248,7 +314,7 @@
           "ranks": [
             22
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -259,7 +325,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -270,7 +336,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -292,7 +358,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -303,15 +369,37 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "特朗普称将与中俄元首在APEC讨论美伊冲突及无核化问题，外交部回应",
+          "url": "https://wallstreetcn.com/livenews/3196752",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
+          "title": "特朗普政府要求中国协助结束与伊朗冲突？外交部：相关方应该坚持和平选择",
+          "url": "https://wallstreetcn.com/livenews/3196751",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 25,
+      "match_count": 31,
       "titles": [
         {
           "title": "美中央司令部成立铁门特遣队，阻击伊朗陆路运输",
@@ -393,6 +481,17 @@
           "time_info": "05时42分"
         },
         {
+          "title": "伊朗称向美国提出的重开霍尔木兹海峡“两日方案”仍然有效",
+          "url": "https://wallstreetcn.com/livenews/3196820",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "伊朗外长：美国选民已作出选择，现在该白宫作出自己的选择了。 其提出的为期两天的方案依然有效，若满足各项要求，包括在所有战线停止战争，就将看到成效。若选择战争，则将看到地狱降临。",
           "url": "https://wallstreetcn.com/livenews/3196495",
           "source": "华尔街见闻-快讯",
@@ -427,6 +526,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[01时38分 ~ 05时42分]"
+        },
+        {
+          "title": "鲁比奥：伊朗提出的要求完全不可接受",
+          "url": "https://original.ifeng.com/c/8xuGqEePP2n",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
         },
         {
           "title": "以色列国防部长称对伊朗任务“尚未完成”",
@@ -488,6 +598,17 @@
           "time_info": "05时42分"
         },
         {
+          "title": "伊朗何时会认为谈判和外交已结束？伊朗外交部回应",
+          "url": "https://flash.jin10.com/detail/20261109165307974800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "伊朗外长阿拉格齐：美国选民已经做出了他们的选择。 现在轮到白宫做选择了。",
           "url": "https://wallstreetcn.com/livenews/3196501",
           "source": "华尔街见闻-快讯",
@@ -532,6 +653,17 @@
           "time_info": "05时42分"
         },
         {
+          "title": "伊朗称两日计划是最可行的路线图",
+          "url": "https://wallstreetcn.com/livenews/3196779",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "伊朗学生通讯社：胡齐斯坦省副省长表示，马赫沙赫尔传出的爆炸声是由两台电力变压器爆裂引起的。",
           "url": "https://flash.jin10.com/detail/20261109040240842800",
           "source": "金十数据",
@@ -543,6 +675,17 @@
           "time_info": "05时42分"
         },
         {
+          "title": "伊朗外交部：美方所谓“铁门”计划注定失败",
+          "url": "https://flash.jin10.com/detail/20261109164438427800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
           "title": "伊朗格什姆岛附近传出爆炸声",
           "url": "https://flash.jin10.com/detail/20261109034728054800",
           "source": "金十数据",
@@ -552,6 +695,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "05时42分"
+        },
+        {
+          "title": "伊朗外交部：国际原子能机构近日访问了布什尔",
+          "url": "https://flash.jin10.com/detail/20261109164404280800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         },
         {
           "title": "据伊通社（IRNA）：伊朗格什姆岛传出爆炸声；伊朗官方尚未予以证实。",
@@ -601,8 +755,21 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 6,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "美股暴跌后，“木头姐”：市场越担忧我越乐观，牛市未完",
+          "url": "https://wallstreetcn.com/articles/3785486",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            4,
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 5,
+          "time_info": "[01时38分 ~ 17时09分]"
+        },
         {
           "title": "九年来首次！美股科技股迈入“比大盘便宜”时代",
           "url": "https://www.cls.cn/detail/2528180",
@@ -617,16 +784,26 @@
           "time_info": "[01时38分 ~ 09时26分]"
         },
         {
-          "title": "美股暴跌后，“木头姐”：市场越担忧我越乐观，牛市未完",
-          "url": "https://wallstreetcn.com/articles/3785486",
-          "source": "华尔街见闻",
+          "title": "美股恐慌指标逼近极值！高盛：历史信号指向中期反弹",
+          "url": "https://www.cls.cn/detail/2528454",
+          "source": "财联社热门",
           "ranks": [
-            5,
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 09时26分]"
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
+        },
+        {
+          "title": "英伟达美股盘前跌近5%。",
+          "url": "https://wallstreetcn.com/livenews/3196825",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         },
         {
           "title": "英伟达美股夜盘跌逾3%",
@@ -635,7 +812,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -645,11 +822,23 @@
           "source": "贴吧",
           "ranks": [
             20,
-            22
+            22,
+            28
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[01时38分 ~ 09时26分]"
+          "appearance_count": 5,
+          "time_info": "[01时38分 ~ 17时09分]"
+        },
+        {
+          "title": "英伟达美股夜盘跌超 3%，其后续股价走势会如何？",
+          "url": "https://www.zhihu.com/question/2103054279376204138",
+          "source": "知乎",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[17时08分 ~ 17时09分]"
         },
         {
           "title": "英伟达(NVDA.O)美股夜盘跌逾3%，此前黄仁勋承认婚外情并致歉，英伟达董事会启动一项调查。",
@@ -658,7 +847,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         },
@@ -669,9 +858,31 @@
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
+        },
+        {
+          "title": "美股期货走低，纳斯达克100指数期货跌超1%。",
+          "url": "https://wallstreetcn.com/livenews/3196770",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
+        },
+        {
+          "title": "受黄仁勋被调查影响，英伟达在Tradegate价格较上周五美股收盘下跌6%。",
+          "url": "https://wallstreetcn.com/livenews/3196754",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "17时09分"
         }
       ]
     },
@@ -708,7 +919,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时26分"
         }
