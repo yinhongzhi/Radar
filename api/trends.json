@@ -1,12 +1,23 @@
 {
-  "generated_at": "2026-11-10T04:25:54.978440+08:00",
-  "total_titles_processed": 309,
+  "generated_at": "2026-11-10T11:10:52.572473+08:00",
+  "total_titles_processed": 522,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 23,
       "titles": [
+        {
+          "title": "俄罗斯外长拉夫罗夫：乌克兰无视特朗普停止对俄罗斯能源目标攻击的呼吁。",
+          "url": "https://flash.jin10.com/detail/20261110105543620800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
         {
           "title": "“铁门”封锁陆路！特朗普称“目前几乎没有物资能够进出伊朗”，若谈判取得进展，再次发动打击可能性极低",
           "url": "https://wallstreetcn.com/articles/3785498",
@@ -41,6 +52,39 @@
           "time_info": "04时25分"
         },
         {
+          "title": "特朗普称没必要再对伊朗采取军事行动",
+          "url": "https://www.toutiao.com/trending/7705369281621442587/",
+          "source": "今日头条",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "特朗普质疑美国中期选举结果，称提前投票数据异常",
+          "url": "https://news.ifeng.com/c/8xvuX0M7OL2",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "特朗普：海湾国家不倾向于再次对伊朗发动军事打击",
+          "url": "https://flash.jin10.com/detail/20261110105243817800",
+          "source": "金十数据",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
           "title": "美国最高法院撤销了一项司法裁定，该裁定此前阻止美国总统特朗普政府在美国得克萨斯州大弯国家公园修建边境屏障。",
           "url": "https://wallstreetcn.com/livenews/3197129",
           "source": "华尔街见闻-快讯",
@@ -56,11 +100,45 @@
           "url": "https://news.ifeng.com/c/8xv9TnAfekO",
           "source": "凤凰网",
           "ranks": [
-            6
+            6,
+            3
           ],
           "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 11时10分]"
+        },
+        {
+          "title": "美伊核谈判重大进展？据称就伊朗铀浓缩丰度达成一致，特朗普称出现结束战事积极势头",
+          "url": "https://wallstreetcn.com/articles/3785603",
+          "source": "华尔街见闻",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时25分"
+          "time_info": "11时10分"
+        },
+        {
+          "title": "美伊和平又现曙光？特朗普：结束战争现积极势头 不太可能打击伊朗",
+          "url": "https://www.cls.cn/detail/2529629",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "美共和党议员要求弹劾防长，特朗普回应",
+          "url": "https://original.ifeng.com/c/8xvi7jFdssH",
+          "source": "凤凰网",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "特朗普政府寻求中方协助结束美伊冲突？外交部回应",
@@ -85,6 +163,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "11月10日投资避雷针：特朗普称结束伊朗战争出现积极势头 布油重挫近6%",
+          "url": "https://www.cls.cn/detail/2529648",
+          "source": "财联社热门",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
           "title": "特朗普称若美伊谈判取得进展，再次发动打击可能性极低",
           "url": "https://m.thepaper.cn/newsDetail_forward_34435927",
           "source": "澎湃新闻",
@@ -96,6 +185,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "特朗普：目前尚未监测到伊朗在镐山开展活动",
+          "url": "https://flash.jin10.com/detail/20261110105030468800",
+          "source": "金十数据",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
           "title": "特朗普政府将不发布美国10月CPI与核心CPI的同比数据",
           "url": "https://wallstreetcn.com/livenews/3197117",
           "source": "华尔街见闻-快讯",
@@ -105,12 +205,67 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "伊朗向特朗普发 48 小时最后通牒，要么接受德黑兰提出的最新方案，要么面临军事冲突升级，特朗普会如何选择？",
+          "url": "https://www.zhihu.com/question/2103246242599756216",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "特朗普：我们会知道伊朗核协议能否达成。",
+          "url": "https://wallstreetcn.com/livenews/3197318",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "特朗普：不希望美在AI领域落后中国",
+          "url": "https://www.toutiao.com/trending/7705984247575626249/",
+          "source": "今日头条",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "特朗普：委内瑞拉上周向我们输送了100万桶原油。",
+          "url": "https://wallstreetcn.com/livenews/3197314",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
+        },
+        {
+          "title": "特朗普称伊朗战事已“事实上结束”",
+          "url": "https://www.baidu.com/s?wd=%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E4%BC%8A%E6%9C%97%E6%88%98%E4%BA%8B%E5%B7%B2%E2%80%9C%E4%BA%8B%E5%AE%9E%E4%B8%8A%E7%BB%93%E6%9D%9F%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         }
       ]
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 8,
+      "match_count": 9,
       "titles": [
         {
           "title": "布油跌超4%！伊朗被曝在霍尔木兹问题上松口，总统表态愿以谈判打破“不战不和”僵局",
@@ -120,8 +275,8 @@
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 11时10分]"
         },
         {
           "title": "伊朗最高领袖下令结束非战非和状态",
@@ -199,13 +354,35 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "伊朗说美取消制裁和停止战争是谈判前提",
+          "url": "https://wallstreetcn.com/livenews/3197312",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 5,
+      "match_count": 7,
       "titles": [
+        {
+          "title": "美股三大期指盘前集体走高 英伟达逆市暴跌6% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2529406",
+          "source": "财联社热门",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 11时10分]"
+        },
         {
           "title": "黄仁勋丑闻搅动市场，英伟达跌5%，美股三大指数齐涨，半导体指数涨3%，布油跌超3%",
           "url": "https://wallstreetcn.com/articles/3785518",
@@ -218,15 +395,26 @@
           "time_info": "04时25分"
         },
         {
-          "title": "美股三大期指盘前集体走高 英伟达逆市暴跌6% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2529406",
+          "title": "【早报】深夜暴力反弹，美股芯片股全线爆发；英伟达逆势大跌，收创近七个月新低；国际油价，跌至8月以来最低",
+          "url": "https://www.cls.cn/detail/2529608",
           "source": "财联社热门",
           "ranks": [
-            5
+            1
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "04时25分"
+          "time_info": "11时10分"
+        },
+        {
+          "title": "美股收盘：纳指欢腾大涨近3% 英伟达市值独自缩水12800亿元",
+          "url": "https://www.cls.cn/detail/2529594",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "11时10分"
         },
         {
           "title": "高盛：2027年美股牛市还有”最后一搏“，但随后的情形酷似2000年泡沫破灭前夕",
@@ -236,8 +424,20 @@
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 11时10分]"
+        },
+        {
+          "title": "美国女议员戳破美股AI泡沫",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369406&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
+          "source": "贴吧",
+          "ranks": [
+            28,
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时25分 ~ 11时10分]"
         },
         {
           "title": "美股三大股指高开 英伟达逆势下跌7%",
@@ -245,17 +445,6 @@
           "source": "百度热搜",
           "ranks": [
             14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "04时25分"
-        },
-        {
-          "title": "美国女议员戳破美股AI泡沫",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28369406&amp;topic_name=%E7%BE%8E%E5%9B%BD%E5%A5%B3%E8%AE%AE%E5%91%98%E6%88%B3%E7%A0%B4%E7%BE%8E%E8%82%A1AI%E6%B3%A1%E6%B2%AB",
-          "source": "贴吧",
-          "ranks": [
-            28
           ],
           "is_new": false,
           "appearance_count": 1,
