@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-10T11:10:52.572473+08:00",
-  "total_titles_processed": 522,
+  "generated_at": "2026-11-10T20:28:43.278045+08:00",
+  "total_titles_processed": 779,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 23,
+      "match_count": 28,
       "titles": [
         {
           "title": "俄罗斯外长拉夫罗夫：乌克兰无视特朗普停止对俄罗斯能源目标攻击的呼吁。",
@@ -14,9 +14,20 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
+        },
+        {
+          "title": "特朗普：这笔账，以色列等国必须买单",
+          "url": "https://news.ifeng.com/c/8xwZTnkTl6K",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "“铁门”封锁陆路！特朗普称“目前几乎没有物资能够进出伊朗”，若谈判取得进展，再次发动打击可能性极低",
@@ -58,7 +69,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         },
@@ -69,7 +80,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         },
@@ -80,7 +91,7 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         },
@@ -112,11 +123,24 @@
           "url": "https://wallstreetcn.com/articles/3785603",
           "source": "华尔街见闻",
           "ranks": [
-            6
+            6,
+            5
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "11时10分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 20时28分]"
+        },
+        {
+          "title": "伊朗向特朗普发 48 小时最后通牒，要么接受德黑兰提出的最新方案，要么面临军事冲突升级，特朗普会如何选择？",
+          "url": "https://www.zhihu.com/question/2103246242599756216",
+          "source": "知乎",
+          "ranks": [
+            15,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时10分 ~ 20时28分]"
         },
         {
           "title": "美伊和平又现曙光？特朗普：结束战争现积极势头 不太可能打击伊朗",
@@ -125,7 +149,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         },
@@ -136,7 +160,7 @@
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         },
@@ -163,13 +187,24 @@
           "time_info": "04时25分"
         },
         {
+          "title": "特朗普确认FBI调查黄仁勋，“连续第二天”表达支持：他是一个非常正直的人",
+          "url": "https://wallstreetcn.com/articles/3785612",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "11月10日投资避雷针：特朗普称结束伊朗战争出现积极势头 布油重挫近6%",
           "url": "https://www.cls.cn/detail/2529648",
           "source": "财联社热门",
           "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         },
@@ -185,13 +220,24 @@
           "time_info": "04时25分"
         },
         {
+          "title": "高市早苗称十分想见金正恩，并已获特朗普支持",
+          "url": "https://news.ifeng.com/c/8xwXrLw7BCB",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "特朗普：目前尚未监测到伊朗在镐山开展活动",
           "url": "https://flash.jin10.com/detail/20261110105030468800",
           "source": "金十数据",
           "ranks": [
             13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         },
@@ -207,15 +253,26 @@
           "time_info": "04时25分"
         },
         {
-          "title": "伊朗向特朗普发 48 小时最后通牒，要么接受德黑兰提出的最新方案，要么面临军事冲突升级，特朗普会如何选择？",
-          "url": "https://www.zhihu.com/question/2103246242599756216",
-          "source": "知乎",
+          "title": "特朗普压力来了！民调：超七成美国人支持新国会推动伊朗战争结束",
+          "url": "https://flash.jin10.com/detail/20261110201111306800",
+          "source": "金十数据",
           "ranks": [
-            15
+            18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时10分"
+          "time_info": "20时28分"
+        },
+        {
+          "title": "特朗普称似乎没必要再对伊朗采取军事行动，国际油价早盘一度跌超 5%，中东局势真的进入阶段性降温了吗？",
+          "url": "https://www.zhihu.com/question/2103391365900014384",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "特朗普：我们会知道伊朗核协议能否达成。",
@@ -224,7 +281,7 @@
           "ranks": [
             21
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         },
@@ -235,7 +292,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         },
@@ -246,7 +303,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         },
@@ -257,7 +314,7 @@
           "ranks": [
             28
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         }
@@ -265,7 +322,7 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 9,
+      "match_count": 12,
       "titles": [
         {
           "title": "布油跌超4%！伊朗被曝在霍尔木兹问题上松口，总统表态愿以谈判打破“不战不和”僵局",
@@ -334,6 +391,17 @@
           "time_info": "04时25分"
         },
         {
+          "title": "伊朗革命卫队航空航天部队司令：已做好准备应对任何威胁",
+          "url": "https://flash.jin10.com/detail/20261110201824888800",
+          "source": "金十数据",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "据阿拉比亚电视台：阿拉伯消息人士称，华盛顿已允许伊朗境内浓缩丰度为3.67%的铀，德黑兰方面表示同意。",
           "url": "https://flash.jin10.com/detail/20261110034052365800",
           "source": "金十数据",
@@ -343,6 +411,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时25分"
+        },
+        {
+          "title": "伊朗武装部队总参谋长：未来战争中的惊喜将接连揭晓",
+          "url": "https://flash.jin10.com/detail/20261110201547765800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "据阿拉比亚电视台：阿拉伯消息人士称，卡塔尔与巴基斯坦提出的建议重新启动了华盛顿与德黑兰之间认真谈判的进程。正在安排讨论国际原子能机构核查员重返伊朗事宜，但未明确其任务范围。",
@@ -356,13 +435,24 @@
           "time_info": "04时25分"
         },
         {
+          "title": "美总统称伊朗战事已事实上结束",
+          "url": "https://www.toutiao.com/trending/7705912035133063211/",
+          "source": "今日头条",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "伊朗说美取消制裁和停止战争是谈判前提",
           "url": "https://wallstreetcn.com/livenews/3197312",
           "source": "华尔街见闻-快讯",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         }
@@ -370,7 +460,7 @@
     },
     {
       "keyword_group": "美股",
-      "match_count": 7,
+      "match_count": 9,
       "titles": [
         {
           "title": "美股三大期指盘前集体走高 英伟达逆市暴跌6% | 今夜看点",
@@ -401,7 +491,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
         },
@@ -412,9 +502,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时10分"
+        },
+        {
+          "title": "美股晴雨表",
+          "url": "https://flash.jin10.com/detail/20261110202158978800",
+          "source": "金十数据",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
         },
         {
           "title": "高盛：2027年美股牛市还有”最后一搏“，但随后的情形酷似2000年泡沫破灭前夕",
@@ -440,6 +541,17 @@
           "time_info": "[04时25分 ~ 11时10分]"
         },
         {
+          "title": "美股期货涨幅收窄，纳指期货转跌，英伟达夜盘涨2%，布油自8月首破90美元，黄金跳水",
+          "url": "https://wallstreetcn.com/articles/3785613",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
+        {
           "title": "美股三大股指高开 英伟达逆势下跌7%",
           "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%B8%89%E5%A4%A7%E8%82%A1%E6%8C%87%E9%AB%98%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E9%80%86%E5%8A%BF%E4%B8%8B%E8%B7%8C7%25",
           "source": "百度热搜",
@@ -454,8 +566,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "台积电将分别向Anthropic和OpenAI投资5亿美元",
+          "url": "https://wallstreetcn.com/livenews/3197678",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "20时28分"
+        },
         {
           "title": "OpenAI：ChatGPT企业版现在投放到亚马逊AWS Marketplace。",
           "url": "https://wallstreetcn.com/livenews/3197113",
