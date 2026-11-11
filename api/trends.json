@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-11T09:02:06.051035+08:00",
-  "total_titles_processed": 488,
+  "generated_at": "2026-11-11T15:42:23.953232+08:00",
+  "total_titles_processed": 723,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 21,
       "titles": [
         {
           "title": "伊朗揭幕新地下导弹城，有导弹和人员被打码(图)",
@@ -36,7 +36,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -85,6 +85,29 @@
           "time_info": "04时15分"
         },
         {
+          "title": "伊朗称一艘油轮在霍尔木兹海峡起火",
+          "url": "https://wallstreetcn.com/livenews/3198213",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "热点问答丨美国真不想再打伊朗了？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_34447563",
+          "source": "澎湃新闻",
+          "ranks": [
+            20,
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 15时42分]"
+        },
+        {
           "title": "伊朗革命卫队新建“导弹城”亮相",
           "url": "https://www.toutiao.com/trending/7706504352940523546/",
           "source": "今日头条",
@@ -94,17 +117,6 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 04时15分]"
-        },
-        {
-          "title": "热点问答丨美国真不想再打伊朗了？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_34447563",
-          "source": "澎湃新闻",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 09时02分]"
         },
         {
           "title": "据伊朗媒体Fars News：受影响的平台天然气产量为1450万立方米，而南帕尔斯气田总产量为7亿立方米。",
@@ -124,7 +136,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -140,6 +152,17 @@
           "time_info": "04时15分"
         },
         {
+          "title": "美国务卿：经济施压效果显著 没必要对伊朗开展大规模军事行动",
+          "url": "https://www.cls.cn/detail/2530790",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
           "title": "据伊朗媒体Fars News：伊朗南帕尔斯气田一平台发生火灾，局势已得到控制。",
           "url": "https://flash.jin10.com/detail/20261111033036673800",
           "source": "金十数据",
@@ -151,15 +174,48 @@
           "time_info": "04时15分"
         },
         {
+          "title": "分析：伊朗取消导弹射程限制，尚不足以令欧洲恐慌",
+          "url": "https://flash.jin10.com/detail/20261111151842158800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "西方情报评估认为伊朗仍有战前一半弹道导弹产能",
+          "url": "https://wallstreetcn.com/livenews/3198197",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
           "title": "伊通社（IRNA）：俄罗斯副外长格奥尔基·鲍里森科在莫斯科会见了伊朗外交部西亚和北非司司长迈赫迪·舒什塔里，就地区问题举行外交磋商。",
           "url": "https://flash.jin10.com/detail/20261111082519308800",
           "source": "金十数据",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
+        },
+        {
+          "title": "伊朗称一艘油轮在霍尔木兹海峡以东海域起火。（塔斯尼姆通讯社）",
+          "url": "https://wallstreetcn.com/livenews/3198194",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "伊朗总统将前往土耳其，参加环境峰会。（IRIB）",
@@ -179,7 +235,7 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         }
@@ -187,19 +243,8 @@
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 8,
       "titles": [
-        {
-          "title": "中期选举惨败，特朗普却准备更强硬，后两年计划曝光",
-          "url": "https://news.ifeng.com/c/8xxOVJVXDXb",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 09时02分]"
-        },
         {
           "title": "特朗普：这笔账，以色列等国必须买单",
           "url": "https://news.ifeng.com/c/8xwZTnkTl6K",
@@ -210,6 +255,40 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 04时15分]"
+        },
+        {
+          "title": "泽连斯基：我的职责不是取悦特朗普",
+          "url": "https://original.ifeng.com/c/8xxe1wEAm2a",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "中期选举惨败，特朗普却准备更强硬，后两年计划曝光",
+          "url": "https://news.ifeng.com/c/8xxOVJVXDXb",
+          "source": "凤凰网",
+          "ranks": [
+            2,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 15时42分]"
+        },
+        {
+          "title": "肯尼迪家族反对特朗普建凯旋门：不能让它遮住家族墓地",
+          "url": "https://news.ifeng.com/c/8xxesMaIqls",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         },
         {
           "title": "美伊核谈判重大进展？据称就伊朗铀浓缩丰度达成一致，特朗普称出现结束战事积极势头",
@@ -234,6 +313,17 @@
           "time_info": "[04时14分 ~ 04时15分]"
         },
         {
+          "title": "拜登公布特朗普亲笔信",
+          "url": "https://www.douyin.com/hot/2740488",
+          "source": "抖音",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
           "title": "美国参议院民主党领袖舒默：美国总统特朗普为英伟达黄仁勋辩护“令人不安”。",
           "url": "https://wallstreetcn.com/livenews/3197874",
           "source": "华尔街见闻-快讯",
@@ -243,6 +333,68 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "04时15分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 5,
+      "titles": [
+        {
+          "title": "美股收盘：加息担忧压制三大指数齐跌 英伟达两天蒸发2.85万亿元",
+          "url": "https://www.cls.cn/detail/2530855",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 15时42分]"
+        },
+        {
+          "title": "美股低开 英伟达开盘跌近3%",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%BD%8E%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%BC%80%E7%9B%98%E8%B7%8C%E8%BF%913%25",
+          "source": "百度热搜",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[04时14分 ~ 04时15分]"
+        },
+        {
+          "title": "ZipRecruiter美股收盘涨53.61%",
+          "url": "https://www.toutiao.com/trending/7706663972212310578/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[09时01分 ~ 09时02分]"
+        },
+        {
+          "title": "美联储鲍曼研判：通胀正扩大年内或再加息，美股恐因AI大幅回调！",
+          "url": "https://www.cls.cn/detail/2530892",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
+        {
+          "title": "周三亚太盘初，纳指期货涨0.4%。科技部中，Nebius Group目前（美股盘后）涨4.9%，CoreWeave涨5%，甲骨文、SK海力士ADR涨超1%，闪迪、台积电、美光、英伟达、西部数据涨超0.5%，C3.ai跌0.6%。",
+          "url": "https://wallstreetcn.com/livenews/3197980",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            21
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时02分"
         }
       ]
     },
@@ -279,7 +431,7 @@
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "09时02分"
         },
@@ -297,58 +449,8 @@
       ]
     },
     {
-      "keyword_group": "美股",
-      "match_count": 4,
-      "titles": [
-        {
-          "title": "美股收盘：加息担忧压制三大指数齐跌 英伟达两天蒸发2.85万亿元",
-          "url": "https://www.cls.cn/detail/2530855",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 09时02分]"
-        },
-        {
-          "title": "美股低开 英伟达开盘跌近3%",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E4%BD%8E%E5%BC%80+%E8%8B%B1%E4%BC%9F%E8%BE%BE%E5%BC%80%E7%9B%98%E8%B7%8C%E8%BF%913%25",
-          "source": "百度热搜",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[04时14分 ~ 04时15分]"
-        },
-        {
-          "title": "ZipRecruiter美股收盘涨53.61%",
-          "url": "https://www.toutiao.com/trending/7706663972212310578/",
-          "source": "今日头条",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 09时02分]"
-        },
-        {
-          "title": "周三亚太盘初，纳指期货涨0.4%。科技部中，Nebius Group目前（美股盘后）涨4.9%，CoreWeave涨5%，甲骨文、SK海力士ADR涨超1%，闪迪、台积电、美光、英伟达、西部数据涨超0.5%，C3.ai跌0.6%。",
-          "url": "https://wallstreetcn.com/livenews/3197980",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "09时02分"
-        }
-      ]
-    },
-    {
       "keyword_group": "美债",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
           "title": "【早报】深夜巨震，美股、原油、黄金全线下挫；美联储加息押注升温，美债遭遇抛售潮；Anthropic IPO有新进展",
@@ -358,8 +460,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 09时02分]"
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 15时42分]"
         },
         {
           "title": "美CPI超预期叠加美联储放鹰，美债重挫，美股指承压，英伟达两日跌10%，黄金大跌",
@@ -369,8 +471,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[09时01分 ~ 09时02分]"
+          "appearance_count": 3,
+          "time_info": "[09时01分 ~ 15时42分]"
         },
         {
           "title": "美通胀数据超预期，美债收益率跳升，美股走低，黄金跳水，布油自8月首破90美元",
@@ -382,13 +484,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[04时14分 ~ 04时15分]"
+        },
+        {
+          "title": "国际黄金将替代美债只是幻觉？市场对AI对预期或过度悲观！| Live分析更新中",
+          "url": "https://flash.jin10.com/detail/20261111151535255800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "谷歌正式开放模型 Gemini 4 Carbon，如何评价？实际体验如何？",
+          "url": "https://www.zhihu.com/question/2103666307413680604",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "15时42分"
+        },
         {
           "title": "谷歌(GOOG.O)：Google Fi“超级网络”将于今日起陆续向Pixel 9及更新型号手机推出。",
           "url": "https://flash.jin10.com/detail/20261111031433661800",
